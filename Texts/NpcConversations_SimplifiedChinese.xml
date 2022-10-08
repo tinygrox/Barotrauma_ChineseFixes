@@ -2,51 +2,51 @@
 <Conversations identifier="vanillaconversations" Language="Simplified Chinese" nowhitespace="True">
 
 <!-- Generic conversation -->
-<Conversation line="好吧伙计们，让我们带她出去兜兜风~" speaker="0" flags="Initial" allowedjobs="captain">
+<Conversation line="好了兄弟们，让我们带她出去透透水~" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="" speaker="0"/>
-	<Conversation line="好啊好啊" speaker="1">
+	<Conversation line="好，好！" speaker="1">
 		<Conversation line="收到，长官！" speaker="2"/>
-		<Conversation line="好嘞，走着~" speaker="2" speakertags="brokenenglish"/>
+		<Conversation line="是！头儿~" speaker="2" speakertags="brokenenglish"/>
 	</Conversation>
 </Conversation>
 
-<Conversation line="人们乘船下海" speaker="0" flags="Initial" allowedjobs="captain">
-	<Conversation line="人们要在大海里谋生" speaker="0">
-		<Conversation line="人们见识过上帝的作为，与深海的奇妙" speaker="0">
-			<Conversation line="我们出发吧！祝各位好运，船员们！" speaker="0"/>
-			<Conversation line="就算上帝在这儿也无济于事" speaker="1" speakertags="joker,tough,professional"/>
+<Conversation line="他们有些人坐船出海" speaker="0" flags="Initial" allowedjobs="captain">
+	<Conversation line="在大海上往来经商" speaker="0">
+		<Conversation line="他们见过上帝的作为，和他在深海中所行的奇事" speaker="0">
+			<Conversation line="我们出发喽！祝各位好运！" speaker="0"/>
+			<Conversation line="这种地方上帝也搞不定" speaker="1" speakertags="joker,tough,professional"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
 <Conversation line="前路漫漫！全力以赴！" speaker="0" flags="Initial" allowedjobs="captain">
 	<Conversation line="收到，长官！" speaker="1"/>
-	<Conversation line="好啊好啊" speaker="1"/>
-	<Conversation line="祝大家好运！" speaker="1" allowedjobs="watchman"/>
+	<Conversation line="好的，好的" speaker="1"/>
+	<Conversation line="大家注意安全！" speaker="1" allowedjobs="watchman"/>
 </Conversation>
 
 <Conversation line="乘客们，欢迎登艇——为保安全，请记得不要把手伸出“车窗”" speaker="0" flags="Initial" allowedjobs="captain" speakertags="joker">
 	<Conversation line="收到，长官！" speaker="1"/>
-	<Conversation line="好啊好啊" speaker="1"/>
+	<Conversation line="好的，好的" speaker="1"/>
 </Conversation>
 
-<Conversation line="准备好船员们，我们还有很长的路要走！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+<Conversation line="准备好了兄弟们，我们还有很长的路要走！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 	<Conversation line="收到，长官！" speaker="1"/>
-	<Conversation line="好啊好啊" speaker="1"/>
+	<Conversation line="好的好的" speaker="1"/>
 	<Conversation line="愿小丑圣母保佑我们。" speaker="1" speakertags="crazy"/>
 	<Conversation line="祝大家好运！" speaker="1" allowedjobs="watchman"/>
 </Conversation>
 
-<Conversation line="我是舰长！为任务做好准备吧，小伙子们！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+<Conversation line="我是舰长！为任务做好准备，大伙们！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 	<Conversation line="收到，长官！" speaker="1"/>
-	<Conversation line="好啊好啊" speaker="1">
+	<Conversation line="好的好的" speaker="1">
 		<Conversation line="收到，长官！" speaker="2"/>
 	</Conversation>
 </Conversation>
 
-<Conversation line="让我们看看这次冰洋要用什么来招待我们！" speaker="0" flags="Initial" allowedjobs="captain">
-	<Conversation line="我猜是恐怖的怪物，绝望的死亡与永恒的黑暗。" speaker="1" speakertags="joker,fearful">
-		<Conversation line="闭嘴。我们对你的讥讽不感兴趣。" speaker="0" speakertags="professional"/>
+<Conversation line="让我们看看这次冰洋要用什么来迎接我们！" speaker="0" flags="Initial" allowedjobs="captain">
+	<Conversation line="我猜会是可怕的怪物，恐怖的死法和无尽的黑暗。" speaker="1" speakertags="joker,fearful">
+		<Conversation line="收声吧你，我们对你的嘴炮毫无兴趣。" speaker="0" speakertags="professional"/>
 	</Conversation>
 </Conversation>
 
@@ -63,14 +63,14 @@
 
 <Conversation line="我有点不祥的预感…" speaker="0" speakertags="fearful" maxintensity="0.4">
 	<Conversation line="我认识的一位老船长也这样说过…" speaker="1" speakertags="professional,tough">
-		<Conversation line="暴雨不终朝" speaker="1">
-			<Conversation line="心静自然凉" speaker="1">
-				<Conversation line="狗屎、狗屎、狗屎！" speaker="0" speakertags="rude,fearful"/>
+		<Conversation line="稳住，深呼吸，别着急" speaker="1">
+			<Conversation line="别急，暴雨不终朝" speaker="1">
+				<Conversation line="操操操操操！" speaker="0" speakertags="rude,fearful"/>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 	<Conversation line="我确信大家都一样。" speaker="1"/>
-	<Conversation line="你在放屁吗？" speaker="1" speakertags="joker"/>
+	<Conversation line="你是不是又放屁了？" speaker="1" speakertags="joker"/>
 </Conversation>
 
 <Conversation line="我听到船体在吱吱作响…" speaker="0" speakertags="fearful" maxintensity="0.4">
@@ -78,7 +78,7 @@
 	<Conversation line="" speaker="1" speakertags="joker"/>
 </Conversation>
 
-<Conversation line="真想赶快回家喝光一瓶卡德摩斯。" speaker="0" speakertags="laid-back" maxintensity="0.2">
+<Conversation line="真想赶紧回到家然后吹光一瓶卡德摩斯。" speaker="0" speakertags="laid-back" maxintensity="0.2">
 	<Conversation line="专心工作，不然我可以把那瓶酒放到你的棺材里。" speaker="1" speakertags="professional,tough,rude">
 		<Conversation line="哈哈！埋在棺材里！上次是什么时候来着？" speaker="2" speakertags="laid-back,joker"/>
 	</Conversation>
@@ -87,9 +87,9 @@
 </Conversation>
 
 <Conversation line="早在地球海军时代，就有这样的说法…" speaker="0" allowedjobs="captain" speakertags="professional,tough" maxintensity="0.3">
-	<Conversation line="做事只有两种方法：正确行事，或再做一次。" speaker="0">
+	<Conversation line="做事只有两种方法：完成，和再次完成。" speaker="0">
 		<Conversation line="在这儿可行不通，木卫二上没有第二次机会。" speaker="0">
-			<Conversation line="所以，大家做好手上的工作吧。" speaker="0"/>
+			<Conversation line="所以，请大家做好手上的工作吧。" speaker="0"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
@@ -97,8 +97,8 @@
 <Conversation line="我是大力水手卜派！" speaker="0" allowedjobs="medicaldoctor" speakertags="laid-back,joker" maxintensity="0.2">
 	<Conversation line="我力大无比，我爱吃菠菜！" speaker="0">
 		<Conversation line="医生，你又偷喝医用酒精了？" speaker="1">
-			<Conversation line="好吧，以后不会了。" speaker="0"/>
-			<Conversation line="抱歉，我不该试图缓解紧张的气氛。" speaker="0"/>
+			<Conversation line="好吧，我不玩了。" speaker="0"/>
+			<Conversation line="很抱歉，我只是想让大家心情愉快点。" speaker="0"/>
 		</Conversation>
 	</Conversation>
 	<Conversation line="不许在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough"/>
@@ -106,35 +106,35 @@
 
 <Conversation line="好怀念太阳" speaker="0" maxintensity="0.2">
 	<Conversation line="" speaker="0" flags="Casual"/>
-	<Conversation line="听说阳光会致癌，没有它可能还会好些。" speaker="1">
-		<Conversation line="木星一样会致癌，我觉得太阳比木星好得多。" speaker="0">
-			<Conversation line="省省吧" speaker="2" speakertags="professional,tough"/>
+	<Conversation line="听说阳光会让人得癌症，没有它可能还会好些。" speaker="1">
+		<Conversation line="木星一样会让人得癌症，我宁愿待在太阳底下也不愿意在这傻逼木星旁边。" speaker="0">
+			<Conversation line="好了你别说了" speaker="2" speakertags="professional,tough"/>
 		</Conversation>
 	</Conversation>
-	<Conversation line="省省吧" speaker="1" speakertags="professional,tough"/>
+	<Conversation line="行了你别说了" speaker="1" speakertags="professional,tough"/>
 </Conversation>
 
 <Conversation line="画皮寄生虫让我毛骨悚然" speaker="0" speakertags="fearful" maxintensity="0.2">
 	<Conversation line="" speaker="0" flags="Casual"/>
-	<Conversation line="我也是，如果我受到了感染，请给我一个痛快的死法。" speaker="1">
-		<Conversation line="我大概会给你来一针皮虫净。" speaker="2" allowedjobs="medicaldoctor"/>
-		<Conversation line="我可以给你来一针皮虫净的，但你想来个痛快的也行。" speaker="2" allowedjobs="medicaldoctor" speakertags="rude"/>
+	<Conversation line="我也这么觉得，如果我被感染了，请给我一个痛快的死法。" speaker="1">
+		<Conversation line="我更可能会给你先来一针皮虫净。" speaker="2" allowedjobs="medicaldoctor"/>
+		<Conversation line="我会给你来一针皮虫净，但如果你想要个痛快也不是不可以。" speaker="2" allowedjobs="medicaldoctor" speakertags="rude"/>
 	</Conversation>
 </Conversation>
 
-<Conversation line="你们听说工会吗？" speaker="0" maxintensity="0.2">
-	<Conversation line="一场交易，为了改善日益增长的垄断了诚信的垄断者的诚信的垄断者的诚信。" speaker="0" flags="Psychosis">
-		<Conversation line="商讨安全标准，退休，退休，退休，还有工人们。一场交易，为了改善工人们。" speaker="0" flags="Psychosis"/>
+<Conversation line="你们听说过工会吗？" speaker="0" maxintensity="0.2">
+	<Conversation line="一个行会，提高了垄断的诚信价值、诚信的垄断价值，垄断诚信的垄断和诚信垄断的垄断。" speaker="0" flags="Psychosis">
+		<Conversation line="主要和资本家商讨人身安全标准、退休年限，退休金和退休事宜，还有工人的其他方方面面。总而言之，就是一个行会，旨在改善工人的方方面面。" speaker="0" flags="Psychosis"/>
 	</Conversation>
 	<Conversation line="那是共产主义者的说辞。木卫二联盟是我们唯一需要的组织。" speaker="1" allowedjobs="captain" speakertags="professional,tough,rude"/>
 	<Conversation line="听说过，怎么了？" speaker="1">
 		<Conversation line="我想我们应该建立一个工会。" speaker="0">
-			<Conversation line="我们应该有更好的安全标准，适当的工资，以及退休福利…" speaker="0">
+			<Conversation line="我们值得有更好的安全标准，适当的工资，以及退休福利…" speaker="0">
 				<Conversation line="你觉得你能活到退休？" speaker="1">
 					<Conversation line="我当然希望如此。" speaker="0"/>
 					<Conversation line="有道理。" speaker="0"/>
 				</Conversation>
-				<Conversation line="安全标准？工会能赶走摩螺克吗？还是在你想堵住船体漏洞时握紧你的手？" speaker="1" speakertags="rude,tough">
+				<Conversation line="安全标准？工会能赶走摩螺克吗？还是说它能在你堵住船体漏洞时握紧你的手？" speaker="1" speakertags="rude,tough">
 					<Conversation line="我不是那个意思。" speaker="0"/>
 					<Conversation line="我想你说的有道理。" speaker="0"/>
 				</Conversation>
@@ -149,27 +149,27 @@
 	</Conversation>
 	<Conversation line="可以想象到。" speaker="1">
 		<Conversation line="那副场面依然深深刻在我的脑海中。" speaker="0">
-			<Conversation line="压路机碾压过的一袋肉和骨头，我只能如此描述。" speaker="0"/>
-			<Conversation line="木卫二给予的爱的拥抱。" speaker="2" speakertags="crazy"/>
+			<Conversation line="一台液压机下面的袋子，混合着血肉和骨头，我只能这么跟你描述了。" speaker="0"/>
+			<Conversation line="来自木卫二的爱的抱抱。" speaker="2" speakertags="crazy"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
-<Conversation line="对她再快点，再深点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
+<Conversation line="让她再快点，再深点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
 	<Conversation line="深入鱼儿沉睡的地方！" speaker="0">
-		<Conversation line="该死的深度与压力…" speaker="0">
-			<Conversation line="像长尾鲨一样拿下她！" speaker="0">
+		<Conversation line="他妈的这个深度，这个压强我真是操了…" speaker="0">
+			<Conversation line="像长尾鲨一样继续下潜啊！" speaker="0">
 				<Conversation line="不要在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 					<Conversation line="" speaker="0"/>
-					<Conversation line="好吧好吧，我不会再尝试让大家放松了。" speaker="0"/>
+					<Conversation line="好吧好吧，我不会再让大家放松了。" speaker="0"/>
 				</Conversation>
-				<Conversation line="我知道这是首地球歌曲，但它很合适，不是吗？" speaker="1"/>
+				<Conversation line="我知道这是首地球歌曲，但它真的太贴切我们的生活了！" speaker="1"/>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
-<Conversation line="我们到站了吗？" speaker="0" speakertags="joker" maxintensity="0.2">
+<Conversation line="我们到了吗？" speaker="0" speakertags="joker" maxintensity="0.2">
 	<Conversation line="" speaker="0" flags="Casual"/>
 	<Conversation line="闭嘴" speaker="1" speakertags="rude"/>
 	<Conversation line="仍然不好笑" speaker="1"/>
@@ -177,7 +177,7 @@
 </Conversation>
 
 <Conversation line="你们还记得地球吗？" speaker="0" maxintensity="0.2">
-	<Conversation line="地球，地球，地球。很遗憾，你们永远都看不到它。" speaker="0" flags="Psychosis"/>
+	<Conversation line="地球，地球，地球。再也看不到它真是你们的损失。" speaker="0" flags="Psychosis"/>
 	<Conversation line="我是老了，但还没那么老。" speaker="1"/>
 	<Conversation line="我的祖父是一位地球人。" speaker="1">
 		<Conversation line="我喜欢听他讲的故事，尽管我知道其中大半都是虚构的。" speaker="1">
@@ -187,8 +187,8 @@
 				</Conversation>
 			</Conversation>
 			<Conversation line="我真的想看看鸟儿。" speaker="1">
-				<Conversation line="以及狗，和大象。" speaker="0"/>
-				<Conversation line="还有恐龙！" speaker="2" speakertags="brokenenglish"/>
+				<Conversation line="还有狗，还有大象。" speaker="0"/>
+				<Conversation line="还有犀龙！" speaker="2" speakertags="brokenenglish"/>
 			</Conversation>
 		</Conversation>
 	</Conversation>
@@ -214,53 +214,53 @@
 </Conversation>
 
 <Conversation line="这年头，香烟都成了奢侈品。" speaker="0" speakertags="laid-back" maxintensity="0.2">
-	<Conversation line="跟我说说。" speaker="1"/>
-	<Conversation line="当然，水培农场成本高昂。" speaker="1">
-		<Conversation line="比起烟草来说，有更多有意义的作物需要生产。" speaker="1"/>
-		<Conversation line="水培是什么玩意儿？" speaker="2" speakertags="brokenenglish">
-			<Conversation line="从水里长出东西来，和这里的其他东西一样。" speaker="1"/>
+	<Conversation line="怎么说。" speaker="1"/>
+	<Conversation line="这样说吧，无土栽培作物的维护成本相当高。" speaker="1">
+		<Conversation line="比起烟草来说，种其他作物更加有意义。" speaker="1"/>
+		<Conversation line="无土栽培是什么意思儿？" speaker="2" speakertags="brokenenglish">
+			<Conversation line="就是水培技术，从水里长出东西来，和这里的其他东西一样。" speaker="1"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
 <Conversation line="你听到了吗？" speaker="0" maxintensity="0.4">
 	<Conversation line="听到什么？" speaker="1">
-		<Conversation line="好像有什么东西在抓挠船壳。" speaker="0">
-			<Conversation line="应该只是你的想象。" speaker="0"/>
+		<Conversation line="好像有什么东西在抓挠船体。" speaker="0">
+			<Conversation line="可能只是我出现幻听了。" speaker="0"/>
 		</Conversation>
-		<Conversation line="外面传来一阵深沉的低吟声。" speaker="0">
+		<Conversation line="外面好像有什么东西在发出沉沉的低吟声。" speaker="0">
 			<Conversation line="那是捕蟹人。我跟你说过的。" speaker="1" speakertags="crazy"/>
-			<Conversation line="应该只是船壳摩擦。放轻松。" speaker="1"/>
+			<Conversation line="应该只是船体碰到什么东西了。别紧张。" speaker="1"/>
 			<Conversation line="你又在放屁了？" speaker="1" speakertags="joker"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
 <Conversation line="前几天我读了一本老水手指南。" speaker="0" maxintensity="0.2">
-	<Conversation line="那些诘屈聱牙的古老术语让我难以理解。" speaker="0">
-		<Conversation line="比如说，“星”舷（右舷）是什么鬼？" speaker="0">
-			<Conversation line="你和我猜的一样。" speaker="1"/>
-			<Conversation line="也许向上，对着星星？" speaker="1"/>
+	<Conversation line="那些诘屈聱牙的古老名词让我难以理解。" speaker="0">
+		<Conversation line="比如说，starboard（右舷）是什么鬼意思？" speaker="0">
+			<Conversation line="我跟你一样也不懂。" speaker="1"/>
+			<Conversation line="也许是向上的意思？你看嘛，对着天上的星星。" speaker="1"/>
 		</Conversation>
 	</Conversation>
 </Conversation>
 
-<Conversation line="你有没有觉得，月亮在针对我们？" speaker="0" maxintensity="0.3">
-	<Conversation line="你也在针对我们。" speaker="0" flags="Psychosis">
+<Conversation line="你有没有觉得，这颗卫星（木卫二）在针对我们？" speaker="0" maxintensity="0.3">
+	<Conversation line="就像你这样。" speaker="0" flags="Psychosis">
 		<Conversation line="没错，我在和你说话。" speaker="0" flags="Psychosis"/>
 	</Conversation>
-	<Conversation line="嗯，那里肯定不宜居。" speaker="1">
+	<Conversation line="嗯，反正这里肯定不好客。" speaker="1">
 		<Conversation line="考虑当前状况，我认为的确如此。" speaker="2">
 			<Conversation line="你知道我的意思。" speaker="1"/>
 		</Conversation>
 	</Conversation>
 	<Conversation line="人无法阻止潮起潮落,却可以学会乘风破浪。" speaker="1"/>
-	<Conversation line="至少有一点——我们不属于这里。" speaker="1">
+	<Conversation line="至少有一点可以确认——我们不属于这里。" speaker="1">
 		<Conversation line="" speaker="0" flags="Casual"/>
 		<Conversation line="无论我们做什么，事情总会出错。" speaker="0">
-			<Conversation line="够了，那听起来像是邪教徒的狗屁。" speaker="2" speakertags="professional"/>
+			<Conversation line="得了吧，那听起来就像是邪教徒在瞎扯淡。" speaker="2" speakertags="professional"/>
 		</Conversation>
-		<Conversation line="够了，那听起来像是邪教徒的狗屁。" speaker="2" speakertags="professional"/>
+		<Conversation line="行了，那听起来就像是邪教徒的瞎扯淡。" speaker="2" speakertags="professional"/>
 	</Conversation>
 	<Conversation line="够了。" speaker="1" speakertags="professional,tough"/>
 </Conversation>
@@ -272,20 +272,20 @@
 	</Conversation>
 </Conversation>
 
-<Conversation line="糟糕透顶！" speaker="0" speakertags="fearful">
+<Conversation line="我太难了！" speaker="0" speakertags="fearful">
 	<Conversation line="我想回家！" speaker="0"/>
 </Conversation>
 
 <Conversation line="行动起来！" speaker="0" speakertags="tough" maxintensity="0.2"/>
 
-<Conversation line="平静的浪潮无法锻炼出老练的水手。" speaker="0" speakertags="tough">
-	<Conversation line="汹涌的冰洋到时可以送水手们去死！" speaker="1" speakertags="brokenenglish"/>
+<Conversation line="风平浪静可造就不出精悍的水手。" speaker="0" speakertags="tough">
+	<Conversation line="惊涛骇浪可是能培养一堆死人呢！" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
 <Conversation line="我们应该带一台咖啡机上来的。" speaker="0" speakertags="laid-back" maxintensity="0.2">
 	<Conversation line="你以为我不知道你在暗示什么吗？" speaker="1" flags="PsychosisSelf">
-		<Conversation line="咖啡？啊，没错…" speaker="1" flags="PsychosisSelf">
-			<Conversation line="要不了多久，一切都会结束的。" speaker="1" flags="PsychosisSelf"/>
+		<Conversation line="咖啡？对，没错…" speaker="1" flags="PsychosisSelf">
+			<Conversation line="要不了多久，一切都将会结束。" speaker="1" flags="PsychosisSelf"/>
 		</Conversation>
 	</Conversation>
 	<Conversation line="同意。" speaker="1"/>
@@ -295,23 +295,23 @@
 
 <Conversation line="前几天我看到一只藻鬃爬行者，真是可怕的生物。" speaker="0" speakertags="joker,crazy" maxintensity="0.2"/>
 
-<Conversation line="授人以鱼，一日果腹。" speaker="0" speakertags="joker" maxintensity="0.4">
+<Conversation line="授人以鱼，三餐之需。" speaker="0" speakertags="joker" maxintensity="0.4">
 	<Conversation line="授鱼以人，血口噬食。" speaker="0" flags="Psychosis">
-		<Conversation line="拿人喂鱼。" speaker="0" flags="Psychosis">
-			<Conversation line="喂鱼。" speaker="0" flags="Psychosis">
-				<Conversation line="喂鱼。" speaker="0" flags="Psychosis">
-					<Conversation line="喂鱼。" speaker="0" flags="Psychosis">
-						<Conversation line="不！" speaker="1" flags="PsychosisSelf"/>
+		<Conversation line="授人以鱼等于授人以人。" speaker="0" flags="Psychosis">
+			<Conversation line="授人以鱼。" speaker="0" flags="Psychosis">
+				<Conversation line="授鱼以人。" speaker="0" flags="Psychosis">
+					<Conversation line="授人以人。" speaker="0" flags="Psychosis">
+						<Conversation line="不对！" speaker="1" flags="PsychosisSelf"/>
 					</Conversation>
 				</Conversation>
 			</Conversation>
 		</Conversation>
 	</Conversation>
-	<Conversation line="授人以渔，只会令人亡命鱼口。" speaker="0" speakertags="joker">
+	<Conversation line="授人以渔最常见的下场就是命丧鱼口。" speaker="0" speakertags="joker">
 		<Conversation line="胡言乱语。" speaker="1">
 			<Conversation line="正是如此。" speaker="0"/>
 		</Conversation>
-		<Conversation line="别开玩笑。" speaker="0" speakertags="professional,rude"/>
+		<Conversation line="行了，别再开玩笑了。" speaker="0" speakertags="professional,rude"/>
 	</Conversation>
 </Conversation>
 
@@ -320,13 +320,13 @@
 		<Conversation line="这一切毫无意义。" speaker="0" flags="Psychosis"/>
 	</Conversation>
 	<Conversation line="听我把话说完，我们可以赚一大笔钱。" speaker="0">
-		<Conversation line="你说我们能不能把氧气罐造大一点？" speaker="0">
-			<Conversation line="一个可以顶上一两个小时？" speaker="0">
-				<Conversation line="我不是这方面的专家，但我觉得理论上没什么问题。" speaker="0">
+		<Conversation line="你们说如果我们把氧气罐造大一点？" speaker="0">
+			<Conversation line="那种一个可以顶上一两个小时的氧气罐？" speaker="0">
+				<Conversation line="虽然我不是这领域的专家，但我觉得这从技术上来说根本没什么问题。" speaker="0">
 					<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="1" speakertags="professional"/>
-					<Conversation line="我不确定…一定有什么技术难关，不然早有人这么做了。" speaker="1"/>
-					<Conversation line="这主意有点儿意思。" speaker="1" speakertags="brokenenglish">
-						<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="2" speakertags="professional"/>
+					<Conversation line="我不确定…一定有什么技术上的难题没解决，不然早有人这么做了。" speaker="1"/>
+					<Conversation line="这想法有点儿意思。" speaker="1" speakertags="brokenenglish">
+						<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 					</Conversation>
 				</Conversation>
 			</Conversation>
@@ -334,11 +334,11 @@
 		<Conversation line="防水接线盒。" speaker="0">
 			<Conversation line="天才创意，对吧？" speaker="0">
 				<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="1" speakertags="professional"/>
-				<Conversation line="一定有什么技术性问题，哪个接线盒上没有通气孔？" speaker="1">
+				<Conversation line="一定有什么技术上的考量，你看现在哪个接线盒是上没有洞的？" speaker="1">
 					<Conversation line="要不然他们早就把接线盒做成防水的了。" speaker="1"/>
 				</Conversation>
 				<Conversation line="有点儿意思。" speaker="1" speakertags="brokenenglish">
-					<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="2" speakertags="professional"/>
+					<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 				</Conversation>
 			</Conversation>
 		</Conversation>
@@ -352,9 +352,9 @@
 		</Conversation>
 	</Conversation>
 	<Conversation line="我的耳机还正常吗？" speaker="0">
-		<Conversation line="能用。尽量少发言。" speaker="1" speakertags="professional"/>
+		<Conversation line="是正常的。请尽量少发言。" speaker="1" speakertags="professional"/>
 		<Conversation line="通话质量良好。" speaker="1"/>
-		<Conversation line="没什么毛病！" speaker="1" speakertags="brokenenglish"/>
+		<Conversation line="听得很清楚！" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
 </Conversation>
 
@@ -368,10 +368,10 @@
 			</Conversation>
 		</Conversation>
 	</Conversation>
-	<Conversation line="响亮清晰。" speaker="1" speakertags="professional"/>
+	<Conversation line="非常清楚。" speaker="1" speakertags="professional"/>
 	<Conversation line="明确可辨。" speaker="1" speakertags="professional"/>
 	<Conversation line="一切正常！" speaker="1"/>
-	<Conversation line="没什么毛病！" speaker="1" speakertags="brokenenglish"/>
+	<Conversation line="听得很清楚！" speaker="1" speakertags="brokenenglish"/>
 </Conversation>
 
 <Conversation line="你能听到蟹爪人的歌声吗？" speaker="0" speakertags="crazy" maxintensity="0.2">
