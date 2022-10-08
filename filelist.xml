@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Chinese Fixes" corepackage="false" modversion="1.0.0" gameversion="0.18.15.1" >
+    <Text file="%ModDir%/Texts/SimplifiedChinese.xml" />
+    <Text file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
+</contentpackage>
