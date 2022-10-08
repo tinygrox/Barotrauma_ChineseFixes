@@ -1,95 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
 
-
-<!-- Loading Screen -->
-<loading>加载中…</loading>
-<pressanykey>按任意键以继续</pressanykey>
-
-<!-- Loading Screen tips -->
-<loadingscreentip>如果货物在运输过程中丢失或损坏，您将不会收到运费。</loadingscreentip>
-<loadingscreentip>超出潜艇设备需求的超载电力可能会烧毁接线盒或引发火灾。</loadingscreentip>
-<loadingscreentip>接线盒与其他电器在水中浸泡太久可能会损坏。</loadingscreentip>
-<loadingscreentip>潜艇的核反应堆过热可能会引发火灾，如果不关闭过热的反应堆，最终将导致核反应堆熔毁。</loadingscreentip>
-<loadingscreentip>大多数潜艇都配备了蓄电池，作为反应堆发生故障时的临时备用电源。</loadingscreentip>
-<loadingscreentip>潜艇的轨道炮炮弹和深水炸弹包含一个可容纳额外炸药的隔层。</loadingscreentip>
-<loadingscreentip>被动声纳可在不引发不必要注意的前提下探测附近的声源。你也可以通过冰墙反射的声波来大致了解周边环境。</loadingscreentip>
-<loadingscreentip>面对闭锁的门，你可以选择用撬棍撬开，也可以将其连接到你有使用权限的按钮之上。</loadingscreentip>
-<loadingscreentip>蓄电池一般都配有充电基座。</loadingscreentip>
-<loadingscreentip>制氧机配备有独立接口，可用于补充氧气罐。</loadingscreentip>
-<loadingscreentip>超级电容器不能像电池那样储存很多电能，但能在瞬间释放高压脉冲电流，一般用于驱动轨道炮或其他需要高压脉冲电流的设备。</loadingscreentip>
-<loadingscreentip>核反应堆配备有自动调控功率水平的自动控制系统，不过，该系统面对电力消耗大幅波动的情况时，反应常常有些迟缓。</loadingscreentip>
-<loadingscreentip>如果导航终端受损，声纳成像可能变得不太可靠——让工程师确保终端运转良好！</loadingscreentip>
-<loadingscreentip>关闭主动声纳才能让部署的诱饵发挥最佳效果。</loadingscreentip>
-<loadingscreentip>没有足够电气工程技能的角色强行重新布线可能会触电。</loadingscreentip>
-<loadingscreentip>焊接工具非常简单，潜艇上的船员都可以使用，但熟练的机修工往往是高效率低风险的焊工，能不受伤、快速地完成相关工作。</loadingscreentip>
-<loadingscreentip>潜艇上的船员都接受过电气设备基本维修培训，不过电气工程师精于此道。</loadingscreentip>
-<loadingscreentip>潜艇上的船员都接受过机械设备基本维修培训，不过机修工精于此道。</loadingscreentip>
-<loadingscreentip>一般情况下，舰长比普通船员更擅长操纵潜水艇。</loadingscreentip>
-<loadingscreentip>如果潜艇上的舰载反应堆无法满足舰载设备的需求，可以尝试降低舰载电池与超级电容器的充电率，或者调节潜艇全速运行的时间。</loadingscreentip>
-<loadingscreentip>潜艇上的电气与机械设备会因恶劣环境与长时间磨损而逐渐老化。务必让机修工与电气工程师定时维护，避免关键时刻发生设备故障。</loadingscreentip>
-<loadingscreentip>用解构器分解异星文物可为你提供特殊的异星原材料。</loadingscreentip>
-<loadingscreentip>木卫二上的部分外星建筑由一种抗打击、抗形变的超材料构成。针对该材料的研究已经成为木卫二科学家的课题核心。</loadingscreentip>
-<loadingscreentip>将异星文物带到潜艇上来时，务必多加小心。</loadingscreentip>
-<loadingscreentip>据推测，某个灭绝的外星文明建造了遍布整个木卫二的文明遗迹，但人类对该文明知之甚少。由于异星建筑与设备的自我修复特性，人类对遗迹年代的测定毫无进展。</loadingscreentip>
-<loadingscreentip>在遍布整个木卫二的文明遗迹中，人类未能发现任何外星生命的痕迹。在遗迹内部能发现的唯一生命是用于守卫遗迹的生化造物。</loadingscreentip>
-<loadingscreentip>在探索遗迹或洞穴时，如果需要紧急脱离，记得多投下照明弹以标记可行路径。</loadingscreentip>
-<loadingscreentip>类头足生物的独目观察者性情温驯，但受到挑衅时依然会攻击对方。</loadingscreentip>
-<loadingscreentip>同类相食在藻鬃爬行者之间很常见。如果你杀死一只爬行者，其他爬行者可能会抛下你，对进食的渴望会促使它们争抢同类的尸体。</loadingscreentip>
-<loadingscreentip>泥偶迅猛龙可以用它们锋利的喙轻松地破坏金属门。</loadingscreentip>
-<loadingscreentip>一种名为画皮的外壳寄生虫会慢慢吞噬宿主的躯体，最终将其变为一具完全由寄生虫控制的空壳。</loadingscreentip>
-<loadingscreentip>木卫二上的大部分生物都有着坚硬、难以被常规武器破坏的外骨骼。不过，他们的“盔甲”也存在可以轻易击破的弱点。</loadingscreentip>
-<loadingscreentip>嘈杂的设备声或声纳脉冲可能会引起附近生物警觉。</loadingscreentip>
-<loadingscreentip>若没有足够的医疗技能，进行心肺复苏会对患者的内脏造成损伤。</loadingscreentip>
-<loadingscreentip>吗啡与芬太尼等阿片类药物是紧急治疗的有效方法之一，但经常使用会令患者成瘾，产生非常危险的戒断症状。</loadingscreentip>
-<loadingscreentip>出血伤口可用绷带或止血剂治疗。病人可以用生理盐水或血袋来补充流失的血液。</loadingscreentip>
-<loadingscreentip>非常不幸的是，精神病等精神障碍在潜艇船员中很常见，尤其是在遗迹探险之后。如果你的船员开始看到或听到其他人无法认知的事物，立即向医生报告。</loadingscreentip>
-<loadingscreentip>医生们的主要任务是保证船员们的身体健康，但在有入侵者侵入时，有着注射器枪与毒药知识的医生不容忽视。</loadingscreentip>
-<loadingscreentip>许多药物有着意想不到的副作用。请密切关注病人情况，随时准备用其他药物来抵消这些副作用。</loadingscreentip>
-<loadingscreentip>在使用潜水面罩时，注意不要把焊接油箱和氧气罐弄混。</loadingscreentip>
-<loadingscreentip>潜水面罩可以让你在水下呼吸，但不能帮助你抵御深海水压。如果船体有较大的结构破损，请立即换上潜水衣。</loadingscreentip>
-<loadingscreentip>一旦发生火灾，比烧伤更需要注意的是潜艇内的氧气含量。</loadingscreentip>
-<loadingscreentip>穿越这片被称为热液废土的地形时需格外小心，这些区域生物数量丰富，地热活动引发的水流变化使航行变得更加危险。</loadingscreentip>
-<loadingscreentip>木卫二上的一些固着生物会发出干扰潜艇声纳的低频声波。</loadingscreentip>
-<loadingscreentip>木卫二拥有丰富的自然资源，唯有目光敏锐、富有进取心的船长与等离子切割机才能坚持到收获之时。</loadingscreentip>
-<loadingscreentip>你可以将自己伪装成其他人，只要带上他们的身份证与一些面部的伪装。</loadingscreentip>
-<loadingscreentip>你可以在潜艇编辑器中将wifi组件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
-<loadingscreentip>木星周围的辐射带得在木卫二表面建立永久定居点变得不现实，因此所有的木卫二前哨站都位于地表冰壳之下。</loadingscreentip>
-<loadingscreentip>木卫二的水下生态系统链条尚未完全明确，但人们相信食物链的基础是渺小的化学合成细菌。</loadingscreentip>
-<loadingscreentip>木卫二联盟最初是两个最大的木卫二定居点与几个私人准军事组织之间的贸易合作协定，但后来逐渐发展为木卫二政府。</loadingscreentip>
-<loadingscreentip>有人计划在潜艇中派驻专业娱乐人员来缓解船员压力，不过这项计划很快被认定是失败的，并在人们的嘲讽声中终止了。</loadingscreentip>
-<loadingscreentip>大多数潜艇与船只都避免驶出隧道与木卫二冰层内部的裂缝——表层与内核之间的巨大深渊之中，潜藏着木卫二最巨大、最危险的“原生居民”。</loadingscreentip>
-<loadingscreentip>若放着它们不管，一群寄生植物群最终会聚合生长，成为一个能够控制它所居住的潜艇的高智能有机体——丘脑。</loadingscreentip>
-<loadingscreentip>你可以把鼠标光标移动到可用对象上，按住Shift键打开命令菜单，选择你想下达的命令。</loadingscreentip>
-<loadingscreentip>在前哨站惹事会降低你的声望，声望较低会导致当地居民对你收取额外费用，甚至会与当地居民发生矛盾。</loadingscreentip>
-<loadingscreentip>很多木卫二前哨站拒绝承认联盟的权威，不过联盟十分强大，很少有人敢公开反对联盟。不过，木星分离主义分子等一小撮别有用心的组织对联盟举起反旗，想要打倒联盟建立所谓的自由社会。</loadingscreentip>
-<loadingscreentip>小心独眼哨兵，切勿失控。</loadingscreentip>
-<loadingscreentip>木卫二冰脊位于木卫二之眼最西侧的斜坡之上，横跨表面冰层和密度较大、岩石更多的地下冰层之间。温暖的海水通过对流进入该地域，孕育了大量生命。</loadingscreentip>
-<loadingscreentip>无光海原位于被称为“木卫二之眼”的古陨石坑的西侧。与木卫二冰脊连成一片，无光高原的涵道结构主要由深色的冰岩组成，其坚硬程度堪比顽石，其上的冰层密度难以相信。</loadingscreentip>
-<loadingscreentip>木卫二上的大部分人类居住地都位于所谓的“寒冷深穴”中。由于这里水温较低、且相对接近地表，该区域的生物多样性远不如其他地方，只有一定量的藻鬃爬行者，几乎没有植被。</loadingscreentip>
-<loadingscreentip>冰刺是分布在木卫二冰壳下、偶尔刺穿冰下通道的巨型刺出体。建议潜艇尽量避免接触冰刺，如条件允许，请尽可能摧毁冰刺，以防冰刺戳破潜艇的外壳结构。</loadingscreentip>
-<loadingscreentip>渊洋的“压电晶体”给船员们带来了新的挑战：过于接近这种晶体可能会导致潜艇断电。</loadingscreentip>
-<loadingscreentip>在没有足够的医学知识的情况下用药可能会降低药效。</loadingscreentip>
-
-<!-- Main menu labels -->
-<campaignlabel>战役</campaignlabel>
-<multiplayerlabel>多人</multiplayerlabel>
-<customizelabel>自定义</customizelabel>
-<privacypolicy>隐私政策</privacypolicy>
-
-<!-- Main menu buttons -->
-<tutorialbutton>新手教程</tutorialbutton>
-<newgamebutton>新建游戏</newgamebutton>
-<loadgamebutton>加载游戏</loadgamebutton>
-<joinserverbutton>加入服务器</joinserverbutton>
-<hostserverbutton>创建服务器</hostserverbutton>
-<subeditorbutton>潜艇编辑器</subeditorbutton>
-<charactereditorbutton>角色编辑器</charactereditorbutton>
-<settingsbutton>设置</settingsbutton>
-<steamworkshopbutton>Steam创意工坊</steamworkshopbutton>
-<creditsbutton>制作人员名单</creditsbutton>
-<quitbutton>离开</quitbutton>
-
 <!-- Pause menu -->
 <pausemenuresume>回到游戏</pausemenuresume>
 <pausemenusettings>设置</pausemenusettings>
@@ -531,8 +442,8 @@
 <serversettingsmaximumtransferrequesttooltip>允许玩家向银行申请资金的数额。设置为0将完全禁止通过投票向银行请求资金。</serversettingsmaximumtransferrequesttooltip>
 <serversettingslootedmoneydestination>战利品金钱去向</serversettingslootedmoneydestination>
 <serversettingslootedmoneydestinationtooltip>选择掠夺尸体后是把钱送到银行还是送到掠夺者的个人钱包。</serversettingslootedmoneydestinationtooltip>
-<lootedmoneydestination.bank>银行</lootedmoneydestination.bank>
-<lootedmoneydestination.wallet>个人钱包</lootedmoneydestination.wallet>
+<lootedmoneydestination.bank>存款</lootedmoneydestination.bank>
+<lootedmoneydestination.wallet>个人存款</lootedmoneydestination.wallet>
 
 <!-- Tab menu -->
 <tabmenu.voip>IP语音</tabmenu.voip>
@@ -562,11 +473,11 @@
 <stun>眩晕</stun>
 <disguised>(已伪装)</disguised>
 <useitembutton>使用</useitembutton>
-<grabhint>[[key]] 抓握</grabhint>
+<grabhint>[[key]] 抓住</grabhint>
 <eathint>[[key]] 吃</eathint>
 <healhint>[[key]] 治疗</healhint>
 <talkhint>[[key]] 交谈</talkhint>
-<playhint>[[key]]操作</playhint>
+<playhint>[[key]] 操作</playhint>
 <quickuseaction.equip>装备</quickuseaction.equip>
 <quickuseaction.unequip>解除装备</quickuseaction.unequip>
 <quickuseaction.drop>长按以丢弃</quickuseaction.drop>
@@ -662,7 +573,7 @@
 <xmlfileinvalid>文件 '[filepath]' 并非合法XML文件 ([errormessage])。</xmlfileinvalid>
 <openlinkinbrowserprompt>你要用网页浏览器打开 "[link]" 链接吗？</openlinkinbrowserprompt>
 <contentpackagemismatchwarninggeneric>本潜艇可能与当前所选的内容包不兼容。你确定要选择这艘潜艇吗？</contentpackagemismatchwarninggeneric>
-<bankbalanceformat>银行: [money]mk</bankbalanceformat>
+<bankbalanceformat>存款: [money]马克</bankbalanceformat>
 <moneygainformat>+ [money]</moneygainformat>
 <moneyloseformat>- [money]</moneyloseformat>
 <percentageformat>[value]%</percentageformat>
@@ -2133,7 +2044,7 @@
 <entitydescription.accordion>一把老旧的手制手风琴。</entitydescription.accordion>
 <entityname.bongodrums>邦戈手鼓</entityname.bongodrums>
 <entitydescription.bongodrums>一对老旧的邦戈手鼓。</entitydescription.bongodrums>
-<entityname.captainspipe>船长的烟斗</entityname.captainspipe>
+<entityname.captainspipe>舰长烟斗</entityname.captainspipe>
 <entitydescription.captainspipe>波涛汹涌，临危不乱。</entitydescription.captainspipe>
 <entityname.incendiumfueltank>燃素燃料罐</entityname.incendiumfueltank>
 <entityname.physicoriumammobox>刚素弹药箱</entityname.physicoriumammobox>
@@ -6866,9 +6777,9 @@
 <tutorial.roles.engineerinstructor_wiring3_player>“好。”</tutorial.roles.engineerinstructor_wiring3_player>
 <tutorial.roles.popup.engineer_wiring>装备螺丝刀和线。</tutorial.roles.popup.engineer_wiring>
 <tutorial.roles.popup.engineer_wiring2>按[InputType.Use]对接线盒重新布线。</tutorial.roles.popup.engineer_wiring2>
-<tutorial.roles.popup.engineer_wiring3>将电线连接至 电力_输出。</tutorial.roles.popup.engineer_wiring3>
+<tutorial.roles.popup.engineer_wiring3>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring3>
 <tutorial.roles.popup.engineer_wiring4>按[InputType.Use]对灯重新布线。</tutorial.roles.popup.engineer_wiring4>
-<tutorial.roles.popup.engineer_wiring5>将电线连接至 电力_输入。</tutorial.roles.popup.engineer_wiring5>
+<tutorial.roles.popup.engineer_wiring5>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring5>
 <tutorial.roles.engineerinstructor_end>“干得好！这就是工程师的基础了。剩下的在船上学吧！你是个好学生，那么再见了！”</tutorial.roles.engineerinstructor_end>
 <tutorial.roles.engineerinstructor_end_player>“谢谢你凯莱，再见。”</tutorial.roles.engineerinstructor_end_player>
 <tutorial.roles.engineer.objective.reactor>学习控制反应堆</tutorial.roles.engineer.objective.reactor>
@@ -6884,8 +6795,8 @@
 <tutorial.roles.engineer.objective.rewire>学习布线</tutorial.roles.engineer.objective.rewire>
 <tutorial.roles.engineer.objective.rewire1>装备螺丝刀</tutorial.roles.engineer.objective.rewire1>
 <tutorial.roles.engineer.objective.rewire2>装备线缆</tutorial.roles.engineer.objective.rewire2>
-<tutorial.roles.engineer.objective.rewire3>连上接线盒的 电力_输出</tutorial.roles.engineer.objective.rewire3>
-<tutorial.roles.engineer.objective.rewire4>连上灯的 电力_输入</tutorial.roles.engineer.objective.rewire4>
+<tutorial.roles.engineer.objective.rewire3>连上接线盒的 能源</tutorial.roles.engineer.objective.rewire3>
+<tutorial.roles.engineer.objective.rewire4>连上灯的 能源</tutorial.roles.engineer.objective.rewire4>
 <tutorial.roles.mechanicinstructor>“你好，我是阿莫斯，这里的机械师。我将教导你如何照顾好你的潜艇。记住：她好，你才好。”</tutorial.roles.mechanicinstructor>
 <charactername.mechanicinstructor>阿莫斯·阿波尔</charactername.mechanicinstructor>
 <tutorial.roles.engineroomdescription>“这是引擎室。每个潜艇都装备着的引擎就在此处。引擎能让潜艇向前或向后移动。”</tutorial.roles.engineroomdescription>
@@ -6974,7 +6885,7 @@
 <tutorial.roles.medicalinstructor.morphine>“小点声行不行？给我拿点吗啡。就在那边那个柜子里。那是个标准药物柜。大多数潜艇上都有。”</tutorial.roles.medicalinstructor.morphine>
 <tutorial.roles.popup.morphine>找到吗啡。</tutorial.roles.popup.morphine>
 <tutorial.roles.medicalinstructor.healthui>“好，给我拿过来。用你的鼠标高亮我，然后按“H”进入我的健康界面。”</tutorial.roles.medicalinstructor.healthui>
-<tutorial.roles.popup.healthui1>找到吗啡。</tutorial.roles.popup.healthui1>
+<tutorial.roles.popup.healthui1>按[InputType.Health]打开医生的健康界面。</tutorial.roles.popup.healthui1>
 <tutorial.roles.popup.healthui2>将吗啡拖拽到身体上。</tutorial.roles.popup.healthui2>
 <tutorial.roles.medicalinstructor.medfabricator1>“这下头痛好了，但手还在颤抖。我们的烯丙羟吗啡酮是不是用完了？那只能新造了。你去找来吗啡和愈素。”</tutorial.roles.medicalinstructor.medfabricator1>
 <tutorial.roles.popup.medfabricator1>找到吗啡和愈素。</tutorial.roles.popup.medfabricator1>
