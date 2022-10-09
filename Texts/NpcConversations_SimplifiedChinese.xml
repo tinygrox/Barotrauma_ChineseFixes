@@ -156,10 +156,10 @@
 			</Conversation>
 		</Conversation>
 
-		<Conversation line="让她再快点，再深点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
-			<Conversation line="深入鱼儿沉睡的地方！" speaker="0">
-				<Conversation line="他妈的这个深度，这个压强我真是操了…" speaker="0">
-					<Conversation line="像长尾鲨一样继续下潜啊！" speaker="0">
+		<Conversation line="让她速度再加快，再潜深点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
+			<Conversation line="深入那万物俱寂之地！" speaker="0">
+				<Conversation line="干他妈的深度，干他妈的压强…" speaker="0">
+					<Conversation line="继续下潜！就像长尾鲨那样！" speaker="0">
 						<Conversation line="不要在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 							<Conversation line="" speaker="0"/>
 							<Conversation line="好吧好吧，我不会再让大家放松了。" speaker="0"/>
