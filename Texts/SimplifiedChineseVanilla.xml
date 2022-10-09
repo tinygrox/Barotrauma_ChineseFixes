@@ -2133,7 +2133,7 @@
 <entitydescription.accordion>一把老旧的手制手风琴。</entitydescription.accordion>
 <entityname.bongodrums>邦戈手鼓</entityname.bongodrums>
 <entitydescription.bongodrums>一对老旧的邦戈手鼓。</entitydescription.bongodrums>
-<entityname.captainspipe>舰长烟斗</entityname.captainspipe>
+<entityname.captainspipe>船长的烟斗</entityname.captainspipe>
 <entitydescription.captainspipe>波涛汹涌，临危不乱。</entitydescription.captainspipe>
 <entityname.incendiumfueltank>燃素燃料罐</entityname.incendiumfueltank>
 <entityname.physicoriumammobox>刚素弹药箱</entityname.physicoriumammobox>
@@ -2493,9 +2493,9 @@
 <entityname.potassium>钾</entityname.potassium>
 <entitydescription.potassium>用于制作炸药与医用化合物，与水接触后剧烈反应。</entitydescription.potassium>
 <entityname.magnesium>镁</entityname.magnesium>
-<entitydescription.magnesium>用于制作炸药与医用化合物，与水接触后剧烈反应。</entitydescription.magnesium>
+<entitydescription.magnesium>用于制作炸药与医用化合物。与水接触时反应剧烈。</entitydescription.magnesium>
 <entityname.lithium>锂</entityname.lithium>
-<entitydescription.lithium>常用于制作电池与抗精神病药物。</entitydescription.lithium>
+<entitydescription.lithium>最常用于制造电池和抗精神病药物。与水接触时反应剧烈。</entitydescription.lithium>
 <entityname.chlorine>氯</entityname.chlorine>
 <entitydescription.chlorine>常用于制作生理盐水（治疗失血）与水合三氯乙醛（强力镇静剂）。</entitydescription.chlorine>
 <entityname.slimebacteria>史莱姆变形细菌</entityname.slimebacteria>
@@ -6107,7 +6107,7 @@
 <hint.onshootwithoutaiming>在使用之前，你需要按住 [key] 来瞄准。</hint.onshootwithoutaiming>
 <hint.onshowcampaigninterface.map>在战役地图中选择你下一个目的地，并在出发前选好你想要承接的任务。</hint.onshowcampaigninterface.map>
 <hint.onshowcommandinterface>可以使用命令界面对其他船员发出命令。选择命令类别，然后选择具体的命令，系统会自动指派符合条件的船员前去执行命令。</hint.onshowcommandinterface>
-<hint.onshowhealthinterface>这是健康界面。选择身体的一个部位，可以查看影响该部位的痛苦。将医疗物品从物品栏中拖拽到身体的某个部位可以进行治疗。</hint.onshowhealthinterface>
+<hint.onshowhealthinterface>这是健康界面。选择身体的一个部位，可以查看该部位的病因。将医疗物品从物品栏中拖拽到那个部位可以进行治疗操作。</hint.onshowhealthinterface>
 <hint.onsonarspottedenemy>声呐发现了一个移动目标，请确保潜艇上的炮手已就位，并给炮手指定明确的射击目标。</hint.onsonarspottedenemy>
 <hint.onstartedcontrolling.job.assistant>你现在操作的角色是一位助手。助手一般是多面手，尽其所能帮助他人，并提升自己的技能等级。</hint.onstartedcontrolling.job.assistant>
 <hint.onstartedcontrolling.job.captain>你现在操作的角色是一位船长。你应该去指挥室，驾驶潜艇前往目的地。</hint.onstartedcontrolling.job.captain>
@@ -6743,7 +6743,7 @@
 <tutorial.roles.engineerdescription>工程师负责操作核反应堆以及维护电子设备。技巧杰出的工程师甚至能够使用线路和信号原件为潜艇加入自定改装。</tutorial.roles.engineerdescription>
 <tutorial.roles.mechanicdescription>机械师负责维护机械设备，例如引擎和水泵，保持潜艇运转正常。此外，由于机械师拥有更高的焊接技能，船壳破损通常也由其负责修复。</tutorial.roles.mechanicdescription>
 <tutorial.roles.securitydescription>安全官负责保护潜艇和船员不受来自内部或外部的危险。安全官有着操作从手持武器到舰载火炮的技能，是潜艇面对威胁时的第一道防线。</tutorial.roles.securitydescription>
-<tutorial.roles.medicdescription>医生负责治愈船员的伤病。从包扎伤口到施用药物The Medical Doctor treats the ailments of the crew. This ranges from bandaging small wounds to administering drugs. In a worst-case scenario, fallen crewmembers can be saved with CPR.</tutorial.roles.medicdescription>
+<tutorial.roles.medicdescription>医生负责治愈船员的伤病。从包扎伤口到施用药物。在最危急的情况下，对于倒地不起的船员可能需要先做个心肺复苏.</tutorial.roles.medicdescription>
 <tutorial.roles.startprompt_captain>开始船长训练教程？</tutorial.roles.startprompt_captain>
 <tutorial.roles.startprompt_engineer>开始工程师训练教程？</tutorial.roles.startprompt_engineer>
 <tutorial.roles.startprompt_mechanic>开始机械师训练教程？</tutorial.roles.startprompt_mechanic>
@@ -6973,7 +6973,7 @@
 <tutorial.roles.medicalinstructor.player>“我准备好了，长官！”</tutorial.roles.medicalinstructor.player>
 <tutorial.roles.medicalinstructor.morphine>“小点声行不行？给我拿点吗啡。就在那边那个柜子里。那是个标准药物柜。大多数潜艇上都有。”</tutorial.roles.medicalinstructor.morphine>
 <tutorial.roles.popup.morphine>找到吗啡。</tutorial.roles.popup.morphine>
-<tutorial.roles.medicalinstructor.healthui>“好，给我拿过来。用你的鼠标高亮我，然后按“H”进入我的健康界面。”</tutorial.roles.medicalinstructor.healthui>
+<tutorial.roles.medicalinstructor.healthui>“很好，拿过来给我。把你的鼠标移到我身上，然后按 [InputType.Health] 进入我的健康界面。”</tutorial.roles.medicalinstructor.healthui>
 <tutorial.roles.popup.healthui1>按[InputType.Health]打开医生的健康界面。</tutorial.roles.popup.healthui1>
 <tutorial.roles.popup.healthui2>将吗啡拖拽到身体上。</tutorial.roles.popup.healthui2>
 <tutorial.roles.medicalinstructor.medfabricator1>“这下头痛好了，但手还在颤抖。我们的烯丙羟吗啡酮是不是用完了？那只能新造了。你去找来吗啡和愈素。”</tutorial.roles.medicalinstructor.medfabricator1>
@@ -6982,7 +6982,7 @@
 <tutorial.roles.popup.medfabricator2>在列表中找到烯丙羟吗啡酮并点击</tutorial.roles.popup.medfabricator2>
 <tutorial.roles.popup.medfabricator3>将吗啡和愈素放入素材栏并点击“制造”。</tutorial.roles.popup.medfabricator3>
 <tutorial.roles.popup.medfabricator4>将制造出的烯丙羟吗啡酮从右边的输出端拿出。</tutorial.roles.popup.medfabricator4>
-<tutorial.roles.medicalinstructor.medfabricator3>“把烯丙羟吗啡酮给我用上吧。记住，按“H”进入我的健康界面。”</tutorial.roles.medicalinstructor.medfabricator3>
+<tutorial.roles.medicalinstructor.medfabricator3>“把烯丙羟吗啡酮给我用上吧。记住，按[InputType.Health]进入我的健康界面。”</tutorial.roles.medicalinstructor.medfabricator3>
 <tutorial.roles.popup.naloxone>施用烯丙羟吗啡酮。</tutorial.roles.popup.naloxone>
 <tutorial.roles.medicalinstructor.patients1>“你能帮我的差不多也就只有这些了。如果你还想出点力，就去照顾一下隔壁的病人。还有，出去的时候记得把灯关了。我要休息一下。”</tutorial.roles.medicalinstructor.patients1>
 <tutorial.roles.medicalinstructor.patients2>“这里有几位病人，每个都有独特的病症。对他们每个人进行检查(按“H”进入健康界面) 来了解他们的问题。”</tutorial.roles.medicalinstructor.patients2>

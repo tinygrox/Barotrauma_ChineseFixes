@@ -1093,7 +1093,7 @@
 </Conversation>
 
 <Conversation line="这里太冷了。" speaker="0" flags="Bandit">
-	<Conversation line="闭嘴吧，省点力气。" speaker="1" flags="Bandit"/>
+	<Conversation line="闭嘴吧，省点力气。" speaker="1" flags="Bandit">
 	</Conversation>
 </Conversation>
 

@@ -99,10 +99,10 @@
 <subeditorshadowcastinglights>Shadow-casting lights</subeditorshadowcastinglights>
 
 <!-- Sprite Editor -->
-<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
-<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
-<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
-<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
+<spriteeditor.reloadtexture>重载贴图</spriteeditor.reloadtexture>
+<spriteeditor.texturesreloaded>从[filepath]的贴图重载</spriteeditor.texturesreloaded>
+<spriteeditor.resetchanges>撤销更改</spriteeditor.resetchanges>
+<spriteeditor.resetsuccessful>所有更改已经成功撤销</spriteeditor.resetsuccessful>
 <spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
 <spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
 <spriteeditor.zoom>Zoom:</spriteeditor.zoom>
@@ -1123,7 +1123,7 @@
 <entityname.ruinback>Ruin Back Wall Basic</entityname.ruinback>
 <entityname.ruinprop>Ruin Prop</entityname.ruinprop>
   
-<entityname.bunk>Bunk</entityname.bunk>
+<entityname.bunk>床铺</entityname.bunk>
 
 <!--Outpost decorative structures-->
 <entityname.opdeco_weaponstoragesuit1>Outfit Display Case</entityname.opdeco_weaponstoragesuit1>
@@ -1137,7 +1137,7 @@
 <entityname.opdeco_storagefrozenseedshelf>Frozen Seeds Display Shelf</entityname.opdeco_storagefrozenseedshelf>
 <entityname.opdeco_diningtable>Dining Table</entityname.opdeco_diningtable>
 <entityname.opdeco_boxes1>Boxes</entityname.opdeco_boxes1>
-<entityname.opdeco_bunks1>Bunks</entityname.opdeco_bunks1>
+<entityname.opdeco_bunks1>双人床铺</entityname.opdeco_bunks1>
 <entityname.opdeco_researchdecal1>Lab Decal</entityname.opdeco_researchdecal1>
 <entityname.opdeco_hrwindow1>Office Window</entityname.opdeco_hrwindow1>
 <entityname.opdeco_hrwindow2>Tall Office Window</entityname.opdeco_hrwindow2>
@@ -1273,15 +1273,15 @@
 <entityname.thalamus_background_3>Thalamus Background 3</entityname.thalamus_background_3>
 <entityname.thalamus_background_4>Thalamus Background 4</entityname.thalamus_background_4>
 <entityname.medbaywall1>Medbay Wall 1</entityname.medbaywall1>
-<entityname.opdeco_medrack>Medical Rack</entityname.opdeco_medrack>
-<entityname.opdeco_hospitalbed>Hospital Bed</entityname.opdeco_hospitalbed>
-<entityname.opdeco_diningtablesmall>Small Dining Table</entityname.opdeco_diningtablesmall>
+<entityname.opdeco_medrack>医疗架</entityname.opdeco_medrack>
+<entityname.opdeco_hospitalbed>病床</entityname.opdeco_hospitalbed>
+<entityname.opdeco_diningtablesmall>小型餐桌</entityname.opdeco_diningtablesmall>
 <entityname.opdeco_liftingequpiment>Lifting Equipment</entityname.opdeco_liftingequpiment>
 <entityname.opdeco_construction_barrier>Construction Barrier</entityname.opdeco_construction_barrier>
-<entityname.opdeco_supportbeam>Support Beam</entityname.opdeco_supportbeam>
+<entityname.opdeco_supportbeam>支撑梁</entityname.opdeco_supportbeam>
 <entityname.opdeco_icecube>Ice Cube</entityname.opdeco_icecube>
 <entityname.opdeco_icepillar>Ice Pillar</entityname.opdeco_icepillar>
-<entityname.opdeco_monitor>Monitor</entityname.opdeco_monitor>
+<entityname.opdeco_monitor>显示屏</entityname.opdeco_monitor>
 <entityname.decowire1>Decorative wire</entityname.decowire1>
 <entityname.decopanel1>Decorative panel</entityname.decopanel1>
 <entityname.decocolumn1>Decorative column</entityname.decocolumn1>
