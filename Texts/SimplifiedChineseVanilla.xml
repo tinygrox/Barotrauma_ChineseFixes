@@ -687,7 +687,7 @@
 <legacyitemformat>[name] (旧版物品)</legacyitemformat>
 <moderationmenu.userdetails>细节</moderationmenu.userdetails>
 <moderationmenu.manageplayer>管理</moderationmenu.manageplayer>
-<crushdepthwarninglow>航线的深度对于当前潜艇来说风险过大，如不提升潜艇外壳的强度，或是换用合适的潜艇，可能无法安全通行。该航线初始深度为[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninglow>
+<crushdepthwarninglow>航线的深度对于当前潜艇来说风险过大，如不提升潜艇外壳的强度，或是换用合适的潜艇，可能无法安全通行。该航线初始深度为[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninglow> <!-- 会导致文本闪烁 -->
 <crushdepthwarninghigh>无法通过该航线，请提升当前潜艇外壳的强度，或更换为合适的潜艇。该航线初始深度为[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninghigh>
 <navterminalicespirewarning>发现了一座冰尖岩。建议将其破坏，或转向绕行。</navterminalicespirewarning>
 <confirm>确定</confirm>
@@ -3475,14 +3475,14 @@
 <dialogstopchargingbatteries>[itemname]的充电中止了！</dialogstopchargingbatteries>
 <dialogleakfixed>[roomname]的泄露已经修好了！</dialogleakfixed>
 <dialogleakfixed>还在修整[roomname]，就剩几个洞了！</dialogleakfixed>
-<dialogleaksfixed>[roomname]的所有漏洞都修好了！</dialogleaksfixed>
-<dialogleaksfixed>[roomname]现在没有漏洞了！</dialogleaksfixed>
+<dialogleaksfixed>[roomname]的所有缺口都修好了！</dialogleaksfixed>
+<dialogleaksfixed>[roomname]现在没有缺口了！</dialogleaksfixed>
 <dialogitemrepaired>[itemname]已经修好了！</dialogitemrepaired>
 <dialogitemrepaired>[itemname] 准备就绪！</dialogitemrepaired>
 <dialogitemrepaired>[itemname] 修理好了！</dialogitemrepaired>
-<dialoggetdivinggear>需要找一件潜水服！</dialoggetdivinggear>
-<dialoggetdivinggear>我需要潜水设备！</dialoggetdivinggear>
-<dialoggetoxygentank>需要找个氧气罐！</dialoggetoxygentank>
+<dialoggetdivinggear>需要找到一件潜水服！</dialoggetdivinggear>
+<dialoggetdivinggear>我需要个下潜装备！</dialoggetdivinggear>
+<dialoggetoxygentank>需要找到氧气罐！</dialoggetoxygentank>
 <dialoggetoxygentank>我需要一个氧气罐！</dialoggetoxygentank>
 <dialoggetoxygentank>氧气罐在哪儿？</dialoggetoxygentank>
 <dialoggetoxygentank>我需要氧气！</dialoggetoxygentank>
@@ -3534,8 +3534,8 @@
 <dialognopumps>目前泵机无需关注。</dialognopumps>
 <dialognoenemies>没找到入侵者的踪迹。</dialognoenemies>
 <dialognoenemies>敌人？在哪里？</dialognoenemies>
-<dialognoleaks>未找到泄漏点。</dialognoleaks>
-<dialognoleaks>哪里有漏洞？</dialognoleaks>
+<dialognoleaks>未找到缺口。</dialognoleaks>
+<dialognoleaks>哪里有缺口？</dialognoleaks>
 <dialogfoundwoundedtarget>对[roomname]的[targetname]进行急救！</dialogfoundwoundedtarget>
 <dialogfoundwoundedtarget>救援在[roomname]的 [targetname]！</dialogfoundwoundedtarget>
 <dialognorescuetargets>目前似乎没有人需要医疗！</dialognorescuetargets>
@@ -3737,9 +3737,9 @@
 <orderdialog.steer.navigatetodestination>[name]，向前进！</orderdialog.steer.navigatetodestination>
 <orderdialog.steer.navigatetodestination>[name]，设定航向向前！</orderdialog.steer.navigatetodestination>
 <orderdialogself.steer.navigatetodestination>我要让舰船向前方开动了！</orderdialogself.steer.navigatetodestination>
-<orderdialog.fixleaks>[name]，去修复漏洞！</orderdialog.fixleaks>
-<orderdialog.fixleaks>[name]，去处理一下漏洞！</orderdialog.fixleaks>
-<orderdialogself.fixleaks>我去修复漏水的地方！</orderdialogself.fixleaks>
+<orderdialog.fixleaks>[name]，去修复缺口！</orderdialog.fixleaks>
+<orderdialog.fixleaks>[name]，去处理一下缺口！</orderdialog.fixleaks>
+<orderdialogself.fixleaks>我去修漏水的地方！</orderdialogself.fixleaks>
 <orderdialog.extinguishfires>[name]，去灭火！</orderdialog.extinguishfires>
 <orderdialogself.extinguishfires>我去灭火！</orderdialogself.extinguishfires>
 <orderdialog.chargebatteries>[name]，去处理一下电池！</orderdialog.chargebatteries>
@@ -3772,7 +3772,7 @@
 <orderdialog.reportfire>[roomname]着火了！</orderdialog.reportfire>
 <orderdialog.reportfire>[roomname]发生了火灾！</orderdialog.reportfire>
 <orderdialog.reportbreach>[roomname]出现了船体泄露！</orderdialog.reportbreach>
-<orderdialog.reportbreach>[roomname]处有船体漏洞！</orderdialog.reportbreach>
+<orderdialog.reportbreach>[roomname]漏水了！</orderdialog.reportbreach>
 <orderdialog.reportintruders>在[roomname]有入侵者！</orderdialog.reportintruders>
 <orderdialog.reportintruders>[roomname]有敌人出现！</orderdialog.reportintruders>
 <orderdialog.reportbrokendevices>[roomname]出现设备损坏！</orderdialog.reportbrokendevices>
@@ -3932,11 +3932,11 @@
 <ordercategorytitle.operate>操作</ordercategorytitle.operate>
 <ordercategorydescription.operate></ordercategorydescription.operate>
 <crewlistordericontooltip>[ordername] ([orderoption])</crewlistordericontooltip>
-<crewlistelementtooltip>[name] ([job])\n拖拽以安排船员</crewlistelementtooltip>
-<thischaractercanthear>该角色未收到指示。</thischaractercanthear>
-<nocharactercanhear>无角色可收到指示。</nocharactercanhear>
-<objective.idle>空闲中</objective.idle>
-<objective.findsafety>寻找安全点</objective.findsafety>
+<crewlistelementtooltip>[name] ([job])\n拖拽排列船员顺序</crewlistelementtooltip>
+<thischaractercanthear>该角色无法收到命令。</thischaractercanthear>
+<nocharactercanhear>无角色可收到命令。</nocharactercanhear>
+<objective.idle>摸鱼中</objective.idle>
+<objective.findsafety>紧急避险</objective.findsafety>
 <objective.combat>战斗</objective.combat>
 <crewlistobjectivetooltip>当前任务:[objective]</crewlistobjectivetooltip>
 
@@ -4259,11 +4259,11 @@
 <jobdescription.mechanic>机修工有着优秀的机械工程能力，能够使各种机械设备正常运转。他们与工程师的合作是潜艇正常运行的基础。</jobdescription.mechanic>
 <jobname.securityofficer>安全官</jobname.securityofficer>
 <jobdescription.securityofficer>安全官是潜艇内外安全的保障，他们不仅要面对深海巨兽的威胁，还要严防革命军无处不在的渗透。</jobdescription.securityofficer>
-<jobname.medicaldoctor>医生</jobname.medicaldoctor>
+<jobname.medicaldoctor>医师</jobname.medicaldoctor>
 <jobdescription.medicaldoctor>理所当然，医生在潜艇上扮演着十分重要的角色，能够治好受伤或昏迷的船员。当然，他们也能制作各种非药用的化学制品。</jobdescription.medicaldoctor>
 <jobname.assistant>助手</jobname.assistant>
 <jobdescription.assistant>助手没有特定的专业领域与工作方向，更适用于新手。</jobdescription.assistant>
-<jobname.watchman>保安</jobname.watchman>
+<jobname.watchman>监管者</jobname.watchman>
 <jobdescription.watchman></jobdescription.watchman>
 <jobname.captain1>老水手</jobname.captain1>
 <jobname.captain2>叛逆者</jobname.captain2>
@@ -4529,7 +4529,7 @@
 
 <!-- Security officer tutorial -->
 <!-- Radio -->
-<officer.radio.wakeup>还有安全官活着吗？我们发现了一个船体漏洞和一些不速之客！</officer.radio.wakeup>
+<officer.radio.wakeup>还有安全官活着吗？我们发现了一个船体缺口和一些不速之客！</officer.radio.wakeup>
 <officer.radio.equipment>找到消灭这些怪物的方法。</officer.radio.equipment>
 <officer.radio.crawlerdead>干得好，但那只是爬行者幼体，我看到前面有个更大的家伙，小心点！</officer.radio.crawlerdead>
 <officer.radio.somethingbig>我在声纳上看到一些大麻烦。电磁枪上弹，争取把它干掉。</officer.radio.somethingbig>
