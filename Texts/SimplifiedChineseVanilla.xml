@@ -582,7 +582,7 @@
 <hudbutton.commandinterface>命令界面([key])</hudbutton.commandinterface>
 <hudbutton.tabmenu>信息界面([key])</hudbutton.tabmenu>
 <divingsuitwarning>注意：外部压力超过了潜水服的载荷。</divingsuitwarning>
-<steeringdepthwarninglow>接近压碎深度([crushdepth]米)</steeringdepthwarninglow>
+<steeringdepthwarninglow>接近极限深度([crushdepth]米)</steeringdepthwarninglow>
 
 <!-- Limbs -->
 <lefthand>左手</lefthand>
@@ -687,8 +687,8 @@
 <legacyitemformat>[name] (旧版物品)</legacyitemformat>
 <moderationmenu.userdetails>细节</moderationmenu.userdetails>
 <moderationmenu.manageplayer>管理</moderationmenu.manageplayer>
-<crushdepthwarninglow>这条路线深入渊洋之底，如果你不提升潜艇外壳的强度，或是换用合适的潜艇，可能无法安全通行。该路线会深入至[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninglow>
-<crushdepthwarninghigh>你无法选择这条航线，如果你不提升潜艇外壳的强度，或是换用合适的潜艇，可能无法安全通行。该路线会深入至[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninghigh>
+<crushdepthwarninglow>航线的深度对于当前潜艇来说风险过大，如不提升潜艇外壳的强度，或是换用合适的潜艇，可能无法安全通行。该航线初始深度为[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninglow>
+<crushdepthwarninghigh>无法通过该航线，请提升当前潜艇外壳的强度，或更换为合适的潜艇。该航线初始深度为[initialdepth]米，但你的潜艇仅能承受[submarinecrushdepth]米的深海水压。</crushdepthwarninghigh>
 <navterminalicespirewarning>发现了一座冰尖岩。建议将其破坏，或转向绕行。</navterminalicespirewarning>
 <confirm>确定</confirm>
 
@@ -1984,7 +1984,7 @@
 <entityname.vipoutfit>VIP套装</entityname.vipoutfit>
 <entityname.prisonerclothes>囚犯服装</entityname.prisonerclothes>
 <entityname.securityuniform2>安全官制服</entityname.securityuniform2>
-<entitydescription.securityuniform2>听我指令！</entitydescription.securityuniform2>
+<entitydescription.securityuniform2>听我号令！</entitydescription.securityuniform2>
 <entityname.bodyarmor>防弹衣</entityname.bodyarmor>
 <entitydescription.bodyarmor>虽然对于冰洋中的大多数居民来说，它脆弱如纸，但面对船上的叛徒时，它别具奇效。</entitydescription.bodyarmor>
 <entityname.ballistichelmet1>防弹头盔</entityname.ballistichelmet1>
@@ -3391,9 +3391,9 @@
 <vitality>状态</vitality>
 <suitabletreatments>对应治疗方法：</suitabletreatments>
 <healthitemusetip>将物品拖动到对应肢体上使用。你也可以使用物品快捷键或双击使用。</healthitemusetip>
-<afflictionstrengthlow>轻微</afflictionstrengthlow>
+<afflictionstrengthlow>轻度</afflictionstrengthlow>
 <afflictionstrengthmedium>中度</afflictionstrengthmedium>
-<afflictionstrengthhigh>严重</afflictionstrengthhigh>
+<afflictionstrengthhigh>重度</afflictionstrengthhigh>
 <lowmedicalskillwarning>医疗技能过低！对应治疗方法可能不准确。</lowmedicalskillwarning>
 <healthlimbname.head>头部</healthlimbname.head>
 <healthlimbname.torso>躯干</healthlimbname.torso>
