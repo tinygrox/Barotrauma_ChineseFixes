@@ -4,10 +4,10 @@
 
 <!-- Loading Screen -->
 <loading>加载中…</loading>
-<pressanykey>按任意键以继续</pressanykey>
+<pressanykey>按任意键继续</pressanykey>
 
 <!-- Loading Screen tips -->
-<loadingscreentip>如果货物在运输过程中丢失或损坏，您将不会收到运费。</loadingscreentip>
+<loadingscreentip>如果货物在运输过程中丢失或损坏，你将不会收到任何报酬。</loadingscreentip>
 <loadingscreentip>超出潜艇设备需求的超载电力可能会烧毁接线盒或引发火灾。</loadingscreentip>
 <loadingscreentip>接线盒与其他电器在水中浸泡太久可能会损坏。</loadingscreentip>
 <loadingscreentip>潜艇的核反应堆过热可能会引发火灾，如果不关闭过热的反应堆，最终将导致核反应堆熔毁。</loadingscreentip>

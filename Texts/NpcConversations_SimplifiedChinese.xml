@@ -156,29 +156,29 @@
 			</Conversation>
 		</Conversation>
 
-		<Conversation line="让她速度再加快，再潜深点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
-			<Conversation line="深入那万物俱寂之地！" speaker="0">
+		<Conversation line="让她的，速度再快一点，下潜再深一点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
+			<Conversation line="深入那万物，俱寂之地！" speaker="0">
 				<Conversation line="干他妈的深度，干他妈的压强…" speaker="0">
 					<Conversation line="让我们像长尾鲨那样下潜！" speaker="0">
 						<Conversation line="不要在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 							<Conversation line="" speaker="0"/>
 							<Conversation line="好吧好吧，只是想缓和下紧张的气氛。" speaker="0"/>
 						</Conversation>
-						<Conversation line="我知道这是首地球歌，但它真的太符合我们当前的情形了！" speaker="1"/>
+						<Conversation line="我知道这是首地球歌，但这歌唱的跟我们当下的情况来说也太像了！" speaker="1"/>
 					</Conversation>
 				</Conversation>
 			</Conversation>
 		</Conversation>
 
-		<Conversation line="我们到了吗？" speaker="0" speakertags="joker" maxintensity="0.2">
+		<Conversation line="我们还是在原地不动？" speaker="0" speakertags="joker" maxintensity="0.2">
 			<Conversation line="" speaker="0" flags="Casual"/>
 			<Conversation line="闭嘴" speaker="1" speakertags="rude"/>
 			<Conversation line="真的不好笑" speaker="1"/>
 			<Conversation line="这不好笑" speaker="1" speakertags="brokenenglish"/>
 		</Conversation>
 
-		<Conversation line="你们还记得地球吗？" speaker="0" maxintensity="0.2">
-			<Conversation line="地球，地球，地球。再也看不到它真是你们的损失。" speaker="0" flags="Psychosis"/>
+		<Conversation line="你们谁还记得地球吗？" speaker="0" maxintensity="0.2">
+			<Conversation line="地球，地球，地球。真是遗憾，你们再也看不到它喽。" speaker="0" flags="Psychosis"/>
 			<Conversation line="我年龄是大了点，但还没那么老。" speaker="1"/>
 			<Conversation line="我的爷爷就是个地球人。" speaker="1">
 				<Conversation line="我特别喜欢听他讲故事，虽然我知道里面的故事大都是假的。" speaker="1">
@@ -188,8 +188,8 @@
 						</Conversation>
 					</Conversation>
 					<Conversation line="我真的想知道鸟是长什么样的。" speaker="1">
-						<Conversation line="还有狗，还有大象。" speaker="0"/>
-						<Conversation line="还有犀牛龙！" speaker="2" speakertags="brokenenglish"/>
+						<Conversation line="还有狗。还有大象。" speaker="0"/>
+						<Conversation line="还有犀龙！" speaker="2" speakertags="brokenenglish"/>
 					</Conversation>
 				</Conversation>
 			</Conversation>
@@ -197,9 +197,9 @@
 
 		<Conversation line="你们有没有想过，建造遗迹的人后来怎么样了？" speaker="0" maxintensity="0.2">
 			<Conversation line="最后的噩梦藏匿在最深不可测的避难所中，距离无法估量，哒，哒，哒！" speaker="0" flags="Psychosis"/>
-			<Conversation line="谁没想过？" speaker="1"/>
-			<Conversation line="还是把这个问题留给科学家们吧。" speaker="1">
-				<Conversation line="这里还有更重要的事需要担心。" speaker="1"/>
+			<Conversation line="谁会没想过呢？" speaker="1"/>
+			<Conversation line="还是把这个问题留给那帮研究人员吧。" speaker="1">
+				<Conversation line="这里还有更重要的事需要你们关心。" speaker="1"/>
 			</Conversation>
 			<Conversation line="只有深渊知道。" speaker="1" speakertags="crazy"/>
 			<Conversation line="我稍稍思考了一下，这事儿没人能讲明白。" speaker="2" speakertags="brokenenglish"/>
@@ -208,7 +208,7 @@
 		<Conversation line="你见过那些保护遗迹的东西吗？" speaker="0" maxintensity="0.2">
 			<Conversation line="见过，但我宁愿自己能忘了它。" speaker="1" speakertags="fearful"/>
 			<Conversation line="研究所里有一个。" speaker="1">
-				<Conversation line="他们说那不是有机体——比起动物来说更接近于机器人。" speaker="1">
+				<Conversation line="他们说那不是有机体——比起动物来说更接近于机器。" speaker="1">
 					<Conversation line="至少有一点是确定的：他们不会流血。" speaker="0"/>
 				</Conversation>
 			</Conversation>
