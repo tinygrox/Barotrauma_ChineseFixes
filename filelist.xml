@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentpackage name="Chinese Fixes" corepackage="false" modversion="1.0.0" gameversion="0.18.15.1" >
+    <!-- 
+        filelist.xml - 告诉游戏此 mod 需要载入哪些文件 %ModDir% 表示为该 mod 的当前目录所在路径
+        SimplifiedChineseVanilla.xml - 界面文本
+        SimplifiedChineseVanillaEditorTexts.xml - 编辑器界面文本
+        NpcConversations_SimplifiedChinese.xml - NPC 左下角对话文本
+    -->
     <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
     <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
     <NPCConversations file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
