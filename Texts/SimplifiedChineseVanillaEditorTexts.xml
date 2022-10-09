@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+<infotexts language="Simplified Chinese FIX" nowhitespace="true" translatedname="中文(简体)[修正]">
 
 <!-- Generic -->
 <editor.saveall>保存全部</editor.saveall>
@@ -15,13 +15,13 @@
 <physicsbodies>Physics bodies</physicsbodies>
 <opensubbutton>打开...</opensubbutton>
 <savesubbutton>保存</savesubbutton>
-<addsubbutton>添加潜水艇</addsubbutton>
+<addsubbutton>放置潜水艇</addsubbutton>
 <addsubtooltip>Places another submarine into the current submarine file. Can be used for adding things such as smaller vessels, escape pods or detachable sections into the main submarine.</addsubtooltip>
-<holdtolink>Hold space and click with the mouse to link to another item.</holdtolink>
+<holdtolink>按住空格同时鼠标单机来链接到其他物品.</holdtolink>
 <allowedlinks>Allowed links</allowedlinks>
-<filtermapentities>Filter</filtermapentities>
-<charactermodebutton>Character mode</charactermodebutton>
-<charactermodetooltip>Allows you to pick up and use items. Useful for things such as placing items inside closets, turning devices on/off and doing the wiring.</charactermodetooltip>
+<filtermapentities>筛选</filtermapentities>
+<charactermodebutton>角色模式</charactermodebutton>
+<charactermodetooltip>你可以捡起和使用物品. 对于 such as placing items inside closets, turning devices on/off and doing the wiring来说很有用。</charactermodetooltip>
 <wiringmodebutton>Wiring mode</wiringmodebutton>
 <wiringmodetooltip>Allows you to connect wires between items.</wiringmodetooltip>
 <generatewaypointsbutton>Generate waypoints</generatewaypointsbutton>
@@ -206,8 +206,8 @@
 <charactereditor.animationoftypedeleted>Animation of type [type] at [file] deleted</charactereditor.animationoftypedeleted>
 <charactereditor.animationtypenotimplemented>Animation type [type] not implemented!</charactereditor.animationtypenotimplemented>
 <charactereditor.animationoftypeloaded>Animation of type [type] loaded from [file]</charactereditor.animationoftypeloaded>
-<charactereditor.reloadtextures>Reload Textures</charactereditor.reloadtextures>
-<charactereditor.recreateragdoll>Recreate Ragdoll [F5]</charactereditor.recreateragdoll>
+<charactereditor.reloadtextures>重载贴图</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>重建布娃娃 [F5]</charactereditor.recreateragdoll>
 <charactereditor.recreateragdolltooltip>Many of the parameters requires recreating the ragdoll. If adjusting the parameter doesn't seem to have effect, click this button.</charactereditor.recreateragdolltooltip>
 <charactereditor.createnewcharacter>Create New Character</charactereditor.createnewcharacter>
 <charactereditor.copycharacter>Copy Character</charactereditor.copycharacter>
