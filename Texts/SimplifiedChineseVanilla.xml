@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Simplified Chinese FIX" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="Simplified Chinese_fix" nowhitespace="true" translatedname="中文(简体)[修正]">
 
 
 <!-- Loading Screen -->
@@ -8,9 +8,9 @@
 
 <!-- Loading Screen tips -->
 <loadingscreentip>如果货物在运输过程中丢失或损坏，你将不会收到任何报酬。</loadingscreentip>
-<loadingscreentip>超出潜艇设备需求的超载电力可能会烧毁接线盒或引发火灾。</loadingscreentip>
-<loadingscreentip>接线盒与其他电器在水中浸泡太久可能会损坏。</loadingscreentip>
-<loadingscreentip>潜艇的核反应堆过热可能会引发火灾，如果不关闭过热的反应堆，最终将导致核反应堆熔毁。</loadingscreentip>
+<loadingscreentip>发电功率大于潜艇内设备用电功率可能会损坏接线盒甚至引发火灾。</loadingscreentip>
+<loadingscreentip>接线盒和其他的电器设备在水中浸泡太久可能会损坏。</loadingscreentip>
+<loadingscreentip>潜艇的核反应堆的堆芯如果持续过热而不关停，轻则引发火灾，重则导致堆芯熔毁事故。</loadingscreentip>
 <loadingscreentip>大多数潜艇都配备了蓄电池，作为反应堆发生故障时的临时备用电源。</loadingscreentip>
 <loadingscreentip>潜艇的轨道炮炮弹和深水炸弹包含一个可容纳额外炸药的隔层。</loadingscreentip>
 <loadingscreentip>被动声纳可在不引发不必要注意的前提下探测附近的声源。你也可以通过冰墙反射的声波来大致了解周边环境。</loadingscreentip>
@@ -22,7 +22,7 @@
 <loadingscreentip>如果导航终端受损，声纳成像可能变得不太可靠——让工程师确保终端运转良好！</loadingscreentip>
 <loadingscreentip>关闭主动声纳才能让部署的诱饵发挥最佳效果。</loadingscreentip>
 <loadingscreentip>没有足够电气工程技能的角色强行重新布线可能会触电。</loadingscreentip>
-<loadingscreentip>焊接工具非常简单，潜艇上的船员都可以使用，但熟练的机修工往往是高效率低风险的焊工，能不受伤、快速地完成相关工作。</loadingscreentip>
+<loadingscreentip>焊枪非常简单易用，潜艇上的船员都可以使用，但熟练的机修工往往是高效率低风险的焊工，能不受伤、快速地完成相关工作。</loadingscreentip>
 <loadingscreentip>潜艇上的船员都接受过电气设备基本维修培训，不过电气工程师精于此道。</loadingscreentip>
 <loadingscreentip>潜艇上的船员都接受过机械设备基本维修培训，不过机修工精于此道。</loadingscreentip>
 <loadingscreentip>一般情况下，舰长比普通船员更擅长操纵潜水艇。</loadingscreentip>
@@ -46,7 +46,7 @@
 <loadingscreentip>非常不幸的是，精神病等精神障碍在潜艇船员中很常见，尤其是在遗迹探险之后。如果你的船员开始看到或听到其他人无法认知的事物，立即向医生报告。</loadingscreentip>
 <loadingscreentip>医生们的主要任务是保证船员们的身体健康，但在有入侵者侵入时，有着注射器枪与毒药知识的医生不容忽视。</loadingscreentip>
 <loadingscreentip>许多药物有着意想不到的副作用。请密切关注病人情况，随时准备用其他药物来抵消这些副作用。</loadingscreentip>
-<loadingscreentip>在使用潜水面罩时，注意不要把焊接油箱和氧气罐弄混。</loadingscreentip>
+<loadingscreentip>在使用潜水面罩时，注意不要把焊接油罐和氧气罐弄混。</loadingscreentip>
 <loadingscreentip>潜水面罩可以让你在水下呼吸，但不能帮助你抵御深海水压。如果船体有较大的结构破损，请立即换上潜水衣。</loadingscreentip>
 <loadingscreentip>一旦发生火灾，比烧伤更需要注意的是潜艇内的氧气含量。</loadingscreentip>
 <loadingscreentip>穿越这片被称为热液废土的地形时需格外小心，这些区域生物数量丰富，地热活动引发的水流变化使航行变得更加危险。</loadingscreentip>
@@ -1852,7 +1852,7 @@
 
 <!-- Display names -->
 <displayname.oxygentankempty>氧气罐（空）</displayname.oxygentankempty>
-<displayname.weldingfueltankempty>焊接油箱（空）</displayname.weldingfueltankempty>
+<displayname.weldingfueltankempty>焊接油罐（空）</displayname.weldingfueltankempty>
 <displayname.scrapsavantitem>[物品名称] (废料专家)</displayname.scrapsavantitem>
 <displayname.recycleitem>[itemname] (回收)</displayname.recycleitem>
 <displayname.emptyitem>[itemname] (空)</displayname.emptyitem>
@@ -2005,12 +2005,12 @@
 <entitydescription.antibleeding2>一种具有止血功能的人造皮肤，可以迅速治愈大部分伤口。</entitydescription.antibleeding2>
 <entityname.antibleeding3>抗生素凝胶</entityname.antibleeding3>
 <entitydescription.antibleeding3>一种具有强效止血功能的抗生素凝胶，可以瞬间止血、快速有效地治疗烧伤。但要小心它可能造成致命的血栓。</entitydescription.antibleeding3>
-<entityname.weldingtool>焊接工具</entityname.weldingtool>
+<entityname.weldingtool>焊枪</entityname.weldingtool>
 <entitydescription.weldingtool>潜艇上最重要的工具之一，可在水下工作。</entitydescription.weldingtool>
 <entityname.plasmacutter>等离子切割器</entityname.plasmacutter>
 <entitydescription.plasmacutter>通过高温电离氧气产生等离子电弧，用于切割各种材料。</entitydescription.plasmacutter>
-<entityname.weldingfueltank>焊接油箱</entityname.weldingfueltank>
-<entitydescription.weldingfueltank>焊接工具的燃料。</entitydescription.weldingfueltank>
+<entityname.weldingfueltank>焊接油罐</entityname.weldingfueltank>
+<entitydescription.weldingfueltank>焊枪的燃料。</entitydescription.weldingfueltank>
 <entityname.oxygentank>氧气罐</entityname.oxygentank>
 <entitydescription.oxygentank>便携氧气储存装置。</entitydescription.oxygentank>
 <entityname.extinguisher>灭火器</entityname.extinguisher>
@@ -3992,7 +3992,7 @@
 <itemmsgdetachwrench>[[use]] 拆卸（需要扳手）</itemmsgdetachwrench>
 <itemmsgforceopencrowbar>[[use]] 撬开（需要撬棍）</itemmsgforceopencrowbar>
 <itemmsgrepairscrewdriver>[[use]] 修理（需要螺丝刀）</itemmsgrepairscrewdriver>
-<itemmsgrepairweldingtool>[[shoot]] 修理（需要焊接工具）</itemmsgrepairweldingtool>
+<itemmsgrepairweldingtool>[[shoot]] 修理（需要焊枪）</itemmsgrepairweldingtool>
 <itemmsgrepairwrench>[[use]] 修理（需要扳手）</itemmsgrepairwrench>
 <itemmsguseplasmacutter>[[shoot]] 切割（需要等离子切割机）</itemmsguseplasmacutter>
 <itemmsgbatterycellrequired>需要电池</itemmsgbatterycellrequired>
@@ -4412,7 +4412,7 @@
 <tutorial.syringeguntitle>注射器枪</tutorial.syringeguntitle>
 <tutorial.syringegundescription>注射器枪是一种以药物为弹药的远程武器，你可以用它进行远程治疗——药效会比直接注射差一点——也可以换装毒剂，遏制敌人的进攻。注射器枪的操作方法与其他远程武器相同，按{0}瞄准，按{1}射击。</tutorial.syringegundescription>
 <tutorial.plasmacuttertitle>等离子切割机</tutorial.plasmacuttertitle>
-<tutorial.plasmacutterdescription>一种用于切割墙壁和舱门的工具，操作方式与焊接工具类似，按{0}瞄准，按{1}射击。\n\n虽然它是一种工具，但也可以作为武器使用，接触到离子电弧的敌人将会被烧伤。</tutorial.plasmacutterdescription>
+<tutorial.plasmacutterdescription>一种用于切割墙壁和舱门的工具，操作方式与焊枪类似，按{0}瞄准，按{1}射击。\n\n虽然它是一种工具，但也可以作为武器使用，接触到离子电弧的敌人将会被烧伤。</tutorial.plasmacutterdescription>
 <tutorial.crowbartitle>撬棍</tutorial.crowbartitle>
 <tutorial.crowbardescription>一种用于强行撬开舱门的工具。当你想强行进入禁行舱室或有人切断了舱门的开关导线时，撬棍是一件很实用的工具。装备撬棍后，可以按({0}) 撬开一扇紧闭的门。</tutorial.crowbardescription>
 <tutorial.mineralstitle>矿物</tutorial.mineralstitle>
@@ -4450,7 +4450,7 @@
 <!-- Room 3 -->
 <mechanic.welding>漏洞</mechanic.welding>
 <mechanic.weldingobjective>修复漏洞</mechanic.weldingobjective>
-<mechanic.weldingtext>若要修复船体上漏水的漏洞，请双击装备焊接工具和潜水面罩。潜水面罩可以让你在水下呼吸，焊接工具可以修复船体漏洞\n\n装备好焊接工具后，按{0}瞄准，瞄准完成后，按{1}开始焊接。</mechanic.weldingtext>
+<mechanic.weldingtext>若要修复船体上漏水的漏洞，请双击装备焊枪和潜水面罩。潜水面罩可以让你在水下呼吸，焊枪可以修复船体漏洞\n\n装备好焊枪后，按{0}瞄准，瞄准完成后，按{1}开始焊接。</mechanic.weldingtext>
 <mechanic.drain>水泵</mechanic.drain>
 <mechanic.drainobjective>打开附近的水泵，排出废水</mechanic.drainobjective>
 <mechanic.draintext>按下({0})与水泵交互，并按下红色大按钮。</mechanic.draintext>
@@ -4466,7 +4466,7 @@
 <!-- Room 5 -->
 <mechanic.extinguisher>火灾</mechanic.extinguisher>
 <mechanic.extinguisherobjective>灭火</mechanic.extinguisherobjective>
-<mechanic.extinguishertext>灭火器的装备方式与焊接工具一样。装备后按住{0}对准火源，再按住{1}灭火。</mechanic.extinguishertext>
+<mechanic.extinguishertext>灭火器的装备方式与焊枪一样。装备后按住{0}对准火源，再按住{1}灭火。</mechanic.extinguishertext>
 <mechanic.dropextinguisher>取放物品</mechanic.dropextinguisher>
 <mechanic.dropextinguisherobjective>放下灭火器</mechanic.dropextinguisherobjective>
 <mechanic.dropextinguishertext>灭火器等较大物品无法随身携带。若想放下灭火器，将其从个人库存中拖出，并放开鼠标按键。</mechanic.dropextinguishertext>
@@ -4950,10 +4950,10 @@
 <acidparty_traitorobjectivestartmessage4>第三步。匆匆离去。\n[traitorgoalinfos]</acidparty_traitorobjectivestartmessage4>
 
 <!-- Tainted welding mission -->
-<tainted_welding_traitorobjectivestartmessage2>收音器吱吱作响，你收到了一个微弱的信号：木卫二抵抗军直接命令，你被允许继续你的任务：必须弄沉此潜艇，并让它看上去像是个意外。从破坏焊接工具开始。\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage2>
-<tainted_welding_goalinfotext_2>将潜艇上至少70%焊接工具的燃料换成氧气罐。</tainted_welding_goalinfotext_2>
-<tainted_welding_objectivesuccessmessage2>干得好。氧气罐在接上焊接工具后会剧烈燃烧。</tainted_welding_objectivesuccessmessage2>
-<tainted_welding_traitorobjectivestartmessage3>现在你需要处理掉那些焊接工具燃料，免得船员之后再换回来：\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage3>
+<tainted_welding_traitorobjectivestartmessage2>收音器吱吱作响，你收到了一个微弱的信号：木卫二抵抗军直接命令，你被允许继续你的任务：必须弄沉此潜艇，并让它看上去像是个意外。从破坏焊枪开始。\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage2>
+<tainted_welding_goalinfotext_2>将潜艇上至少70%焊枪的燃料换成氧气罐。</tainted_welding_goalinfotext_2>
+<tainted_welding_objectivesuccessmessage2>干得好。氧气罐在接上焊枪后会剧烈燃烧。</tainted_welding_objectivesuccessmessage2>
+<tainted_welding_traitorobjectivestartmessage3>现在你需要处理掉那些焊枪燃料，免得船员之后再换回来：\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage3>
 <tainted_welding_objectivesuccessmessage3>很好！船员现在在不知不觉中已经陷入了大麻烦。</tainted_welding_objectivesuccessmessage3>
 <tainted_welding_traitorobjectivestartmessage4>现在赶快去设置一个陷阱！\n[traitorgoalinfos]</tainted_welding_traitorobjectivestartmessage4>
 <tainted_welding_objectivesuccessmessage4>干得好，同志！这些猪现在已经必死无疑。</tainted_welding_objectivesuccessmessage4>
@@ -6437,7 +6437,7 @@
 <talentdescription.allhandsondeck>你可以同时赋予两个角色激励增益。</talentdescription.allhandsondeck>
 <talentdescription.atmosmachine>当你拆解一件外星文物时，有[probability]%的概率将其转变成一件随机的异星造物。每当你完成一项任务时，你船上的每有一件大型异星造物，你的船员额外获得[experienceamount]%的任务经验，上限为[maxexperienceamount]%。</talentdescription.atmosmachine>
 <talentdescription.navydiver>当你在水中时，你受到的攻击会降低[attackpowerreduction]%。</talentdescription.navydiver>
-<talentdescription.crafthighqualityrepairtools>你制造的焊接工具和等离子切割机质量提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
+<talentdescription.crafthighqualityrepairtools>你制造的焊枪和等离子切割机质量提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
 <talentdescription.crafthighqualityweapons>你制造的武器质量提升[qualitybonus]。</talentdescription.crafthighqualityweapons>
 <talentdescription.crafthighqualitybatteries>你制造的电池质量提升[qualitybonus]。</talentdescription.crafthighqualitybatteries>
 <talentdescription.crafthighqualityfuelrods>你制造的燃料棒质量提升[qualitybonus]。</talentdescription.crafthighqualityfuelrods>
@@ -6449,7 +6449,7 @@
 <talentdescription.extratalentpoint>额外获得[points] 点天赋点数。</talentdescription.extratalentpoint>
 <talentdescription.lowhealth.effectivehealing>当你的生命低于[health]%时，普通伤害的治疗效果提升[extraheal]%。</talentdescription.lowhealth.effectivehealing>
 <talentdescription.lowhealth.regenerate>当你的生命低于[health]%时，普通伤害会缓慢自愈。</talentdescription.lowhealth.regenerate>
-<talentdescription.gainstructurerepairspeed>使用焊接工具修复船体的速度提升[amount]%。</talentdescription.gainstructurerepairspeed>
+<talentdescription.gainstructurerepairspeed>使用焊枪修复船体的速度提升[amount]%。</talentdescription.gainstructurerepairspeed>
 <talentdescription.gainstructurecutterdamage>用切割器对结构造成的伤害提升[amount]%。</talentdescription.gainstructurecutterdamage>
 <talentdescription.gainoredetachspeed>用切割器分解矿石速度提升[amount]%。</talentdescription.gainoredetachspeed>
 <talentdescription.gainforcedoorsopenspeed>强行打开门的速度提高[amount]%。</talentdescription.gainforcedoorsopenspeed>
@@ -6664,10 +6664,10 @@
 <tutorial.basics.repair2>按下[InputType.Select]维修受损设备。</tutorial.basics.repair2>
 <tutorial.basics.waitdrain>干得好！现在等待水泵抽干房间。</tutorial.basics.waitdrain>
 <tutorial.basics.repairouchie>嘶！记得在竖线进入进度条有色区域时按下维修按钮。</tutorial.basics.repairouchie>
-<tutorial.basics.weldingtool>焊接工具是修复漏水点不可或缺的装备。获取一把焊接工具。</tutorial.basics.weldingtool>
-<tutorial.basics.weldingfuel>焊接工具需要燃料。从容器中获取焊接油罐。</tutorial.basics.weldingfuel>
-<tutorial.basics.insertweldingfuel>将焊接油罐拖拽到焊接工具上来安装它。</tutorial.basics.insertweldingfuel>
-<tutorial.basics.insertweldingfuelalt>另一种方法时，当你已经装备了焊接工具，再按焊接油罐的工具栏数字来安装。</tutorial.basics.insertweldingfuelalt>
+<tutorial.basics.weldingtool>焊枪是修复漏水点不可或缺的装备。获取一把焊枪。</tutorial.basics.weldingtool>
+<tutorial.basics.weldingfuel>焊枪需要燃料。从容器中获取焊接油罐。</tutorial.basics.weldingfuel>
+<tutorial.basics.insertweldingfuel>将焊接油罐拖拽到焊枪上来安装它。</tutorial.basics.insertweldingfuel>
+<tutorial.basics.insertweldingfuelalt>另一种方法时，当你已经装备了焊枪，再按焊接油罐的工具栏数字来安装。</tutorial.basics.insertweldingfuelalt>
 <tutorial.basics.aimandfire>要瞄准你的工具或武器，按住[InputType.Aim]。当瞄准时，按下[InputType.Shoot]来使用或开火。</tutorial.basics.aimandfire>
 <tutorial.basics.aim>瞄准</tutorial.basics.aim>
 <tutorial.basics.fire>开火</tutorial.basics.fire>
@@ -6697,7 +6697,7 @@
 <tutorial.basics.objective4>获取螺丝刀</tutorial.basics.objective4>
 <tutorial.basics.objective5>维修接线盒</tutorial.basics.objective5>
 <tutorial.basics.objective6>等待房间排水</tutorial.basics.objective6>
-<tutorial.basics.objective7>获取焊接工具</tutorial.basics.objective7>
+<tutorial.basics.objective7>获取焊枪</tutorial.basics.objective7>
 <tutorial.basics.objective8>焊接受损舱壁</tutorial.basics.objective8>
 <tutorial.basics.objective9>穿戴潜水服</tutorial.basics.objective9>
 <tutorial.basics.objective10>为潜水服安装氧气罐</tutorial.basics.objective10>
@@ -6893,9 +6893,9 @@
 <tutorial.roles.mechanicinstructor_engine2>“东西冒烟或者发出奇怪的响声？拿起扳手把它修好。拿上这个扳手。去吧。”</tutorial.roles.mechanicinstructor_engine2>
 <tutorial.roles.popup.mechanic_engine>装备扳手。</tutorial.roles.popup.mechanic_engine>
 <tutorial.roles.popup.mechanic_engine2>维修引擎。</tutorial.roles.popup.mechanic_engine2>
-<tutorial.roles.mechanicinstructor_engine3>“不赖。还有，顶板也漏了，估计就是造成损伤的元凶。只要怎么用焊接工具吗？”</tutorial.roles.mechanicinstructor_engine3>
+<tutorial.roles.mechanicinstructor_engine3>“不赖。还有，顶板也漏了，估计就是造成损伤的元凶。只要怎么用焊枪吗？”</tutorial.roles.mechanicinstructor_engine3>
 <tutorial.roles.mechanicinstructor_engine3_player>“我知道。”</tutorial.roles.mechanicinstructor_engine3_player>
-<tutorial.roles.popup.mechanic_welding>装备焊接工具。</tutorial.roles.popup.mechanic_welding>
+<tutorial.roles.popup.mechanic_welding>装备焊枪。</tutorial.roles.popup.mechanic_welding>
 <tutorial.roles.popup.mechanic_welding2>焊接漏点。</tutorial.roles.popup.mechanic_welding2>
 <tutorial.roles.mechanicinstructor_ballast>“这样就行了。现在去补给箱拿个潜水面具。”</tutorial.roles.mechanicinstructor_ballast>
 <tutorial.roles.mechanicinstructor_ballast_player>“好的。”</tutorial.roles.mechanicinstructor_ballast_player>
@@ -6925,7 +6925,7 @@
 <tutorial.roles.mechanicinstructor_oxygen3>“很好，训练生，你完成了教学。整理好你的工具和工作环境，我们去喝啤酒吧。”</tutorial.roles.mechanicinstructor_oxygen3>
 <tutorial.roles.mechanicinstructor_oxygen3_player>“好的，谢谢！”</tutorial.roles.mechanicinstructor_oxygen3_player>
 <tutorial.roles.mechanic.objective.engine>维修引擎</tutorial.roles.mechanic.objective.engine>
-<tutorial.roles.mechanic.objective.leaks>使用焊接工具维修船壳</tutorial.roles.mechanic.objective.leaks>
+<tutorial.roles.mechanic.objective.leaks>使用焊枪维修船壳</tutorial.roles.mechanic.objective.leaks>
 <tutorial.roles.mechanic.objective.ballast1>潜入压载舱</tutorial.roles.mechanic.objective.ballast1>
 <tutorial.roles.mechanic.objective.ballast2>维修压载舱水泵</tutorial.roles.mechanic.objective.ballast2>
 <tutorial.roles.mechanic.objective.ballast3>离开压载舱</tutorial.roles.mechanic.objective.ballast3>
