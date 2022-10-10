@@ -295,23 +295,23 @@
 
 	<Conversation line="前几天我看到一只藻鬃爬行者，真是可怕的生物。" speaker="0" speakertags="joker,crazy" maxintensity="0.2"/>
 
-	<Conversation line="授人以鱼，三餐之需。" speaker="0" speakertags="joker" maxintensity="0.4">
-		<Conversation line="授鱼以人，血口噬食。" speaker="0" flags="Psychosis">
+	<Conversation line="授人以鱼，能打个嗝儿。" speaker="0" speakertags="joker" maxintensity="0.4">
+		<Conversation line="授鱼以人，鱼打个嗝儿。" speaker="0" flags="Psychosis">
 			<Conversation line="授人以鱼等于授人以人。" speaker="0" flags="Psychosis">
 				<Conversation line="授人以鱼。" speaker="0" flags="Psychosis">
 					<Conversation line="授鱼以人。" speaker="0" flags="Psychosis">
 						<Conversation line="授人以人。" speaker="0" flags="Psychosis">
-							<Conversation line="不对！" speaker="1" flags="PsychosisSelf"/>
+							<Conversation line="不要啊！" speaker="1" flags="PsychosisSelf"/>
 						</Conversation>
 					</Conversation>
 				</Conversation>
 			</Conversation>
 		</Conversation>
-		<Conversation line="授人以渔最常见的下场就是命丧鱼口。" speaker="0" speakertags="joker">
-			<Conversation line="胡言乱语。" speaker="1">
-				<Conversation line="正是如此。" speaker="0"/>
+		<Conversation line="授人以渔，人被鱼吃了。" speaker="0" speakertags="joker">
+			<Conversation line="什么脑瘫发言。" speaker="1">
+				<Conversation line="可事实就是如此啊。" speaker="0"/>
 			</Conversation>
-			<Conversation line="行了，别再开玩笑了。" speaker="0" speakertags="professional,rude"/>
+			<Conversation line="今日份玩笑开够了。" speaker="0" speakertags="professional,rude"/>
 		</Conversation>
 	</Conversation>
 
@@ -319,33 +319,33 @@
 		<Conversation line="可是我们没几天好活了。" speaker="0" flags="Psychosis">
 			<Conversation line="这一切毫无意义。" speaker="0" flags="Psychosis"/>
 		</Conversation>
-		<Conversation line="听我把话说完，我们可以赚一大笔钱。" speaker="0">
-			<Conversation line="你们说如果我们把氧气罐造大一点？" speaker="0">
-				<Conversation line="那种一个可以顶上一两个小时的氧气罐？" speaker="0">
-					<Conversation line="虽然我不是这领域的专家，但我觉得这从技术上来说根本没什么问题。" speaker="0">
-						<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="1" speakertags="professional"/>
-						<Conversation line="我不确定…一定有什么技术上的难题没解决，不然早有人这么做了。" speaker="1"/>
-						<Conversation line="这想法有点儿意悉。" speaker="1" speakertags="brokenenglish">
-							<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
+		<Conversation line="听我说，这样我们可以赚一大笔钱。" speaker="0">
+			<Conversation line="如果我们把氧气罐造得大一点会怎么样，你们说呢？" speaker="0">
+				<Conversation line="一个就可以用上一两个小时的那种？" speaker="0">
+					<Conversation line="虽然我不是很懂，但我觉得这从技术上来说根本没有什么问题。" speaker="0">
+						<Conversation line="还是先做好你的工作吧。" speaker="1" speakertags="professional"/>
+						<Conversation line="不好说…一定有什么技术上的难题没被解决，不然早就有人这么做了。" speaker="1"/>
+						<Conversation line="介个想法有点意悉。" speaker="1" speakertags="brokenenglish">
+							<Conversation line="喂，你们能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 						</Conversation>
 					</Conversation>
 				</Conversation>
 			</Conversation>
-			<Conversation line="防水接线盒。" speaker="0">
+			<Conversation line="能防水的接线盒。" speaker="0">
 				<Conversation line="天才创意，对吧？" speaker="0">
-					<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="1" speakertags="professional"/>
-					<Conversation line="一定有什么技术上的考量，你看现在哪个接线盒是上没有洞的？" speaker="1">
+					<Conversation line="还是先做好你自己的工作吧。" speaker="1" speakertags="professional"/>
+					<Conversation line="一定有什么技术上的考量，你看现在哪个接线盒是上没有留口子的？" speaker="1">
 						<Conversation line="要不然他们早就把接线盒做成防水的了。" speaker="1"/>
 					</Conversation>
 					<Conversation line="有点儿意悉。" speaker="1" speakertags="brokenenglish">
-						<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
+						<Conversation line="喂，你们能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 					</Conversation>
 				</Conversation>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="这里真安静。" speaker="0" maxintensity="0.3">
+	<Conversation line="这鬼地方真安静。" speaker="0" maxintensity="0.3">
 		<Conversation line="啊啊啊啊啊啊啊啊啊啊！" speaker="0" flags="Psychosis">
 			<Conversation line="啊啊啊啊啊啊啊啊啊啊！" speaker="0" flags="Psychosis">
 				<Conversation line="啊啊啊啊啊啊啊啊啊啊！" speaker="0" flags="Psychosis"/>
@@ -361,7 +361,7 @@
 	<Conversation line="无线电检查。" speaker="0" speakertags="professional" maxintensity="0.3">
 		<Conversation line="无线电检查。" speaker="1" flags="PsychosisSelf">
 			<Conversation line="检查无线电。" speaker="1" flags="PsychosisSelf">
-				<Conversation line="无线电波。辐射。放射线。" speaker="1" flags="PsychosisSelf">
+				<Conversation line="无线电波。辐射。射线。" speaker="1" flags="PsychosisSelf">
 					<Conversation line="无线电！" speaker="1" flags="PsychosisSelf">
 						<Conversation line="无线电。" speaker="1" flags="PsychosisSelf"/>
 					</Conversation>
@@ -417,7 +417,7 @@
 
 	<Conversation line="怎么大家都不说话？" speaker="0" minintensity="0.3" maxintensity="0.6"/>
 
-	<Conversation line="我们能做到的。" speaker="0" minintensity="0.3"/>
+	<Conversation line="我们能行的。" speaker="0" minintensity="0.3"/>
 
 	<Conversation line="总算是做了点什么！" speaker="0" speakertags="tough" minintensity="0.3"/>
 
@@ -433,7 +433,7 @@
 
 	<Conversation line="要完！" speaker="0" speakertags="brokenenglish" minintensity="0.5"/>
 
-	<Conversation line="他们说，加入舰队！他们还说了，这会很刺激的！" speaker="0" speakertags="joker" minintensity="0.5"/>
+	<Conversation line="他们当初到处宣传，加入舰队，刺激非凡，我们需要你！" speaker="0" speakertags="joker" minintensity="0.5"/>
 
 	<Conversation line="事后我要喝一杯！" speaker="0" speakertags="joker,laid-back" minintensity="0.5"/>
 
@@ -443,7 +443,7 @@
 
 	<Conversation line="我不想死！" speaker="0" speakertags="fearful" minintensity="0.6"/>
 
-	<Conversation line="早知道当初就去当一名植物学家！" speaker="0" speakertags="joker" minintensity="0.6"/>
+	<Conversation line="早知道当初就去学种地，现在就能当个植物学家！" speaker="0" speakertags="joker" minintensity="0.6"/>
 
 	<Conversation line="大家坚持住！我们能做到的！" speaker="0" speakertags="tough" minintensity="0.6">
 		<Conversation line="你确定？" speaker="1" speakertags="fearful"/>
@@ -879,8 +879,8 @@
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="我最近感觉不舒服。今天早上我在刷牙时晕倒了，而且我脸颊上的这种奇怪的皮疹也越来越严重。" speaker="0" flags="OutpostNPC">
-		<Conversation line="你不看《欧罗巴人》的吗？和那个‘问医生’板块的其中的某段描述非常相似。" speaker="1" flags="OutpostNPC">
+	<Conversation line="我最近感觉不太妙。今天早上我在刷牙时晕倒了，而且我脸颊上的这种奇怪的皮疹也越来越严重。" speaker="0" flags="OutpostNPC">
+		<Conversation line="你不看《欧罗巴人》的吗？你这个情况和那个‘问医生’板块的其中的某段描述非常相似。" speaker="1" flags="OutpostNPC">
 			<Conversation line="呃，我不太看它。而且那个医生就是个笑话--听她的不如直接找个墙撞死。" speaker="0"/>
 		</Conversation>
 		<Conversation line="你知道你刚刚描述的是太空疱疹吧？" speaker="1" flags="OutpostNPC">
