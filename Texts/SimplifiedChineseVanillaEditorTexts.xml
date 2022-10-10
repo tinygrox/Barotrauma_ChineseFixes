@@ -41,13 +41,13 @@
 <subnameillegalcharswarning>Illegal symbols in filename ([illegalchar])</subnameillegalcharswarning>
 <subsavednotification>Submarine saved to [filepath].</subsavednotification>
 <savesubdialogheader>Save submarine</savesubdialogheader>
-<savesubdialogname>Name</savesubdialogname>
-<savesubdialogdescription>Description</savesubdialogdescription>
-<savesubdialogsettings>Settings</savesubdialogsettings>
+<savesubdialogname>名称</savesubdialogname>
+<savesubdialogdescription>描述</savesubdialogdescription>
+<savesubdialogsettings>设置</savesubdialogsettings>
 <saveitemassemblydialogheader>Save assembly</saveitemassemblydialogheader>
 <saveitemassemblyhideinmenus>Hide in menus</saveitemassemblyhideinmenus>
-<saveitemassemblydialogname>Name</saveitemassemblydialogname>
-<saveitemassemblydialogdescription>Description</saveitemassemblydialogdescription>
+<saveitemassemblydialogname>名称</saveitemassemblydialogname>
+<saveitemassemblydialogdescription>描述</saveitemassemblydialogdescription>
 <itemassemblynamemissingwarning>Name your item assembly before saving it.</itemassemblynamemissingwarning>
 <itemassemblyfileexistswarning>There's already an item assembly with the same name. Do you want to replace the existing assembly?</itemassemblyfileexistswarning>
 <itemassemblynameillegalcharswarning>Illegal symbols in filename ([illegalchar])</itemassemblynameillegalcharswarning>
@@ -305,8 +305,8 @@
 
 <!-- Level Editor -->
 <leveleditor.levelseed>Level Seed</leveleditor.levelseed>
-<leveleditor.generate>Generate</leveleditor.generate>
-<leveleditor.test>Test</leveleditor.test>
+<leveleditor.generate>生成</leveleditor.generate>
+<leveleditor.test>测试</leveleditor.test>
 <leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
 <leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
 <leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
@@ -331,9 +331,9 @@
 <leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
 <leveleditor.allsaved>All changes saved</leveleditor.allsaved>
 
-<sp.item.hiddeningame.name>Hidden In Game</sp.item.hiddeningame.name>
-<sp.item.noninteractable.name>Non Interactable</sp.item.noninteractable.name>
-<sp.item.scale.name>Scale</sp.item.scale.name>
+<sp.item.hiddeningame.name>游戏中隐藏</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>不可交互</sp.item.noninteractable.name>
+<sp.item.scale.name>比例大小</sp.item.scale.name>
 <sp.item.spritecolor.name>Sprite Color</sp.item.spritecolor.name>
 <sp.item.inventoryiconcolor.name>Inventory Icon Color</sp.item.inventoryiconcolor.name>
 <sp.item.containercolor.name>Container Color</sp.item.containercolor.name>
@@ -370,11 +370,11 @@
 <sp.holdable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.holdable.swingwhenaiming.description>
 <sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
 <sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.holdable.swingwhenusing.description>
-<sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
+<sp.door.openingspeed.name>开门速度</sp.door.openingspeed.name>
 <sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
-<sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
+<sp.door.closingspeed.name>关门速度</sp.door.closingspeed.name>
 <sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
-<sp.door.isopen.name>Is Open</sp.door.isopen.name>
+<sp.door.isopen.name>敞开</sp.door.isopen.name>
 <sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
 <sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
 <sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
@@ -595,7 +595,7 @@
 <sp.vulnerabletoemp.description>Can the item be damaged by electomagnetic pulses.</sp.vulnerabletoemp.description>
 
 <!-- Structure -->
-<entityname.hull>Hull</entityname.hull>
+<entityname.hull>船体</entityname.hull>
 <entitydescription.hull>Hulls determine which parts are considered to be 'inside the sub'. Generally every room should be enclosed by a hull.</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
 <entitydescription.gap>Gaps allow water and air to flow between two hulls.</entitydescription.gap>

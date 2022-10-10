@@ -10,7 +10,7 @@
 <loadingscreentip>如果货物在运输过程中丢失或损坏，你将不会收到任何报酬。</loadingscreentip>
 <loadingscreentip>发电功率大于潜艇内设备用电功率可能会损坏接线盒甚至引发火灾。</loadingscreentip>
 <loadingscreentip>接线盒和其他的电器设备在水中浸泡太久可能会损坏。</loadingscreentip>
-<loadingscreentip>潜艇的核反应堆的堆芯如果持续过热而不关停，轻则引发火灾，重则导致堆芯熔毁事故。</loadingscreentip>
+<loadingscreentip>潜艇的核反应堆的堆芯如果持续过热而不关停的话，轻则引发火灾，重则导致堆芯熔毁事故。</loadingscreentip>
 <loadingscreentip>大多数潜艇都配备了蓄电池，作为反应堆发生故障时的临时备用电源。</loadingscreentip>
 <loadingscreentip>潜艇的轨道炮炮弹和深水炸弹包含一个可容纳额外炸药的隔层。</loadingscreentip>
 <loadingscreentip>被动声纳可在不引发不必要注意的前提下探测附近的声源。你也可以通过冰墙反射的声波来大致了解周边环境。</loadingscreentip>
@@ -3025,7 +3025,7 @@
 <roomname.engineroom>引擎舱</roomname.engineroom>
 <roomname.commandroom>指挥室</roomname.commandroom>
 <roomname.airlock>气闸</roomname.airlock>
-<roomname.ballast>压舱物</roomname.ballast>
+<roomname.ballast>压载舱</roomname.ballast>
 <roomname.subtopleft>上层艉</roomname.subtopleft>
 <roomname.subtopcenter>上层舯</roomname.subtopcenter>
 <roomname.subtopright>上层艏</roomname.subtopright>
@@ -6900,7 +6900,7 @@
 <tutorial.roles.mechanicinstructor_ballast>“这样就行了。现在去补给箱拿个潜水面具。”</tutorial.roles.mechanicinstructor_ballast>
 <tutorial.roles.mechanicinstructor_ballast_player>“好的。”</tutorial.roles.mechanicinstructor_ballast_player>
 <tutorial.roles.popup.mechanic_divingmask>装备潜水面具</tutorial.roles.popup.mechanic_divingmask>
-<tutorial.roles.ballastdescription>“下楼梯穿过地门就是压载舱。压载舱是负责进水排水，控制潜艇上浮下潜的地方。”</tutorial.roles.ballastdescription>
+<tutorial.roles.ballastdescription>“下楼梯穿过地门就是压载舱。压载舱就是个不断地抽水进来排水出去，以此控制潜艇上浮下潜的地方。”</tutorial.roles.ballastdescription>
 <tutorial.roles.mechanicinstructor_ballast2>“压载舱中有水泵负责抽水。如果水泵坏了，你就要进去修理。因为里面往往有水，所以最好随身携带潜水设备。刚才的扳手还在身上吗？”</tutorial.roles.mechanicinstructor_ballast2>
 <tutorial.roles.mechanicinstructor_ballast2_player>“在的。”</tutorial.roles.mechanicinstructor_ballast2_player>
 <tutorial.roles.popup.mechanic_ballast>修理压载舱水泵</tutorial.roles.popup.mechanic_ballast>
