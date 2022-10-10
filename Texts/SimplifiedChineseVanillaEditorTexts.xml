@@ -40,7 +40,7 @@
 <subnamemissingwarning>Name your submarine before saving it.</subnamemissingwarning>
 <subnameillegalcharswarning>Illegal symbols in filename ([illegalchar])</subnameillegalcharswarning>
 <subsavednotification>Submarine saved to [filepath].</subsavednotification>
-<savesubdialogheader>Save submarine</savesubdialogheader>
+<savesubdialogheader>保存潜艇</savesubdialogheader>
 <savesubdialogname>名称</savesubdialogname>
 <savesubdialogdescription>描述</savesubdialogdescription>
 <savesubdialogsettings>设置</savesubdialogsettings>
