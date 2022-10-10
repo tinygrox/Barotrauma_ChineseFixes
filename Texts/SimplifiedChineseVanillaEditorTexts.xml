@@ -7,8 +7,8 @@
 <!-- Submarine Editor -->
 <items>物品</items>
 <structures>结构</structures>
-<totalhullvolume>Total hull volume</totalhullvolume>
-<selectedhullvolume>Selected hull volume</selectedhullvolume>
+<totalhullvolume>总的船体空间</totalhullvolume>
+<selectedhullvolume>选定的船体空间</selectedhullvolume>
 <optimalballastlevel>optimal neutral ballast level is [value]</optimalballastlevel>
 <saveitemassembly>Save as item assembly</saveitemassembly>
 <insufficientballast>insufficient volume for buoyancy control</insufficientballast>
@@ -21,25 +21,25 @@
 <allowedlinks>Allowed links</allowedlinks>
 <filtermapentities>筛选</filtermapentities>
 <charactermodebutton>角色模式</charactermodebutton>
-<charactermodetooltip>你可以捡起和使用物品. 对于 such as placing items inside closets, turning devices on/off and doing the wiring来说很有用。</charactermodetooltip>
-<wiringmodebutton>Wiring mode</wiringmodebutton>
-<wiringmodetooltip>Allows you to connect wires between items.</wiringmodetooltip>
-<generatewaypointsbutton>Generate waypoints</generatewaypointsbutton>
-<generatewaypointstooltip>AI controlled crew members require waypoints to navigate around the sub.</generatewaypointstooltip>
-<showentitieslabel>Show</showentitieslabel>
-<showwalls>Walls</showwalls>
-<showstructures>Structures</showstructures>
-<showitems>Items</showitems>
-<showlighting>Lighting</showlighting>
-<showwaypoints>Waypoints</showwaypoints>
+<charactermodetooltip>你可以捡起和使用物品. 对于把物品放置进箱子、开关电器和布线等操作来说很有用。</charactermodetooltip>
+<wiringmodebutton>布线模式</wiringmodebutton>
+<wiringmodetooltip>对物品之间进行布线.</wiringmodetooltip>
+<generatewaypointsbutton>生成路径点</generatewaypointsbutton>
+<generatewaypointstooltip>AI船员需要路径点才能在潜艇内活动.</generatewaypointstooltip>
+<showentitieslabel>显示</showentitieslabel>
+<showwalls>墙体</showwalls>
+<showstructures>结构</showstructures>
+<showitems>物品</showitems>
+<showlighting>灯光</showlighting>
+<showwaypoints>路径点</showwaypoints>
 <showspawnpoints>Spawnpoints</showspawnpoints>
 <showlinks>Links</showlinks>
-<showhulls>Hulls</showhulls>
+<showhulls>船体</showhulls>
 <showgaps>Gaps</showgaps>
 <previouslyusedlabel>Previously used</previouslyusedlabel>
 <subnamemissingwarning>Name your submarine before saving it.</subnamemissingwarning>
 <subnameillegalcharswarning>Illegal symbols in filename ([illegalchar])</subnameillegalcharswarning>
-<subsavednotification>Submarine saved to [filepath].</subsavednotification>
+<subsavednotification>潜艇已保存至[filepath].</subsavednotification>
 <savesubdialogheader>保存潜艇</savesubdialogheader>
 <savesubdialogname>名称</savesubdialogname>
 <savesubdialogdescription>描述</savesubdialogdescription>
@@ -66,7 +66,7 @@
 <hideinmenus>Hide in menus</hideinmenus>
 <manuallyoutfitted>Manually outfitted</manuallyoutfitted>
 <manuallyoutfittedtooltip>Does the submarine come with enough manually placed supplies to start with, or does it rely on automatically placed items and/or items transferred with the player?</manuallyoutfittedtooltip>
-<unspecifiedsubfilename>Unnamed</unspecifiedsubfilename>
+<unspecifiedsubfilename>未命名潜艇</unspecifiedsubfilename>
 <reloadsprite>Reload Sprite</reloadsprite>
 <resettoprefab>Reset to prefab</resettoprefab>
 <mirrorentityx>Mirror X</mirrorentityx>
@@ -100,16 +100,16 @@
 
 <!-- Sprite Editor -->
 <spriteeditor.reloadtexture>重载贴图</spriteeditor.reloadtexture>
-<spriteeditor.texturesreloaded>从[filepath]的贴图重载</spriteeditor.texturesreloaded>
+<spriteeditor.texturesreloaded>从[filepath]的贴图已重载</spriteeditor.texturesreloaded>
 <spriteeditor.resetchanges>撤销更改</spriteeditor.resetchanges>
 <spriteeditor.resetsuccessful>所有更改已经成功撤销</spriteeditor.resetsuccessful>
 <spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
 <spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
-<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
-<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
-<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
-<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
-<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
+<spriteeditor.zoom>缩放:</spriteeditor.zoom>
+<spriteeditor.resetzoom>重置缩放大小</spriteeditor.resetzoom>
+<spriteeditor.showgrid>显示网格</spriteeditor.showgrid>
+<spriteeditor.snaptogrid>网格对齐</spriteeditor.snaptogrid>
+<spriteeditor.backgroundcolor>背景\n颜色:</spriteeditor.backgroundcolor>
 <spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
 <spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
 <spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
@@ -126,14 +126,14 @@
 <eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
 <eventeditor.removeoption>Remove option</eventeditor.removeoption>
 <eventeditor.addoption>Add option</eventeditor.addoption>
-<eventeditor.saveproject>Save project</eventeditor.saveproject>
-<eventeditor.loadproject>Load project</eventeditor.loadproject>
-<eventeditor.newproject>New project</eventeditor.newproject>
+<eventeditor.saveproject>保存项目</eventeditor.saveproject>
+<eventeditor.loadproject>载入项目</eventeditor.loadproject>
+<eventeditor.newproject>新建项目</eventeditor.newproject>
 <eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
 <eventeditor.export>Export as event</eventeditor.export>
 <eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
 <eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
-<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
+<eventeditor.unnamed>未命名</eventeditor.unnamed>
 <eventeditor.opentextheader>Open event</eventeditor.opentextheader>
 <eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
 <eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
@@ -153,7 +153,7 @@
 <charactereditor.contentpackagesaved>Content package saved at: [path]</charactereditor.contentpackagesaved>
 <charactereditor.backgroundcolor>Background \nColor</charactereditor.backgroundcolor>
 <charactereditor.spritesheetzoom>Spritesheet Zoom</charactereditor.spritesheetzoom>
-<charactereditor.reset>Reset</charactereditor.reset>
+<charactereditor.reset>重置</charactereditor.reset>
 <charactereditor.hidebodysprites>Hide Body Sprites</charactereditor.hidebodysprites>
 <charactereditor.showwearables>Show Wearables</charactereditor.showwearables>
 <charactereditor.lockspriteorigin>Lock Sprite Origin</charactereditor.lockspriteorigin>
@@ -192,10 +192,10 @@
 <charactereditor.allanimationssaved>All animations saved</charactereditor.allanimationssaved>
 <charactereditor.ragdollsavedto>Ragdoll saved to [path]</charactereditor.ragdollsavedto>
 <charactereditor.charactersavedto>Character config file saved to [path]</charactereditor.charactersavedto>
-<charactereditor.resetbutton>Reset</charactereditor.resetbutton>
-<charactereditor.saveragdoll>Save Ragdoll</charactereditor.saveragdoll>
+<charactereditor.resetbutton>重置</charactereditor.resetbutton>
+<charactereditor.saveragdoll>保存布娃娃</charactereditor.saveragdoll>
 <charactereditor.providefilename>Please provide a name for the file</charactereditor.providefilename>
-<charactereditor.loadragdoll>Load Ragdoll</charactereditor.loadragdoll>
+<charactereditor.loadragdoll>载入布娃娃</charactereditor.loadragdoll>
 <charactereditor.couldntopendirectory>Couldn't open directory [folder]!</charactereditor.couldntopendirectory>
 <charactereditor.ragdolldeletedfrom>Ragdoll deleted from [file]</charactereditor.ragdolldeletedfrom>
 <charactereditor.ragdollloadedfrom>Ragdoll loaded from [file]</charactereditor.ragdollloadedfrom>
@@ -238,12 +238,12 @@
 <charactereditor.upperlimit>Upper Limit</charactereditor.upperlimit>
 <charactereditor.lowerlimit>Lower Limit</charactereditor.lowerlimit>
 <charactereditor.defaultname>Character X</charactereditor.defaultname>
-<charactereditor.ishumanoid>Is Humanoid?</charactereditor.ishumanoid>
-<charactereditor.canentersubmarines>Can Enter Submarines?</charactereditor.canentersubmarines>
-<charactereditor.canwalk>Can Walk?</charactereditor.canwalk>
+<charactereditor.ishumanoid>人形生物?</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>可进入潜艇?</charactereditor.canentersubmarines>
+<charactereditor.canwalk>可行走?</charactereditor.canwalk>
 <charactereditor.configfileoutput>Config File Output</charactereditor.configfileoutput>
-<charactereditor.texturepath>Texture Path</charactereditor.texturepath>
-<charactereditor.selecttexture>Select Texture</charactereditor.selecttexture>
+<charactereditor.texturepath>贴图路径</charactereditor.texturepath>
+<charactereditor.selecttexture>选择贴图</charactereditor.selecttexture>
 <charactereditor.contentpackagename>Content Package Name</charactereditor.contentpackagename>
 <charactereditor.texturedoesnotexist>The texture file does not exist!</charactereditor.texturedoesnotexist>
 <charactereditor.defineragdoll>Define Ragdoll</charactereditor.defineragdoll>
@@ -309,8 +309,8 @@
 <leveleditor.test>测试</leveleditor.test>
 <leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
 <leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
-<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
-<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
+<leveleditor.reloadtextures>重载贴图</leveleditor.reloadtextures>
+<leveleditor.spriteeditdone>完成</leveleditor.spriteeditdone>
 <leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
 <leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
 <leveleditor.childobjects>Child Objects</leveleditor.childobjects>
@@ -415,11 +415,11 @@
 <sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
 <sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
 <sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
-<sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
+<sp.itemlabel.text.name>文本</sp.itemlabel.text.name>
 <sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
-<sp.itemlabel.textcolor.name>Text Color</sp.itemlabel.textcolor.name>
+<sp.itemlabel.textcolor.name>文本颜色</sp.itemlabel.textcolor.name>
 <sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
-<sp.itemlabel.textscale.name>Text Scale</sp.itemlabel.textscale.name>
+<sp.itemlabel.textscale.name>文本大小</sp.itemlabel.textscale.name>
 <sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
 <sp.minimap.requirewaterdetectors.name>Require Water Detectors</sp.minimap.requirewaterdetectors.name>
 <sp.minimap.requirewaterdetectors.description>Does the machine require inputs from water detectors in order to show the water levels inside rooms.</sp.minimap.requirewaterdetectors.description>
@@ -452,7 +452,7 @@
 <sp.engine.propellerpos.name>Propeller Pos</sp.engine.propellerpos.name>
 <sp.engine.propellerpos.description>The position of the propeller as an offset from the item's center (in pixels). Determines where the particles spawn and the position that causes characters to take damage from the engine if the PropellerDamage is defined.</sp.engine.propellerpos.description>
 
-<sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
+<sp.hull.roomname.name>舱室名称</sp.hull.roomname.name>
 <sp.hull.spritedepth.name>Sprite Depth</sp.hull.spritedepth.name>
 <sp.hull.scale.name>Scale</sp.hull.scale.name>
 <sp.delaycomponent.delay.name>Delay</sp.delaycomponent.delay.name>
@@ -506,7 +506,7 @@
 <sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
 <sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
 <sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
-<sp.turret.reload.name>Reload</sp.turret.reload.name>
+<sp.turret.reload.name>重新装填</sp.turret.reload.name>
 <sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
 <sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
 <sp.turret.rotationlimits.description>The range at which the barrel can rotate. TODO</sp.turret.rotationlimits.description>
@@ -1135,7 +1135,7 @@
 <entityname.opdeco_storageweaponshelf>Weapon Display Shelf</entityname.opdeco_storageweaponshelf>
 <entityname.opdeco_storageseedshelf>Seeds Display Shelf</entityname.opdeco_storageseedshelf>
 <entityname.opdeco_storagefrozenseedshelf>Frozen Seeds Display Shelf</entityname.opdeco_storagefrozenseedshelf>
-<entityname.opdeco_diningtable>Dining Table</entityname.opdeco_diningtable>
+<entityname.opdeco_diningtable>餐桌</entityname.opdeco_diningtable>
 <entityname.opdeco_boxes1>Boxes</entityname.opdeco_boxes1>
 <entityname.opdeco_bunks1>双人床铺</entityname.opdeco_bunks1>
 <entityname.opdeco_researchdecal1>Lab Decal</entityname.opdeco_researchdecal1>
@@ -1143,10 +1143,10 @@
 <entityname.opdeco_hrwindow2>Tall Office Window</entityname.opdeco_hrwindow2>
 <entityname.opdeco_hrwindowblinds>Office Window Blinds</entityname.opdeco_hrwindowblinds>
 <entityname.opdeco_hrblinds>Tall Office Window Blinds</entityname.opdeco_hrblinds>
-<entityname.opdeco_hrglassoffice>Office Door</entityname.opdeco_hrglassoffice>
+<entityname.opdeco_hrglassoffice>办公室门</entityname.opdeco_hrglassoffice>
 <entityname.opdeco_hrticketdispenser>Ticket Dispenser</entityname.opdeco_hrticketdispenser>
 <entityname.opdeco_hrnewspaperrack>Newspaper Rack</entityname.opdeco_hrnewspaperrack>
-<entityname.opdeco_hrcalendar>Calendar</entityname.opdeco_hrcalendar>
+<entityname.opdeco_hrcalendar>日历</entityname.opdeco_hrcalendar>
 <entityname.opdeco_hrsign>Sign Background</entityname.opdeco_hrsign>
 <entityname.opdeco_hrheater>Radiator</entityname.opdeco_hrheater>
 <entityname.opdeco_hrelectricpanel>Notice Board</entityname.opdeco_hrelectricpanel>
