@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)">
+  <!-- Submarine labels -->
+  <label.toolsv>工具</label.toolsv>
+  <label.dischargecoilv>电磁线圈</label.dischargecoilv>
+  <label.coilcapacitorv>线圈电容</label.coilcapacitorv>
+  <label.mainbatteryv>主电池</label.mainbatteryv>
+  <label.switchcoilv>切换自动线圈</label.switchcoilv>
+  <label.bombv>深弹</label.bombv>
+  <label.decoyv>诱饵</label.decoyv>
+  <label.backupbatteryv>备用电池</label.backupbatteryv>
+  <label.mineralscannerv>矿物扫描</label.mineralscannerv>
+  <label.dynamitev>炸药</label.dynamitev>
+  <label.onv>开启</label.onv>
+  <label.offv>关闭</label.offv>
+  <label.upv>上轨道炮</label.upv>
+  <label.downv>下轨道炮</label.downv>
+  <label.topbackv>后上方</label.topbackv>
+  <label.bottombackv>后下方</label.bottombackv>
+  <label.topfrontv>前上方</label.topfrontv>
+  <label.bottomfrontv>前下方</label.bottomfrontv>
+  <label.burstv>爆发</label.burstv>
+  <label.scatterv>散射</label.scatterv>
+  <label.firemaingunv>主炮开火！</label.firemaingunv>
+  <label.firstaidv>急救</label.firstaidv>
+  <label.morphinev>吗啡</label.morphinev>
+  <label.drugv>药品</label.drugv>
+  <label.t1v>第一优先级</label.t1v>
+  <label.t2v>第二优先级</label.t2v>
+  <label.t3v>第三优先级</label.t3v>
+  <label.maingunv>主炮</label.maingunv>
+  <label.deconstructionproductv>解构产物</label.deconstructionproductv>
+  <label.rawmaterialsv>原材料</label.rawmaterialsv>
+  <!-- Submarine roomnames -->
+  <roomname.barv>酒吧</roomname.barv>
+  <roomname.plantingroomv>种植室</roomname.plantingroomv>
+</infotexts>

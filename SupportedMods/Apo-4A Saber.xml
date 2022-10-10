@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)">
+  <!-- Submarine labels -->
+  <label.tools>工具</label.tools>
+  <label.deconstructionproduct>解构产物</label.deconstructionproduct>
+  <label.rawmaterials>原材料</label.rawmaterials>
+  <label.dischargecoil>电磁线圈</label.dischargecoil>
+  <label.coilcapacitor>线圈电容</label.coilcapacitor>
+  <label.batterycapacity>电池电量</label.batterycapacity>
+  <label.switchcoil>切换自动线圈</label.switchcoil>
+  <label.depthcharge>深水炸弹</label.depthcharge>
+  <label.decoy>诱饵弹</label.decoy>
+  <label.switchalternateline>切换备用线路</label.switchalternateline>
+  <label.alternatepower>备用电量</label.alternatepower>
+  <label.ammomaterials>弹药原材料</label.ammomaterials>
+  <label.mineralscanner>矿物扫描</label.mineralscanner>
+  <label.switchtype>切换弹种</label.switchtype>
+  <label.safety>保险</label.safety>
+  <label.depthchargecontrol>深水炸弹控制</label.depthchargecontrol>
+  <label.hangar>机库</label.hangar>
+  <label.restrictedarea>限制区域</label.restrictedarea>
+  <label.unlocked>已解锁</label.unlocked>
+  <label.lock>解锁/上锁</label.lock>
+  <label.tips1>第一次启动较慢是正常现象</label.tips1>
+  <label.waterlevel>切换水位</label.waterlevel>
+  <label.dynamite>炸药</label.dynamite>
+  <label.safetyon>保险开启</label.safetyon>
+  <label.safetyoff>保险关闭</label.safetyoff>
+  <label.dronebattery>无人机电量</label.dronebattery>
+  <label.gatestate>机库门状态</label.gatestate>
+  <label.dronepower>无人机电源</label.dronepower>
+  <label.gateswitch>机库门操作</label.gateswitch>
+  <label.on>开启</label.on>
+  <label.off>关闭</label.off>
+  <label.up>上方主炮</label.up>
+  <label.down>下方主炮</label.down>
+  <label.ahead>前方</label.ahead>
+  <label.topback>后上方</label.topback>
+  <label.bottomback>后下方</label.bottomback>
+  <label.topfront>前上方</label.topfront>
+  <label.bottomfront>前下方</label.bottomfront>
+  <label.normal>正常</label.normal>
+  <label.outoffuel>燃料耗尽</label.outoffuel>
+  <label.reload>无人机装填</label.reload>
+  <!-- Submarine roomnames -->
+  <roomname.ammodepot>弹药库</roomname.ammodepot>
+  <roomname.firecontrolroom>火控室</roomname.firecontrolroom>
+  <roomname.ammoproduction>弹药制作舱</roomname.ammoproduction>
+  <roomname.alternateline>备用线路舱</roomname.alternateline>
+  <roomname.plantingroom>种植室</roomname.plantingroom>
+</infotexts>

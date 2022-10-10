@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)">
+  <!-- Submarine labels -->
+  <label.tools>工具</label.tools>
+  <label.weapons>武器</label.weapons>
+  <label.deconstructionproduct>解构产物</label.deconstructionproduct>
+  <label.rawmaterials>原材料</label.rawmaterials>
+  <label.reactorstate>反应堆</label.reactorstate>
+  <label.electriccoil>电磁线圈</label.electriccoil>
+  <label.automaticgun>自动炮</label.automaticgun>
+  <label.coilcapacitor>线圈电容</label.coilcapacitor>
+  <label.batterycapacity>电池容量</label.batterycapacity>
+  <label.on>开启</label.on>
+  <label.off>关闭</label.off>
+  <label.up>上方</label.up>
+  <label.down>下方</label.down>
+  <label.topback>后上方</label.topback>
+  <label.bottomback>后下方</label.bottomback>
+  <label.topfront>前上方</label.topfront>
+  <label.bottomfront>前下方</label.bottomfront>
+  <label.normal>输出正常</label.normal>
+  <label.lowpower>输出不足</label.lowpower>
+  <label.automaticcontrol>自动控制</label.automaticcontrol>
+  <label.manualcontrol>手动控制</label.manualcontrol>
+  <label.switchcoil>切换自动线圈</label.switchcoil>
+  <label.depthcharge>深水炸弹</label.depthcharge>
+  <label.switchgun>切换自动炮</label.switchgun>
+</infotexts>

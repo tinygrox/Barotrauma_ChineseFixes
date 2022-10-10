@@ -3,5 +3,8 @@
   <UIStyle file="%ModDir%/UI/style.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/SupportedMods/Apo-3A Dagger.xml" />
+  <Text file="%ModDir%/SupportedMods/Apo-4A Saber.xml" />
+  <Text file="%ModDir%/SupportedMods/Apo-5 Chainsaw.xml" />
   <NPCConversations file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
 </contentpackage>
