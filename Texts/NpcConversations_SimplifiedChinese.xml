@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Conversations identifier="vanillaconversations" Language="Simplified Chinese FIX" nowhitespace="True">
+<Conversations identifier="vanillaconversations" Language="CHS2" nowhitespace="True">
 
 	<!-- Generic conversation -->
 	<Conversation line="好了同伴们，让我们带她出去渗渗水~" speaker="0" flags="Initial" allowedjobs="captain">

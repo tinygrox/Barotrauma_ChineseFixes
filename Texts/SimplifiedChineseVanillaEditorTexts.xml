@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Simplified Chinese FIX" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
 
 <!-- Generic -->
 <editor.saveall>保存全部</editor.saveall>
-  
+
 <!-- Submarine Editor -->
 <items>物品</items>
 <structures>结构</structures>
