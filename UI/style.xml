@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Override>
+  <style>
+    <Font file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true">
+      <Size maxresolution="1024,768" size="11"/>
+      <Size maxresolution="1280,800" size="12"/>
+      <Size maxresolution="1920,1080" size="14"/>
+      <Size maxresolution="2048,1080" size="16"/>
+      <Size maxresolution="2560,1600" size="16"/>
+      <Size size="18"/>
+    </Font>
+    <UnscaledSmallFont file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true">
+      <Size size="12"/>
+    </UnscaledSmallFont>
+    <SmallFont file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true">
+      <Size maxresolution="1024,768" size="9"/>
+      <Size maxresolution="1280,800" size="10"/>
+      <Size maxresolution="1920,1080" size="12"/>
+      <Size maxresolution="2048,1440" size="14"/>
+      <Size maxresolution="2560,1600" size="14"/>
+      <Size size="16"/>
+    </SmallFont>
+    <LargeFont file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true" size="28">
+      <Size maxresolution="1024,768" size="20"/>
+      <Size maxresolution="1280,800" size="22"/>
+      <Size maxresolution="1920,1080" size="25"/>
+      <Size maxresolution="2560,1600" size="32"/>
+      <Size size="36"/>
+    </LargeFont>
+    <SubHeading file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true" size="18" forceuppercase="true">
+      <Size maxresolution="1024,768" size="11"/>
+      <Size maxresolution="1280,800" size="13"/>
+      <Size maxresolution="1920,1080" size="16"/>
+      <Size maxresolution="2048,1440" size="18"/>
+      <Size maxresolution="2560,1600" size="20"/>
+      <Size size="22"/>
+    </SubHeading>
+    <TitleText color="255,255,255,255" hovercolor="255,255,255,255" selectedcolor="255,255,255,255" pressedcolor="255,255,255,255">
+      <Sprite texture="Content/UI/titleText.png" sourcerect="0,176,1024,343" tile="false" maintainaspectratio="true">
+      </Sprite>
+    </TitleText>
+  </style>
+</Override>

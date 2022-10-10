@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Conversations identifier="vanillaconversations" Language="Simplified Chinese_fix" nowhitespace="True">
+<Conversations identifier="vanillaconversations" Language="Simplified Chinese FIX" nowhitespace="True">
 
 	<!-- Generic conversation -->
-	<Conversation line="好了同伴们，让我们带她出去透透水~" speaker="0" flags="Initial" allowedjobs="captain">
+	<Conversation line="好了同伴们，让我们带她出去渗渗水~" speaker="0" flags="Initial" allowedjobs="captain">
 		<Conversation line="" speaker="0"/>
-		<Conversation line="好，好！" speaker="1">
+		<Conversation line="好诶，好诶！" speaker="1">
 			<Conversation line="收到，长官！" speaker="2"/>
-			<Conversation line="是！头儿~" speaker="2" speakertags="brokenenglish"/>
+			<Conversation line="系！头儿~" speaker="2" speakertags="brokenenglish"/>
 		</Conversation>
 	</Conversation>
 
@@ -30,14 +30,14 @@
 		<Conversation line="好的，好的" speaker="1"/>
 	</Conversation>
 
-	<Conversation line="准备好了同伴们，我们还有很长的路要走！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+	<Conversation line="都尊备下同寄们，我们要赶长途了！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 		<Conversation line="收到，长官！" speaker="1"/>
 		<Conversation line="好的好的" speaker="1"/>
 		<Conversation line="愿小丑圣母保佑我们。" speaker="1" speakertags="crazy"/>
 		<Conversation line="祝大家好运！" speaker="1" allowedjobs="watchman"/>
 	</Conversation>
 
-	<Conversation line="我是舰长！为任务做好准备，大伙们！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
+	<Conversation line="窝是舰长！赶紧为介趟任务做好尊备，同寄们！" speaker="0" flags="Initial" allowedjobs="captain" speakertags="brokenenglish">
 		<Conversation line="收到，长官！" speaker="1"/>
 		<Conversation line="好的好的" speaker="1">
 			<Conversation line="收到，长官！" speaker="2"/>
@@ -50,11 +50,11 @@
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="都准备好了吗？最好快点，我们没有回头路了。" speaker="0" flags="Initial" allowedjobs="captain">
+	<Conversation line="都准备好了吗？最好快点，我们不会再回来了。" speaker="0" flags="Initial" allowedjobs="captain">
 		<Conversation line="" speaker="0"/>
 		<Conversation line="收到，长官！" speaker="1">
 			<Conversation line="来吧，开始吧！" speaker="2"/>
-			<Conversation line="谁怕谁啊，时刻准备着！" speaker="2" speakertags="brokenenglish"/>
+			<Conversation line="谁怕谁啊，时刻尊备着！" speaker="2" speakertags="brokenenglish"/>
 			<Conversation line="哇哦！我们都离死不远了！" speaker="2" speakertags="crazy"/>
 		</Conversation>
 	</Conversation>
@@ -74,7 +74,7 @@
 	</Conversation>
 
 	<Conversation line="我听到船体在吱吱作响…" speaker="0" speakertags="fearful" maxintensity="0.4">
-		<Conversation line="我也听到了，这哪儿的声儿？" speaker="1" speakertags="brokenenglish"/>
+		<Conversation line="窝也听到了，介哪里的声？" speaker="1" speakertags="brokenenglish"/>
 		<Conversation line="" speaker="1" speakertags="joker"/>
 	</Conversation>
 
@@ -83,7 +83,7 @@
 			<Conversation line="哈哈！埋在棺材里！上次是什么时候来着？" speaker="2" speakertags="laid-back,joker"/>
 		</Conversation>
 		<Conversation line="现在不是想家的时候，前路漫漫。" speaker="1" speakertags="professional,tough"/>
-		<Conversation line="卡德摩斯一股鱼尿味儿，我喜欢更烈的酒。" speaker="1" speakertags="brokenenglish"/>
+		<Conversation line="卡德摩斯感觉就系喝鱼尿，窝更喜欢喝烈一点的。" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
 
 	<Conversation line="早在地球海军时代，就有这样的说法…" speaker="0" allowedjobs="captain" speakertags="professional,tough" maxintensity="0.3">
@@ -201,7 +201,7 @@
 			<Conversation line="这里还有更重要的事需要你们关心。" speaker="1"/>
 		</Conversation>
 		<Conversation line="只有深渊知道。" speaker="1" speakertags="crazy"/>
-		<Conversation line="我稍稍思考了一下，这事儿没人能讲明白。" speaker="2" speakertags="brokenenglish"/>
+		<Conversation line="窝稍稍想了一下，介事儿没人能讲明白。" speaker="2" speakertags="brokenenglish"/>
 	</Conversation>
 
 	<Conversation line="你见过那些保护遗迹的东西吗？" speaker="0" maxintensity="0.2">
@@ -217,7 +217,7 @@
 		<Conversation line="怎么说。" speaker="1"/>
 		<Conversation line="这样说吧，无土栽培作物的维护成本相当高。" speaker="1">
 			<Conversation line="比起烟草来说，种其他作物更加有意义。" speaker="1"/>
-			<Conversation line="无土栽培是什么意思儿？" speaker="2" speakertags="brokenenglish">
+			<Conversation line="无土栽培系什么意悉？" speaker="2" speakertags="brokenenglish">
 				<Conversation line="就是水培技术，从水里长出东西来，和这里的其他东西一样。" speaker="1"/>
 			</Conversation>
 		</Conversation>
@@ -279,7 +279,7 @@
 	<Conversation line="行动起来！" speaker="0" speakertags="tough" maxintensity="0.2"/>
 
 	<Conversation line="风平浪静可造就不出精悍的水手。" speaker="0" speakertags="tough">
-		<Conversation line="惊涛骇浪可是能培养一堆死人呢！" speaker="1" speakertags="brokenenglish"/>
+		<Conversation line="可系惊涛骇浪能造出死亡的水手！" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
 
 	<Conversation line="我们应该带一台咖啡机上来的。" speaker="0" speakertags="laid-back" maxintensity="0.2">
@@ -325,7 +325,7 @@
 					<Conversation line="虽然我不是这领域的专家，但我觉得这从技术上来说根本没什么问题。" speaker="0">
 						<Conversation line="嘿，还是先干好手上的活儿吧。" speaker="1" speakertags="professional"/>
 						<Conversation line="我不确定…一定有什么技术上的难题没解决，不然早有人这么做了。" speaker="1"/>
-						<Conversation line="这想法有点儿意思。" speaker="1" speakertags="brokenenglish">
+						<Conversation line="这想法有点儿意悉。" speaker="1" speakertags="brokenenglish">
 							<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 						</Conversation>
 					</Conversation>
@@ -337,7 +337,7 @@
 					<Conversation line="一定有什么技术上的考量，你看现在哪个接线盒是上没有洞的？" speaker="1">
 						<Conversation line="要不然他们早就把接线盒做成防水的了。" speaker="1"/>
 					</Conversation>
-					<Conversation line="有点儿意思。" speaker="1" speakertags="brokenenglish">
+					<Conversation line="有点儿意悉。" speaker="1" speakertags="brokenenglish">
 						<Conversation line="嘿，能不能先干好手上的活儿？。" speaker="2" speakertags="professional"/>
 					</Conversation>
 				</Conversation>
@@ -473,7 +473,7 @@
 		<Conversation line="没事的，我们还能更“深入”一点。" speaker="1" speakertags="tough"/>
 	</Conversation>
 
-	<Conversation line="这样的下潜深度也忒渗人了。" speaker="0" flags="SubmarineDeep" speakertags="brokenenglish">
+	<Conversation line="这样滴下潜深度也忒渗人了。" speaker="0" flags="SubmarineDeep" speakertags="brokenenglish">
 		<Conversation line="" speaker="0" flags="Casual"/>
 		<Conversation line="诚如斯言。" speaker="1" speakertags="joker"/>
 		<Conversation line="没事的，更深的距离都到过。" speaker="1" speakertags="tough"/>
