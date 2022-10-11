@@ -4,6 +4,5 @@
   <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
   <NPCConversations file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
-  <LocationTypes file="%ModDir%/Map/locationTypes.xml" />
   <Other file="%ModDir%/Characters/Human/names.xml" />
 </contentpackage>
