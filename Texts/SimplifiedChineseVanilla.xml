@@ -13,14 +13,14 @@
 <loadingscreentip>潜艇的核反应堆的堆芯如果持续过热而不关停的话，轻则引发火灾，重则导致堆芯熔毁事故。</loadingscreentip>
 <loadingscreentip>大多数潜艇都配备了蓄电池，作为反应堆发生故障时的临时备用电源。</loadingscreentip>
 <loadingscreentip>潜艇的轨道炮炮弹和深水炸弹都留有一个小空间用来放爆炸物以增强伤害。</loadingscreentip>
-<loadingscreentip>被动声纳可在不引发不必要注意的前提下探测附近的声源。你也可以通过冰墙反射的声波来大致了解周边环境。</loadingscreentip>
-<loadingscreentip>面对闭锁的门，你可以选择用撬棍撬开，也可以将其连接到你有使用权限的按钮之上。</loadingscreentip>
+<loadingscreentip>被动声呐可悄无声息探测附近的声源。你也可以通过冰墙反射的声波来大致了解周边环境。</loadingscreentip>
+<loadingscreentip>面对锁死的门，你可以选择用撬棍直接撬开，也可以用螺丝刀通过重新布线的方式来将门与你的按钮相连然后打开。</loadingscreentip>
 <loadingscreentip>蓄电池一般都配有充电基座。</loadingscreentip>
-<loadingscreentip>制氧机配备有独立接口，可用于补充氧气罐。</loadingscreentip>
+<loadingscreentip>制氧机配备有独立充气，可用于补充氧气罐。</loadingscreentip>
 <loadingscreentip>超级电容器不能像电池那样储存很多电能，但能在瞬间释放高压脉冲电流，一般用于驱动轨道炮或其他需要高压脉冲电流的设备。</loadingscreentip>
 <loadingscreentip>核反应堆配备有自动调控功率水平的自动控制系统，不过，该系统面对电力消耗大幅波动的情况时，反应常常有些迟缓。</loadingscreentip>
-<loadingscreentip>如果导航终端受损，声纳成像可能变得不太可靠——让工程师确保终端运转良好！</loadingscreentip>
-<loadingscreentip>关闭主动声纳才能让部署的诱饵发挥最佳效果。</loadingscreentip>
+<loadingscreentip>如果导航终端受损，声呐成像可能变得不太可靠——让工程师确保终端运转良好！</loadingscreentip>
+<loadingscreentip>关闭主动声呐才能让部署的诱饵发挥最佳效果。</loadingscreentip>
 <loadingscreentip>没有足够电气工程技能的角色强行重新布线可能会触电。</loadingscreentip>
 <loadingscreentip>焊枪非常简单易用，潜艇上的船员都可以使用，但熟练的机修工往往是高效率低风险的焊工，能不受伤、快速地完成相关工作。</loadingscreentip>
 <loadingscreentip>潜艇上的船员都接受过电气设备基本维修培训，不过电气工程师精于此道。</loadingscreentip>
@@ -39,7 +39,7 @@
 <loadingscreentip>泥偶迅猛龙可以用它们锋利的喙轻松地破坏金属门。</loadingscreentip>
 <loadingscreentip>一种名为画皮的外壳寄生虫会慢慢吞噬宿主的躯体，最终将其变为一具完全由寄生虫控制的空壳。</loadingscreentip>
 <loadingscreentip>木卫二上的大部分生物都有着坚硬、难以被常规武器破坏的外骨骼。不过，他们的“盔甲”也存在可以轻易击破的弱点。</loadingscreentip>
-<loadingscreentip>嘈杂的设备声或声纳脉冲可能会引起附近生物警觉。</loadingscreentip>
+<loadingscreentip>嘈杂的设备声或声呐脉冲可能会引起附近生物警觉。</loadingscreentip>
 <loadingscreentip>若没有足够的医疗技能，进行心肺复苏会对患者的内脏造成损伤。</loadingscreentip>
 <loadingscreentip>吗啡与芬太尼等阿片类药物是紧急治疗的有效方法之一，但经常使用会令患者成瘾，产生非常危险的戒断症状。</loadingscreentip>
 <loadingscreentip>出血伤口可用绷带或止血剂治疗。病人可以用生理盐水或血袋来补充流失的血液。</loadingscreentip>
@@ -50,7 +50,7 @@
 <loadingscreentip>潜水面罩可以让你在水下呼吸，但不能帮助你抵御深海水压。如果船体有较大的结构破损，请立即换上潜水衣。</loadingscreentip>
 <loadingscreentip>一旦发生火灾，比烧伤更需要注意的是潜艇内的氧气含量。</loadingscreentip>
 <loadingscreentip>穿越这片被称为热液废土的地形时需格外小心，这些区域生物数量丰富，地热活动引发的水流变化使航行变得更加危险。</loadingscreentip>
-<loadingscreentip>木卫二上的一些固着生物会发出干扰潜艇声纳的低频声波。</loadingscreentip>
+<loadingscreentip>木卫二上的一些固着生物会发出干扰潜艇声呐的低频声波。</loadingscreentip>
 <loadingscreentip>木卫二拥有丰富的自然资源，唯有目光敏锐、富有进取心的船长与等离子切割机才能坚持到收获之时。</loadingscreentip>
 <loadingscreentip>你可以将自己伪装成其他人，只要带上他们的身份证与一些面部的伪装。</loadingscreentip>
 <loadingscreentip>你可以在潜艇编辑器中将wifi组件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
@@ -1633,7 +1633,7 @@
 <missionmessage0.tigerthreshernest>已将威胁清扫一空。驶离洞穴，回去领取赏金吧。</missionmessage0.tigerthreshernest>
 <missionsuccess.tigerthreshernest>已将洞穴中的威胁清扫一空。</missionsuccess.tigerthreshernest>
 <missionname.beaconmission>启用信标</missionname.beaconmission>
-<missiondescription.beaconmission>位于[location1]和[location2]之间的信标站没信号了——深入那里，重启信标，令其发出主动声纳信号。</missiondescription.beaconmission>
+<missiondescription.beaconmission>位于[location1]和[location2]之间的信标站没信号了——深入那里，重启信标，令其发出主动声呐信号。</missiondescription.beaconmission>
 <missionmessage0.beaconmission>信标重启了。让它继续发信吧，我们该回[location2]去领取报酬了。</missionmessage0.beaconmission>
 <missionsuccess.beaconmission>信标已重启</missionsuccess.beaconmission>
 
@@ -1876,12 +1876,12 @@
 <entitydescription.navterminal>用于设置潜艇航向的装置。</entitydescription.navterminal>
 <entityname.shuttlenavterminal>飞船导航终端</entityname.shuttlenavterminal>
 <entitydescription.shuttlenavterminal>用于设置飞船航向的装置。</entitydescription.shuttlenavterminal>
-<entityname.sonarmonitor>声纳监控器</entityname.sonarmonitor>
-<entitydescription.sonarmonitor>用于观察潜艇声纳反馈结果的仪器，不具备交互功能。</entitydescription.sonarmonitor>
+<entityname.sonarmonitor>声呐监控器</entityname.sonarmonitor>
+<entitydescription.sonarmonitor>用于观察潜艇声呐反馈结果的仪器，不具备交互功能。</entitydescription.sonarmonitor>
 <entityname.statusmonitor>状态监控器</entityname.statusmonitor>
 <entitydescription.statusmonitor>可以用来查看潜艇结构图与每个房间状态的仪器。</entitydescription.statusmonitor>
-<entityname.sonartransducer>声纳换能器</entityname.sonartransducer>
-<entitydescription.sonartransducer>让声纳监控器与导航终端接收指定声纳信号的转换仪器（适用于无人机与遥控飞船）</entitydescription.sonartransducer>
+<entityname.sonartransducer>声呐换能器</entityname.sonartransducer>
+<entitydescription.sonartransducer>让声呐监控器与导航终端接收指定声呐信号的转换仪器（适用于无人机与遥控飞船）</entitydescription.sonartransducer>
 <entityname.engine>引擎</entityname.engine>
 <entitydescription.engine>在水平方向上产生动能的装置。</entitydescription.engine>
 <entityname.largeengine>大型引擎</entityname.largeengine>
@@ -2021,10 +2021,10 @@
 <entitydescription.wrench>用于机械维修的工具。</entitydescription.wrench>
 <entityname.crowbar>撬棍</entityname.crowbar>
 <entitydescription.crowbar>可以撬开门和舱门，也可以作为钝器使用。</entitydescription.crowbar>
-<entityname.handheldsonar>手持声纳</entityname.handheldsonar>
-<entitydescription.handheldsonar>便携式声纳，便于探测。</entitydescription.handheldsonar>
-<entityname.sonarbeacon>声纳信标</entityname.sonarbeacon>
-<entitydescription.sonarbeacon>产生一个可由声纳监控器、手持声纳、导航终端检测到的固定局部信号标识。</entitydescription.sonarbeacon>
+<entityname.handheldsonar>手持声呐</entityname.handheldsonar>
+<entitydescription.handheldsonar>便携式声呐，便于探测。</entitydescription.handheldsonar>
+<entityname.sonarbeacon>声呐信标</entityname.sonarbeacon>
+<entitydescription.sonarbeacon>产生一个可由声呐监控器、手持声呐、导航终端检测到的固定局部信号标识。</entitydescription.sonarbeacon>
 <sonarbeacon.beaconactive>信标已激活</sonarbeacon.beaconactive>
 <sonarbeacon.beaconsignal>信标信号</sonarbeacon.beaconsignal>
 <entityname.flashlight>手电筒</entityname.flashlight>
@@ -2964,7 +2964,7 @@
 <entityname.guardianpod>守卫者吊舱</entityname.guardianpod>
 <entitydescription.guardianpod>分形守卫者的保护舱。</entitydescription.guardianpod>
 <entityname.ruinscanner>遗迹扫描器</entityname.ruinscanner>
-<entitydescription.ruinscanner>一个使用声纳波绘制遗迹地图的设备。</entitydescription.ruinscanner>
+<entitydescription.ruinscanner>一个使用声呐波绘制遗迹地图的设备。</entitydescription.ruinscanner>
 <entityname.ruinvent>遗迹通风口</entityname.ruinvent>
 <entitydescription.ruinvent>一个可能释放出有害孢子或气体的通风口。</entitydescription.ruinvent>
 <entityname.guardiancutter>守卫者切割器</entityname.guardiancutter>
@@ -3334,14 +3334,14 @@
 <steeringnopowertip>警告：电力供应不足</steeringnopowertip>
 <steeringautopilotmaintainpostip>自动驾驶已启用\n正在保持当前位置，点击选择需要维持的位置。</steeringautopilotmaintainpostip>
 <steeringautopilotlocationtip>自动驾驶已启用\n已设置自动驶向[locationname]。</steeringautopilotlocationtip>
-<sonaractive>主动声纳</sonaractive>
-<sonarpassive>被动声纳</sonarpassive>
+<sonaractive>主动声呐</sonaractive>
+<sonarpassive>被动声呐</sonarpassive>
 <sonarzoom>缩放</sonarzoom>
 <sonardirectionalping>定向脉冲</sonardirectionalping>
 <sonarsignalweak>信号较弱</sonarsignalweak>
 <sonarnosignal>无信号</sonarnosignal>
-<sonartipactive>主动声纳开启时，声纳应答器会发出脉冲信号，根据附近障碍物反射信号来确定周边情况。脉冲信号也可能会惊扰到敌方潜艇或生物察觉。</sonartipactive>
-<sonartippassive>被动声纳开启时，声纳不主动发出信号，只能接收到附近障碍物传来或反射的声波信号。</sonartippassive>
+<sonartipactive>主动声呐开启时，声呐应答器会发出脉冲信号，根据附近障碍物反射信号来确定周边情况。脉冲信号也可能会惊扰到敌方潜艇或生物察觉。</sonartipactive>
+<sonartippassive>被动声呐开启时，声呐不主动发出信号，只能接收到附近障碍物传来或反射的声波信号。</sonartippassive>
 <powercontainercharge>充电中：[charge] 千瓦分([percentage] %)</powercontainercharge>
 <powercontainerrechargerate>充电速率 [rate] %</powercontainerrechargerate>
 <uilabel.chargingdock>充电坞站</uilabel.chargingdock>
@@ -3506,14 +3506,14 @@
 <dialogsteeringtaken>嘿，现在开船的是我。</dialogsteeringtaken>
 <dialogsteeringtaken>请放开你的手！我在开船呢！</dialogsteeringtaken>
 <dialogsteeringtaken>嘿，一个人就行了！</dialogsteeringtaken>
-<dialogsonartarget>声纳显示，有个东西出现在[direction]！</dialogsonartarget>
-<dialogsonartarget>声纳在[direction]显示了一个光点！</dialogsonartarget>
-<dialogsonartarget>声纳显示，[direction]有什么东西！</dialogsonartarget>
+<dialogsonartarget>声呐显示，有个东西出现在[direction]！</dialogsonartarget>
+<dialogsonartarget>声呐在[direction]显示了一个光点！</dialogsonartarget>
+<dialogsonartarget>声呐显示，[direction]有什么东西！</dialogsonartarget>
 <dialogsonartarget>[direction]发现目标！</dialogsonartarget>
-<dialogsonartargetlarge>声纳显示，[direction]出现了大型目标！</dialogsonartargetlarge>
+<dialogsonartargetlarge>声呐显示，[direction]出现了大型目标！</dialogsonartargetlarge>
 <dialogsonartargetlarge>[direction]刚刚发出一声巨响！</dialogsonartargetlarge>
-<dialogsonartargetlarge>声纳显示，[direction]有个大家伙！</dialogsonartargetlarge>
-<dialogsonartargetmultiple>声纳显示，[direction]出现了[count]个目标！</dialogsonartargetmultiple>
+<dialogsonartargetlarge>声呐显示，[direction]有个大家伙！</dialogsonartargetlarge>
+<dialogsonartargetmultiple>声呐显示，[direction]出现了[count]个目标！</dialogsonartargetmultiple>
 <dialogsonartargetmultiple>我们发现，[direction]出现了[count]个目标！</dialogsonartargetmultiple>
 <dialogfoundunconscioustarget>发现[targetname]在[roomname]不省人事！</dialogfoundunconscioustarget>
 <dialogfoundunconscioustarget>对[roomname]的[targetname]进行急救！</dialogfoundunconscioustarget>
@@ -3918,9 +3918,9 @@
 
 <!-- Command UI -->
 <commandui.return>返回</commandui.return>
-<commandui.expand>扩大</commandui.expand>
+<commandui.expand>展开</commandui.expand>
 <commandui.quickassigntooltip>快速分配</commandui.quickassigntooltip>
-<commandui.manualassigntooltip>手工分配</commandui.manualassigntooltip>
+<commandui.manualassigntooltip>手动分配</commandui.manualassigntooltip>
 <ordercategorytitle.emergency>紧急</ordercategorytitle.emergency>
 <ordercategorydescription.emergency></ordercategorydescription.emergency>
 <ordercategorytitle.movement>移动</ordercategorytitle.movement>
@@ -3933,12 +3933,12 @@
 <ordercategorydescription.operate></ordercategorydescription.operate>
 <crewlistordericontooltip>[ordername] ([orderoption])</crewlistordericontooltip>
 <crewlistelementtooltip>[name] ([job])\n拖拽排列船员顺序</crewlistelementtooltip>
-<thischaractercanthear>该角色无法收到命令。</thischaractercanthear>
-<nocharactercanhear>无角色可收到命令。</nocharactercanhear>
+<thischaractercanthear>该角色无法接收到你的指令。</thischaractercanthear>
+<nocharactercanhear>无人能收到你的指令。</nocharactercanhear>
 <objective.idle>摸鱼中</objective.idle>
 <objective.findsafety>紧急避险</objective.findsafety>
 <objective.combat>战斗</objective.combat>
-<crewlistobjectivetooltip>当前任务:[objective]</crewlistobjectivetooltip>
+<crewlistobjectivetooltip>当前工作:[objective]</crewlistobjectivetooltip>
 
 <!-- Status -->
 <deceased>已经死亡</deceased>
@@ -3969,7 +3969,7 @@
 <huskdormant>你感觉有什么东西卡在你的喉咙里</huskdormant>
 <huskdormant>你感觉肌肉酸痛无力</huskdormant>
 <huskcantspeak>你感觉喉咙里有什么东西在蠕动，试着大声尖叫却发不出声音。</huskcantspeak>
-<huskactivate>一条几丁质触手从你的嘴里伸出来。按下[Attack]来将虫卵注入其他鲜活的肉体中！</huskactivate>
+<huskactivate>一条几丁质触手从你的嘴里伸出来。按下[Attack]将虫卵注入其他鲜活的肉体中！</huskactivate>
 
 <!-- Skills -->
 <skillname.helm>驾驶水平</skillname.helm>
@@ -3986,8 +3986,8 @@
 <itemmsgpickupselect>[[select]]捡起</itemmsgpickupselect>
 <itemmsgclimbselect>[[select]]攀爬</itemmsgclimbselect>
 <itemmsgpressselect>[[select]]按下</itemmsgpressselect>
-<itemmsgunauthorizedaccess>非法闯入</itemmsgunauthorizedaccess>
-<accessdenied>非法闯入</accessdenied>
+<itemmsgunauthorizedaccess>非授权访问</itemmsgunauthorizedaccess>
+<accessdenied>非授权访问</accessdenied>
 <itemmsgrewirescrewdriver>[[use]] 重新布线（需要螺丝刀）</itemmsgrewirescrewdriver>
 <itemmsgdetachwrench>[[use]] 拆卸（需要扳手）</itemmsgdetachwrench>
 <itemmsgforceopencrowbar>[[use]] 撬开（需要撬棍）</itemmsgforceopencrowbar>
@@ -3996,23 +3996,23 @@
 <itemmsgrepairwrench>[[use]] 修理（需要扳手）</itemmsgrepairwrench>
 <itemmsguseplasmacutter>[[shoot]] 切割（需要等离子切割机）</itemmsguseplasmacutter>
 <itemmsgbatterycellrequired>需要电池</itemmsgbatterycellrequired>
-<itemmsgweldingfuelrequired>需要焊接油料</itemmsgweldingfuelrequired>
+<itemmsgweldingfuelrequired>需要焊接油</itemmsgweldingfuelrequired>
 <itemmsgoxygentankrequired>需要氧气罐</itemmsgoxygentankrequired>
 <itemmsgspearrequired>鱼叉耗尽</itemmsgspearrequired>
 <itemmsgammorequired>弹药耗尽</itemmsgammorequired>
 <itemmsgsyringerequired>注射器耗尽</itemmsgsyringerequired>
 <itemmsgopen>[[select]]开启</itemmsgopen>
-<doormsgcannotopen>这扇门受控于与之相连的按钮或遥控器。</doormsgcannotopen>
+<doormsgcannotopen>这扇门只能被与其相连的按钮或遥控器控制。</doormsgcannotopen>
 <idcardname>此卡属[name]所有。</idcardname>
 <idcardnamejob>此卡属[job][name]所有。</idcardnamejob>
 <dropitem>丢弃</dropitem>
 <putitemin>放入[itemname]</putitemin>
-<itemmsgoxygenrefill>插入氧气罐来进行补给</itemmsgoxygenrefill>
+<itemmsgoxygenrefill>插入氧气罐来进行补充</itemmsgoxygenrefill>
 <itemmsgcontextualorders>[[command]] 相关指令</itemmsgcontextualorders>
 <itemmsgdetach>[[use]] 分离</itemmsgdetach>
 <itemmsgplantseed>[[select]]植物种子</itemmsgplantseed>
 <itemmsgaddfertilizer>[[select]]施肥</itemmsgaddfertilizer>
-<itemmsgharvest>[[select]]连根拔起</itemmsgharvest>
+<itemmsgharvest>[[select]]拔除</itemmsgharvest>
 <itemmsgpaintorcleaningagentrequired>需要装填涂料或清洁剂</itemmsgpaintorcleaningagentrequired>
 <itemmsgpickupuse>拾起[[use]]</itemmsgpickupuse>
 <itemmsgrequiretraining>放置此物品需要特殊训练。</itemmsgrequiretraining>
@@ -4022,21 +4022,21 @@
 <afflictionname.internaldamage>内脏损伤</afflictionname.internaldamage>
 <afflictiondescription.internaldamage>有血管破裂和器官损伤的迹象。</afflictiondescription.internaldamage>
 <afflictioncauseofdeath.internaldamage>死于内脏损伤</afflictioncauseofdeath.internaldamage>
-<afflictioncauseofdeathself.internaldamage>你因内脏损伤而死。</afflictioncauseofdeathself.internaldamage>
+<afflictioncauseofdeathself.internaldamage>你因内部出血过量而死。</afflictioncauseofdeathself.internaldamage>
 <afflictionname.bleeding>出血</afflictionname.bleeding>
 <afflictiondescription.bleeding>血液从这个开放性伤口喷涌而出。</afflictiondescription.bleeding>
 <afflictioncauseofdeath.bleeding>失血而死</afflictioncauseofdeath.bleeding>
 <afflictioncauseofdeathself.bleeding>你因流血过多而死。</afflictioncauseofdeathself.bleeding>
 <afflictionname.burn>烧伤</afflictionname.burn>
-<afflictiondescription.burn>创伤区域起泡发红，存在皮肤剥离症状。患者呈III度疼痛。</afflictiondescription.burn>
+<afflictiondescription.burn>创伤区域起泡发红，存在皮肤剥离症状。患者非常痛苦。</afflictiondescription.burn>
 <afflictioncauseofdeath.burn>烧伤至死</afflictioncauseofdeath.burn>
-<afflictioncauseofdeathself.burn>你因烧伤过重，不治身亡。</afflictioncauseofdeathself.burn>
+<afflictioncauseofdeathself.burn>你因烧伤的伤势过重，不治身亡。</afflictioncauseofdeathself.burn>
 <afflictionname.oxygenlow>缺氧</afflictionname.oxygenlow>
 <afflictiondescription.oxygenlow>嘴唇发青，皮肤苍白，大量出汗。</afflictiondescription.oxygenlow>
 <afflictioncauseofdeath.oxygenlow>窒息而死</afflictioncauseofdeath.oxygenlow>
 <afflictioncauseofdeathself.oxygenlow>你因缺氧窒息而死。</afflictioncauseofdeathself.oxygenlow>
 <afflictionname.bloodloss>失血</afflictionname.bloodloss>
-<afflictiondescription.bloodloss>患者脸色苍白，体温极低，心率居高不下。</afflictiondescription.bloodloss>
+<afflictiondescription.bloodloss>患者脸色苍白，体温下降，心率居高不下。</afflictiondescription.bloodloss>
 <afflictioncauseofdeath.bloodloss>失血而死</afflictioncauseofdeath.bloodloss>
 <afflictioncauseofdeathself.bloodloss>你因流血过多而死。</afflictioncauseofdeathself.bloodloss>
 <afflictionname.stun>眩晕</afflictionname.stun>
@@ -4138,7 +4138,7 @@
 <afflictionname.psychosisresistance>精神抗性</afflictionname.psychosisresistance>
 <afflictiondescription.psychosisresistance>患者有着较强的精神耐性，不易罹患精神疾病。</afflictiondescription.psychosisresistance>
 <afflictionname.pressureresistance>压力适应</afflictionname.pressureresistance>
-<afflictiondescription.pressureresistance>内脏对高压环境产生了适应性。</afflictiondescription.pressureresistance>
+<afflictiondescription.pressureresistance>体内器官对高压环境产生了适应性。</afflictiondescription.pressureresistance>
 <afflictionname.strengthen>活力焕发</afflictionname.strengthen>
 <afflictiondescription.strengthen>患者无法感受到痛觉。</afflictiondescription.strengthen>
 <afflictionname.paralysisresistance>麻痹抗性</afflictionname.paralysisresistance>
@@ -4406,7 +4406,7 @@
 
 
 <tutorial.airlocktitle>气闸</tutorial.airlocktitle>
-<tutorial.airlockdescription>每艘潜艇都配备有安全气闸，以便于船员安全离开潜艇。\n\n船员应提前配备潜水服与其他必要装备（如手持声纳、武器、一两个氧气罐）后前往气闸。务必先关好两侧闸门后开启舱外通道，以免水涌入船舱。船员需要返回潜艇时，记得提前排空气闸内水分，将设备归位，更换氧气罐。</tutorial.airlockdescription>
+<tutorial.airlockdescription>每艘潜艇都配备有安全气闸，以便于船员安全离开潜艇。\n\n船员应提前配备潜水服与其他必要装备（如手持声呐、武器、一两个氧气罐）后前往气闸。务必先关好两侧闸门后开启舱外通道，以免水涌入船舱。船员需要返回潜艇时，记得提前排空气闸内水分，将设备归位，更换氧气罐。</tutorial.airlockdescription>
 <tutorial.railguntitle>轨道炮</tutorial.railguntitle>
 <tutorial.railgundescription>轨道炮工作原理类同于电磁枪，只是其配备的大型炮弹可以进行爆炸物升级。\n\n轨道炮装弹器只能单发装弹，而非电磁枪的弹药箱制式，不过，操作方法是类似的：通过潜望镜瞄准目标，按{0}开火，按{1}停止瞄准。</tutorial.railgundescription>
 <tutorial.syringeguntitle>注射器枪</tutorial.syringeguntitle>
@@ -4532,7 +4532,7 @@
 <officer.radio.wakeup>还有安全官活着吗？我们发现了一个船体缺口和一些不速之客！</officer.radio.wakeup>
 <officer.radio.equipment>找到消灭这些怪物的方法。</officer.radio.equipment>
 <officer.radio.crawlerdead>干得好，但那只是爬行者幼体，我看到前面有个更大的家伙，小心点！</officer.radio.crawlerdead>
-<officer.radio.somethingbig>我在声纳上看到一些大麻烦。电磁枪上弹，争取把它干掉。</officer.radio.somethingbig>
+<officer.radio.somethingbig>我在声呐上看到一些大麻烦。电磁枪上弹，争取把它干掉。</officer.radio.somethingbig>
 <officer.radio.hammerheaddead>射的很准。不过坏消息是，这个站点没救了，来上潜艇吧——我们得赶紧离开。</officer.radio.hammerheaddead>
 <officer.radio.submarine>欢迎登舰。我需要你确保我们已经为接下来的航行做好万全准备。检查一下武器库存。</officer.radio.submarine>
 <officer.radio.complete>优秀。现在做好准备，等其他船员登舰后，我们就离开这里。</officer.radio.complete>
@@ -4637,10 +4637,10 @@
 <captain.undocktext>在航行前，你需要先脱离前哨站。点选导航终端，然后按下“离港”来完成该指令。</captain.undocktext>
 <captain.navigate>导航</captain.navigate>
 <captain.navigateobjective>导航到目的地</captain.navigateobjective>
-<captain.navigatetext>点击声纳显示器为潜艇定制航线。\n\n可在显示器旁声纳设置一栏中，打开主动声纳来查看航向。\n\n小心航行，航速越快，越难减速。与岩壁碰撞会损坏船体、产生漏洞。\n\n教学模式中，船体将不会被破坏。</captain.navigatetext>
+<captain.navigatetext>点击声呐显示器为潜艇定制航线。\n\n可在显示器旁声呐设置一栏中，打开主动声呐来查看航向。\n\n小心航行，航速越快，越难减速。与岩壁碰撞会损坏船体、产生漏洞。\n\n教学模式中，船体将不会被破坏。</captain.navigatetext>
 <captain.dock>对接</captain.dock>
 <captain.dockobjective>与目的地前哨站对接</captain.dockobjective>
-<captain.docktext>若想要停靠到前哨站，先将潜艇对接口接近前哨站对接口，并切换对接端口。声纳显示器上对接口显示为绿色。\n\n当两个对接口很接近时，声纳显示器上会显示一条线，注意，当这条线完全变成绿色时，按下“停靠”按钮以锁定对接端口。然后潜艇将固定位置，对接端口保持锁定，对接舱口打开。\n\n对接过程中，剧烈运动容易让你错过目标。缓慢移动， 以避免与前哨站发生碰撞。使用自动驾驶以及“保持当前位置”功能能够有效帮助你设置潜艇将要移动到的位置。</captain.docktext>
+<captain.docktext>若想要停靠到前哨站，先将潜艇对接口接近前哨站对接口，并切换对接端口。声呐显示器上对接口显示为绿色。\n\n当两个对接口很接近时，声呐显示器上会显示一条线，注意，当这条线完全变成绿色时，按下“停靠”按钮以锁定对接端口。然后潜艇将固定位置，对接端口保持锁定，对接舱口打开。\n\n对接过程中，剧烈运动容易让你错过目标。缓慢移动， 以避免与前哨站发生碰撞。使用自动驾驶以及“保持当前位置”功能能够有效帮助你设置潜艇将要移动到的位置。</captain.docktext>
 
 <!-- Karma system -->
 <karma>道德值</karma>
@@ -6121,7 +6121,7 @@
 <hint.onstartedinteracting.item.deconstructor>可使用解构仪来拆解物品。将物品放入投入槽，按“解构”来开始拆解。</hint.onstartedinteracting.item.deconstructor>
 <hint.onstartedinteracting.item.fabricator>可用加工台来制作物品。从列表中选择想要制作的物品，若原料库存足够，则可按“制造”开始相应工作。</hint.onstartedinteracting.item.fabricator>
 <hint.onstartedinteracting.item.gunloader>需在该装弹器里填入相应武器的弹药。</hint.onstartedinteracting.item.gunloader>
-<hint.onstartedinteracting.item.navterminal>你可以在这里为潜艇绘制航线，设置自动驾驶仪，操纵声纳，并监视声纳回波的侧视图。点击声纳视图来选择一个方向。也可以使用鼠标滚轮来放大和缩小声呐视图。</hint.onstartedinteracting.item.navterminal>
+<hint.onstartedinteracting.item.navterminal>你可以在这里为潜艇绘制航线，设置自动驾驶仪，操纵声呐，并监视声呐回波的侧视图。点击声呐视图来选择一个方向。也可以使用鼠标滚轮来放大和缩小声呐视图。</hint.onstartedinteracting.item.navterminal>
 <hint.onstartedinteracting.item.reactor>核反应堆会为你的设备提供动力。尽量保持 "负载 "和 "输出 "一致，否则很可能造成停电或电力超载的状况，对各种设备造成损害。</hint.onstartedinteracting.item.reactor>
 <hint.onstoleitem>你偷了不属于你的东西。这一行为影响了你的声誉，而且安全官会对你进行惩处。</hint.onstoleitem>
 <hint.ontryopenstuckdoor>这扇门已经被焊死了。你得找一个等离子切割机把它切开。</hint.ontryopenstuckdoor>
