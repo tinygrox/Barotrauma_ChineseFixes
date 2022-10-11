@@ -1,65 +1,65 @@
-阿多尼斯站点
-Agave站点
-Agenor站点
+阿多尼斯 Linea
+Agave Linea
+Agenor Linea
 Alkonost
-Alphesiboea站点
+Alphesiboea Linea
 Ana
-Androgeos站点
+Androgeos Linea
 Anid
 Annwn
 Apep
 Argadnel
-Argiope站点
+Argiope Linea
 Arid Troma
 Arnthor
 Asmundur
-Asterius站点
-Astypalaea站点
+Asterius Linea
+Astypalaea Linea
 Attis
-Autonoe站点
+Autonoe Linea
 Balagtan
 Bast
 Beenalaght沟
 Belenos Mensa
-Belus站点
+Belus Linea
 Berith
 Borvo Mensa
-Butterdon站点
-Cadmus站点
+Butterdon Linea
+Cadmus Linea
 Callanish
 Cilicia Flexus
-Corick站点
+Corick Linea
 Cylymala
 Dagrun
 Delphi Flexus
-Drizzlecomb站点
-Drumskinny站点
+Drizzlecomb Linea
+Drumskinny Linea
 Dyfed
-Echion站点
+Echion Linea
 Eightercua沟
 Embla
-Euphemus站点
+Euphemus Linea
 Falga
-Glaukos站点
+Glaukos Linea
 Gortyna Flexus
 Grannus Mensa
 Guthlaug
-Harmonia站点
+Harmonia Linea
 Hyldemoer
-Hyperenor站点
-Ino站点
+Hyperenor Linea
+Ino Linea
 Jaavuari
 Jokull
-Katreus站点
-Kennet站点
+Katreus Linea
+Kennet Linea
 Kerlescan沟
 Kermario沟
-Libya站点
+Libya Linea
 Maughanasilly沟
-Mehen站点
-Merrivale站点
+Mehen Linea
+Merrivale Linea
 Milda
-Minos站点
+Minos Linea
 Moyle Cavus
 Moytura
 Menec沟
@@ -67,35 +67,35 @@ Menec沟
 Noctae
 Nome
 Nwoska
-Onga站点
+Onga Linea
 Oshan
 Paaru
-Pelagon站点
-Pelorus站点
-Phineus站点
+Pelagon Linea
+Pelorus Linea
+Phineus Linea
 Phocis Flexus
-Phoenix站点
+Phoenix Linea
 Powys
-Rhadamanthys站点
-Sarpedon站点
+Rhadamanthys Linea
+Sarpedon Linea
 Set
-Sharpitor站点
+Sharpitor Linea
 Sidon Flexus
 Skaani
 Sontu
-Sparti站点
-Staldon站点
+Sparti Linea
+Staldon Linea
 Tara
-Tectamus站点
-Telephassa站点
-Thasus站点
+Tectamus Linea
+Telephassa Linea
+Thasus Linea
 Thorarinn
 Thrudur
-Thynia站点
+Thynia Linea
 Topol
-Tormsdale站点
+Tormsdale Linea
 Tyre
-Udaeus站点
+Udaeus Linea
 Vorta
 Yasa
-Yelland站点
+Yelland Linea
