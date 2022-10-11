@@ -85,7 +85,7 @@
     <CrewWalletIconSmall texture="Content/UI/InventoryUIAtlas.png" tile="false" sourcerect="932,742,34,32" origin="0.5,0.5" maintainaspectratio="true"/>
     <Font file="Content/Fonts/Exo2-SemiBold.otf">
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true"/>
-      <override language="Simplified Chinese FIX,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
+      <override language="CHS2,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
       <Size maxresolution="1024,768" size="11"/>
       <Size maxresolution="1280,800" size="12"/>
       <Size maxresolution="1920,1080" size="14"/>
@@ -95,12 +95,12 @@
     </Font>
     <UnscaledSmallFont file="Content/Fonts/Exo2-SemiBold.otf">
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true"/>
-      <override language="Simplified Chinese FIX,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
+      <override language="CHS2,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
       <Size size="12"/>
     </UnscaledSmallFont>
     <SmallFont file="Content/Fonts/Exo2-SemiBold.otf">
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true"/>
-      <override language="Simplified Chinese FIX,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
+      <override language="CHS2,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true"/>
       <Size maxresolution="1024,768" size="9"/>
       <Size maxresolution="1280,800" size="10"/>
       <Size maxresolution="1920,1080" size="12"/>
@@ -116,7 +116,7 @@
         <Size maxresolution="2560,1600" size="32"/>
         <Size size="36"/>
       </override>
-      <override language="Simplified Chinese FIX,Japanese,Korean,Traditional Chinese,Simplified Chinese" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true">
+      <override language="CHS2,Japanese,Korean,Traditional Chinese,Simplified Chinese" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true">
         <Size maxresolution="1024,768" size="20"/>
         <Size maxresolution="1280,800" size="22"/>
         <Size maxresolution="1920,1080" size="25"/>
@@ -138,7 +138,7 @@
     </LargeFont>
     <SubHeading file="Content/Fonts/Exo2-Bold.ttf" size="18" forceuppercase="true">
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Bold.otf" dynamicloading="true" iscjk="true"/>
-      <override language="Simplified Chinese FIX,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true"/>
+      <override language="CHS2,Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true"/>
       <Size maxresolution="1024,768" size="11"/>
       <Size maxresolution="1280,800" size="13"/>
       <Size maxresolution="1920,1080" size="16"/>
@@ -176,7 +176,7 @@
     <TitleText color="255,255,255,255" hovercolor="255,255,255,255" selectedcolor="255,255,255,255" pressedcolor="255,255,255,255">
       <Sprite texture="Content/UI/titleText.png" sourcerect="0,520,1024,328" tile="false" maintainaspectratio="true">
         <override language="Traditional Chinese" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343"/>
-        <override language="Simplified Chinese FIX,Simplified Chinese" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343"/>
+        <override language="CHS2,Simplified Chinese" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343"/>
       </Sprite>
     </TitleText>
     <InnerGlow color="255,255,255,204" hovercolor="255,255,255,204" selectedcolor="255,255,255,204">
