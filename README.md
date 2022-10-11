@@ -2,7 +2,7 @@
 
 # 📃简介
 
-一个潜渊症汉化修正(补全) 项目（Mod）
+该项目为游戏[**潜渊症**](https://store.steampowered.com/app/602960/Barotrauma/)的汉化修正 Mod。Mod 以原始官方简中为基础，调整了大部分的词汇翻译
 
 虽然有了官中，但仍然有部分地方不如人意，目前官中文本已部分落后于原版，有些文本甚至还带有误导，缺少了翻译前后一致性。
 
@@ -45,14 +45,9 @@
 
 本项目欢迎各位积极参与翻译、润色或是校对。
 
-参与贡献基础流程如下：
+参与贡献一般流程可参考 [GitHub官方文档 - 快速入门 - 参与项目](https://docs.github.com/cn/get-started/quickstart/contributing-to-projects)，对于Windows用户，不想打 git 命令打到发疯可以尝试使用 GitHub Desktop。
 
-* 首先请注册一个 github 账号并保持登录状态进入到本页面内
-* Fork 此项目，对于 Windows 用户可以使用 Github Desktop 软件
-* 在你自己的仓库内修改翻译文本
-* 完成后 pull request 到本项目
-
-
+在 Pull Request 时请选择提交到分支 （*branch*）**"dev"**下
 
 # :pushpin:已知问题
 
