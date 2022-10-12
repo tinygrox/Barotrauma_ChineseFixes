@@ -463,9 +463,9 @@
 <sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
 <sp.andcomponent.timeframe.name>Time Frame</sp.andcomponent.timeframe.name>
 <sp.andcomponent.timeframe.description>The item sends the output if both inputs have received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.andcomponent.timeframe.description>
-<sp.andcomponent.output.name>Output</sp.andcomponent.output.name>
-<sp.andcomponent.output.description>The signal sent when both inputs have received a non-zero signal.</sp.andcomponent.output.description>
-<sp.andcomponent.falseoutput.name>False Output</sp.andcomponent.falseoutput.name>
+<sp.andcomponent.output.name>输出</sp.andcomponent.output.name>
+<sp.andcomponent.output.description>当两个输入端接收到非零信号时发送信号.</sp.andcomponent.output.description>
+<sp.andcomponent.falseoutput.name>伪输出</sp.andcomponent.falseoutput.name>
 <sp.andcomponent.falseoutput.description>The signal sent when both inputs have not received a non-zero signal (if empty, no signal is sent).</sp.andcomponent.falseoutput.description>
 <sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.orcomponent.timeframe.description>
 <sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
@@ -1220,9 +1220,9 @@
 <entityname.op_wetsign>Cleaning Sign</entityname.op_wetsign>
 
 <!--Outpost structures-->
-<entityname.FF_Wall_I1>Outpost Wall 1</entityname.FF_Wall_I1>
-<entityname.FF_Wall_I2>Outpost Wall 2</entityname.FF_Wall_I2>
-<entityname.FF_Wall_I3>Outpost Wall 3</entityname.FF_Wall_I3>
+<entityname.FF_Wall_I1>前哨站墙体 1</entityname.FF_Wall_I1>
+<entityname.FF_Wall_I2>前哨站墙体 2</entityname.FF_Wall_I2>
+<entityname.FF_Wall_I3>前哨站墙体 3</entityname.FF_Wall_I3>
 <entityname.opbg_generic1>Generic Outpost Wall 1</entityname.opbg_generic1>
 <entityname.opbg_generic2>Generic Outpost Wall 2</entityname.opbg_generic2>
 <entityname.opbg_generic3>Generic Outpost Wall 3</entityname.opbg_generic3>
@@ -1230,7 +1230,7 @@
 <entityname.opbg_generic5>Generic Outpost Wall 5</entityname.opbg_generic5>
 <entityname.opbg_generic6>Generic Outpost Wall 6</entityname.opbg_generic6>
 <entityname.opbg_generic7>Generic Outpost Wall 7</entityname.opbg_generic7>
-<entityname.opbg_airlock1>Outpost Airlock Wall</entityname.opbg_airlock1>
+<entityname.opbg_airlock1>前哨站气闸舱墙体</entityname.opbg_airlock1>
 <entityname.opbgshopa1>Outpost Shop Wall 1</entityname.opbgshopa1>
 <entityname.opbg_shop2>Outpost Shop Wall 2</entityname.opbg_shop2>
 <entityname.opbg_shop3>Outpost Shop Wall 3</entityname.opbg_shop3>
@@ -1272,7 +1272,7 @@
 <entityname.thalamus_background_2>Thalamus Background 2</entityname.thalamus_background_2>
 <entityname.thalamus_background_3>Thalamus Background 3</entityname.thalamus_background_3>
 <entityname.thalamus_background_4>Thalamus Background 4</entityname.thalamus_background_4>
-<entityname.medbaywall1>Medbay Wall 1</entityname.medbaywall1>
+<entityname.medbaywall1>医疗舱墙体1</entityname.medbaywall1>
 <entityname.opdeco_medrack>医疗架</entityname.opdeco_medrack>
 <entityname.opdeco_hospitalbed>病床</entityname.opdeco_hospitalbed>
 <entityname.opdeco_diningtablesmall>小型餐桌</entityname.opdeco_diningtablesmall>

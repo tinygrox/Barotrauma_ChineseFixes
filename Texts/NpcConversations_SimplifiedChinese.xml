@@ -148,30 +148,30 @@
 			<Conversation line="是的，我在跟你说话。" speaker="0" flags="Psychosis"/>
 		</Conversation>
 		<Conversation line="可以想象到。" speaker="1">
-			<Conversation line="那副场面依然深深刻在我的脑海中。" speaker="0">
-				<Conversation line="一台液压机下面的袋子，混合着血肉和骨头，我只能这么跟你描述了。" speaker="0"/>
-				<Conversation line="来自木卫二的爱的抱抱。" speaker="2" speakertags="crazy"/>
+			<Conversation line="那幅场景依然深深刻在我的脑海中。" speaker="0">
+				<Conversation line="一台液压机，下面放个袋子，里面混合着血肉和骨头，我只能这么跟你描述了。" speaker="0"/>
+				<Conversation line="木卫二爱的抱抱。" speaker="2" speakertags="crazy"/>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="让她的，速度再快一点，下潜再深一点…" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
-		<Conversation line="深入那万物，俱寂之地！" speaker="0">
-			<Conversation line="干他妈的深度，干他妈的压强…" speaker="0">
-				<Conversation line="让我们像长尾鲨那样下潜！" speaker="0">
+	<Conversation line="♪让她的，速度再快一点，下潜再深一点…♪" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
+		<Conversation line="♪深入那万物，俱寂之地！♪" speaker="0">
+			<Conversation line="♪干他妈的深度，干他妈的压强…♪" speaker="0">
+				<Conversation line="♪让她像长尾鲨那样下潜！♪" speaker="0">
 					<Conversation line="不要在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 						<Conversation line="" speaker="0"/>
 						<Conversation line="好吧好吧，只是想缓和下紧张的气氛。" speaker="0"/>
 					</Conversation>
-					<Conversation line="我知道这是首地球歌，但这歌唱的跟我们当下的情况来说也太像了！" speaker="1"/>
+					<Conversation line="我听过这首地球歌曲，这歌词也太符合当前的情况了！" speaker="1"/>
 				</Conversation>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="我们还是在原地不动？" speaker="0" speakertags="joker" maxintensity="0.2">
+	<Conversation line="我们是在原地乱逛吗？" speaker="0" speakertags="joker" maxintensity="0.2">
 		<Conversation line="" speaker="0" flags="Casual"/>
-		<Conversation line="闭嘴" speaker="1" speakertags="rude"/>
+		<Conversation line="求求你闭嘴" speaker="1" speakertags="rude"/>
 		<Conversation line="真的不好笑" speaker="1"/>
 		<Conversation line="这不好笑" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
@@ -181,9 +181,9 @@
 		<Conversation line="我年龄是大了点，但还没那么老。" speaker="1"/>
 		<Conversation line="我的爷爷就是个地球人。" speaker="1">
 			<Conversation line="我特别喜欢听他讲故事，虽然我知道里面的故事大都是假的。" speaker="1">
-				<Conversation line="你能想象吗，你只要一走出自己的房间，就能看到无垠的蓝天！" speaker="1">
+				<Conversation line="你能想象吗，你只要走出房间，就能看到无垠的蓝天！" speaker="1">
 					<Conversation line="听起来很不可思议。" speaker="0">
-						<Conversation line="往天上看也不用担心被木星的辐射烤焦…" speaker="2"/>
+						<Conversation line="并且看蓝天也不用担心被木星的辐射烤焦…" speaker="2"/>
 					</Conversation>
 				</Conversation>
 				<Conversation line="我真的想知道鸟是长什么样的。" speaker="1">
@@ -239,19 +239,19 @@
 	<Conversation line="前几天我读了一本老水手指南。" speaker="0" maxintensity="0.2">
 		<Conversation line="那些诘屈聱牙的古老名词让我难以理解。" speaker="0">
 			<Conversation line="比如说，starboard（右舷）是什么鬼意思？" speaker="0">
-				<Conversation line="我跟你一样也不懂。" speaker="1"/>
-				<Conversation line="也许是向上的意思？你看嘛，对着天上的星星。" speaker="1"/>
+				<Conversation line="老实说，我跟你一样，我也不知道。" speaker="1"/>
+				<Conversation line="也许是向上的意思？你看嘛，star，星星，对着天上星星的方向。" speaker="1"/>
 			</Conversation>
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="你有没有觉得，这颗卫星（木卫二）在针对我们？" speaker="0" maxintensity="0.3">
-		<Conversation line="就像你这样。" speaker="0" flags="Psychosis">
-			<Conversation line="没错，我在和你说话。" speaker="0" flags="Psychosis"/>
+	<Conversation line="你有没有觉得，木卫二在针对我们？" speaker="0" maxintensity="0.3">
+		<Conversation line="就像你针对我一样。" speaker="0" flags="Psychosis">
+			<Conversation line="你没听错，这话就是对你说的。" speaker="0" flags="Psychosis"/>
 		</Conversation>
-		<Conversation line="嗯，反正这里肯定不好客。" speaker="1">
-			<Conversation line="考虑当前状况，我认为的确如此。" speaker="2">
-				<Conversation line="你知道我的意思。" speaker="1"/>
+		<Conversation line="嗯嗯，不管怎么说，反正我没看到任何好客的地方。" speaker="1">
+			<Conversation line="综合考虑到目前遇到的情况，你这么说也没错。" speaker="2">
+				<Conversation line="你懂我的。" speaker="1"/>
 			</Conversation>
 		</Conversation>
 		<Conversation line="人无法阻止潮起潮落,却可以学会乘风破浪。" speaker="1"/>
@@ -265,10 +265,10 @@
 		<Conversation line="够了。" speaker="1" speakertags="professional,tough"/>
 	</Conversation>
 
-	<Conversation line="略逊于耀阳，略逊于耀阳…" speaker="0" speakertags="laid-back,crazy" maxintensity="0.2">
-		<Conversation line="如木星一般，独一无二…" speaker="0">
+	<Conversation line="♪略逊于耀阳，略逊于耀阳…♪" speaker="0" speakertags="laid-back,crazy" maxintensity="0.2">
+		<Conversation line="♪如木星一般，独一无二…♪" speaker="0">
 			<Conversation line="" speaker="0" flags="Casual"/>
-			<Conversation line="如果你非要唱歌，麻烦关闭耳麦。" speaker="1" speakertags="professional"/>
+			<Conversation line="如果你非要唱歌，麻烦闭下麦。" speaker="1" speakertags="professional"/>
 		</Conversation>
 	</Conversation>
 
@@ -278,8 +278,8 @@
 
 	<Conversation line="行动起来！" speaker="0" speakertags="tough" maxintensity="0.2"/>
 
-	<Conversation line="风平浪静可造就不出精悍的水手。" speaker="0" speakertags="tough">
-		<Conversation line="可系惊涛骇浪能造出死亡的水手！" speaker="1" speakertags="brokenenglish"/>
+	<Conversation line="风平浪静可练不出精悍的水手。" speaker="0" speakertags="tough">
+		<Conversation line="可系惊涛骇浪能练出断气的水手！" speaker="1" speakertags="brokenenglish"/>
 	</Conversation>
 
 	<Conversation line="我们应该带一台咖啡机上来的。" speaker="0" speakertags="laid-back" maxintensity="0.2">
@@ -902,8 +902,8 @@
 	<Conversation line="哦，你好！今天感觉如何？" speaker="0" flags="OutpostNPC">
 		<Conversation line="老样子，老样子。" speaker="1" flags="OutpostNPC"/>
 		<Conversation line="漫无目的地游荡......我还又从楼梯上摔下来了。" speaker="1" flags="OutpostNPC"/>
-		<Conversation line="人们像没有水的植物一样干枯...而那些希望的火花在他们身上慢慢燃尽，他们何时将会死去？" speaker="1" speakertags="brokenenglish">
-			<Conversation line="什么？" speaker="0"/>
+		<Conversation line="那些人的皮肤干枯得像老妇人做的饺子一样…原来人性的火花也已燃烧殆尽，想必，他们应该是死了吧？" speaker="1" speakertags="brokenenglish">
+			<Conversation line="你在说什么？" speaker="0"/>
 		</Conversation>
 		<Conversation line="现在是白天吗？他们全天把灯调暗，我已经分不清楚。" speaker="1" flags="OutpostNPC"/>
 		<Conversation line="嗨，马克！" speaker="1" speakertags="crazy">
@@ -1027,17 +1027,17 @@
 	<Conversation line="站点的生活很枯燥，但总比在潜水艇里强。" speaker="0" flags="OutpostNPC"/>
 	<Conversation line="不知道食堂的自动售货机今天会供应什么。" speaker="0" flags="OutpostNPC"/>
 
-	<Conversation line="是油炸鱼蛇的味道？" speaker="0" flags="OutpostNPC">
+	<Conversation line="闻到了油炸鱼蛇的味道？" speaker="0" flags="OutpostNPC">
 		<Conversation line="可能是有人又让电网超载了。" speaker="1"/>
 		<Conversation line="" speaker="1"/>
 	</Conversation>
 
-	<Conversation line="如果你能买得起自己的交通工具，你会买哪个型号？" speaker="0" flags="OutpostNPC">
-		<Conversation line="我一直认为布尼普是一种自然选择。只有最好的水手才会回来。" speaker="1"/>
+	<Conversation line="如果你有钱买得起一艘潜艇，你会买哪个型号？" speaker="0" flags="OutpostNPC">
+		<Conversation line="我会买沼灵号，这可是大自然力量的象征，物竞天择的完美诠释，只有最厉害的水手们才能驾驭。" speaker="1"/>
 	</Conversation>
 
 	<Conversation line="我们以前的船长有时会逼我们执行他所谓的 神风俯冲。" speaker="0" flags="OutpostNPC">
-		<Conversation line="“如果你够猛，所有舱室都能算是压舱物”，他说。" speaker="0">
+		<Conversation line="“如果你够猛，所有舱室都能算是压载舱”，他说。" speaker="0">
 			<Conversation line="他已经不在人世了。这家伙勇敢的送了自己的命。" speaker="0"/>
 		</Conversation>
 	</Conversation>
