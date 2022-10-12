@@ -51,15 +51,58 @@
 
 # :pushpin:已知问题
 
-**问题1：** 安装此 mod 会导致其他 mod 的中文翻译失效
+**问题1：** 安装此 mod 会导致其他 mod 的现存中文翻译失效
 
-**解决办法**：
+**解决办法1**：
 
-因为此 mod 为一个独立语言包，对游戏来说相当于是新的语种，该语种名称为我设置的【CHS2】，而现存 mod 支持的中文翻译，其语种名称为【Simplified Chinese】而不是【CHS2】，故失效
+因为此 mod 对游戏来说相当于是新的语言包，语言名称为我设置的【CHS2】，在xml文件中定义为`<infotexts language="CHS2" ...>`，而不是原官中的`language="Simplified Chinese"`，而现存支持中文翻译的 mod 中，在xml的翻译中都是`<infotexts language="Simplified Chinese">`，故会失效。所以解决办法如下：
 
-1. 找到 mod 的中文翻译文件，复制一份，将文件名改成任意，打开复制的文件，找到在最上面的`<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">`将`language="Simplified Chinese"`改成`language="CHS2"`，然后保存。
-2. 在 mod 的filelist.xml文件中添加一行`<Text file="【mod的路径】/【你刚刚修改的文件名】.xml" />`
-3. 重启游戏
+---
+
+**对于 mod 作者来说**，只需复制原有的中文翻译文件，然后把
+
+```xml
+<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+```
+
+改成
+
+```xml
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+```
+
+然后相应的在`filelist.xml`中加入刚才新加的文件即可。
+
+---
+
+**对于普通玩家**来说，大致有 2 条路可走：
+
+**第一条**，可以跑去给 mod 作者留言，申请他添加支持，不过这种要看别人心情了，还可能要等到猴年马月。
+
+**第二条**，可以自己手动做一个mod，方法很简单，首先进入游戏根目录下的`LocalMods`文件夹，新建一个文件夹，名称随意，建议英文。
+
+进入到新建的文件夹内，新建 2 个文件，一个是翻译文件，这个可以复制你玩的 mod 里的中文翻译，复制到你的，跟上面的步骤一样。
+
+用文本编辑器（推荐使用微软的VS Code，而不是系统自带的记事本）打开文件内容改成类似这样
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+    ...
+</infotexts>
+```
+
+另一个文件名为`filelist.xml`，里面这样写
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="你的 mod 名称" modversion="1.0.1" corepackage="False">
+  <Text file="%ModDir%/【你的翻译文件名】.xml" />
+   <!--如果后续要支持多个 mod，记得添加所有的翻译文件-->
+</contentpackage>
+```
+
+然后就在游戏里看到了你自己的 “翻译” mod，启用即可。推荐。
 
 # 📜许可证
 
