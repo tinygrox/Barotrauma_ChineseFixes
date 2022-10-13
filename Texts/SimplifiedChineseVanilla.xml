@@ -3598,7 +3598,7 @@
     <dialogicespirespottedsonar>发现了冰尖岩！</dialogicespirespottedsonar>
     <dialogicespirespottedsonar>声呐屏幕上出现了冰尖岩的影像！</dialogicespirespottedsonar>
     <dialogcannottreatpatient>无法为[name]治疗！</dialogcannottreatpatient>
-    <dialogcannottreatpatient>抱歉，对[name]的情况来说，我们已经尽力了。</dialogcannottreatpatient>
+    <dialogcannottreatpatient>抱歉，对于[name]说，目前我已不能做什么了。</dialogcannottreatpatient>
     <dialogcantfindtoxygen>找不到氧气罐！</dialogcantfindtoxygen>
     <dialogswappingoxygentank>正在更换氧气罐！</dialogswappingoxygentank>
     <dialoglowonweldingfuel>潜艇库存的焊接燃料不多了！</dialoglowonweldingfuel>
@@ -3886,8 +3886,8 @@
     <orderdialog.return>[name]，返回潜水艇!</orderdialog.return>
     <orderdialogself.return>我将返回潜水艇上！</orderdialogself.return>
     <orderdialog.dismissed.return>[name]，不必返回潜水艇了!</orderdialog.dismissed.return>
-    <orderdialog.dismissed.follow>[name]，感谢您跟着我!</orderdialog.dismissed.follow>
-    <orderdialog.dismissed.wait>[name]，感谢您的等待!</orderdialog.dismissed.wait>
+    <orderdialog.dismissed.follow>[name]，感谢你的跟随!</orderdialog.dismissed.follow>
+    <orderdialog.dismissed.wait>[name]，感谢你的等待!</orderdialog.dismissed.wait>
     <orderdialog.dismissed.operatereactor>[name]，感谢你操作反应堆!</orderdialog.dismissed.operatereactor>
     <orderdialog.dismissed.operatereactor>[name]，感谢你维护反应堆!</orderdialog.dismissed.operatereactor>
     <orderdialog.dismissed.operateweapons>[name]，感谢你操作武器!</orderdialog.dismissed.operateweapons>
@@ -5280,7 +5280,7 @@
     <eventtext.missionevent_clownoutbreak.o2>“嘎嘎”</eventtext.missionevent_clownoutbreak.o2>
     <eventtext.missionevent_clownoutbreak.o2.c1>远处传来了小丑喇叭的声音，确认你接受了这项任务。你离开前哨站时，货物会交付到你手上。</eventtext.missionevent_clownoutbreak.o2.c1>
     <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
-    <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇马上派个代表到指挥室像安全主管报道，”召集刚靠岸的舰船派遣代表去见当地部门的安全主管。</eventtext.bigbrother.c1>
+    <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇马上派个代表到指挥室向安全主管报道”。</eventtext.bigbrother.c1>
     <eventtext.bigbrother.c1.c1>“你是新来的，正好，我这里有个棘手的问题，我手下的人都不可信。”安全主管停顿了一下，看了看你，“一般来说，我不会向外人寻求协助，但我已经别无选择了，不必多言，我需要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
     <eventtext.bigbrother.c1.o1>跟我说说具体情况吧。</eventtext.bigbrother.c1.o1>
     <eventtext.bigbrother.c1.o1.c1>主管点点头，“根据我们之前获得的线报，分离主义分子正在策划越狱。”他坦诚地说到，“预防越狱已经很棘手了，更麻烦的是，我们中出了一个叛徒。”</eventtext.bigbrother.c1.o1.c1>
@@ -6421,7 +6421,7 @@
     <talentdescription.tinker.cooldownreduction>维修的冷却时间减少到[seconds]秒。</talentdescription.tinker.cooldownreduction>
     <talentdescription.tinker.durationincrease>你可以额外维修[seconds]秒。</talentdescription.tinker.durationincrease>
     <talentdescription.tinker.suppliespower>你超频的非炮塔设备会永远运转下去，就像能源不会断一样。</talentdescription.tinker.suppliespower>
-    <talentdescription.tinker.reminder>该装置只有在你持续超频它时，才会受到影响。</talentdescription.tinker.reminder>
+    <talentdescription.tinker.reminder>该装置只有在你持续超频它时，才会持续生效。</talentdescription.tinker.reminder>
     <talentdescription.tinker.duration>你可以持续超频[duration]秒。超频一个装置后，你在接下来[cooldown] 秒内不能超频。</talentdescription.tinker.duration>
     <talentdescription.tinker.overclocking>超频的效果会增加[tinkerincrease]%，但超频物品会对其造成损害。</talentdescription.tinker.overclocking>
     <talentdescription.fieldmedic>每 [seconds] 秒，如果你的友军生命高于[healththreshold]%，则获得[skillincrease]点医疗技能。</talentdescription.fieldmedic>
@@ -6534,8 +6534,8 @@
     <item.resetuiposition>重置位置</item.resetuiposition>
     <missionmessage0.combatmission>分裂主义者舰船被联盟部队击败！</missionmessage0.combatmission>
     <missionmessage1.combatmission>联盟舰船被联盟分裂主义者部队击败！</missionmessage1.combatmission>
-    <submarine.name.camel>骆驼级</submarine.name.camel>
-    <submarine.description.camel>因两个显眼的驼峰而得名，骆驼级最初作为货舰和医疗后勤船使用。骆驼级有着宽阔的医疗舱和富裕的储物空间，但难以面对进水情况。前压载舱也是它的罩门，有些不受欢迎的水手会被发现“意外”死于其中。\n杂谈：骆驼级的两个驼峰是焊接到潜艇上的，但如果要承接重型装备运输任务时也可以相对轻松的拆解下来。</submarine.description.camel>
+    <submarine.name.camel>骆驼号</submarine.name.camel>
+    <submarine.description.camel>因两个显眼的驼峰而得名，骆驼号（Camel），最初作为货舰和医疗后勤船使用。骆驼号有着宽敞的医疗舱和充裕的储物空间，但难以面对进水情况。前压载舱也是它的麻烦之一，一些不受欢迎的船员可能会在那里“意外”死亡。\n杂谈：骆驼级的两个驼峰是焊接到潜艇上的，但如果要承接重型装备运输任务时也可以很容易分离。</submarine.description.camel>
     <reactor.temperatureboostup>提高压力以暂时提高反应堆温度。</reactor.temperatureboostup>
     <reactor.temperatureboostdown>释放压力以暂时降低反应堆温度。</reactor.temperatureboostdown>
     <loadingscreentip>产出超过你潜艇设备所需的电力会导致电力过载，使部分设备（比如引擎和水泵）超负荷运转。但如果电压水平过高，则会伤害潜艇设备。</loadingscreentip>

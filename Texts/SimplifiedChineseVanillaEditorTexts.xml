@@ -17,7 +17,7 @@
     <savesubbutton>保存</savesubbutton>
     <addsubbutton>放置潜水艇</addsubbutton>
     <addsubtooltip>在当前潜水艇文件中放入另一个潜水艇。 可用于为主潜艇中添加小穿梭潜艇、逃生舱或可分离舱室。</addsubtooltip>
-    <holdtolink>按住空格同时鼠标单机来链接到其他物品.</holdtolink>
+    <holdtolink>按住空格同时鼠标单击来连接到其他物品.</holdtolink>
     <allowedlinks>Allowed links</allowedlinks>
     <filtermapentities>筛选</filtermapentities>
     <charactermodebutton>角色模式</charactermodebutton>
@@ -35,7 +35,7 @@
     <showspawnpoints>出生点</showspawnpoints>
     <showlinks>Links</showlinks>
     <showhulls>船体</showhulls>
-    <showgaps>隔间</showgaps>
+    <showgaps>分隔点</showgaps>
     <previouslyusedlabel>上次使用</previouslyusedlabel>
     <subnamemissingwarning>保存前请命名你的潜水艇.</subnamemissingwarning>
     <subnameillegalcharswarning>文件名包含非法字符([illegalchar])</subnameillegalcharswarning>
@@ -51,7 +51,7 @@
     <itemassemblynamemissingwarning>保存前请给物品组件命名.</itemassemblynamemissingwarning>
     <itemassemblyfileexistswarning>存在相同名称的物品组件。你是要覆盖掉这个物品组件吗?</itemassemblyfileexistswarning>
     <itemassemblynameillegalcharswarning>文件名包含非法字符([illegalchar])</itemassemblynameillegalcharswarning>
-    <nohullswarning>未在该潜艇找到船体结构. Hulls determine the 'borders' of an individual room and are required for water and air distribution to work correctly.</nohullswarning>
+    <nohullswarning>未在该潜艇找到船体结构. 船体结构是潜艇中作为识别舱室的'边界'，空气和水在舱室里才会正常工作。</nohullswarning>
     <disconnectedventswarning>The submarine contains vents which haven't been linked to an oxygen generator. Select a vent and click an oxygen generator while holding space to link them.</disconnectedventswarning>
     <disconnectedturretswarning>The submarine contains [itemname]s which haven't been linked to an ammunition loader. Select the item and click a loader while holding space to link them.</disconnectedturretswarning>
     <nowaypointswarning>No waypoints found in the submarine. AI controlled crew members won't be able to navigate without waypoints.</nowaypointswarning>
@@ -92,11 +92,11 @@
 
 
     <!-- Entity Editor -->
-    <stringpropertytranslate>This text will be translated to [translation].</stringpropertytranslate>
-    <stringpropertycannottranslate>This text will not be translated - text with the tag [tag] not found in the language files.</stringpropertycannottranslate>
+    <stringpropertytranslate>这些文本将会被翻译为[translation].</stringpropertytranslate>
+    <stringpropertycannottranslate>这些文字将不会被翻译 - 文本标签 [tag] 未在语言文件中找到匹配项.</stringpropertycannottranslate>
     <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-    <subeditorlights>Lights</subeditorlights>
-    <subeditorshadowcastinglights>Shadow-casting lights</subeditorshadowcastinglights>
+    <subeditorlights>灯关</subeditorlights>
+    <subeditorshadowcastinglights>阴影投射灯光</subeditorshadowcastinglights>
 
     <!-- Sprite Editor -->
     <spriteeditor.reloadtexture>重载贴图</spriteeditor.reloadtexture>
@@ -371,12 +371,12 @@
     <sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
     <sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.holdable.swingwhenusing.description>
     <sp.door.openingspeed.name>开门速度</sp.door.openingspeed.name>
-    <sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
+    <sp.door.openingspeed.description>开门速度。</sp.door.openingspeed.description>
     <sp.door.closingspeed.name>关门速度</sp.door.closingspeed.name>
-    <sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
+    <sp.door.closingspeed.description>关门速度。</sp.door.closingspeed.description>
     <sp.door.isopen.name>敞开</sp.door.isopen.name>
-    <sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
-    <sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
+    <sp.door.isopen.description>门是否一直保持敞开。</sp.door.isopen.description>
+    <sp.repairable.deteriorationspeed.name>老化速度</sp.repairable.deteriorationspeed.name>
     <sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
     <sp.repairable.mindeteriorationdelay.name>Min Deterioration Delay</sp.repairable.mindeteriorationdelay.name>
     <sp.repairable.mindeteriorationdelay.description>Minimum initial delay before the item starts to deteriorate.</sp.repairable.mindeteriorationdelay.description>
@@ -413,31 +413,31 @@
     <sp.lightcomponent.blinkfrequency.description>How rapidly the light blinks on and off (in Hz). 0 = no blinking.</sp.lightcomponent.blinkfrequency.description>
     <sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
     <sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
-    <sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
-    <sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
+    <sp.sonar.usetransducers.name>使用换能器</sp.sonar.usetransducers.name>
+    <sp.sonar.usetransducers.description>声呐是否需要连接另外的声呐换能器才能工作。</sp.sonar.usetransducers.description>
     <sp.itemlabel.text.name>文本</sp.itemlabel.text.name>
-    <sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
+    <sp.itemlabel.text.description>在标签上显示的文字。</sp.itemlabel.text.description>
     <sp.itemlabel.textcolor.name>文本颜色</sp.itemlabel.textcolor.name>
-    <sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
+    <sp.itemlabel.textcolor.description>显示在标签上文本的颜色 (R,G,B,A).</sp.itemlabel.textcolor.description>
     <sp.itemlabel.textscale.name>文本大小</sp.itemlabel.textscale.name>
-    <sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
-    <sp.minimap.requirewaterdetectors.name>Require Water Detectors</sp.minimap.requirewaterdetectors.name>
-    <sp.minimap.requirewaterdetectors.description>Does the machine require inputs from water detectors in order to show the water levels inside rooms.</sp.minimap.requirewaterdetectors.description>
-    <sp.minimap.requireoxygendetectors.name>Require Oxygen Detectors</sp.minimap.requireoxygendetectors.name>
-    <sp.minimap.requireoxygendetectors.description>Does the machine require inputs from oxygen detectors in order to show the oxygen levels inside rooms.</sp.minimap.requireoxygendetectors.description>
-    <sp.minimap.showhullintegrity.name>Show Hull Integrity</sp.minimap.showhullintegrity.name>
-    <sp.minimap.showhullintegrity.description>Should damaged walls be displayed by the machine.</sp.minimap.showhullintegrity.description>
-    <sp.reactor.maxpoweroutput.name>Max Power Output</sp.reactor.maxpoweroutput.name>
+    <sp.itemlabel.textscale.description>显示在标签上的文本的字体大小</sp.itemlabel.textscale.description>
+    <sp.minimap.requirewaterdetectors.name>需要水位传感器</sp.minimap.requirewaterdetectors.name>
+    <sp.minimap.requirewaterdetectors.description>机器是否需要安装水位传感器才能显示舱室内的水位信息。</sp.minimap.requirewaterdetectors.description>
+    <sp.minimap.requireoxygendetectors.name>需要氧含量传感器</sp.minimap.requireoxygendetectors.name>
+    <sp.minimap.requireoxygendetectors.description>机器是否需要安装氧含量传感器才能显示舱室内的氧气含量。</sp.minimap.requireoxygendetectors.description>
+    <sp.minimap.showhullintegrity.name>显示船体完整度</sp.minimap.showhullintegrity.name>
+    <sp.minimap.showhullintegrity.description>机器是否显示舱内墙体受损的位置。</sp.minimap.showhullintegrity.description>
+    <sp.reactor.maxpoweroutput.name>最高电力输出</sp.reactor.maxpoweroutput.name>
     <sp.reactor.maxpoweroutput.description>How much power (kW) the reactor generates when operating at full capacity.</sp.reactor.maxpoweroutput.description>
-    <sp.reactor.meltdowndelay.name>Meltdown Delay</sp.reactor.meltdowndelay.name>
+    <sp.reactor.meltdowndelay.name>熔毁延迟</sp.reactor.meltdowndelay.name>
     <sp.reactor.meltdowndelay.description>How long the temperature has to stay critical until a meltdown occurs.</sp.reactor.meltdowndelay.description>
-    <sp.reactor.firedelay.name>Fire Delay</sp.reactor.firedelay.name>
+    <sp.reactor.firedelay.name>起火延迟</sp.reactor.firedelay.name>
     <sp.reactor.firedelay.description>How long the temperature has to stay critical until the reactor catches fire.</sp.reactor.firedelay.description>
     <sp.reactor.fuelconsumptionrate.name>Fuel Consumption Rate</sp.reactor.fuelconsumptionrate.name>
     <sp.reactor.fuelconsumptionrate.description>How fast the condition of the contained fuel rods deteriorates per second.</sp.reactor.fuelconsumptionrate.description>
-    <sp.powercontainer.maxoutput.name>Max Out Put</sp.powercontainer.maxoutput.name>
+    <sp.powercontainer.maxoutput.name>最大输出</sp.powercontainer.maxoutput.name>
     <sp.powercontainer.maxoutput.description>Maximum output of the device when fully charged (kW).</sp.powercontainer.maxoutput.description>
-    <sp.powercontainer.capacity.name>Capacity</sp.powercontainer.capacity.name>
+    <sp.powercontainer.capacity.name>容量</sp.powercontainer.capacity.name>
     <sp.powercontainer.capacity.description>The maximum capacity of the device (kW * min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
     <sp.powercontainer.charge.name>Charge</sp.powercontainer.charge.name>
     <sp.powercontainer.charge.description>The current charge of the device.</sp.powercontainer.charge.description>
@@ -454,19 +454,19 @@
 
     <sp.hull.roomname.name>舱室名称</sp.hull.roomname.name>
     <sp.hull.spritedepth.name>Sprite Depth</sp.hull.spritedepth.name>
-    <sp.hull.scale.name>Scale</sp.hull.scale.name>
-    <sp.delaycomponent.delay.name>Delay</sp.delaycomponent.delay.name>
-    <sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
-    <sp.delaycomponent.resetwhensignalreceived.name>Reset When Signal Received</sp.delaycomponent.resetwhensignalreceived.name>
-    <sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
-    <sp.delaycomponent.resetwhendifferentsignalreceived.name>Reset When Different Signal Received</sp.delaycomponent.resetwhendifferentsignalreceived.name>
-    <sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
-    <sp.andcomponent.timeframe.name>Time Frame</sp.andcomponent.timeframe.name>
-    <sp.andcomponent.timeframe.description>The item sends the output if both inputs have received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.andcomponent.timeframe.description>
+    <sp.hull.scale.name>比例</sp.hull.scale.name>
+    <sp.delaycomponent.delay.name>延时</sp.delaycomponent.delay.name>
+    <sp.delaycomponent.delay.description>该物品信号输出的等待时间 (秒).</sp.delaycomponent.delay.description>
+    <sp.delaycomponent.resetwhensignalreceived.name>收到信号时重置</sp.delaycomponent.resetwhensignalreceived.name>
+    <sp.delaycomponent.resetwhensignalreceived.description>收到新的信号值时，是否丢弃之前的信号值。</sp.delaycomponent.resetwhensignalreceived.description>
+    <sp.delaycomponent.resetwhendifferentsignalreceived.name>收到不同信号时重置</sp.delaycomponent.resetwhendifferentsignalreceived.name>
+    <sp.delaycomponent.resetwhendifferentsignalreceived.description>当接收信号值改变时，物品是否丢弃之前的信号值。</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+    <sp.andcomponent.timeframe.name>时间周期</sp.andcomponent.timeframe.name>
+    <sp.andcomponent.timeframe.description>如果两个输入都在时间周期内收到非零信号，则输出信号。如果设置为0，两个输入都必须同时接收到信号才会输出信号。</sp.andcomponent.timeframe.description>
     <sp.andcomponent.output.name>输出</sp.andcomponent.output.name>
     <sp.andcomponent.output.description>当两个输入端接收到非零信号时发送信号.</sp.andcomponent.output.description>
-    <sp.andcomponent.falseoutput.name>伪输出</sp.andcomponent.falseoutput.name>
-    <sp.andcomponent.falseoutput.description>The signal sent when both inputs have not received a non-zero signal (if empty, no signal is sent).</sp.andcomponent.falseoutput.description>
+    <sp.andcomponent.falseoutput.name>假输出</sp.andcomponent.falseoutput.name>
+    <sp.andcomponent.falseoutput.description>当两个输入端都没有收到非零信号时输出的信号（如果输入端未连接，则不输出信号）</sp.andcomponent.falseoutput.description>
     <sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.orcomponent.timeframe.description>
     <sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
     <sp.orcomponent.falseoutput.description>The signal sent when none of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.orcomponent.falseoutput.description>
@@ -482,12 +482,12 @@
     <equalscomponent.falseoutput.description>The signal this item outputs when the inputs are not equal.</equalscomponent.falseoutput.description>
     <greatercomponent.output.description>The signal this item outputs when the first input is greater than the second.</greatercomponent.output.description>
     <greatercomponent.falseoutput.description>The signal this item outputs when the first input is not greater than the second.</greatercomponent.falseoutput.description>
-    <sp.signalcheckcomponent.output.name>Output</sp.signalcheckcomponent.output.name>
+    <sp.signalcheckcomponent.output.name>输出</sp.signalcheckcomponent.output.name>
     <sp.signalcheckcomponent.output.description>The signal this item outputs when the received signal matches the target signal.</sp.signalcheckcomponent.output.description>
-    <sp.signalcheckcomponent.falseoutput.name>False Output</sp.signalcheckcomponent.falseoutput.name>
+    <sp.signalcheckcomponent.falseoutput.name>假输出</sp.signalcheckcomponent.falseoutput.name>
     <sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
-    <sp.signalcheckcomponent.targetsignal.name>Target Signal</sp.signalcheckcomponent.targetsignal.name>
-    <sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
+    <sp.signalcheckcomponent.targetsignal.name>目标信号值</sp.signalcheckcomponent.targetsignal.name>
+    <sp.signalcheckcomponent.targetsignal.description>用于比较接收的信号值的值</sp.signalcheckcomponent.targetsignal.description>
     <sp.relaycomponent.maxpower.name>Max Power</sp.relaycomponent.maxpower.name>
     <sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
     <sp.relaycomponent.ison.name>Is On</sp.relaycomponent.ison.name>
@@ -502,8 +502,8 @@
     <sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: a periodical signal of 1. Sine: a sine wave oscillating between -1 and 1. Square: a signal that alternates between 0 and 1. Sawtooth: a signal that rises from 0 to 1 and then drops back to 0. Triangle: a triangle wave oscillating between -1 and 1</sp.oscillatorcomponent.outputtype.description>
     <sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
     <sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
-    <sp.lightcomponent.lightcolor.name>Light Color</sp.lightcomponent.lightcolor.name>
-    <sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
+    <sp.lightcomponent.lightcolor.name>灯光颜色</sp.lightcomponent.lightcolor.name>
+    <sp.lightcomponent.lightcolor.description>灯光的颜色(R,G,B,A).</sp.lightcomponent.lightcolor.description>
     <sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
     <sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
     <sp.turret.reload.name>重新装填</sp.turret.reload.name>
@@ -536,14 +536,14 @@
     <sp.motionsensor.detectoffset.description>The position to detect the movement at relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
     <sp.motionsensor.output.name>Output</sp.motionsensor.output.name>
     <sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
-    <sp.motionsensor.falseoutput.name>False Output</sp.motionsensor.falseoutput.name>
+    <sp.motionsensor.falseoutput.name>假输出</sp.motionsensor.falseoutput.name>
     <sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
     <sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
     <sp.motionsensor.minimumvelocity.description>How fast the objects within the detector's range have to be moving (in m/s).</sp.motionsensor.minimumvelocity.description>
-    <sp.waterdetector.output.name>Output</sp.waterdetector.output.name>
-    <sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
-    <sp.waterdetector.falseoutput.name>False Output</sp.waterdetector.falseoutput.name>
-    <sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
+    <sp.waterdetector.output.name>输出</sp.waterdetector.output.name>
+    <sp.waterdetector.output.description>当物品被水浸没时输出的信号。</sp.waterdetector.output.description>
+    <sp.waterdetector.falseoutput.name>假输出</sp.waterdetector.falseoutput.name>
+    <sp.waterdetector.falseoutput.description>当物品未被水浸没时输出的信号.</sp.waterdetector.falseoutput.description>
     <sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
     <sp.notcomponent.continuousoutput.description>When enabled, the component continuously outputs "1" when it's not receiving a signal.</sp.notcomponent.continuousoutput.description>
     <sp.electricaldischarger.range.name>Range</sp.electricaldischarger.range.name>

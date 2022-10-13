@@ -211,8 +211,8 @@
   <firstname tags="female" value="Zoe" />
   <firstname tags="female" value="Zoey" />
 
-  <firstname tags="male" value="Abe" />
-  <firstname tags="male" value="Adam" />
+  <firstname tags="male" value="阿贝" />
+  <firstname tags="male" value="亚当" />
   <firstname tags="male" value="Adan" />
   <firstname tags="male" value="Ahmed" />
   <firstname tags="male" value="Alan" />
@@ -237,7 +237,7 @@
   <firstname tags="male" value="Ben" />
   <firstname tags="male" value="Bennie" />
   <firstname tags="male" value="Bertram" />
-  <firstname tags="male" value="Bill" />
+  <firstname tags="male" value="比尔" />
   <firstname tags="male" value="Bo" />
   <firstname tags="male" value="Boyce" />
   <firstname tags="male" value="Boyd" />
@@ -258,7 +258,7 @@
   <firstname tags="male" value="Claude" />
   <firstname tags="male" value="Coleman" />
   <firstname tags="male" value="Cuck" />
-  <firstname tags="male" value="Dan" />
+  <firstname tags="male" value="丹" />
   <firstname tags="male" value="Darius" />
   <firstname tags="male" value="Darrin" />
   <firstname tags="male" value="Darwin" />
@@ -599,7 +599,7 @@
   <lastname value="Meisner" />
   <lastname value="Mell" />
   <lastname value="Mendel" />
-  <lastname value="Mendez" />
+  <lastname value="门德斯" />
   <lastname value="Meza" />
   <lastname value="Molina" />
   <lastname value="Monroe" />
@@ -696,5 +696,5 @@
   <lastname value="Whitely" />
   <lastname value="Wiley" />
   <lastname value="Williams" />
-  <lastname value="Zhang" />
+  <lastname value="张" />
 </names>

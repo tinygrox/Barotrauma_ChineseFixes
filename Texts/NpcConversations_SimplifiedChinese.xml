@@ -14,7 +14,7 @@
 		<Conversation line="在大海上往来经商" speaker="0">
 			<Conversation line="他们见过上帝的作为，和他在深海中所行的奇事" speaker="0">
 				<Conversation line="我们出发喽！祝各位好运！" speaker="0" />
-				<Conversation line="这种地方上帝也搞不定" speaker="1" speakertags="joker,tough,professional" />
+				<Conversation line="这种地方上帝来了也搞不定，更何况耶稣从没来过这里。" speaker="1" speakertags="joker,tough,professional" />
 			</Conversation>
 		</Conversation>
 	</Conversation>
@@ -157,7 +157,7 @@
 
 	<Conversation line="♪让她的，速度再快一点，下潜再深一点…♪" speaker="0" flags="Casual" speakertags="joker,laid-back" maxintensity="0.3">
 		<Conversation line="♪深入那万物，俱寂之地！♪" speaker="0">
-			<Conversation line="♪干他妈的深度，干他妈的压强…♪" speaker="0">
+			<Conversation line="♪干死深度，干死压强…♪" speaker="0">
 				<Conversation line="♪让她像长尾鲨那样下潜！♪" speaker="0">
 					<Conversation line="不要在我的船上唱歌。" speaker="1" allowedjobs="captain" speakertags="professional,tough">
 						<Conversation line="" speaker="0" />
@@ -169,10 +169,10 @@
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="我们是在原地乱逛吗？" speaker="0" speakertags="joker" maxintensity="0.2">
+	<Conversation line="我们是打算在这里度假吗？" speaker="0" speakertags="joker" maxintensity="0.2">
 		<Conversation line="" speaker="0" flags="Casual" />
 		<Conversation line="求求你闭嘴" speaker="1" speakertags="rude" />
-		<Conversation line="真的不好笑" speaker="1" />
+		<Conversation line="你觉得你很幽默是吧" speaker="1" />
 		<Conversation line="这不好笑" speaker="1" speakertags="brokenenglish" />
 	</Conversation>
 
@@ -240,7 +240,7 @@
 		<Conversation line="那些诘屈聱牙的古老名词让我难以理解。" speaker="0">
 			<Conversation line="比如说，starboard（右舷）是什么鬼意思？" speaker="0">
 				<Conversation line="老实说，我跟你一样，我也不知道。" speaker="1" />
-				<Conversation line="也许是向上的意思？你看嘛，star，星星，对着天上星星的方向。" speaker="1" />
+				<Conversation line="也许是向上的意思？你看嘛，star，星星，对着天上星星的方向，就是向上的意思。" speaker="1" />
 			</Conversation>
 		</Conversation>
 	</Conversation>
@@ -278,8 +278,8 @@
 
 	<Conversation line="行动起来！" speaker="0" speakertags="tough" maxintensity="0.2" />
 
-	<Conversation line="风平浪静可练不出精悍的水手。" speaker="0" speakertags="tough">
-		<Conversation line="可系惊涛骇浪能练出断气的水手！" speaker="1" speakertags="brokenenglish" />
+	<Conversation line="风平浪静可练不出强悍的水手。" speaker="0" speakertags="tough">
+		<Conversation line="可系惊涛骇浪练出的水手都是断气的！" speaker="1" speakertags="brokenenglish" />
 	</Conversation>
 
 	<Conversation line="我们应该带一台咖啡机上来的。" speaker="0" speakertags="laid-back" maxintensity="0.2">
@@ -637,12 +637,12 @@
 	<!-- New additions -->
 
 	<Conversation line="我可以把我所有烦恼放到诱饵里吗？" speaker="0" />
-	<Conversation line="你是否感觉到过...无聊？" speaker="0" />
+	<Conversation line="你们是否觉得...无聊？" speaker="0" />
 
 	<Conversation line="是&quot;丘脑&quot;还是&quot;球脑&quot;？" speaker="0">
 		<Conversation line="希望每次只用见到一个。" speaker="1" />
 		<Conversation line="呃，我再也不想吃腊肠了。" speaker="1" />
-		<Conversation line="一艘会吐变形虫的空壳潜艇向我开炮的时候，我不会问它想如何被称呼。" speaker="1" />
+		<Conversation line="一般一艘会吐变形虫的空壳潜艇向我开炮的时候，我不会问它“嘿，你想让我们怎么称呼您？”。" speaker="1" />
 	</Conversation>
 
 	<!-- Even newer additions by M61,escort focused -->
