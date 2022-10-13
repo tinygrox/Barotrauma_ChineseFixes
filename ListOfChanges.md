@@ -49,5 +49,13 @@
 | Coalition Medal | 联盟勋章 |  |  |
 | shuttle | 穿梭艇、飞船 | 穿梭艇 | 翻译一致性原则 |
 | deconstructor | 解构仪、分解台、解构器 | 解构仪 | 翻译一致性原则 |
-|  |  |  |  |
+| Europa Coalition | 木卫二联盟 |  |  |
+| Children of the Honkmother | 小丑圣母之子 | | |
+| Jovian Separatists | 木星分离主义分子 | | |
+| The Church of Husk | 画皮教派 | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
+|  |  | | |
 

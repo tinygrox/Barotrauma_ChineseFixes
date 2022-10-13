@@ -1046,7 +1046,7 @@
 	<Conversation line="哦，我们又有访客了。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 	<Conversation line="你们好！" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 	<Conversation line="你好啊！你看起来像是经历了一次艰难的旅行。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
-	<Conversation line="你好! 欢迎来到我们简陋的住所。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
+	<Conversation line="你好! 欢迎光临寒舍。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 	<Conversation line="你们这些人看起来需要休息一下。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 	<Conversation line="我以前没有见过你们啊。" speaker="0" flags="EnterOutpost,OutpostNPC"/>
 	<Conversation line="你们的潜水艇真漂亮!" speaker="0" flags="EnterOutpost,OutpostNPC"/>

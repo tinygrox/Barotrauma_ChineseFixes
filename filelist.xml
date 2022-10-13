@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Chinese Fixes" modversion="1.0.0" corepackage="False" gameversion="0.19.11.0">
+<contentpackage name="Simplified Chinese Fixes" modversion="1.0.0" corepackage="False" gameversion="0.19.11.0">
   <UIStyle file="%ModDir%/UI/style.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
