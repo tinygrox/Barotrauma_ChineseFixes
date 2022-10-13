@@ -53,7 +53,7 @@
 | Children of the Honkmother | 小丑圣母之子 | | |
 | Jovian Separatists | 木星分离主义分子 | | |
 | The Church of Husk | 画皮教派 | | |
-|  |  | | |
+| Watcher | 独目哨兵 | | |
 |  |  | | |
 |  |  | | |
 |  |  | | |

@@ -915,9 +915,9 @@
     <undefinedsubmarineclasswarning>战役中无法操作未定义分类的潜艇！\n\n确定要不分类就保存当前潜艇吗？</undefinedsubmarineclasswarning>
     <undefinedsubmarineselected>未定义级别的潜艇无法在战役中使用！</undefinedsubmarineselected>
     <nohashsubmarineselected>此潜艇缺少有效哈希值；可能是因为下载尚未完成！</nohashsubmarineselected>
-    <campaignstartingmoney>初始资金： [money]点</campaignstartingmoney>
+    <campaignstartingmoney>初始资金： [money]马克</campaignstartingmoney>
     <campaignoption.enableradiation>启用木星辐射</campaignoption.enableradiation>
-    <campaignoption.enableradiation.tooltip>木星的辐射越来越强了，这迫使木卫二深洋中生活的人们必须深入冰洋。开启该功能后，游戏机制会推动你不断深入游戏中更危险的区域，逐步增加游戏难度。</campaignoption.enableradiation.tooltip>
+    <campaignoption.enableradiation.tooltip>来自木星的辐射会越来越强，这将迫使在木卫二深洋中生活的人们必须更加深入海底。开启该选项后，游戏机制会慢慢促使你不断深入游戏中更危险的区域，逐步增加游戏难度。</campaignoption.enableradiation.tooltip>
     <campaignoption.enablehardcore>开启硬核模式</campaignoption.enablehardcore>
     <campaignoption.enablehardcore.tooltip>对专业水手的挑战。难度增加。角色获得更多经验，但所有角色的升级进度在死亡时都会丢失。</campaignoption.enablehardcore.tooltip>
     <radiationtooltip>致命辐射\n该地区的木星辐射强度已经达到了置人于死地的程度，强烈建议各位远离该区域。</radiationtooltip>
@@ -3178,13 +3178,13 @@
     <subpreviewimage>预览图</subpreviewimage>
     <subpreviewimagebrowse>浏览…</subpreviewimagebrowse>
     <subpreviewimagecreate>创建</subpreviewimagecreate>
-    <recommendedcrewsize>推荐船员数量</recommendedcrewsize>
-    <recommendedcrewexperience>推荐船员经验</recommendedcrewexperience>
-    <requiredcontentpackages>内容组合包需求</requiredcontentpackages>
+    <recommendedcrewsize>建议船员数量</recommendedcrewsize>
+    <recommendedcrewexperience>建议船员经验</recommendedcrewexperience>
+    <requiredcontentpackages>需要 Mod</requiredcontentpackages>
     <crewexperiencelow>初窥门径</crewexperiencelow>
     <crewexperiencemid>略有心得</crewexperiencemid>
     <crewexperiencehigh>驾轻就熟</crewexperiencehigh>
-    <autoloadout_description>修改潜艇上的初始装载量</autoloadout_description>
+    <autoloadout_description>修改初始潜艇物品装载量</autoloadout_description>
     <autoloadout_title>自动装载</autoloadout_title>
     <cargocapacity>载货量</cargocapacity>
     <cargocapacityformat>[cratecount]箱</cargocapacityformat>
@@ -3198,37 +3198,37 @@
     <submarine.name.muikku>湖青号</submarine.name.muikku>
     <submarine.description.muikku>木卫二殖民地的主力型号，湖青号（Muikku）具有不错的速度与良好的浮潜性能，但是，它非常脆弱而“短腿”——上面装载的低容量电池限制了它们的航程距离。</submarine.description.muikku>
     <submarine.name.orca>逆戟鲸号</submarine.name.orca>
-    <submarine.description.orca>三个大型压载舱的激进设计使得逆戟鲸（Orca）有着令人惊异的最高航速与浮潜性能，如果你不考虑不稳定的发动机、消耗巨大的反应堆和过时的武器的话，逆戟鲸级潜艇是冰洋中的迅捷之王。</submarine.description.orca>
+    <submarine.description.orca>三个大型压载舱的激进设计使得逆戟鲸（Orca）有着令人惊异的极限航速与浮潜速度，如果你觉得引擎偶尔发生故障、反应堆耗能过大和武器落后这些是小问题的话，逆戟鲸绝对是冰洋中的迅捷之王。</submarine.description.orca>
     <submarine.name.remora>鮣鱼号</submarine.name.remora>
-    <submarine.description.remora>鮣鱼号（Remora）有着较大的自由定制空间，主要船体结构包括一个可拆卸的压载舱和一架遥控无人机，想要玩转这艘潜艇，你需要雇佣大量人力。</submarine.description.remora>
+    <submarine.description.remora>鮣(yìn)鱼号（Remora）有着较大的自由定制空间，船体主要结构包括一个可分离的压载舱和一架遥控无人机，想要玩转这艘潜艇，你需要雇佣大量人力。</submarine.description.remora>
     <submarine.name.typhon>台风号</submarine.name.typhon>
-    <submarine.description.typhon>台风号（Typhon）潜艇外形粗犷、性能可靠、轻重火力兼备，不过，船长们都知道这种潜艇有着糟糕的极限航速与浮潜速度。</submarine.description.typhon>
+    <submarine.description.typhon>台风号（Typhon）潜艇外形粗犷、性能可靠、轻重火力兼备，不过，开过的人都知道这种潜艇有着糟糕的极限航速与浮潜速度。</submarine.description.typhon>
     <submarine.name.dugong>儒艮号</submarine.name.dugong>
     <submarine.description.dugong>儒艮号（Dugong）潜艇有着最佳的性价比——虽然它各方面性能都稍逊一筹。缺乏火力与速度的问题只能靠灵活机动来弥补。</submarine.description.dugong>
     <submarine.name.selkie>海豹号</submarine.name.selkie>
-    <submarine.description.selkie>海豹号（Selkie）作为木卫二殖民地的主力穿梭艇，它具有不错的速度与良好的浮潜性能，另一方面，它们脆弱而“短腿”——上面装载的低容量电池限制了它们的航程距离。</submarine.description.selkie>
+    <submarine.description.selkie>木卫二殖民地的主力型号，海豹号（Selkie）具有不错的速度与良好的浮潜性能，另一方面，它们脆弱而“短腿”——上面装载的低容量电池限制了它们的航程距离。</submarine.description.selkie>
     <submarine.name.venture>冒险号</submarine.name.venture>
     <submarine.description.venture>冒险号（Venture）作为已被淘汰的科研型潜水艇，目前常用于在前哨站与潜艇之间的运输物资和人员。</submarine.description.venture>
     <submarine.name.berilia>海鞘号</submarine.name.berilia>
-    <submarine.description.berilia>海鞘号（Berilia）潜艇是木卫二最大的货船之一，不过，想让它正常运转可不容易：就算有着不少船员，要维护两部引擎和三个压载舱的复杂供电体系也是一件难事。</submarine.description.berilia>
+    <submarine.description.berilia>海鞘号（Berilia）潜艇是木卫二最大的货艇之一，不过，想让它正常运转可不容易：就算有着不少船员，要维护两部引擎和三个压载舱的复杂供电体系也是一件难事。</submarine.description.berilia>
     <submarine.name.kastrull>卡斯特罗</submarine.name.kastrull>
-    <submarine.description.kastrull>卡斯特罗（Kastrull）是一种可靠的进攻型潜艇，具有强大的火力。虽然不是很灵活，但是却有无人炮艇的威力。它有着实验性开放式压载舱，低进水耐久和高组员数量要求，只有一队经验丰富的海员才能发挥此舰艇的最大实力。</submarine.description.kastrull>
+    <submarine.description.kastrull>卡斯特罗（Kastrull）是一种可靠的攻击型潜艇，配备有强大的火力。虽然不是很灵活，但是配备无人机炮艇是这种型号的标准配置。它有着实验性开放式压载舱，由于一不小心就容易进水的特性和高人员数量要求，只有一队经验丰富的船员才能发挥此舰艇的最大实力。</submarine.description.kastrull>
     <submarine.name.hemulen>希米伦号</submarine.name.hemulen>
-    <submarine.description.hemulen>想与贫贱之人保持距离，在深海中有充足空间舒展身形吗？希米伦（Hemulen）是最佳的选项。</submarine.description.hemulen>
+    <submarine.description.hemulen>如果你想要的是能在房间里自由伸展你的双腿或是想跟穷人保持距离，那么希米伦（Hemulen）是最佳的选项。</submarine.description.hemulen>
     <submarine.name.typhon2>台风2号</submarine.name.typhon2>
-    <submarine.description.typhon2>台风2号（Typhon 2）是声名远扬的台风号潜艇的改进型号。座位重型炮艇，台风2号潜航速度较慢，外形丑陋，但具备极强的生存能力。</submarine.description.typhon2>
+    <submarine.description.typhon2>台风2号（Typhon 2）是台风号的“船新”版本。作为重型武装潜艇，台风2号潜航速度较慢，外形丑陋，但具备极强的生存能力。</submarine.description.typhon2>
     <submarine.name.azimuth>方位角号</submarine.name.azimuth>
-    <submarine.description.azimuth>方位角号（Azimuth）速度一流，设计时尚，舱内生活维持系统优越，这种潜艇是富有的老资格联盟舰长们的最爱。</submarine.description.azimuth>
+    <submarine.description.azimuth>方位角号（Azimuth）速度一流，设计时尚，舱内生活条件舒适，这种潜艇成为了那些攒了一堆钱且活下来的联盟退休老船长的最爱。</submarine.description.azimuth>
     <submarine.name.r-29>R-29 “大块头”</submarine.name.r-29>
     <submarine.description.r-29>R-29是一艘重型运输潜艇，它的武备很难对付木卫二冰洋之下的怪物们，但作为替代，其上加装了两个强大的放电线圈。该舰船原设计者为rav2n。</submarine.description.r-29>
     <submarine.name.barsuk>野獾</submarine.name.barsuk>
-    <submarine.description.barsuk>野獾（Barsuk）号潜艇是新手船长的最爱。它使用被摧毁潜艇的回收材料（反正很多都是野獾）制造使该系列的价格低廉。多年来围绕着定制和调整该原型的船只，甚至形成了野獾级爱好者亚文化圈。</submarine.description.barsuk>
+    <submarine.description.barsuk>野獾（Barsuk）号潜艇是新手船长的最爱。它使用被摧毁潜艇的回收材料（反正很多都是野獾）制造使该系列的价格低廉。多年来围绕着定制和调整该原型的船只，甚至形成了野獾爱好者亚文化圈。</submarine.description.barsuk>
     <submarine.name.winterhalter>御冬</submarine.name.winterhalter>
-    <submarine.description.winterhalter>御冬号（Winterhalter）潜艇最初是由新伊阿佩特斯的超钢船厂制造的，只生产了一年就被联盟收购用于研究目的。许多现存的型号都配备有船载研究室，而且武装到了牙齿。</submarine.description.winterhalter>
+    <submarine.description.winterhalter>御冬号（Winterhalter）潜艇最初是由 New Iapetus 的 Archsteel Yards 制造的，只生产了一年就被联盟收购用于研究目的。许多现存的型号都配备有船载研究室，而且武装到了牙齿。</submarine.description.winterhalter>
     <submarine.name.herja>女武神</submarine.name.herja>
-    <submarine.description.herja>凭借其多样的武器装备，女武神（Herja）潜艇可以处理与各种欧罗巴洲居民的冲突，是联盟舰队中的中流砥柱。如果附近有怪物的巢穴被清除，那么很有可能就是女武神的功劳。</submarine.description.herja>
+    <submarine.description.herja>凭借配备大量武器装备，女武神（Herja）潜艇可以处理与各种木卫二原住民的冲突，是联盟舰队中的中流砥柱。如果听说附近哪个怪物巢穴被清除了，那么很有可能就是女武神的功劳。</submarine.description.herja>
     <submarine.name.orca2>逆戟鲸2号</submarine.name.orca2>
-    <submarine.description.orca2>经典的逆戟鲸系列的继承者（Orca 2），这艘潜艇拥有相同的三压舱装置，能够极速进行上浮和下沉。作为一艘侦察船Orca 2装备精良，除了欧罗巴最危险的怪物外，其他对手都难从它这里讨到好处。</submarine.description.orca2>
+    <submarine.description.orca2>经典的逆戟鲸系列的继承者（Orca 2），这艘潜艇一样有三个压载舱，能够快速进行上浮和下沉。作为一艘侦察型潜艇，逆戟鲸装备精良，除了木卫二那些最危险的怪物外，其他对手都难从它这里讨到好处。</submarine.description.orca2>
 
     <!-- Terminal welcome messages -->
     <terminalwelcomemsg.humpback>输入on或off来接通或断开电池与电网的链接。输入一个0-100区间内的数字来设置每个电池的充电速率。</terminalwelcomemsg.humpback>
@@ -3259,8 +3259,8 @@
     <reloadlinkedsuberror>无法找到潜艇文件[file]！</reloadlinkedsuberror>
 
     <!-- Chat -->
-    <spamfilterkicked>您已被垃圾信息过滤系统踢出服务器。</spamfilterkicked>
-    <spamfilterblocked>您的发言权已经被垃圾信息过滤系统冻结，请在十秒后重试。</spamfilterblocked>
+    <spamfilterkicked>你已被垃圾信息过滤系统踢出服务器。</spamfilterkicked>
+    <spamfilterblocked>你已经被垃圾信息过滤系统禁言，请在 10 秒后重试。</spamfilterblocked>
     <chat.shownewmessages>显示新信息</chat.shownewmessages>
     <chat>聊天</chat>
     <chatmode.local>附近</chatmode.local>
@@ -3272,7 +3272,7 @@
     <enginebackwards>后退</enginebackwards>
     <engineforwards>前进</engineforwards>
     <enginepowered>已启动</enginepowered>
-    <fabricatornopower>电力供应不足</fabricatornopower>
+    <fabricatornopower>电力不足</fabricatornopower>
     <fabricatorrequireditems>所需物品</fabricatorrequireditems>
     <fabricatorrequiredtime>所需时间</fabricatorrequiredtime>
     <fabricatorrequiredcondition>等级需求</fabricatorrequiredcondition>
@@ -3281,7 +3281,7 @@
     <fabricatorcancel>取消</fabricatorcancel>
     <fabricatorinsufficientskills>未满足制作所需的技能条件</fabricatorinsufficientskills>
     <fabricatorsufficientskills>满足制作所需的技能条件</fabricatorsufficientskills>
-    <fabricator.input>输入</fabricator.input>
+    <fabricator.input>放入</fabricator.input>
     <fabricatorrequiresrecipe>需要配方才可制造</fabricatorrequiresrecipe>
     <vendingmachine.outofstock>缺货</vendingmachine.outofstock>
     <uilabel.input>输入</uilabel.input>
@@ -3330,8 +3330,8 @@
     <steeringvelocityx>速度：[kph] km/h</steeringvelocityx>
     <steeringvelocityy>浮潜速度：[kph] km/h</steeringvelocityy>
     <steeringdepth>深度：[m] m</steeringdepth>
-    <steeringdepthwarning>致命压力</steeringdepthwarning>
-    <steeringnopowertip>警告：电力供应不足</steeringnopowertip>
+    <steeringdepthwarning>高压致命</steeringdepthwarning>
+    <steeringnopowertip>警告：电力不足</steeringnopowertip>
     <steeringautopilotmaintainpostip>自动驾驶已启用\n正在保持当前位置，点击选择需要维持的位置。</steeringautopilotmaintainpostip>
     <steeringautopilotlocationtip>自动驾驶已启用\n已设置自动驶向[locationname]。</steeringautopilotlocationtip>
     <sonaractive>主动声呐</sonaractive>
@@ -3341,7 +3341,7 @@
     <sonarsignalweak>信号较弱</sonarsignalweak>
     <sonarnosignal>无信号</sonarnosignal>
     <sonartipactive>主动声呐开启时，声呐应答器会发出脉冲信号，根据附近障碍物反射信号来确定周边情况。脉冲信号也可能会惊扰到敌方潜艇或生物察觉。</sonartipactive>
-    <sonartippassive>被动声呐开启时，声呐不主动发出信号，只能接收到附近障碍物传来或反射的声波信号。</sonartippassive>
+    <sonartippassive>被动声呐开启时，声呐不主动发出信号，只能接收到附近传来或反射的声波信号。</sonartippassive>
     <powercontainercharge>充电中：[charge] 千瓦分([percentage] %)</powercontainercharge>
     <powercontainerrechargerate>充电速率 [rate] %</powercontainerrechargerate>
     <uilabel.chargingdock>充电坞站</uilabel.chargingdock>
@@ -3404,7 +3404,7 @@
 
     <!-- Repairing -->
     <fixheader>正在尝试修复[itemname]</fixheader>
-    <fixbutton>修复</fixbutton>
+    <fixbutton>维修</fixbutton>
     <repair>修复</repair>
     <repairallwalls>修复所有船体结构</repairallwalls>
     <repairallitems>修复所有物品</repairallitems>
@@ -3580,7 +3580,7 @@
     <dialogcannotfindfireextinguisher>我得找东西灭火！灭火器在哪儿？</dialogcannotfindfireextinguisher>
     <dialogcannotfindfireextinguisher>找不到灭火器！</dialogcannotfindfireextinguisher>
     <dialogcannotfindweldingequipment>焊枪在哪儿？我找不到啊！</dialogcannotfindweldingequipment>
-    <dialogcannotfindweldingequipment>焊枪，我的焊枪…怎么用到的时候反而找不到了？</dialogcannotfindweldingequipment>
+    <dialogcannotfindweldingequipment>焊枪，我的焊枪呢…怎么要用到的时候反而找不到了？</dialogcannotfindweldingequipment>
     <dialogdamagewallswarning>喂，你胡搞些什么？！</dialogdamagewallswarning>
     <dialogdamagewallswarning>快住手，你会把我们都害死的！</dialogdamagewallswarning>
     <dialogdamagewallswarning>你疯了吗？快住手！这样我们都会被淹死！</dialogdamagewallswarning>
@@ -3935,7 +3935,7 @@
     <crewlistelementtooltip>[name] ([job])\n拖拽排列船员顺序</crewlistelementtooltip>
     <thischaractercanthear>该角色无法接收到你的指令。</thischaractercanthear>
     <nocharactercanhear>无人能收到你的指令。</nocharactercanhear>
-    <objective.idle>摸鱼中</objective.idle>
+    <objective.idle>摸鱼</objective.idle>
     <objective.findsafety>紧急避险</objective.findsafety>
     <objective.combat>战斗</objective.combat>
     <crewlistobjectivetooltip>当前行为:[objective]</crewlistobjectivetooltip>
@@ -3958,10 +3958,10 @@
     <majorinjuries>重伤</majorinjuries>
     <criticalinjuries>致命伤</criticalinjuries>
     <oxygennormal>血氧含量正常</oxygennormal>
-    <oxygenreduced>大口喘气</oxygenreduced>
-    <oxygenlow>缺氧</oxygenlow>
-    <notbreathing>失去呼吸</notbreathing>
-    <noavailablemedicalitems>无药可医</noavailablemedicalitems>
+    <oxygenreduced>呼吸急促</oxygenreduced>
+    <oxygenlow>缺氧迹象</oxygenlow>
+    <notbreathing>停止呼吸</notbreathing>
+    <noavailablemedicalitems>无可用药物医治</noavailablemedicalitems>
 
     <!-- Huskification -->
     <huskdormant>你感觉喉咙有些疼痛</huskdormant>
@@ -4066,7 +4066,7 @@
     <afflictionname.opiateaddiction>阿片类药物成瘾</afflictionname.opiateaddiction>
     <afflictiondescription.opiateaddiction>如果不能满足需求，患者将持续抑郁。</afflictiondescription.opiateaddiction>
     <afflictionname.gunshotwound>枪伤</afflictionname.gunshotwound>
-    <afflictiondescription.gunshotwound>贯通伤，入创口为有灼伤痕迹的小型孔洞，有出血。出创口存在大面积组织外露，流血较多。</afflictiondescription.gunshotwound>
+    <afflictiondescription.gunshotwound>贯通伤，入创口为有灼伤痕迹的小型孔洞，伴随出血。出创口存在大面积组织外露，流血较多。</afflictiondescription.gunshotwound>
     <afflictioncauseofdeath.gunshotwound>中枪身亡</afflictioncauseofdeath.gunshotwound>
     <afflictioncauseofdeathself.gunshotwound>你死于枪击。</afflictioncauseofdeathself.gunshotwound>
     <afflictionname.morbusinepoisoning>窒死毒剂中毒</afflictionname.morbusinepoisoning>
