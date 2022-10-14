@@ -557,7 +557,7 @@
 
     <!-- Character HUD -->
     <oxygenhudwarning>缺氧</oxygenhudwarning>
-    <pressurehudwarning>高压</pressurehudwarning>
+    <pressurehudwarning>高压强</pressurehudwarning>
     <grabbing>抓握</grabbing>
     <stun>眩晕</stun>
     <disguised>(已伪装)</disguised>
@@ -656,7 +656,7 @@
     <inprogress>进行中</inprogress>
     <complete>完成</complete>
     <wrongfiletype>文件类型错误</wrongfiletype>
-    <debugconsolehelptext>Debug控制台 - 按下F3打开/关闭；输入help来获取可用指令列表</debugconsolehelptext>
+    <debugconsolehelptext>Debug控制台 - 按下F3打开/关闭；输入 help 来获取可用指令列表</debugconsolehelptext>
     <failed>失败</failed>
     <invalidcontentpackage>内容包 '[packagename]' 无法加载。</invalidcontentpackage>
     <xmlfileinvalid>文件 '[filepath]' 并非合法XML文件 ([errormessage])。</xmlfileinvalid>
@@ -682,7 +682,7 @@
     <output>输出用户提交的字符串。</output>
     <showinfolder>在文件夹中显示</showinfolder>
     <showinfoldererror>打开 "[folder]"文件夹失败 ([errormessage])。</showinfoldererror>
-    <wreckeditemformat>[name] （遇难船）</wreckeditemformat>
+    <wreckeditemformat>[name] （残骸）</wreckeditemformat>
     <message>消息</message>
     <legacyitemformat>[name] (旧版物品)</legacyitemformat>
     <moderationmenu.userdetails>细节</moderationmenu.userdetails>
@@ -695,9 +695,9 @@
     <!-- Editor -->
     <charactereditor.contentpackagenameinuse>已经有同名内容包存在。请选择另一个名字，或者选择既存内容包。</charactereditor.contentpackagenameinuse>
     <charactereditor.crouch>蹲下</charactereditor.crouch>
-    <subeditorlights>灯光</subeditorlights>
-    <subeditorshadowcastinglights>投影灯</subeditorshadowcastinglights>
-    <subeditor.shadowcastinglightswarning>游戏中运用了大量的投影，可能会导致一些性能上的问题。你可能想要禁用引用投射，调整光源：让光线穿过墙壁和门、昏暗或范围较窄的静态光环境下不一定需要投影；潜艇外的光源可以设在潜艇后面，这种情况也无需投影。</subeditor.shadowcastinglightswarning>
+    <subeditorlights>光源</subeditorlights>
+    <subeditorshadowcastinglights>光源阴影投射</subeditorshadowcastinglights>
+    <subeditor.shadowcastinglightswarning>在潜艇中包含大量的阴影投射效果可能会导致出现一些性能上的问题。你可在这些地方去掉光源的阴影投射：在昏暗的/照明范围小的那种静态的灯的光源穿过墙体和门的显示效果不明显时，可以去掉该光源的阴影投射设置；还有放置在潜艇外部的光源可设置为在潜艇背面绘制，去掉阴影投射。</subeditor.shadowcastinglightswarning>
     <subeditor.outpostcommonness>共性</subeditor.outpostcommonness>
     <subeditor.price>价格</subeditor.price>
     <subeditor.autosaveage>[hours]小时[minutes]分[seconds]秒前已保存。</subeditor.autosaveage>
@@ -3238,10 +3238,10 @@
     <terminalwelcomemsg.traitorletter>这则信息是我的遗嘱，也是我的忏悔书。我接受了一个任务，叫我偷带一个声呐信标上潜艇，然后偷偷在危险区域内启动。后来我发现，原来这个信标所设置的频率会吸引来怪物。之前他们许诺在我完成任务后会派一艘穿梭艇来接我，但一直没有所谓的穿梭艇出现。\n\n这是我最后一次接受这些大公司的所谓“研究任务”，希望他们同我一起下地狱。</terminalwelcomemsg.traitorletter>
 
 
-    <waypoint>航路节点</waypoint>
+    <waypoint>路径点</waypoint>
     <linkwaypoint>按住空格键连接到另一个节点</linkwaypoint>
-    <spawnpoint>出生点</spawnpoint>
-    <spawntype>出生类型</spawntype>
+    <spawnpoint>生成点</spawnpoint>
+    <spawntype>生成点类型</spawntype>
     <idcarddescription>ID卡权限描述</idcarddescription>
     <idcarddescriptiontooltip>在该出生点出生的角色随身携带的ID卡会添加描述文字，可以用于告知他们在潜艇上的通行权限。</idcarddescriptiontooltip>
     <idcardtags>ID卡权限标签</idcardtags>
@@ -4722,11 +4722,11 @@
     <!-- Disclaimers -->
     <editordisclaimertitle>编辑器</editordisclaimertitle>
     <editordisclaimertext>潜艇与角色编辑器是一种内容自定义工具，你可以自由创造属于你自己的潜艇或生物来拓展游戏内容。你可以通过Steam创意工坊分享你的作品。\n\n目前编辑器只有英文版本。构建一个独立运行的潜艇或异常强大的怪物可能会相当复杂。不幸的是，目前我们还没有为编辑器准备教程文档，如果你想尝试用编辑器创建你自己的游戏内容，可以通过如下链接寻找帮助。</editordisclaimertext>
-    <editordisclaimerwikilink>百科</editordisclaimerwikilink>
+    <editordisclaimerwikilink>潜渊症 Wiki</editordisclaimerwikilink>
     <editordisclaimerdiscordlink>Discord服务器</editordisclaimerdiscordlink>
     <editordisclaimerforumlink>论坛</editordisclaimerforumlink>
     <bugreportgithubform>在Github上提交issue</bugreportgithubform>
-    <bugreportfeedbackform>直接反馈给制作组</bugreportfeedbackform>
+    <bugreportfeedbackform>Steam讨论区反馈给制作组</bugreportfeedbackform>
     <bugreportbutton>上报一个程序漏洞</bugreportbutton>
     <centerarealockedheader>前路未知...</centerarealockedheader>
     <centerarealockedtext>此区域在当前版本无法进入。请静待未来更新！</centerarealockedtext>
@@ -4817,7 +4817,7 @@
     <connection.setforcefluctuationfrequency>set_forcefluctuationfrequency</connection.setforcefluctuationfrequency>
     <connection.setforcefluctuationinterval>set_forcefluctuationinterval</connection.setforcefluctuationinterval>
     <connection.loadvalueout>负载_输出</connection.loadvalueout>
-    <connection.powervalueout>功率_输出</connection.powervalueout>
+    <connection.powervalueout>电力值_输出</connection.powervalueout>
     <connection.low_oxygen>低氧含量</connection.low_oxygen>
 
     <!-- Traitor system -->
