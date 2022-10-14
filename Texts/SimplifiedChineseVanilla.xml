@@ -598,12 +598,12 @@
     <torso>躯干</torso>
     <tail>尾巴</tail>
     <legs>腿</legs>
-    <rightthigh>左股</rightthigh>
-    <leftthigh>右股</leftthigh>
+    <rightthigh>左腿</rightthigh>
+    <leftthigh>右腿</leftthigh>
     <waist>腰</waist>
 
     <!-- Misc -->
-    <yes>同意</yes>
+    <yes>确定</yes>
     <yestoall>全部确定</yestoall>
     <no>取消</no>
     <notoall>全部取消</notoall>
@@ -917,7 +917,7 @@
     <nohashsubmarineselected>此潜艇缺少有效哈希值；可能是因为下载尚未完成！</nohashsubmarineselected>
     <campaignstartingmoney>初始资金： [money]马克</campaignstartingmoney>
     <campaignoption.enableradiation>启用木星辐射</campaignoption.enableradiation>
-    <campaignoption.enableradiation.tooltip>来自木星的辐射会越来越强，这将迫使在木卫二深洋中生活的人们必须更加深入海底。开启该选项后，游戏机制会慢慢促使你不断深入游戏中更危险的区域，逐步增加游戏难度。</campaignoption.enableradiation.tooltip>
+    <campaignoption.enableradiation.tooltip>来自木星的辐射会慢慢变得越来越强，这将迫使在木卫二深洋中生活的人们必须前往更深的海底。开启该选项后，游戏机制会慢慢促使你不断深入游戏中更危险的区域，逐步增加游戏难度。</campaignoption.enableradiation.tooltip>
     <campaignoption.enablehardcore>开启硬核模式</campaignoption.enablehardcore>
     <campaignoption.enablehardcore.tooltip>对专业水手的挑战。难度增加。角色获得更多经验，但所有角色的升级进度在死亡时都会丢失。</campaignoption.enablehardcore.tooltip>
     <radiationtooltip>致命辐射\n该地区的木星辐射强度已经达到了置人于死地的程度，强烈建议各位远离该区域。</radiationtooltip>
@@ -984,7 +984,7 @@
     <crewwallet.salary>工资</crewwallet.salary>
     <crewwallet.salary.tooltip>工资决定了任务奖励的分配。</crewwallet.salary.tooltip>
     <crewwallet.salary.over100toolitp>奖励分配的总和超过100%（‖color:gui.orange‖[sum]%‖end‖）。工资将被调整为‖color:gui.orange‖[newvalue]%‖end‖。</crewwallet.salary.over100toolitp>
-    <crewwallet.missionreward.get>你会收到：‖color:gui.orange‖[money] mk‖end‖ ([share]%)</crewwallet.missionreward.get>
+    <crewwallet.missionreward.get>你会收到：‖color:gui.orange‖[money]马克‖end‖ ([share]%)</crewwallet.missionreward.get>
     <crewwallet.requestmoney>请求</crewwallet.requestmoney>
     <crewwallet.requestbanktoselfvote>[requester]想从银行转账 [amount]马克到他们的个人钱包。</crewwallet.requestbanktoselfvote>
     <crewwallet.requestselftobankvote>[requester] 希望从他们的个人钱包转账[amount]马克到银行。</crewwallet.requestselftobankvote>
