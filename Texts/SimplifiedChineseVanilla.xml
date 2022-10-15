@@ -64,9 +64,9 @@
     <loadingscreentip>在前哨站惹事会降低你的声望，声望较低会导致当地居民对你收取额外费用，甚至会与当地居民发生矛盾。</loadingscreentip>
     <loadingscreentip>很多木卫二前哨站拒绝承认联盟的权威，不过联盟十分强大，很少有人敢公开反对联盟。不过，木星分离主义分子等一小撮别有用心的组织对联盟举起反旗，想要打倒联盟建立所谓的自由社会。</loadingscreentip>
     <loadingscreentip>小心独眼哨兵，切勿失控。</loadingscreentip>
-    <loadingscreentip>木卫二冰脊位于木卫二之眼最西侧的斜坡之上，横跨表面冰层和密度较大、岩石更多的地下冰层之间。温暖的海水通过对流进入该地域，孕育了大量生命。</loadingscreentip>
-    <loadingscreentip>无光海原位于被称为“木卫二之眼”的古陨石坑的西侧。与木卫二冰脊连成一片，无光高原的涵道结构主要由深色的冰岩组成，其坚硬程度堪比顽石，其上的冰层密度难以相信。</loadingscreentip>
-    <loadingscreentip>木卫二上的大部分人类居住地都位于所谓的“寒冷深穴”中。由于这里水温较低、且相对接近地表，该区域的生物多样性远不如其他地方，只有一定量的藻鬃爬行者，几乎没有植被。</loadingscreentip>
+    <loadingscreentip>木卫二海脊位于木卫二之眼最西侧的斜坡之上，横跨表面冰层和密度较大、岩石更多的地下冰层之间。温暖的海水通过对流进入该地域，孕育了大量生命。</loadingscreentip>
+    <loadingscreentip>无光海原位于被称为“木卫二之眼”的古陨石坑的西侧。与木卫二海脊连成一片，无光高原的涵道结构主要由深色的冰岩组成，其坚硬程度堪比顽石，其上的冰层密度难以相信。</loadingscreentip>
+    <loadingscreentip>木卫二上的大部分人类居住地都位于所谓的“寒冷深穴”中。由于这里水温较低、且相对接近地表，该区域的生物多样性远不如其他地方，只有一定量的藻鬃爬行者，几乎没有植被覆盖。</loadingscreentip>
     <loadingscreentip>冰刺是分布在木卫二冰壳下、偶尔刺穿冰下通道的巨型刺出体。建议潜艇尽量避免接触冰刺，如条件允许，请尽可能摧毁冰刺，以防冰刺戳破潜艇的外壳结构。</loadingscreentip>
     <loadingscreentip>渊洋的“压电晶体”给船员们带来了新的挑战：过于接近这种晶体可能会导致潜艇断电。</loadingscreentip>
     <loadingscreentip>在没有足够的医学知识的情况下用药可能会降低药效。</loadingscreentip>
@@ -1526,10 +1526,10 @@
     <missionsuccess.beacon>信标投放成功</missionsuccess.beacon>
     <missionname.pvpmission>探查并摧毁</missionname.pvpmission>
     <missiondescriptionneutral.pvpmission>一艘木卫二联盟的军舰已从[location1]出发，前往[location2]外围击沉一艘革命党的舰船。</missiondescriptionneutral.pvpmission>
-    <missiondescription1.pvpmission>我们在外围发现了一艘属于木星分裂主义分子的的船。背叛木卫二联盟的叛徒将被处以极刑——不惜一切代价，消灭他们！</missiondescription1.pvpmission>
-    <missiondescription2.pvpmission>你是木星分裂主义分子的一员，根据你在[location1]的线人传来的情报，一艘联盟的军舰刚刚接到剿灭你等的任务。动用一切手段，消灭他们！</missiondescription2.pvpmission>
+    <missiondescription1.pvpmission>我们在外围发现了一艘属于木星分离主义分子的的船。背叛木卫二联盟的叛徒将被处以极刑——不惜一切代价，消灭他们！</missiondescription1.pvpmission>
+    <missiondescription2.pvpmission>你是木星分离主义分子的一员，根据你在[location1]的线人传来的情报，一艘联盟的军舰刚刚接到剿灭你等的任务。动用一切手段，消灭他们！</missiondescription2.pvpmission>
     <missionname.killhammerhead>杀死锤头鲨</missionname.killhammerhead>
-    <missiondescription.killhammerhead>一群特别具有攻击性锤头鲨对在[location1]和[location2]之间旅行的船只造成了威胁。我们承诺对杀死这些畜生的人给予[reward]马克的奖励。</missiondescription.killhammerhead>
+    <missiondescription.killhammerhead>一群特别具有攻击性锤头鲨对在[location1]和[location2]之间航行的船只造成了威胁。我们承诺对杀死这些畜生的人给予[reward]马克的奖励。</missiondescription.killhammerhead>
     <missionsonarlabel.killhammerhead>锤头鲨</missionsonarlabel.killhammerhead>
     <missionsuccess.killhammerhead>锤头鲨已经被杀死。</missionsuccess.killhammerhead>
     <missionheader0.killhammerhead>目标已消灭</missionheader0.killhammerhead>
@@ -1626,7 +1626,7 @@
     <missionsonarlabel.crawlernest>藻鬃爬行者巢穴</missionsonarlabel.crawlernest>
     <missionmessage0.crawlernest>已将威胁清扫一空。驶离洞穴，回去领取赏金吧。</missionmessage0.crawlernest>
     <missionsuccess.crawlernest>已将洞穴中的威胁清扫一空。</missionsuccess.crawlernest>
-    <entityname.tigerthresheregg>虎尾鲨之巢</entityname.tigerthresheregg>
+    <entityname.tigerthresheregg>虎尾鲨蛋</entityname.tigerthresheregg>
     <missionname.tigerthreshernest>摧毁虎尾鲨巢穴</missionname.tigerthreshernest>
     <missiondescription.tigerthreshernest>我们最近在[location1]周边发现了一个虎尾鲨的巢穴，破坏并回返前哨站，我们会给予[reward]赏金。</missiondescription.tigerthreshernest>
     <missionsonarlabel.tigerthreshernest>虎尾鲨巢穴</missionsonarlabel.tigerthreshernest>
@@ -1810,7 +1810,7 @@
 
     <!-- Mission misc -->
     <missionteam1.pvpmission>联盟军</missionteam1.pvpmission>
-    <missionteam2.pvpmission>木星分裂主义分子</missionteam2.pvpmission>
+    <missionteam2.pvpmission>木星分离主义分子</missionteam2.pvpmission>
     <missionsuccess.pvpmission>解毒剂及时送达。</missionsuccess.pvpmission>
     <missionfailure.pvpmission>双方同归于尽。</missionfailure.pvpmission>
     <missionfailed>任务失败</missionfailed>
@@ -2457,7 +2457,7 @@
     <entityname.abscomponent>绝对值元件</entityname.abscomponent>
     <entitydescription.abscomponent>输出 信号_输入 的绝对值。</entitydescription.abscomponent>
     <entityname.powcomponent>幂元件</entityname.powcomponent>
-    <entitydescription.powcomponent>输出输入的给定能量幂次方。</entitydescription.powcomponent>
+    <entitydescription.powcomponent>输出输入值的给定指数次。</entitydescription.powcomponent>
     <entityname.terminal>终端</entityname.terminal>
     <entitydescription.terminal>输出用户提交的字符串。</entitydescription.terminal>
     <entityname.lever>控制杆</entityname.lever>
@@ -2826,7 +2826,7 @@
     <entityname.toothspike>捕钩兽的牙齿</entityname.toothspike>
     <entityname.tonguetendon>捕钩兽的舌头</entityname.tonguetendon>
     <entityname.piezocrystal>压电水晶</entityname.piezocrystal>
-    <entityname.crawleregg>藻鬃爬行者之巢</entityname.crawleregg>
+    <entityname.crawleregg>藻鬃爬行者蛋</entityname.crawleregg>
     <entityname.mediccrate>医疗箱</entityname.mediccrate>
     <entitydescription.mediccrate>一个装满医疗用品与药物原料的箱子。</entitydescription.mediccrate>
     <entityname.rustdecal>锈蚀装饰</entityname.rustdecal>
@@ -4362,7 +4362,7 @@
     <!-- Biomes -->
     <biome>生物群落</biome>
     <biomename.coldcaverns>寒冷深穴</biomename.coldcaverns>
-    <biomename.europanridge>欧罗巴海脊</biomename.europanridge>
+    <biomename.europanridge>木卫二海脊</biomename.europanridge>
     <biomename.theaphoticplateau>无光海原</biomename.theaphoticplateau>
     <biomename.hydrothermalwastes>热液废土</biomename.hydrothermalwastes>
     <biomename.thegreatsea>渊洋</biomename.thegreatsea>
@@ -5281,13 +5281,13 @@
     <eventtext.missionevent_clownoutbreak.o2.c1>远处传来了小丑喇叭的声音，确认你接受了这项任务。你离开前哨站时，货物会交付到你手上。</eventtext.missionevent_clownoutbreak.o2.c1>
     <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
     <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇马上派个代表到指挥室向安全主管报道”。</eventtext.bigbrother.c1>
-    <eventtext.bigbrother.c1.c1>“你是新来的，正好，我这里有个棘手的问题，我手下的人都不可信。”安全主管停顿了一下，看了看你，“一般来说，我不会向外人寻求协助，但我已经别无选择了，不必多言，我需要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
+    <eventtext.bigbrother.c1.c1>“你就是那些新来的吗，正好，我这里有个棘手的问题，因为现在我手下的人都不可信。”安全主管停顿了一下，打量了一下你，“一般来说，我不会向外人寻求协助，但我已经没得选了，不多说了，我需要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
     <eventtext.bigbrother.c1.o1>跟我说说具体情况吧。</eventtext.bigbrother.c1.o1>
-    <eventtext.bigbrother.c1.o1.c1>主管点点头，“根据我们之前获得的线报，分离主义分子正在策划越狱。”他坦诚地说到，“预防越狱已经很棘手了，更麻烦的是，我们中出了一个叛徒。”</eventtext.bigbrother.c1.o1.c1>
-    <eventtext.bigbrother.c1.o1.o1>“一语双关？”</eventtext.bigbrother.c1.o1.o1>
-    <eventtext.bigbrother.c1.o1.o1.c1>“我是说安保团队里出了叛徒”，这个主管一点幽默感都没有，“也就是说，我需要保证我的团队都在我的掌控之中，并采取一些预防措施。这就是你的任务，把这些麦克风装到居住舱内。”</eventtext.bigbrother.c1.o1.o1.c1>
+    <eventtext.bigbrother.c1.o1.c1>主管点点头，“根据我们之前获得的线报，有个分离主义分子正在策划越狱。”他坦诚地说到，“有囚犯要越狱已经很棘手了，更麻烦的是，我有充分的证据证明我们中出了一个叛徒。”</eventtext.bigbrother.c1.o1.c1>
+    <eventtext.bigbrother.c1.o1.o1>“中出了一个叛徒是吧？”</eventtext.bigbrother.c1.o1.o1>
+    <eventtext.bigbrother.c1.o1.o1.c1>“我是说安保团队里出了叛徒”，这个主管一点幽默感都没有，“也就是说，我需要保证我的团队都在我的掌控之中，并按我的意思去采取预防措施。这就是你的任务，把这些麦克风装到他们的居住舱内。”</eventtext.bigbrother.c1.o1.o1.c1>
     <eventtext.bigbrother.c1.o1.o1.o1>接受任务</eventtext.bigbrother.c1.o1.o1.o1>
-    <eventtext.bigbrother.c1.o1.o1.o1.c1>你拿起这些小小的监听麦克风。“还有一件事，我们不能以官方的名义采取行动，所以如果你被人抓到的话，就只能靠你自己了。”</eventtext.bigbrother.c1.o1.o1.o1.c1>
+    <eventtext.bigbrother.c1.o1.o1.o1.c1>你拿起这些小小的监听麦克风。“还有一件事，这不是官方授权的行动，所以如果你的人被抓到了，自求多福吧。”</eventtext.bigbrother.c1.o1.o1.o1.c1>
     <eventtext.bigbrother.c1.o1.o1.o2>“那我还是不参与其中了。”</eventtext.bigbrother.c1.o1.o1.o2>
     <eventtext.bigbrother.c1.o2>“那我还是不参与其中了。”</eventtext.bigbrother.c1.o2>
     <eventtext.bigbrother.c1.c1.c1>这里就是主管说的地方吧。</eventtext.bigbrother.c1.c1.c1>
@@ -5393,38 +5393,38 @@
     <eventtext.unlockpathgeneric.o2.c1>“随便你。你这种小朋友还是留在上层的“儿童澡盆”里戏水吧。”</eventtext.unlockpathgeneric.o2.c1>
     <eventtext.unlockpathgeneric.nomoney>“没钱？唉，那我就没办法了，既然无法证明你的实力，那你们最好还是留在上层的“儿童澡盆”里吧。</eventtext.unlockpathgeneric.nomoney>
     <eventtext.unlockpath.refusebribe>什么都不给他们。</eventtext.unlockpath.refusebribe>
-    <eventtext.unlockpathcoldcaverns.c1>“我听说过你们，你们在这片冰盖下颇为活跃，深受联盟赏识。你应该知道，这里是木卫二冰脊前最后的关卡了，并不是每一艘潜艇都有资格通过这里深入冰洋，但你和你的船员们无疑是有资格的那部分人。“</eventtext.unlockpathcoldcaverns.c1>
-    <eventtext.unlockpathcoldcaverns.c2>“想要通过前哨站潜入更深处？联盟可不会让新手深入冰洋，就以你的水平估计没戏，不过，如果你想白送我一笔马克，那我可以稍微提升一点对你们的看法…”</eventtext.unlockpathcoldcaverns.c2>
+    <eventtext.unlockpathcoldcaverns.c1>“我听说过你们，你们为开拓寒冷深穴忙前忙后，我只能说，联盟非常感激你们的所作所为。你们可能知道了，这里是通往木卫二海脊的最后的一站，并不是每一艘潜艇都有资格通过这里前往更深的地方，但你和你的船员们无疑是最有资格的那部分人，欢迎你们通过。“</eventtext.unlockpathcoldcaverns.c1>
+    <eventtext.unlockpathcoldcaverns.c2>“想要通过这里潜入更深处？联盟可不会让新手深入冰洋，还有以你目前的声望来看，肯定是没戏了，我不会就这么放你们过去。不过，如果你正好有多余的闲钱，还正好想做点慈善，比如说给我们捐点钱，那我可以稍微提升对你们的看法…”</eventtext.unlockpathcoldcaverns.c2>
     <eventtext.unlockpathcoldcaverns.o1.c1>“这么一看，你的队伍还蛮有潜力的，这次没准就让你这么过去了。交易愉快。”</eventtext.unlockpathcoldcaverns.o1.c1>
     <eventtext.unlockpathcoldcaverns.o2.c1>“随便你。你这种小朋友还是留在上层的“儿童澡盆”里戏水吧。”</eventtext.unlockpathcoldcaverns.o2.c1>
     <eventtext.unlockpathcoldcaverns.o1.nomoney>“没钱？唉，那我就没办法了，既然无法证明你的实力，那你们最好还是留在上层的“儿童澡盆”里吧。</eventtext.unlockpathcoldcaverns.o1.nomoney>
-    <eventtext.unlockpatheuropanridge.c1>“你们好像一直在帮助我们开拓冰脊，为此，我们决定特许你进入无光高原，祝你一路平安！”</eventtext.unlockpatheuropanridge.c1>
+    <eventtext.unlockpatheuropanridge.c1>“听说你们好像一直在帮助我们开拓木卫二海脊，为此，我们决定特许你进入无光海原，祝你一路平安！”</eventtext.unlockpatheuropanridge.c1>
     <eventtext.unlockpatheuropanridge.c2>“想要进入海原？这可说不准…你得证明你的诚意，比如说…一笔大额捐款。”</eventtext.unlockpatheuropanridge.c2>
     <eventtext.unlockpatheuropanridge.o1.c1>啊，足够了，现在你们可以过去了。“	啊，足夠了，現在你們可以過去了。“</eventtext.unlockpatheuropanridge.o1.c1>
-    <eventtext.unlockpatheuropanridge.o2.c1>“哦？那你就在木卫二冰脊待着吧。愿意待多久都可以。”</eventtext.unlockpatheuropanridge.o2.c1>
+    <eventtext.unlockpatheuropanridge.o2.c1>“哦？那你就在木卫二海脊待着吧。愿意待多久都可以。”</eventtext.unlockpatheuropanridge.o2.c1>
     <eventtext.unlockpatheuropanridge.o1.nomoney>“不好意思，少于四千我可不干。你可以去多捞几艘潜艇，或者想点别的办法赚钱。”</eventtext.unlockpatheuropanridge.o1.nomoney>
     <eventtext.unlockpathaphoticplateau.c1>“那恭喜你，这样以来你们就可以穿过海原前往渊洋了。现在这情况，没几个人能过去。我会用无线电通知他们，让你们进入渊洋。</eventtext.unlockpathaphoticplateau.c1>
     <eventtext.unlockpathaphoticplateau.c2>“很抱歉，我知道你一路来此颇为艰难，但我们不能冒险让一个不知名的舰船进入渊洋。这是为了保护你们，你懂吧。”</eventtext.unlockpathaphoticplateau.c2>
     <eventtext.unlockpathaphoticplateau.o1.c1>“当然可以，不过这并非是联盟官方的保证，我只能私底下通知守卫关照你们一下。”</eventtext.unlockpathaphoticplateau.o1.c1>
     <eventtext.unlockpathaphoticplateau.o2.c1>“如果你想退休的话，应该能在这儿买到一套不错的复式公寓。至少短时间内辐射不会影响到这里。”</eventtext.unlockpathaphoticplateau.o2.c1>
-    <eventtext.unlockpathgreatsea.c1>“所以你想进入热流废土？为什么木卫二上还会有你这种人？算了，不管了，联盟的朋友就是我的朋友，去吧。”</eventtext.unlockpathgreatsea.c1>
-    <eventtext.unlockpathgreatsea.c2>“所以你想进入热流废土？原则上来讲不行，但是最近我们可以稍微通融一下，你懂的。”</eventtext.unlockpathgreatsea.c2>
+    <eventtext.unlockpathgreatsea.c1>“所以你想进入热液废土？你为什么要在木卫二干这种傻事？算了，不管了，联盟的朋友就是我的朋友，去吧。”</eventtext.unlockpathgreatsea.c1>
+    <eventtext.unlockpathgreatsea.c2>“所以你想进入热液废土？原则上来讲不行，但是最近我们可以稍微通融一下，你懂的。”</eventtext.unlockpathgreatsea.c2>
     <eventtext.unlockpathgreatsea.o1.c1>“如果你想好了，可以拿着钱再来找我。”</eventtext.unlockpathgreatsea.o1.c1>
     <eventtext.unlockpathgreatsea.o2.c1>“命比钱重要。”</eventtext.unlockpathgreatsea.o2.c1>
-    <eventtext.unlockpathcoldcaverns.o1>给他们两千马克。</eventtext.unlockpathcoldcaverns.o1>
-    <eventtext.unlockpatheuropanridge.o1>“你看四千马克的捐款够吗?"</eventtext.unlockpatheuropanridge.o1>
-    <eventtext.unlockpathaphoticplateau.o1>“给你们八千的话，你们的人会关照我们吗？”</eventtext.unlockpathaphoticplateau.o1>
-    <eventtext.unlockpathaphoticplateau.o1.nomoney>“给我八千我才能给你担保。一分都不能少。等你筹齐了钱再来找我吧。“</eventtext.unlockpathaphoticplateau.o1.nomoney>
-    <eventtext.unlockpathgreatsea.o1>“一万六？便宜！给你。”</eventtext.unlockpathgreatsea.o1>
+    <eventtext.unlockpathcoldcaverns.o1>给他们2000马克。</eventtext.unlockpathcoldcaverns.o1>
+    <eventtext.unlockpatheuropanridge.o1>“你看4000马克的捐款够吗?"</eventtext.unlockpatheuropanridge.o1>
+    <eventtext.unlockpathaphoticplateau.o1>“给你们8000的话，你们的人会关照我们吗？”</eventtext.unlockpathaphoticplateau.o1>
+    <eventtext.unlockpathaphoticplateau.o1.nomoney>“给我8000我才能给你担保。一分都不能少。等你筹齐了钱再来找我吧。“</eventtext.unlockpathaphoticplateau.o1.nomoney>
+    <eventtext.unlockpathgreatsea.o1>“一万六？这也太便宜！给你。”</eventtext.unlockpathgreatsea.o1>
     <eventtext.unlockpathgreatsea.o1.nomoney>“不行，至少得给我一万六，等你筹齐了钱再来找我吧。”</eventtext.unlockpathgreatsea.o1.nomoney>
     <eventtext.healreaperstax.c1>“我听说你手下有个船员患上了一种罕见病，我们一般管这种病症叫死神之税，如果病人有意愿，我可以尝试治疗一下。”</eventtext.healreaperstax.c1>
-    <eventtext.healreaperstax.c2>“哦，你就是那个倒霉的水手！我可以让你摆脱痛苦，但这并非免费的服务，只要区区一千马克，就能搞定，怎么样？”</eventtext.healreaperstax.c2>
+    <eventtext.healreaperstax.c2>“哦，你就是那个倒霉的水手！我可以让你摆脱痛苦，但这并非免费的服务，只要区区1000马克，就能搞定，怎么样？”</eventtext.healreaperstax.c2>
     <eventtext.healreaperstax.o1>花费1000马克来治好死神之税。</eventtext.healreaperstax.o1>
     <eventtext.healreaperstax.o2>还是算了。</eventtext.healreaperstax.o2>
-    <eventtext.healreaperstax.o1.nomoney>没钱？那没办法，我也不是做慈善的。</eventtext.healreaperstax.o1.nomoney>
+    <eventtext.healreaperstax.o1.nomoney>没钱？那祝你好运喽，毕竟我也不是做慈善的。</eventtext.healreaperstax.o1.nomoney>
     <eventtext.stowaway1.c1>唔，这个盒子以前好像没放在这儿。</eventtext.stowaway1.c1>
     <eventtext.stowaway1.o1>调查一下。</eventtext.stowaway1.o1>
-    <eventtext.stowaway1.o1.c1>在木卫二到处可见的储藏箱，和你接收补给时的箱子一模一样，你弯下腰试着打开箱子，但里面传出一股力量，让你无功而返。</eventtext.stowaway1.o1.c1>
+    <eventtext.stowaway1.o1.c1>在木卫二到处可见的储藏箱，和你接收补给时的箱子一模一样，你弯下腰试着打开箱子，但里面好像有一股力量，让你无功而返。</eventtext.stowaway1.o1.c1>
     <eventtext.stowaway1.o1.o1>“你好？”</eventtext.stowaway1.o1.o1>
     <eventtext.stowaway1.o1.o1.c1>毫无回应。</eventtext.stowaway1.o1.o1.c1>
     <eventtext.stowaway1.o1.o1.o1>仔细聆听。</eventtext.stowaway1.o1.o1.o1>
@@ -5597,18 +5597,18 @@
     <eventtext.terrorism101.o1>看看他们在做什么。</eventtext.terrorism101.o1>
     <eventtext.terrorism101.o1.c1>你偷偷溜到他身后，伸长脖子，小心查看。他们好像在摆弄一个有很多电线的装置。当他们看到你时，突然跳了起来。“我操!“你站在那儿干嘛!”</eventtext.terrorism101.o1.c1>
     <eventtext.terrorism101.o1.o1>“抱歉。”</eventtext.terrorism101.o1.o1>
-    <eventtext.terrorism101.o1.o1.c1>“行吧，沒事。”他們檢查脈搏，深呼吸。"自從我的藥物被停用後，我的生活就一直一團糟。他們說負擔不起給我開藥。然後他們繼續安裝這些該死的東西。”憤怒的居民踢了踢自動售貨機。</eventtext.terrorism101.o1.o1.c1>
+    <eventtext.terrorism101.o1.o1.c1>“行吧，沒事。”他们调整了下心情，深深吸了一口气。"自从我被停药后，我整个人就是一团糟。他们说站点已经承担不起这个费用了。然后他们转头就安装了这些该死的东西。”越说越气，居民愤怒地踢了一脚旁边的自动售货机。</eventtext.terrorism101.o1.o1.c1>
     <eventtext.terrorism101.o1.o1.o1>“所以说，你们在干什么？”</eventtext.terrorism101.o1.o1.o1>
     <eventtext.terrorism101.excuse>“我，呃…”他的眼睛四处扫视，仿佛在寻找着什么。“我在做一个，嗯…”他满头大汗。</eventtext.terrorism101.excuse>
     <eventtext.terrorism101.abomb>“一个炸弹？”</eventtext.terrorism101.abomb>
-    <eventtext.terrorism101.shh>“嘘!不要那么大声!”,他发出嘘声，然后继续耳语道，“是的，是个炸弹。但它不止如此。这是对我们的统治者不满的象征。我们必须推倒那些代表压迫的纪念碑，就像这个破玩意。”他在自动贩卖机上吐了口痰。“但这只是理论，因为我其实不太懂怎么组合这个玩意儿。”</eventtext.terrorism101.shh>
+    <eventtext.terrorism101.shh>“嘘!不要那么大声!”,他发出嘘声，然后靠近我的耳朵小声说道，“是的，是个炸弹。但它不止如此。这是对我们的统治者不满的象征。我们必须推倒那些代表压迫的纪念碑，就像这个破玩意。”他在自动贩卖机上吐了口痰。“但这玩意还停留在理论阶段，因为我其实不太懂怎么组装这个玩意儿。”</eventtext.terrorism101.shh>
     <eventtext.terrorism101.help>“我可以帮你。”</eventtext.terrorism101.help>
-    <eventtext.terrorism101.novice>新手恐怖分子仔细地检查了一番，然后小心翼翼地递给你一堆电线。“我想我可以信任你”，他说。</eventtext.terrorism101.novice>
+    <eventtext.terrorism101.novice>这个新人恐怖分子端详了你一番，然后偷偷递给你一堆电线。“我想我可以信任你”，他说。</eventtext.terrorism101.novice>
     <eventtext.terrorism101.armbomb>装好炸弹。</eventtext.terrorism101.armbomb>
     <eventtext.terrorism101.bombarmed>只要把雷管连接起来就能引爆炸弹了。你把炸弹交给那个人，他给你一些零钱，并承诺帮你介绍他的木星分离主义友人。</eventtext.terrorism101.bombarmed>
     <eventtext.terrorism101.dismantlebomb>悄悄地拆除炸弹。</eventtext.terrorism101.dismantlebomb>
-    <eventtext.terrorism101.bombdismantled>你假装装好了炸弹，但又拆除了一些电线，确保炸弹不会爆炸。他给你一些零钱，并承诺帮你介绍他的木星分离主义友人。</eventtext.terrorism101.bombdismantled>
-    <eventtext.terrorism101.o1.o1.o1.o1.o2>“就这样吧。恐怖主义绝非正途。”</eventtext.terrorism101.o1.o1.o1.o1.o2>
+    <eventtext.terrorism101.bombdismantled>你假装装好了炸弹，但又拆除了一些电线，确保炸弹不会爆炸。他给了你一些马克，并承诺帮你给他的木星分离主义友人美言几句。</eventtext.terrorism101.bombdismantled>
+    <eventtext.terrorism101.o1.o1.o1.o1.o2>“就这样放这吧。搞恐怖袭击终究不是个事儿。”</eventtext.terrorism101.o1.o1.o1.o1.o2>
     <eventtext.terrorism101.o1.o1.o1.o2>“别在意，我去叫警卫。”</eventtext.terrorism101.o1.o1.o1.o2>
     <eventtext.terrorism101.o1.o1.o2>“抱歉听到这个消息。再见。”</eventtext.terrorism101.o1.o1.o2>
     <eventtext.terrorism101.o1.o2>“你在做什麼?”</eventtext.terrorism101.o1.o2>
@@ -5616,7 +5616,7 @@
     <eventtext.terrorism101.o1.o2.o2>“别在意，我去叫警卫。”</eventtext.terrorism101.o1.o2.o2>
     <eventtext.stuckinthemiddle.c1>这个前哨站很匆忙。许多工人正在把补给装上潜艇。你看到两个人正争论不休，还拿手指着你。</eventtext.stuckinthemiddle.c1>
     <eventtext.stuckinthemiddle.o1>走向他们。</eventtext.stuckinthemiddle.o1>
-    <eventtext.stuckinthemiddle.o1.c1>你一走近，两人立刻安静下来。近距离观察之下，你可以看到他们的夹克上有一块无政府主义的标志，表明他们是木星分裂主义者。“你之前是你帮了我们吗?”其中一个人问道。</eventtext.stuckinthemiddle.o1.c1>
+    <eventtext.stuckinthemiddle.o1.c1>你一走近，两人立刻安静下来。近距离观察之下，你可以看到他们的夹克上有一块无政府主义的标志，表明他们是木星分离主义者。“你之前是你帮了我们吗?”其中一个人问道。</eventtext.stuckinthemiddle.o1.c1>
     <eventtext.stuckinthemiddle.o1.o1>“是的,是我。”</eventtext.stuckinthemiddle.o1.o1>
     <eventtext.stuckinthemiddle.o1.o1.c1>“看见那些跑来跑去的船员了吗?这里有很多潜艇正在准备启程。”</eventtext.stuckinthemiddle.o1.o1.c1>
     <eventtext.stuckinthemiddle.o1.o1.o1>“我想知道他们要去哪里。”</eventtext.stuckinthemiddle.o1.o1.o1>
@@ -5890,7 +5890,7 @@
     <campaignstore.ownedspecific>拥有：[nonempty] ([total])</campaignstore.ownedspecific>
     <campaignstore.ownednonempty>非空拥有：[amount]</campaignstore.ownednonempty>
     <campaignstore.ownedtotal>总共拥有：[amount]</campaignstore.ownedtotal>
-    <reputationmodifier>声望</reputationmodifier>
+    <reputationmodifier>声望折扣</reputationmodifier>
     <campaignstore.reputationtooltip>你的声望对价格产生的影响。高声望值让你低买高卖。声望低，商人会对自己的货物开更高的价格，并压低对你的收购价。</campaignstore.reputationtooltip>
 
     <!-- Campaign crew -->
@@ -5997,10 +5997,10 @@
     <!-- Factions -->
     <factions>派系</factions>
     <faction.coalition>木卫二联盟</faction.coalition>
-    <faction.coalition.description>木卫二领土的实际控制者，拥有层层分级的官僚体系，对木卫二社会的资源、制造与军力实施铁腕统治。他们的执政措施十分严苛，如有前哨站与殖民地不服从他们的指令，他们就会把这些地方排除联盟的供应体系，或者直接武力征服反叛者。他们的执政纲领是不惜一切代价保护人类，希望木卫二的形式保持不变。</faction.coalition.description>
-    <faction.coalition.shortdescription>木卫二领土的实际控制者，拥有层层分级的官僚体系，对木卫二社会的资源、制造与军力实施铁腕统治。</faction.coalition.shortdescription>
+    <faction.coalition.description>木卫二领土的实际控制组织，官僚机构遍布各地，对木卫二社会的资源、制造与军事力量实施铁腕统治。他们的执政措施十分严苛，如有前哨站或殖民地不服从他们，他们就会切断这些地方的物资供应链路，或者直接采用武力征服。他们的执政纲领是保护全人类得以延续，但代价是——为了维持稳定他们会不惜一切代价。</faction.coalition.description>
+    <faction.coalition.shortdescription>木卫二领土的实际控制组织，官僚机构遍布各地，对木卫二社会的资源、制造与军事力量实施铁腕统治。</faction.coalition.shortdescription>
     <faction.clowns>小丑圣母之子</faction.clowns>
-    <faction.clowns.description>每隔一段时间，就会有一群傻子、小丑、吟游诗人跳出来想要组建工会，诸如“木卫二小丑协会”之类的，他们其实没什么组织，只是在听从小丑圣母的呼唤。</faction.clowns.description>
+    <faction.clowns.description>每隔一段时间，就会有一群傻子、小丑、吟游诗人跳出来想要组建工会，诸如“木卫二小丑协会”之类的，他们其实根本算不上是什么组织，只是在听从小丑圣母的呼唤。</faction.clowns.description>
     <faction.clowns.shortdescription>小丑圣母之子其实没什么组织性，只是在听从小丑圣母的呼唤。</faction.clowns.shortdescription>
     <faction.separatists>木星分离主义分子</faction.separatists>
     <faction.separatists.description>一个规模较小的地下组织，想要通过各种手段建立一个更加“民主”的社会。他们采取的措施包括但不限于不合作抵抗、彻头彻尾的恐怖袭击，他们的目的是破坏木卫二联盟的正常运作，削弱其权威。</faction.separatists.description>
@@ -6325,7 +6325,7 @@
     <talentdescription.tinker.fabricatoranddeconstructor>你可以超频加工台或解构仪，使其的运行速度提高[speedincrease]%。</talentdescription.tinker.fabricatoranddeconstructor>
     <talentdescription.honkinggivesskillgain>有了小丑之力后，你可以通过鸣喇叭让附近的友军在短时间内获得[skillgainincrease]%的技能加成。</talentdescription.honkinggivesskillgain>
     <talentdescription.honkinghealscharacters>有了小丑之力后，你可以通过鸣喇叭让附近的友军缓慢恢复生命。</talentdescription.honkinghealscharacters>
-    <talentdescription.standanddeliver>每当你完成任一任务，都会获得“水手指南“。\n你可以对其他角色使用水手指南，提升其所有技能[skillamount]点。</talentdescription.standanddeliver>
+    <talentdescription.standanddeliver>每当你完成任一任务，都会获得一本《水手指南》。\n当你使用《水手指南》，附近所有船员提升其所有技能[skillamount]点。</talentdescription.standanddeliver>
     <talentdescription.letitdrainreminder>你最多只能在你的潜艇上安装[itemcount]个该物品。</talentdescription.letitdrainreminder>
     <talentdescription.cannedheat>每当你演奏手风琴时，离你最近的友军将每秒获得[allyexperienceamount]经验。当友军获得经验时，你会获得[experienceamount]经验。</talentdescription.cannedheat>
     <talentdescription.nuclearoption>当你制造燃料棒时，获得三倍产出。</talentdescription.nuclearoption>
@@ -6385,7 +6385,7 @@
     <talentdescription.dualspecops>当你操纵角色在水中进入布娃娃状态时，会推动自己向自己当前朝向前进。</talentdescription.dualspecops>
     <talentdescription.beatcop>你可以操纵角色在高速布娃娃状态撞向目标来进行拦截。</talentdescription.beatcop>
     <talentdescription.truepotential>小丑之力允许你在用玩具锤击打目标时有[probability]%概率引发目标内爆。</talentdescription.truepotential>
-    <talentdescription.stonewall>当你受到攻击后，[seconds]内你的物理伤害抗性提升[physicaldamagereduction]%，击晕抗性提升[stunresistance]%。</talentdescription.stonewall>
+    <talentdescription.stonewall>当你受到攻击后，[seconds]秒内你的物理伤害抗性提升[physicaldamagereduction]%，击晕抗性提升[stunresistance]%。</talentdescription.stonewall>
     <talentdescription.richinknowledge>每次获得技能点，额外获得[experienceamount]经验，你的队友额外获得[alliedexperienceamount]经验。</talentdescription.richinknowledge>
     <talentdescription.olympian>以下属性可获得等同于你 [skillpercentage]平均技能等级的属性加成：</talentdescription.olympian>
     <talentdescription.playingcatchup>如果你比最高等级的船员低至少[levelvalue]级，额外获得[experiencevalue]%的任务经验奖励。</talentdescription.playingcatchup>
@@ -6404,11 +6404,11 @@
     <talentdescription.commando>当你蹲着发射远程武器时，穿甲概率提升[armorpenetration]%，攻击提升[powerincrease]%，但射速下降[firingratedecrease]%。你也能更快地从出血状态中恢复过来。</talentdescription.commando>
     <talentdescription.phdinnuclearphysics>用撬棍造成的伤害提升[powerincrease]%。</talentdescription.phdinnuclearphysics>
     <talentdescription.intheflow>修理完成后，你在接下来的[seconds]秒内修复速度提升[repairspeed]%。</talentdescription.intheflow>
-    <talentdescription.coauthor>你可以与机修工合著一本书。\n若想如此，同时选中你的角色和某一机修工，在[seconds]后，你会获得[itemname]，两位撰写者都会获得[experienceamount]经验。</talentdescription.coauthor>
+    <talentdescription.coauthor>你可以与机修工合著一本书。\n若想如此，同时选中你的角色和某一机修工，在[seconds]秒后，你会获得[itemname]，两位撰写者都会获得[experienceamount]经验。</talentdescription.coauthor>
     <talentdescription.polymath>所有技能提升[skillincrease]，获得[experiencegain]%的额外任务经验，但你的最大健康值减少[maximumhealthreduction]%。</talentdescription.polymath>
-    <talentdescription.optimizedpowerflow>炮塔耗能和充能时间降降低你电气技能的[statamount]%。每当你完全修复一件物品时，获得[skillamount]的电气技能奖励。</talentdescription.optimizedpowerflow>
+    <talentdescription.optimizedpowerflow>根据你的电气工程技能，炮塔耗能和充能时间降低[statamount]%。每当你完全修复一件物品时，获得[skillamount]的电气工程技能奖励。</talentdescription.optimizedpowerflow>
     <talentdescription.aggressiveengineering>当你用扳手攻击时，有[probability]%的几率获得[powerincrease]%攻击加成并造成额外的眩晕效果。</talentdescription.aggressiveengineering>
-    <talentdescription.pyromaniac>当你对敌人造成燃烧伤害时，获得[physicaldamagereduction]%的物理伤害抗性，持续[seconds]秒。/n并增加[burnincrease]%的额外燃烧伤害。</talentdescription.pyromaniac>
+    <talentdescription.pyromaniac>当你对敌人造成燃烧伤害时，获得[physicaldamagereduction]%的物理伤害抗性，持续[seconds]秒。\n并增加[burnincrease]%的额外燃烧伤害。</talentdescription.pyromaniac>
     <talentdescription.scrapsavant>你可以将[scrapamount]废料精炼成异星材料。\n当你制造异星材料时，获得[experienceamount]经验。</talentdescription.scrapsavant>
     <talentdescription.scrounger>当你拆解废料时，获得[experienceamount]经验。</talentdescription.scrounger>
     <talentdescription.elbowgrease>你的近战力量和最大生命值提升机修技能的[statamount]%。</talentdescription.elbowgrease>
@@ -6424,7 +6424,7 @@
     <talentdescription.tinker.reminder>该装置只有在你持续超频它时，才会持续生效。</talentdescription.tinker.reminder>
     <talentdescription.tinker.duration>你可以持续超频[duration]秒。超频一个装置后，你在接下来[cooldown] 秒内不能超频。</talentdescription.tinker.duration>
     <talentdescription.tinker.overclocking>超频的效果会增加[tinkerincrease]%，但超频物品会对其造成损害。</talentdescription.tinker.overclocking>
-    <talentdescription.fieldmedic>每 [seconds] 秒，如果你的友军生命高于[healththreshold]%，则获得[skillincrease]点医疗技能。</talentdescription.fieldmedic>
+    <talentdescription.fieldmedic>每[seconds]秒，如果你的友军生命高于[healththreshold]%，则获得[skillincrease]点医疗技能。</talentdescription.fieldmedic>
     <talentdescription.curiosity>每次解构异星造物时，你都会获得[experiencegain]的经验，船员则会获得[crewexperiencegain]的经验。</talentdescription.curiosity>
     <talentdescription.reverseengineer>每次解构异星造物时，你都会获得双倍产出，随机技能提升[skillgain]。</talentdescription.reverseengineer>
     <talentdescription.alienhoarder>你用异星手枪攻击时，你携带的每件外星造物都会提升[powerincrease]%的伤害，上限为[maxpowerincrease]%。</talentdescription.alienhoarder>
@@ -6521,7 +6521,7 @@
     <charactername.stowaway>提图斯·泽尔</charactername.stowaway>
     <charactername.raptorvictim>鲁迪</charactername.raptorvictim>
     <deconstructor.output>分解为</deconstructor.output>
-    <deconstructor.unknownitemsoutput>未知前哨站</deconstructor.unknownitemsoutput>
+    <deconstructor.unknownitemsoutput>未知输出</deconstructor.unknownitemsoutput>
     <deconstructor.inputqueue>队列</deconstructor.inputqueue>
     <talentmenu.extratalents>额外天赋</talentmenu.extratalents>
     <inputtype.toggleinventory>切换个体列表</inputtype.toggleinventory>

@@ -27,12 +27,12 @@
 | Commando            | 突击队员             | 突击队   |                                                       |
 | Pharmacologist      | 药物学家             | 药理学家 |                                                       |
 | Renegade            | 叛逆者               |          |                                                       |
-| The Great Sea       | 渊洋                 |          |                                                       |
 | Biome               | 生物群落             |          |                                                       |
 | Cold Caverns        | 寒冷深穴             |          |                                                       |
-| Europan Ridge       | 欧罗巴海脊           |          |                                                       |
+| Europan Ridge       | 欧罗巴海脊          | 木卫二海脊 |                                                       |
 | The Aphotic Plateau | 无光海原             |          |                                                       |
 | Hydrothermal Wastes | 热液废土             |          |                                                       |
+| The Great Sea       | 渊洋                 |          |                                                       |
 | Asin                | 角A正弦              | 反正弦   | 不知道角A是哪里的翻译，查询汉化组受教育程度:dog::dog: |
 | Acos                | 角A余弦              | 反余弦   |                                                       |
 | Atan                | 角A正切              | 反正切   |                                                       |
@@ -55,7 +55,7 @@
 | Jovian Separatists | 木星分离主义分子 | | |
 | The Church of Husk | 画皮教派 | | |
 | Watcher | 独目哨兵 | | |
-|  |  | | |
+| Ice spires | 冰刺 | | |
 |  |  | | |
 |  |  | | |
 |  |  | | |

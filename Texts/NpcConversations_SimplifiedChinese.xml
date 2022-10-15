@@ -639,10 +639,10 @@
 	<Conversation line="我可以把我所有烦恼放到诱饵里吗？" speaker="0" />
 	<Conversation line="你们是否觉得...无聊？" speaker="0" />
 
-	<Conversation line="是&quot;丘脑&quot;还是&quot;球脑&quot;？" speaker="0">
+	<Conversation line="是&quot;丘脑&quot;还是&quot;蚯脑&quot;？" speaker="0">
 		<Conversation line="希望每次只用见到一个。" speaker="1" />
-		<Conversation line="呃，我再也不想吃腊肠了。" speaker="1" />
-		<Conversation line="一般一艘会吐变形虫的空壳潜艇向我开炮的时候，我不会问它“嘿，你想让我们怎么称呼您？”。" speaker="1" />
+		<Conversation line="呸！恶心。我再也不想吃脑花之类的食物了。" speaker="1" />
+		<Conversation line="通常遇到一艘会向我开炮的还会吐变形虫的空壳潜艇的时候，我不会问它“嘿，你想让我们怎么称呼您？”。" speaker="1" />
 	</Conversation>
 
 	<!-- Even newer additions by M61,escort focused -->
