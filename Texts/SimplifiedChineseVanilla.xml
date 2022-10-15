@@ -4398,7 +4398,7 @@
     <tutorial.securityofficerdescription>据说长期压力会让人暴露他们最卑劣的一面，不是所有人都有如你一般的道德操守——该死，他们中的大多数人都是思维扭曲、连活着都会造成安全风险的的危险分子。让他们把愤怒发泄到冰洋的怪物身上，千万不能相信他们的本性。时刻保持警惕，准备好手铐和电击甩棍，时不时让他们尝尝禁闭的味道，让他们知道谁说了算！</tutorial.securityofficerdescription>
     <tutorial.securityofficerresponsibilities>职责\n-维持秩序\n-击退入侵者</tutorial.securityofficerresponsibilities>
     <tutorial.medicaldoctortitle>医生——维护关键资源：人</tutorial.medicaldoctortitle>
-    <tutorial.medicaldoctordescription>武器、引擎和反应堆并不是潜艇运行的关键，只有人才是。让枪手活着，让炮手活着开炮，让船长活着驾驶这艘潜艇，这都是你的功劳。记住，你的工作不仅仅是保障船员的身体健康。在深沉幽暗的冰洋之下，我们挤在狭小的潜艇中生存，当灯火熄灭，船员们进入梦乡，深海中的黑暗会侵蚀他们的灵魂。让他们清醒地活着，或者让他们陷入歇斯底里的暴怒，由你来决定。</tutorial.medicaldoctordescription>
+    <tutorial.medicaldoctordescription>武器、引擎和反应堆并不是潜艇运行的关键——只有人才是。炮手能否活着开出炮，船长能否活着驾驶这艘潜艇，这都取决于你。记住，你的工作不仅仅是保障船员的身体健康，我们是在深沉幽暗的冰洋之下，挤在又破又小的潜艇中夹缝求生，所以当熄灯后你的“兄弟们”进入梦乡时，那些来自深海中的各种幽深黑暗的玩意会爬进他们的大脑，慢慢侵蚀掉他们的灵魂。是让他们保持清醒地活着，还是让他们死的像条狗，都取决于你。</tutorial.medicaldoctordescription>
     <tutorial.medicaldoctorresponsibilities>职责\n-急救\n-制毒与解毒</tutorial.medicaldoctorresponsibilities>
     <tutorial.captaintitle>舰长——富有远见卓识的海军将领，航海家，天才（大概是）</tutorial.captaintitle>
     <tutorial.captaindescription>亚哈船长曾经说过，“地狱的观念本来就起源于一个难以消化的苹果馅饼。”你知道那是什么意思吗？不。船员认为你是深不可测的天才吗？当然。你是地图，是指南针，是胸怀冰洋的人。指引方向，审慎抉择，记住，你与前哨站的领导人之间仅有几步之遥，如果需要牺牲几个人才能前进的话——不也挺好吗？</tutorial.captaindescription>
@@ -5280,7 +5280,7 @@
     <eventtext.missionevent_clownoutbreak.o2>“嘎嘎”</eventtext.missionevent_clownoutbreak.o2>
     <eventtext.missionevent_clownoutbreak.o2.c1>远处传来了小丑喇叭的声音，确认你接受了这项任务。你离开前哨站时，货物会交付到你手上。</eventtext.missionevent_clownoutbreak.o2.c1>
     <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
-    <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇马上派个代表到指挥室向安全主管报道”。</eventtext.bigbrother.c1>
+    <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇派个代表到指挥室向安全主管报道”。</eventtext.bigbrother.c1>
     <eventtext.bigbrother.c1.c1>“你就是那些新来的吗，正好，我这里有个棘手的问题，因为现在我手下的人都不可信。”安全主管停顿了一下，打量了一下你，“一般来说，我不会向外人寻求协助，但我已经没得选了，不多说了，我需要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
     <eventtext.bigbrother.c1.o1>跟我说说具体情况吧。</eventtext.bigbrother.c1.o1>
     <eventtext.bigbrother.c1.o1.c1>主管点点头，“根据我们之前获得的线报，有个分离主义分子正在策划越狱。”他坦诚地说到，“有囚犯要越狱已经很棘手了，更麻烦的是，我有充分的证据证明我们中出了一个叛徒。”</eventtext.bigbrother.c1.o1.c1>
