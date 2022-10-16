@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="Simplified Chinese Fixes" nowhitespace="true" translatedname="中文(简体)[修正]">
 
 
     <!-- Loading Screen -->
@@ -25,7 +25,7 @@
     <loadingscreentip>焊枪简单易用，潜艇上的船员都会用，但熟练的机修工做事往往兼具安全与高效，能不受伤、快速地完成相关工作。</loadingscreentip>
     <loadingscreentip>潜艇上的船员都接受过电气设备的基础维修培训，不过电气工程师的经验更足、效率更高。</loadingscreentip>
     <loadingscreentip>潜艇上的船员都接受过机械设备的基础维修培训，不过机修工的经验更足、效率更高。</loadingscreentip>
-    <loadingscreentip>一般情况下，舰长的驾驶能力比普通船员更高。</loadingscreentip>
+    <loadingscreentip>一般情况下，艇长的驾驶能力比普通船员更高。</loadingscreentip>
     <loadingscreentip>如果潜艇的反应堆发电量无法满足其他所有设备的需求，可以尝试降低潜艇的电池还有超级电容器的充电速率，还可以尝试让潜艇开慢点。</loadingscreentip>
     <loadingscreentip>潜艇上的电气与机械设备会因恶劣的环境与长时间的使用而逐渐老化。务必让机修工与电气工程师定时维护，避免关键时刻发生设备故障。</loadingscreentip>
     <loadingscreentip>用解构仪分解异星文物可为你提供特殊的异星原材料。</loadingscreentip>
@@ -51,7 +51,7 @@
     <loadingscreentip>一旦发生火灾，比烧伤更需要注意的是潜艇内的氧气含量。</loadingscreentip>
     <loadingscreentip>穿越这片被称为热液废土的地形时需格外小心，这些区域生物数量丰富，地热活动引发的水流变化使航行变得更加危险。</loadingscreentip>
     <loadingscreentip>木卫二上的一些固着生物会发出干扰潜艇声呐的低频声波。</loadingscreentip>
-    <loadingscreentip>木卫二拥有丰富的自然资源，唯有目光敏锐、富有进取心的船长与等离子切割机才能坚持到收获之时。</loadingscreentip>
+    <loadingscreentip>木卫二拥有丰富的自然资源，唯有目光敏锐、富有进取心的艇长与等离子切割机才能坚持到收获之时。</loadingscreentip>
     <loadingscreentip>你可以将自己伪装成其他人，只要带上他们的身份证与一些面部的伪装。</loadingscreentip>
     <loadingscreentip>你可以在潜艇编辑器中将wifi组件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
     <loadingscreentip>木星周围的辐射带得在木卫二表面建立永久定居点变得不现实，因此所有的木卫二前哨站都位于地表冰壳之下。</loadingscreentip>
@@ -1565,7 +1565,7 @@
     <missionheader0.salvagekillthalamus>目标已摧毁</missionheader0.salvagekillthalamus>
     <missionmessage0.salvagekillthalamus>失事舰船似乎已经成了某种麻痹寄生物的领地。它攻击了你的潜艇，但似乎攻击力度疲软无力，你应该将此事报告给[location2]。</missionmessage0.salvagekillthalamus>
     <missionname.salvagewreck1>沉船打捞</missionname.salvagewreck1>
-    <missiondescription.salvagewreck1>[location1]刚刚收到一条求救信息，据信该船上有一些高度敏感的加密数据。你的任务是优先取回船长的航海日志并返航。</missiondescription.salvagewreck1>
+    <missiondescription.salvagewreck1>[location1]刚刚收到一条求救信息，据信该船上有一些高度敏感的加密数据。你的任务是优先取回艇长的航海日志并返航。</missiondescription.salvagewreck1>
     <missionsonarlabel.salvagewreck1>沉船</missionsonarlabel.salvagewreck1>
     <missionsuccess.salvagewreck1>已成功回收日志</missionsuccess.salvagewreck1>
     <missionfailure.salvagewreck1>数据回收失败</missionfailure.salvagewreck1>
@@ -1778,7 +1778,7 @@
     <missionheader1.pirate1>已消灭海盗</missionheader1.pirate1>
     <missionmessage1.pirate1>开着潜艇去[location2]领取赏金。</missionmessage1.pirate1>
     <missionname.killmopingjack>杀死悲伤杰克</missionname.killmopingjack>
-    <missiondescription.killmopingjack>猪鼻子船长招募你帮助他杀死他的仇敌--锤头鲨悲伤杰克。</missiondescription.killmopingjack>
+    <missiondescription.killmopingjack>猪鼻子艇长招募你帮助他杀死他的仇敌--锤头鲨悲伤杰克。</missiondescription.killmopingjack>
     <missionsonarlabel.killmopingjack>悲伤杰克</missionsonarlabel.killmopingjack>
     <missionsuccess.killmopingjack>悲伤杰克已被杀死。</missionsuccess.killmopingjack>
     <missionheader0.killmopingjack>目标已消灭</missionheader0.killmopingjack>
@@ -1957,9 +1957,9 @@
     <entitydescription.idcard>允许访问潜艇限定区域的身份证明。</entitydescription.idcard>
     <entityname.alienpistol>异星手枪</entityname.alienpistol>
     <entitydescription.alienpistol>一把由异星电池供电的手枪。</entitydescription.alienpistol>
-    <entityname.captainscap>船长帽</entityname.captainscap>
-    <entitydescription.captainscap>船长不容置疑的权威象征。</entitydescription.captainscap>
-    <entityname.captainsuniform>船长服</entityname.captainsuniform>
+    <entityname.captainscap>艇长帽</entityname.captainscap>
+    <entitydescription.captainscap>艇长不容置疑的权威象征。</entitydescription.captainscap>
+    <entityname.captainsuniform>艇长服</entityname.captainsuniform>
     <entitydescription.captainsuniform>让你看起来颇具领袖风范。</entitydescription.captainsuniform>
     <entityname.healthscanner>健康扫描仪</entityname.healthscanner>
     <entitydescription.healthscanner>一个能显示附近人类生命体征与状态信息的平板。</entitydescription.healthscanner>
@@ -2133,7 +2133,7 @@
     <entitydescription.accordion>一把老旧的手制手风琴。</entitydescription.accordion>
     <entityname.bongodrums>邦戈手鼓</entityname.bongodrums>
     <entitydescription.bongodrums>一对老旧的邦戈手鼓。</entitydescription.bongodrums>
-    <entityname.captainspipe>船长的烟斗</entityname.captainspipe>
+    <entityname.captainspipe>艇长的烟斗</entityname.captainspipe>
     <entitydescription.captainspipe>波涛汹涌，临危不乱。</entitydescription.captainspipe>
     <entityname.incendiumfueltank>燃素燃料罐</entityname.incendiumfueltank>
     <entityname.physicoriumammobox>刚素弹药箱</entityname.physicoriumammobox>
@@ -2183,7 +2183,7 @@
     <entityname.shotgununique>爆鸣</entityname.shotgununique>
     <entitydescription.shotgununique>双倍枪管，双倍欢乐。</entitydescription.shotgununique>
     <entityname.spearunique>亚哈之矛</entityname.spearunique>
-    <entitydescription.spearunique>以传奇船长为名的古老长矛。</entitydescription.spearunique>
+    <entitydescription.spearunique>以传奇艇长为名的古老长矛。</entitydescription.spearunique>
     <entityname.divingknifeunique>木卫二之交</entityname.divingknifeunique>
     <entitydescription.divingknifeunique>敌友皆可对。大部分情况都是对着敌人。</entitydescription.divingknifeunique>
     <entityname.smgunique>亡眼步枪</entityname.smgunique>
@@ -2326,7 +2326,7 @@
     <entitydescription.genesplicer>一种可以将异星基因导入人体中的装置。在健康界面中装备拼接器，然后插入遗传物质并激活基因。基因拼接完成后，只有采取破坏性措施才能将其清除。</entitydescription.genesplicer>
     <entityname.advancedgenesplicer>高阶基因拼接器</entityname.advancedgenesplicer>
     <entitydescription.advancedgenesplicer>更先进的基因拼接器。可以同时激活两种不同种类的遗传物质。</entitydescription.advancedgenesplicer>
-    <entityname.piratecaptainhat>海盗船长帽</entityname.piratecaptainhat>
+    <entityname.piratecaptainhat>海盗艇长帽</entityname.piratecaptainhat>
     <entityname.piratebandana>海盗头巾</entityname.piratebandana>
     <entityname.pirateclothes>海盗服装</entityname.pirateclothes>
     <entitydescription.pirateclothes>为了抵抗木卫二冰洋的艰苦环境，海盗们拼凑出这样结构牢固的防护服。在防护服上装有轻质装甲。</entitydescription.pirateclothes>
@@ -3218,11 +3218,11 @@
     <submarine.name.typhon2>台风2号</submarine.name.typhon2>
     <submarine.description.typhon2>台风2号（Typhon 2）是台风号的“船新”版本。作为重型武装潜艇，台风2号潜航速度较慢，外形丑陋，但具备极强的生存能力。</submarine.description.typhon2>
     <submarine.name.azimuth>方位角号</submarine.name.azimuth>
-    <submarine.description.azimuth>方位角号（Azimuth）速度一流，设计时尚，舱内生活条件舒适，这种潜艇成为了那些攒了一堆钱且活下来的联盟退休老船长的最爱。</submarine.description.azimuth>
+    <submarine.description.azimuth>方位角号（Azimuth）速度一流，设计时尚，舱内生活条件舒适，这种潜艇成为了那些攒了一堆钱且活下来的联盟退休老艇长的最爱。</submarine.description.azimuth>
     <submarine.name.r-29>R-29 “大块头”</submarine.name.r-29>
     <submarine.description.r-29>R-29是一艘重型运输潜艇，它的武备很难对付木卫二冰洋之下的怪物们，但作为替代，其上加装了两个强大的放电线圈。该舰船原设计者为rav2n。</submarine.description.r-29>
     <submarine.name.barsuk>野獾</submarine.name.barsuk>
-    <submarine.description.barsuk>野獾（Barsuk）号潜艇是新手船长的最爱。它使用被摧毁潜艇的回收材料（反正很多都是野獾）制造使该系列的价格低廉。多年来围绕着定制和调整该原型的船只，甚至形成了野獾爱好者亚文化圈。</submarine.description.barsuk>
+    <submarine.description.barsuk>野獾（Barsuk）号潜艇是新手艇长的最爱。它使用被摧毁潜艇的回收材料（反正很多都是野獾）制造使该系列的价格低廉。多年来围绕着定制和调整该原型的船只，甚至形成了野獾爱好者亚文化圈。</submarine.description.barsuk>
     <submarine.name.winterhalter>御冬</submarine.name.winterhalter>
     <submarine.description.winterhalter>御冬号（Winterhalter）潜艇最初是由 New Iapetus 的 Archsteel Yards 制造的，只生产了一年就被联盟收购用于研究目的。许多现存的型号都配备有船载研究室，而且武装到了牙齿。</submarine.description.winterhalter>
     <submarine.name.herja>女武神</submarine.name.herja>
@@ -3233,7 +3233,7 @@
     <!-- Terminal welcome messages -->
     <terminalwelcomemsg.humpback>输入on或off来接通或断开电池与电网的链接。输入一个0-100区间内的数字来设置每个电池的充电速率。</terminalwelcomemsg.humpback>
     <terminalwelcomemsg.typhon2>输入一个0-100之间的值，来设置电池阵列的充电率。</terminalwelcomemsg.typhon2>
-    <terminalwelcomemsg.kastrulldiary1>\n第一天，探险队已经离开了Meltwater，我们正穿越一条新发现的冰缝，意图找到一条前往Novaya Moskva的近路，这个任务不是非常安全，但希望等这次任务结束后我就可以退休了。\n\n船长说，这次航程不会超过六天，据我估测，我们应该走到一半了，不过，也有可能这条冰缝是条死路，那样的话我们就得折返了。\n\n第四天，我不该那么说的，我真是个乌鸦嘴，这条路果然是死胡同。\n\n船长情绪低落，我也很失望。现在我们得原路返回来，要多花几天时间才能回到出发点。\n\n第八天，本来这里有个洞的，但现在找不到了。肯定是冰山横移堵住了退路。我们广播了我们的位置，希望有人接收到信号来救我们。真该死。这本是我最后一次任务的。\n\n第九天，食物与水开始定量分配了，船员的情绪不太妙。\n\n第十一，或是十二天？没人回应。能吃的东西不多了。水更少。我不想动笔了。\n\n已经过去了三十多天了。已经没有什么好怕的了。我身边都是尸体。那些被画皮寄生虫感染的人瘫在地上，脸色发白，虽说有些人眼珠子还在动，但绝对死定了。</terminalwelcomemsg.kastrulldiary1>
+    <terminalwelcomemsg.kastrulldiary1>\n第一天，探险队已经离开了Meltwater，我们正穿越一条新发现的冰缝，意图找到一条前往Novaya Moskva的近路，这个任务不是非常安全，但希望等这次任务结束后我就可以退休了。\n\n艇长说，这次航程不会超过六天，据我估测，我们应该走到一半了，不过，也有可能这条冰缝是条死路，那样的话我们就得折返了。\n\n第四天，我不该那么说的，我真是个乌鸦嘴，这条路果然是死胡同。\n\n艇长情绪低落，我也很失望。现在我们得原路返回来，要多花几天时间才能回到出发点。\n\n第八天，本来这里有个洞的，但现在找不到了。肯定是冰山横移堵住了退路。我们广播了我们的位置，希望有人接收到信号来救我们。真该死。这本是我最后一次任务的。\n\n第九天，食物与水开始定量分配了，船员的情绪不太妙。\n\n第十一，或是十二天？没人回应。能吃的东西不多了。水更少。我不想动笔了。\n\n已经过去了三十多天了。已经没有什么好怕的了。我身边都是尸体。那些被画皮寄生虫感染的人瘫在地上，脸色发白，虽说有些人眼珠子还在动，但绝对死定了。</terminalwelcomemsg.kastrulldiary1>
     <terminalwelcomemsg.dugongtransmission>重播最后一次发送的信息。\n[2451-3-4 11:33] DG-35呼叫Tara基地。有人吗？\n[2451-3-4 11:35]Tara基地有人吗？我们的上层甲板遭受重创！\n[2451-3-4 11:35]那鬼东西太大了！\n[2451-3-4 12:02]我们击退了袭来的东西，但船体受损严重。收到消息的人请尽快来援。\n[2451-3-4 12:06]喂喂？\n</terminalwelcomemsg.dugongtransmission>
     <terminalwelcomemsg.traitorletter>这则信息是我的遗嘱，也是我的忏悔书。我接受了一个任务，叫我偷带一个声呐信标上潜艇，然后偷偷在危险区域内启动。后来我发现，原来这个信标所设置的频率会吸引来怪物。之前他们许诺在我完成任务后会派一艘穿梭艇来接我，但一直没有所谓的穿梭艇出现。\n\n这是我最后一次接受这些大公司的所谓“研究任务”，希望他们同我一起下地狱。</terminalwelcomemsg.traitorletter>
 
@@ -4215,11 +4215,11 @@
     <afflictionname.dashing>冲刺</afflictionname.dashing>
     <afflictiondescription.dashing>该角色快速向前移动。</afflictiondescription.dashing>
     <afflictionname.inspiredtoact>激励鼓舞</afflictionname.inspiredtoact>
-    <afflictiondescription.inspiredtoact>受命于的舰长，该角色变得坚毅而能干!</afflictiondescription.inspiredtoact>
+    <afflictiondescription.inspiredtoact>受命于的艇长，该角色变得坚毅而能干!</afflictiondescription.inspiredtoact>
     <afflictionname.welldrilled>训练有素</afflictionname.welldrilled>
-    <afflictiondescription.welldrilled>受命于舰长，该角色在船舶维修和养护方面变得更加出色。</afflictiondescription.welldrilled>
+    <afflictiondescription.welldrilled>受命于艇长，该角色在船舶维修和养护方面变得更加出色。</afflictiondescription.welldrilled>
     <afflictionname.battleready>战斗准备</afflictionname.battleready>
-    <afflictiondescription.battleready>受命于舰长，该角色现在是一个更好的战士。</afflictiondescription.battleready>
+    <afflictiondescription.battleready>受命于艇长，该角色现在是一个更好的战士。</afflictiondescription.battleready>
     <afflictionname.downwiththeship>与舰休戚</afflictionname.downwiththeship>
     <afflictiondescription.downwiththeship>拒绝弃船，并愿意做任何事情来保住这艘舰船。</afflictiondescription.downwiththeship>
     <afflictionname.powerattack>强力攻击</afflictionname.powerattack>
@@ -4251,7 +4251,7 @@
     <afflictiondescription.implacable>目标无法陷入昏迷。</afflictiondescription.implacable>
 
     <!-- Jobs -->
-    <jobname.captain>舰长</jobname.captain>
+    <jobname.captain>艇长</jobname.captain>
     <jobdescription.captain>负责指挥全体船员，确保一切顺利进行。</jobdescription.captain>
     <jobname.engineer>工程师</jobname.engineer>
     <jobdescription.engineer>工程师是潜艇工作人员的骨干，他们的电气工程知识与机修工互补，能够对潜艇的各种电气设施进行维护维修。</jobdescription.engineer>
@@ -4282,8 +4282,8 @@
     <jobname.vip>贵宾</jobname.vip>
     <jobname.vipsecurityofficer>保镖</jobname.vipsecurityofficer>
     <jobdescription.captain1>木卫二深洋中的航行老手，可以让船员忠于使命，也可以武力镇压不应之辈。</jobdescription.captain1>
-    <jobdescription.captain2>叛逆者船长是当权者的眼中钉。他们激进而极富侵略性的行动破坏了联盟中脆弱的平衡。</jobdescription.captain2>
-    <jobdescription.captain3>隶属于联盟的船长往往被教育需要墨守成规，但他们总能想出新的办法追捕敌人。</jobdescription.captain3>
+    <jobdescription.captain2>叛逆者艇长是当权者的眼中钉。他们激进而极富侵略性的行动破坏了联盟中脆弱的平衡。</jobdescription.captain2>
+    <jobdescription.captain3>隶属于联盟的艇长往往被教育需要墨守成规，但他们总能想出新的办法追捕敌人。</jobdescription.captain3>
     <jobdescription.engineer1>核能工程师负责管理潜艇的核反应堆。为避免辐射伤害，他们在作业时必须穿上辐射防护服。</jobdescription.engineer1>
     <jobdescription.engineer2>潜艇中错综复杂的电力系统需要长期维护。电气工程师就是那些冒着被电击的风险，做更换保险丝、接通设备电源等麻烦事的人。</jobdescription.engineer2>
     <jobdescription.mechanic1>焊工的主要工作是检修故障，他们在作业时必须装备齐整。</jobdescription.mechanic1>
@@ -4294,7 +4294,7 @@
     <jobdescription.medicaldoctor1>实施战场急救的人员需要身入险地，建议给他们配备有防护能力、又不影响其行动的装备，以低于怪物的爪牙与无情的子弹。</jobdescription.medicaldoctor1>
     <jobdescription.medicaldoctor2>医生会尽其所能地治疗那些在航行过程中受伤的船员。</jobdescription.medicaldoctor2>
     <startingequipmentname>装备#[number]</startingequipmentname>
-    <npctitle.piratecaptain>海盗船长</npctitle.piratecaptain>
+    <npctitle.piratecaptain>海盗艇长</npctitle.piratecaptain>
     <npctitle.piratecaptainlord>海盗王</npctitle.piratecaptainlord>
     <npctitle.piratesecurityrecruit>海盗新兵</npctitle.piratesecurityrecruit>
     <npctitle.piratesecuritygunner>海盗炮手</npctitle.piratesecuritygunner>
@@ -4371,7 +4371,7 @@
     <!-- Generic -->
     <tutorial.tryagainheader>已死亡</tutorial.tryagainheader>
     <tutorial.tryagain>想再试一次吗？</tutorial.tryagain>
-    <tutorial.radio.speaker>赫金森舰长</tutorial.radio.speaker>
+    <tutorial.radio.speaker>赫金森艇长</tutorial.radio.speaker>
     <tutorial.radio.watchman>监管者</tutorial.radio.watchman>
     <tutorial.course>培训课程</tutorial.course>
     <tutorial.coursecomplete>培训课程全部完成！</tutorial.coursecomplete>
@@ -4380,7 +4380,7 @@
     <tutorial.engineertraining>工程师培训</tutorial.engineertraining>
     <tutorial.securityofficertraining>安全官培训</tutorial.securityofficertraining>
     <tutorial.medicaldoctortraining>医生培训</tutorial.medicaldoctortraining>
-    <tutorial.captaintraining>舰长培训</tutorial.captaintraining>
+    <tutorial.captaintraining>艇长培训</tutorial.captaintraining>
     <tutorial.newobjective>新目标</tutorial.newobjective>
     <tutorial.objective>目标（点击查看）</tutorial.objective>
     <tutorialskipwarning>你应该是第一次玩《潜渊症》。在你开始进行木卫二海底之旅前，我们强烈建议你先尝试做一下这些教程。</tutorialskipwarning>
@@ -4392,16 +4392,16 @@
     <tutorial.mechanicdescription>在航行中，想要计划不出差错、设备一直正常运行就像要人类离开这片鬼地方一样难。你不会有任何休息或放松的时间，因为设备不是在出问题就是在出问题的路上。就算设备侥幸没出问题，你也得不停地维护、保养、维护。没有事情比确保我们的潜艇能够安全到达下一个目的地更重要了，而你就是专门来干这个的。不过可别指望你的“同事”们会对你产生感激崇敬之情，他们只会嘲笑你是个脏兮兮的机修工——不过这也无所谓啦。潜艇是你赖以生存的地方，如果他们中有任何人和你一起活了下来，跟他们一起欢呼吧。</tutorial.mechanicdescription>
     <tutorial.mechanicresponsibilities>职责\n-维修机械\n-进水补修</tutorial.mechanicresponsibilities>
     <tutorial.engineertitle>工程师——运用自然力量之人</tutorial.engineertitle>
-    <tutorial.engineerdescription>能源、氧气，缺一不可。若有所缺，潜艇难行，生息休止。抛却那些花言巧语与矫揉造作，你才是那个让潜艇运作起来的人，懂吗？坚信真理，理性思考。要小心那个总妄想成为工程师、只知道修修补补的机修工。不要去听医生那毫无意义的心理辅导呓语，他只是个内心细腻的娘炮废物。舰长和安全官人畜无害，他们的智力远逊于你。一切显而易见，不是吗？</tutorial.engineerdescription>
+    <tutorial.engineerdescription>能源、氧气，缺一不可。若有所缺，潜艇难行，生息休止。抛却那些花言巧语与矫揉造作，你才是那个让潜艇运作起来的人，懂吗？坚信真理，理性思考。要小心那个总妄想成为工程师、只知道修修补补的机修工。不要去听医生那毫无意义的心理辅导呓语，他只是个内心细腻的娘炮废物。艇长和安全官人畜无害，他们的智力远逊于你。一切显而易见，不是吗？</tutorial.engineerdescription>
     <tutorial.engineerresponsibilities>职责\n-维修电气设备\n-保证反应堆运行</tutorial.engineerresponsibilities>
     <tutorial.securityofficertitle>安全官——对抗暴力的中流砥柱</tutorial.securityofficertitle>
     <tutorial.securityofficerdescription>据说长期压力会让人暴露他们最卑劣的一面，不是所有人都有如你一般的道德操守——该死，他们中的大多数人都是思维扭曲、连活着都会造成安全风险的的危险分子。让他们把愤怒发泄到冰洋的怪物身上，千万不能相信他们的本性。时刻保持警惕，准备好手铐和电击甩棍，时不时让他们尝尝禁闭的味道，让他们知道谁说了算！</tutorial.securityofficerdescription>
     <tutorial.securityofficerresponsibilities>职责\n-维持秩序\n-击退入侵者</tutorial.securityofficerresponsibilities>
     <tutorial.medicaldoctortitle>医生——维护关键资源：人</tutorial.medicaldoctortitle>
-    <tutorial.medicaldoctordescription>武器、引擎和反应堆并不是潜艇运行的关键——只有人才是。炮手能否活着开出炮，船长能否活着驾驶这艘潜艇，这都取决于你。记住，你的工作不仅仅是保障船员的身体健康，我们是在深沉幽暗的冰洋之下，挤在又破又小的潜艇中夹缝求生，所以当熄灯后你的“兄弟们”进入梦乡时，那些来自深海中的各种幽深黑暗的玩意会爬进他们的大脑，慢慢侵蚀掉他们的灵魂。是让他们保持清醒地活着，还是让他们死的像条狗，都取决于你。</tutorial.medicaldoctordescription>
+    <tutorial.medicaldoctordescription>武器、引擎和反应堆并不是潜艇运行的关键——只有人才是。炮手能否活着开出炮，艇长能否活着驾驶这艘潜艇，这都取决于你。记住，你的工作不仅仅是保障船员的身体健康，我们是在深沉幽暗的冰洋之下，挤在又破又小的潜艇中夹缝求生，所以当熄灯后你的“兄弟们”进入梦乡时，那些来自深海中的各种幽深黑暗的玩意会爬进他们的大脑，慢慢侵蚀掉他们的灵魂。是让他们保持清醒地活着，还是让他们死的像条狗，都取决于你。</tutorial.medicaldoctordescription>
     <tutorial.medicaldoctorresponsibilities>职责\n-急救\n-制毒与解毒</tutorial.medicaldoctorresponsibilities>
-    <tutorial.captaintitle>舰长——富有远见卓识的海军将领，航海家，天才（大概是）</tutorial.captaintitle>
-    <tutorial.captaindescription>亚哈船长曾经说过，“地狱就是首先由不易消化的苹果馅汤团而产生出来的一种心象”你知道那是什么意思吗？不。船员认为你是深不可测的天才吗？当然。你是地图，是指南针，是胸怀冰洋的人。指引方向，审慎抉择，记住，你与前哨站的领导人之间仅有几步之遥，如果需要牺牲几个人才能前进的话——不也挺好吗？</tutorial.captaindescription>
+    <tutorial.captaintitle>艇长——富有远见卓识的海军将领，航海家，天才（大概是）</tutorial.captaintitle>
+    <tutorial.captaindescription>亚哈船长曾经说过，“地狱就是首先由不易消化的苹果馅汤团而产生出来的一种心象”你知道那是什么意思吗？不。船员会认为你是深不可测的天才吗？当然。你是地图，是指南针，是胸怀冰洋的人。指引方向，审慎抉择，记住，你与前哨站的领导人之间仅有几步之遥，如果需要牺牲几个人才能前进的话——不也挺好吗？</tutorial.captaindescription>
     <tutorial.captainresponsibilities>职责\n-驾驶潜艇\n-下达指令</tutorial.captainresponsibilities>
 
 
@@ -4614,7 +4614,7 @@
 
     <!-- Captain tutorial -->
     <!-- Radio -->
-    <captain.radio.medic>嘿，舰长，有事吗？</captain.radio.medic>
+    <captain.radio.medic>嘿，艇长，有事吗？</captain.radio.medic>
     <captain.radio.complete>很高兴你能逃出来。欢迎来到[OUTPOSTNAME]。</captain.radio.complete>
 
     <!-- Room 2 -->
@@ -5028,7 +5028,7 @@
     <personalitytrait.crazy>疯狂</personalitytrait.crazy>
 
     <!-- Event texts -->
-    <eventtext.givingdirections.c1>你差点撞到一个穿船长制服的人，从他们的穿着打扮可以看出，这群人是外来的，而且他们的经历不太愉快。他们正在全神贯注地研究地图 ，一把左轮松松垮垮地挂在领头者的腰带上。他们迅速地向你道歉，然后注意力又转移到地图上。</eventtext.givingdirections.c1>
+    <eventtext.givingdirections.c1>你差点撞到一个穿艇长制服的人，从他们的穿着打扮可以看出，这群人是外来的，而且他们的经历不太愉快。他们正在全神贯注地研究地图 ，一把左轮松松垮垮地挂在领头者的腰带上。他们迅速地向你道歉，然后注意力又转移到地图上。</eventtext.givingdirections.c1>
     <eventtext.givingdirections.o1>“呃，我能看看那张地图吗？离开这个鬼地方的最快航线是哪条？”</eventtext.givingdirections.o1>
     <eventtext.givingdirections.o1.c1>他们挠了挠头，“这也是我们想知道的，我们的航行目标还很远，补给不太充足，也无法掉头返航了。”</eventtext.givingdirections.o1.c1>
     <eventtext.givingdirections.o1.o1>“我也看看吧，我们的目标可能是一致的。”</eventtext.givingdirections.o1.o1>
@@ -5038,9 +5038,9 @@
     <eventtext.givingdirections.o1.o1.o2>真丢人。</eventtext.givingdirections.o1.o1.o2>
     <eventtext.givingdirections.o1.o2>“太难了。祝你好运！”</eventtext.givingdirections.o1.o2>
     <eventtext.givingdirections.o2>他们都背向你。你试着抽走那支左轮。</eventtext.givingdirections.o2>
-    <eventtext.givingdirections.o2.c1>你略施巧手，把左轮抽了出来，塞进自己的口袋。那位船长看向你时，你心脏一阵狂跳，但他们只是撇了你一眼，然后继续踌躇。你决定与他们保持距离。</eventtext.givingdirections.o2.c1>
+    <eventtext.givingdirections.o2.c1>你略施巧手，把左轮抽了出来，塞进自己的口袋。那位艇长看向你时，你心脏一阵狂跳，但他们只是撇了你一眼，然后继续踌躇。你决定与他们保持距离。</eventtext.givingdirections.o2.c1>
     <eventtext.givingdirections.o2.o1>爽耶，白拿了一支左轮。</eventtext.givingdirections.o2.o1>
-    <eventtext.givingdirections.o2.c2>在你要把左轮抽出来时，船长突然转身，盯着你，逐渐眯起眼睛，伸手去拿左轮。</eventtext.givingdirections.o2.c2>
+    <eventtext.givingdirections.o2.c2>在你要把左轮抽出来时，艇长突然转身，盯着你，逐渐眯起眼睛，伸手去拿左轮。</eventtext.givingdirections.o2.c2>
     <eventtext.givingdirections.o2.o2>啊哦。</eventtext.givingdirections.o2.o2>
     <eventtext.givingdirections.o3>若无其事地走开。</eventtext.givingdirections.o3>
     <eventtext.soundinthevent.c1>你听到附近的排气孔传来奇怪的刮擦声，你有点好奇，从排气孔的缝隙窥探其中，但里面黑漆漆的，什么都看不见…过了一会儿，你又听到了那个声音，里面肯定有什么东西！</eventtext.soundinthevent.c1>
@@ -5738,7 +5738,7 @@
     <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>搜查他的口袋。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1>
     <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>你找到了一些现金。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o1.c1>
     <EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>离开尸体。</EventText.occupationalhazards.o1.o1.o1.o1.o1.o1.o1.o1.c1.o2>
-    <EventText.hognose.c1>你看到一个戴着眼罩、留着白胡子的人坐在一张桌子旁。一些路人正紧张地对他投来侧目。"那是猪鼻子休伯，非凡的船长，"有人低声说。</EventText.hognose.c1>
+    <EventText.hognose.c1>你看到一个戴着眼罩、留着白胡子的人坐在一张桌子旁。一些路人正紧张地对他投来侧目。"那是猪鼻子休伯，非凡的艇长，"有人低声说。</EventText.hognose.c1>
     <EventText.hognose.o1>走近。</EventText.hognose.o1>
     <EventText.hognose.o1.c1>当你走近时，那人怒喝起来。</EventText.hognose.o1.c1>
     <EventText.hognose.o1.o1>“这可不是待客之道。”</EventText.hognose.o1.o1>
@@ -6110,7 +6110,7 @@
     <hint.onshowhealthinterface>这是健康界面。选择身体的一个部位，可以查看该部位的病因。将医疗物品从物品栏中拖拽到那个部位可以进行治疗操作。</hint.onshowhealthinterface>
     <hint.onsonarspottedenemy>声呐发现了一个移动目标，请确保潜艇上的炮手已就位，并给炮手指定明确的射击目标。</hint.onsonarspottedenemy>
     <hint.onstartedcontrolling.job.assistant>你现在操作的角色是一位助手。助手一般是多面手，尽其所能帮助他人，并提升自己的技能等级。</hint.onstartedcontrolling.job.assistant>
-    <hint.onstartedcontrolling.job.captain>你现在操作的角色是一位船长。你应该去指挥室，驾驶潜艇前往目的地。</hint.onstartedcontrolling.job.captain>
+    <hint.onstartedcontrolling.job.captain>你现在操作的角色是一位艇长。你应该去指挥室，驾驶潜艇前往目的地。</hint.onstartedcontrolling.job.captain>
     <hint.onstartedcontrolling.job.engineer>你现在操作的角色是一位工程师。工程师负责保持潜艇动力状良好，对反应堆进行管控，并对电气设备进行维护、修理。</hint.onstartedcontrolling.job.engineer>
     <hint.onstartedcontrolling.job.mechanic>你现在操作的角色是一位机修工。应密切注意潜艇上所有机械装置的状况，如有损坏应予以修理。</hint.onstartedcontrolling.job.mechanic>
     <hint.onstartedcontrolling.job.medicaldoctor>你现在操作的角色是一位医生。你的工作职能就是照顾好船员们的身体，并治疗他们的伤痛。</hint.onstartedcontrolling.job.medicaldoctor>
@@ -6161,7 +6161,7 @@
 
     <!-- Talent trees -->
     <talenttree.gunslinger>佣兵</talenttree.gunslinger>
-    <talenttree.skipper>船长</talenttree.skipper>
+    <talenttree.skipper>艇长</talenttree.skipper>
     <talenttree.shipmaster>领袖</talenttree.shipmaster>
     <talenttree.specialist>专家</talenttree.specialist>
     <talenttree.warden>典狱长</talenttree.warden>
@@ -6513,7 +6513,7 @@
     <npctitle.merchantmedical>药物商</npctitle.merchantmedical>
     <npctitle.merchantengineering>工程商</npctitle.merchantengineering>
     <npctitle.outpostdoctor>前哨站医生</npctitle.outpostdoctor>
-    <charactername.hognose>鹰勾船长</charactername.hognose>
+    <charactername.hognose>鹰勾艇长</charactername.hognose>
     <charactername.shockjock>威廉·奥凯利</charactername.shockjock>
     <charactername.raptorowner>瑟维洛·瑞兹</charactername.raptorowner>
     <charactername.jacovsubra>雅科夫·苏布拉</charactername.jacovsubra>
@@ -6720,7 +6720,7 @@
     <tutorial.roles.message.4_player>“你是在批判自己的课程吗?”</tutorial.roles.message.4_player>
     <tutorial.roles.message.5>“我只是个前台，哥们，不负责给绞肉机找肉。想听听我的建议吗？给自己找个站点工作，别被政府当枪使。”</tutorial.roles.message.5>
     <tutorial.roles.message.5_player>“可是我想冒险！而且站点里也没东西吃了...”</tutorial.roles.message.5_player>
-    <tutorial.roles.message.6a>“随你吧...我们这有五节课程:\n\n首先，船长课。如果你喜欢给全船的人擦屁股，这就是你的最佳岗位，强烈推荐。”</tutorial.roles.message.6a>
+    <tutorial.roles.message.6a>“随你吧...我们这有五节课程:\n\n首先，艇长课。如果你喜欢给全船的人擦屁股，这就是你的最佳岗位，强烈推荐。”</tutorial.roles.message.6a>
     <tutorial.roles.message.6a_player>“就像著名的赫尔曼·波拉德！”</tutorial.roles.message.6a_player>
     <tutorial.roles.message.6b>“好好好。然后是负责船只修理的哼哈二将。\n工程师工具繁多，但要经常挨电。不是弱者能承担的职业。\n机械师则经常要弄自己一身湿T，焊接船舱啊修水泵之类的。要是你抽烟的话就别干这活了。懂？”</tutorial.roles.message.6b>
     <tutorial.roles.message.6b_player>“听起来是很重要的工作！”</tutorial.roles.message.6b_player>
@@ -6733,18 +6733,18 @@
     <tutorial.roles.popup.moveright>前往右边房间继续。</tutorial.roles.popup.moveright>
     <tutorial.roles.popup.creworders>使用[InputType.CrewOrders]切换成员列表。</tutorial.roles.popup.creworders>
     <tutorial.roles.popup.creworders2>使用[InputType.Select]从成员列表中选择一个训练生位置。</tutorial.roles.popup.creworders2>
-    <charactername.captaintrainee>船长训练生</charactername.captaintrainee>
+    <charactername.captaintrainee>艇长训练生</charactername.captaintrainee>
     <charactername.engineertrainee>工程师训练生</charactername.engineertrainee>
     <charactername.mechanictrainee>机械师训练生</charactername.mechanictrainee>
     <charactername.securitytrainee>安全官训练生</charactername.securitytrainee>
     <charactername.medictrainee>船医训练生</charactername.medictrainee>
     <tutorial.roles.idcarddescription>此ID卡让训练生可以访问训练区域。</tutorial.roles.idcarddescription>
-    <tutorial.roles.captaindescription>船长负责驾驶潜艇，操作声呐以及对船员发号施令。</tutorial.roles.captaindescription>
+    <tutorial.roles.captaindescription>艇长负责驾驶潜艇，操作声呐以及对船员发号施令。</tutorial.roles.captaindescription>
     <tutorial.roles.engineerdescription>工程师负责操作核反应堆以及维护电子设备。技巧杰出的工程师甚至能够使用线路和信号原件为潜艇加入自定改装。</tutorial.roles.engineerdescription>
     <tutorial.roles.mechanicdescription>机械师负责维护机械设备，例如引擎和水泵，保持潜艇运转正常。此外，由于机械师拥有更高的焊接技能，船壳破损通常也由其负责修复。</tutorial.roles.mechanicdescription>
     <tutorial.roles.securitydescription>安全官负责保护潜艇和船员不受来自内部或外部的危险。安全官有着操作从手持武器到舰载火炮的技能，是潜艇面对威胁时的第一道防线。</tutorial.roles.securitydescription>
     <tutorial.roles.medicdescription>医生负责治愈船员的伤病。从包扎伤口到施用药物。在最危急的情况下，对于倒地不起的船员可能需要先做个心肺复苏.</tutorial.roles.medicdescription>
-    <tutorial.roles.startprompt_captain>开始船长训练教程？</tutorial.roles.startprompt_captain>
+    <tutorial.roles.startprompt_captain>开始艇长训练教程？</tutorial.roles.startprompt_captain>
     <tutorial.roles.startprompt_engineer>开始工程师训练教程？</tutorial.roles.startprompt_engineer>
     <tutorial.roles.startprompt_mechanic>开始机械师训练教程？</tutorial.roles.startprompt_mechanic>
     <tutorial.roles.startprompt_security>开始安全官训练教程？</tutorial.roles.startprompt_security>
@@ -6756,11 +6756,11 @@
     <tutorial.roles.popup.start>要开始教程，在标记地点找到你的导师。</tutorial.roles.popup.start>
     <tutorial.roles.objective.selection1>切换角色</tutorial.roles.objective.selection1>
     <tutorial.roles.objective.selection2>离开休息室</tutorial.roles.objective.selection2>
-    <tutorial.roles.captaininstructor>“你好，我是斯坦纳船长，是今天负责带你的导师。我将向你简短介绍船长的职责，然后进行实操演练。确保命令链是很重要的，所以你必须称呼我为船长。明白了的话就说“是的船长”。”</tutorial.roles.captaininstructor>
-    <charactername.captaininstructor>斯坦纳船长</charactername.captaininstructor>
-    <tutorial.roles.yescaptain_player>“是的船长!”</tutorial.roles.yescaptain_player>
+    <tutorial.roles.captaininstructor>“你好，我是斯坦纳艇长，是今天负责带你的导师。我将向你简短介绍艇长的职责，然后进行实操演练。确保命令链是很重要的，所以你必须称呼我为艇长。明白了的话就说“是的艇长”。”</tutorial.roles.captaininstructor>
+    <charactername.captaininstructor>斯坦纳艇长</charactername.captaininstructor>
+    <tutorial.roles.yescaptain_player>“是的艇长!”</tutorial.roles.yescaptain_player>
     <tutorial.roles.commandroomdescription>“指挥室是潜艇的大脑。命令从这里传出 - 通过语音或电子信号 - 最终抵达船员和潜艇设备。”</tutorial.roles.commandroomdescription>
-    <tutorial.roles.commandroomdescription2>“使用诸如导航终端和状态监测器这样的设备，船长可以发出命令，比如让船员修复设备，让引擎全速运转，或排空压载舱让潜艇上浮。”</tutorial.roles.commandroomdescription2>
+    <tutorial.roles.commandroomdescription2>“使用诸如导航终端和状态监测器这样的设备，艇长可以发出命令，比如让船员修复设备，让引擎全速运转，或排空压载舱让潜艇上浮。”</tutorial.roles.commandroomdescription2>
     <tutorial.roles.navigationterminal>“导航终端的核心功能是移动潜艇。”</tutorial.roles.navigationterminal>
     <tutorial.roles.navigationterminal_sonar>“由于我们处于低照明环境，声呐是侦查周围地形，物体和生命的最有效手段。”</tutorial.roles.navigationterminal_sonar>
     <tutorial.roles.navigationterminal_sonar2>“声呐的意思是声音导航与测距。声呐有两种模式: 主动和被动。”</tutorial.roles.navigationterminal_sonar2>
@@ -6780,19 +6780,19 @@
     <tutorial.roles.navigationterminal_steering8>“开玩笑的，你还不能开！潜艇在待命时通常会靠港，防止被海流推走以及减少燃料消耗。首先你要按那个红色大按钮来进行离港。就这么简单，试试看吧？”</tutorial.roles.navigationterminal_steering8>
     <tutorial.roles.popup.navigationterminal_steering>使用导航终端，让无人机离岗。</tutorial.roles.popup.navigationterminal_steering>
     <tutorial.roles.popup.navigationterminal_steering2>练习驾驶无人机，准备好之后将无人机重新靠港。</tutorial.roles.popup.navigationterminal_steering2>
-    <tutorial.roles.navigationterminal_commanding>“不赖，训练生。你已经做好了掌舵的准备，但当船长可没有这么简单。”</tutorial.roles.navigationterminal_commanding>
+    <tutorial.roles.navigationterminal_commanding>“不赖，训练生。你已经做好了掌舵的准备，但当艇长可没有这么简单。”</tutorial.roles.navigationterminal_commanding>
     <tutorial.roles.navigationterminal_commanding2>“一艘大型潜艇是不可能一个人开起来的。你需要船员。而船员需要指引，否则就会像一群无头苍蝇一样满潜艇乱窜...算了不说了。”</tutorial.roles.navigationterminal_commanding2>
-    <tutorial.roles.navigationterminal_commanding3>“作为船长，你的职责是带领你的船员。所以你要给他们发号施令，也就是说要明白该干什么！”</tutorial.roles.navigationterminal_commanding3>
+    <tutorial.roles.navigationterminal_commanding3>“作为艇长，你的职责是带领你的船员。所以你要给他们发号施令，也就是说要明白该干什么！”</tutorial.roles.navigationterminal_commanding3>
     <tutorial.roles.navigationterminal_commanding4>“这就是状态监测器出场的时候了。状态监测器让你能看到潜艇的何处需要修理。你可以将这些房间标记为需要修理，然后祈祷手底下的人没有白痴到连修个东西都不会。真的，祈祷很重要。”</tutorial.roles.navigationterminal_commanding4>
     <tutorial.roles.navigationterminal_commanding5>“你最好向你的船员反复强调平时整修的重要性，真出事情临时抱佛脚可就来不及了！这意味着要提前下达命令。”</tutorial.roles.navigationterminal_commanding5>
     <tutorial.roles.navigationterminal_commanding6>“就让我们在真正的潜艇上试试看吧？其他的训练生现在应该也准备好了。跟我来。”</tutorial.roles.navigationterminal_commanding6>
-    <tutorial.roles.popup.captain_follow>跟随斯坦纳船长进入潜艇。</tutorial.roles.popup.captain_follow>
+    <tutorial.roles.popup.captain_follow>跟随斯坦纳艇长进入潜艇。</tutorial.roles.popup.captain_follow>
     <tutorial.roles.captaininstructor_start>“我们到了，开始向船员下达命令吧。没有电力，潜艇上的一切设施都无法工作，所以先下令开启反应堆。”</tutorial.roles.captaininstructor_start>
     <tutorial.roles.popup.captain_command>按[InputType.Command]打开命令界面。</tutorial.roles.popup.captain_command>
     <tutorial.roles.popup.captain_command2>下达开启反应堆的指令。</tutorial.roles.popup.captain_command2>
     <tutorial.roles.popup.captain_command3>命令界面将自动选择最适船员进行工作。</tutorial.roles.popup.captain_command3>
     <tutorial.roles.popup.captain_command4>你还可以通过船员列表直接向特定船员下达命令(用[InputType.CrewOrders]切换)。</tutorial.roles.popup.captain_command4>
-    <tutorial.roles.captaininstructor_repairs>“很好。记住船长应得到尊重与服从。所以船长应该佩戴武器。我的前任工程师史蒂夫·卜甘霍曾说过： "怎么，你还能一枪崩了我不成？"。哈哈。总之，他的表亲在那之后也很快下船了。那么，我们来试试下达维护命令吧？”</tutorial.roles.captaininstructor_repairs>
+    <tutorial.roles.captaininstructor_repairs>“很好。记住艇长应得到尊重与服从。所以艇长应该佩戴武器。我的前任工程师史蒂夫·卜甘霍曾说过： "怎么，你还能一枪崩了我不成？"。哈哈。总之，他的表亲在那之后也很快下船了。那么，我们来试试下达维护命令吧？”</tutorial.roles.captaininstructor_repairs>
     <tutorial.roles.popup.captain_commandmaintenance>下令修复漏水点。</tutorial.roles.popup.captain_commandmaintenance>
     <tutorial.roles.popup.captain_commandmaintenance2>下令修复电气设备。</tutorial.roles.popup.captain_commandmaintenance2>
     <tutorial.roles.popup.captain_commandmaintenance3>下令修复机械设备。</tutorial.roles.popup.captain_commandmaintenance3>
@@ -6841,7 +6841,7 @@
     <tutorial.roles.engineerinstructor_reactormanual5>“涡轮输出越高，反应堆尝试产出的电力越多。如果涡轮输出比裂变速率高出太多，反应堆就会冷却，反之则会过热。”</tutorial.roles.engineerinstructor_reactormanual5>
     <tutorial.roles.engineerinstructor_reactormanual6>“所以简单来说: 让左边的指针在绿色区间，让右边的指针在绿色区间。”</tutorial.roles.engineerinstructor_reactormanual6>
     <tutorial.roles.engineerinstructor_reactormanual6_player>“进行手动控制有什么意义?”</tutorial.roles.engineerinstructor_reactormanual6_player>
-    <tutorial.roles.engineerinstructor_reactormanual7>“问得好！你应该见过潜艇里突然灯全熄了的时候吧？这一般意味着反应堆处于自动控制模式，然后船长突然进行了大幅加速。自动控制对忽然增减的能量需求反应速度要慢得多。”</tutorial.roles.engineerinstructor_reactormanual7>
+    <tutorial.roles.engineerinstructor_reactormanual7>“问得好！你应该见过潜艇里突然灯全熄了的时候吧？这一般意味着反应堆处于自动控制模式，然后艇长突然进行了大幅加速。自动控制对忽然增减的能量需求反应速度要慢得多。”</tutorial.roles.engineerinstructor_reactormanual7>
     <tutorial.roles.engineerinstructor_reactormanual7_player>“我能试试吗？”</tutorial.roles.engineerinstructor_reactormanual7_player>
     <tutorial.roles.engineer_reactormanual>与反应堆互动，切换至手动控制。</tutorial.roles.engineer_reactormanual>
     <tutorial.roles.engineer_reactormanual2>使用滑动条，将两根指针保持在绿色区域。</tutorial.roles.engineer_reactormanual2>
@@ -6850,7 +6850,7 @@
     <tutorial.roles.engineerinstructor_junctionboxes>“而当接线盒不可避免的损坏时，连接到该接线盒上的设施将会停止运作。你的工作就是阻止这种事情发生！”</tutorial.roles.engineerinstructor_junctionboxes>
     <tutorial.roles.engineerinstructor_junctionboxes_player>“接线盒为什么会坏？就不能让它们不坏吗？”</tutorial.roles.engineerinstructor_junctionboxes_player>
     <tutorial.roles.engineerinstructor_junctionboxes2>“问得好！一些前哨站的工程师能升级设备，让它们不那么容易损坏，但这个我们之后再说。”</tutorial.roles.engineerinstructor_junctionboxes2>
-    <tutorial.roles.engineerinstructor_junctionboxes3>“大部分船长都是油门一脚踹进发动机的家伙。他们喜欢把速度拉满几秒钟，然后接下来几分钟都让潜艇一动不动去抽雪茄。大部分情况下伤害电气设备的都是这样的电力波动。”</tutorial.roles.engineerinstructor_junctionboxes3>
+    <tutorial.roles.engineerinstructor_junctionboxes3>“大部分艇长都是油门一脚踹进发动机的家伙。他们喜欢把速度拉满几秒钟，然后接下来几分钟都让潜艇一动不动去抽雪茄。大部分情况下伤害电气设备的都是这样的电力波动。”</tutorial.roles.engineerinstructor_junctionboxes3>
     <tutorial.roles.engineerinstructor_junctionboxes4>“另一个就是水。电和水合不来，而当潜艇漏水，损伤也随之而来。”</tutorial.roles.engineerinstructor_junctionboxes4>
     <tutorial.roles.engineerinstructor_junctionboxes4_player>“所以我的工作就是拿着螺丝刀到处修?”</tutorial.roles.engineerinstructor_junctionboxes4_player>
     <tutorial.roles.engineerinstructor_junctionboxes5>“差不多！不过等你学会了快速修理，就有更多空余时间去干别的了。来，给你演示一下！”</tutorial.roles.engineerinstructor_junctionboxes5>

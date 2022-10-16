@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="Simplified Chinese Fixes" nowhitespace="true" translatedname="中文(简体)[修正]">
 
     <!-- Generic -->
     <editor.saveall>保存全部</editor.saveall>
@@ -255,22 +255,22 @@
     <charactereditor.loadhtml>加载HTML</charactereditor.loadhtml>
     <charactereditor.htmlpath>HTML文件路径...</charactereditor.htmlpath>
     <charactereditor.selectfile>选择文件</charactereditor.selectfile>
-    <charactereditor.missingtorsoorhead>You need to define at least one limb as Torso or Head!</charactereditor.missingtorsoorhead>
-    <charactereditor.missinglimbtype>You need to define one and only one limb as [limbtype]!</charactereditor.missinglimbtype>
+    <charactereditor.missingtorsoorhead>你需要将至少一个肢体的类型定义为躯干或头部！</charactereditor.missingtorsoorhead>
+    <charactereditor.missinglimbtype>你需要将一个且只有一个肢体的类型定义为[limbtype]!</charactereditor.missinglimbtype>
     <charactereditor.charactercreated>角色[name]已创建</charactereditor.charactercreated>
     <charactereditor.limbtype>肢体类型</charactereditor.limbtype>
     <charactereditor.sourcerectangle>Source Rectangle</charactereditor.sourcerectangle>
     <charactereditor.id>Identifier（标识符）</charactereditor.id>
     <charactereditor.limbwithindex>Limb [index]</charactereditor.limbwithindex>
     <charactereditor.limbwithindexanchor>Limb [index] Anchor</charactereditor.limbwithindexanchor>
-    <charactereditor.failedtoreadhtml>Character Editor Screen: Failed to read HTML at [path]</charactereditor.failedtoreadhtml>
-    <charactereditor.multipleitemswithsamehierarchy>Multiple items with the same hierarchy [hierarchy] found ([name]). Cannot continue.</charactereditor.multipleitemswithsamehierarchy>
+    <charactereditor.failedtoreadhtml>角色编辑器信息: 无法从[path]读取HTML</charactereditor.failedtoreadhtml>
+    <charactereditor.multipleitemswithsamehierarchy>Multiple items with the same hierarchy [hierarchy] found ([name]). 无法继续。</charactereditor.multipleitemswithsamehierarchy>
     <charactereditor.cannoteditvanillacharacters>Cannot edit the characters defined in the 'Vanilla' content package! You can create a copy of the character (in another content package) should you want to edit it.</charactereditor.cannoteditvanillacharacters>
     <charactereditor.existingcharacterfoundreplaceverification>An existing character with the same name was found in the same content package. Do you want to replace it (the original files will be lost)?</charactereditor.existingcharacterfoundreplaceverification>
     <charactereditor.existingcharacterfoundoverrideverification>An existing character with the same name was found in another content package. Do you want to create an override of it (the original files will stay intact)?</charactereditor.existingcharacterfoundoverrideverification>
     <charactereditor.existingcharacterfound>An existing character with the same name was found.</charactereditor.existingcharacterfound>
     <charactereditor.modespanel>编辑</charactereditor.modespanel>
-    <charactereditor.fileeditpanel>Files</charactereditor.fileeditpanel>
+    <charactereditor.fileeditpanel>文件</charactereditor.fileeditpanel>
     <charactereditor.optionspanel>选项</charactereditor.optionspanel>
     <charactereditor.characterpanel>角色</charactereditor.characterpanel>
     <charactereditor.toolspanel>工具</charactereditor.toolspanel>
@@ -280,7 +280,7 @@
     <charactereditor.addbloodemitter>Add Blood Emitter</charactereditor.addbloodemitter>
     <charactereditor.addgibemitter>Add Gib Emitter</charactereditor.addgibemitter>
     <charactereditor.adddamageemitter>Add Damage Emitter</charactereditor.adddamageemitter>
-    <charactereditor.addsound>Add Sound</charactereditor.addsound>
+    <charactereditor.addsound>添加音效</charactereditor.addsound>
     <charactereditor.addlightsource>添加光源</charactereditor.addlightsource>
     <charactereditor.addattack>Add Attack</charactereditor.addattack>
     <charactereditor.addaffliction>添加苦痛</charactereditor.addaffliction>
@@ -289,7 +289,7 @@
     <charactereditor.addinventoryitem>Add Inventory Item</charactereditor.addinventoryitem>
     <charactereditor.selected>已选定</charactereditor.selected>
     <charactereditor.duplicatelimb>冗余肢体</charactereditor.duplicatelimb>
-    <charactereditor.deleteselected>Delete Selected</charactereditor.deleteselected>
+    <charactereditor.deleteselected>移除所选</charactereditor.deleteselected>
     <charactereditor.createjoint>创建关节</charactereditor.createjoint>
     <charactereditor.createlimb>创建肢体</charactereditor.createlimb>
     <charactereditor.drawlimbonspritesheet>Draw the limb on the spritesheet</charactereditor.drawlimbonspritesheet>
@@ -997,103 +997,103 @@
     <entityname.airlocklabel>Airlock Label</entityname.airlocklabel>
     <entityname.cabinslabel>Cabins Label</entityname.cabinslabel>
     <entityname.medicallabel>Medical Label</entityname.medicallabel>
-    <entityname.arrowup>Arrow Up</entityname.arrowup>
-    <entityname.arrowdown>Arrow Down</entityname.arrowdown>
-    <entityname.arrowleft>Arrow Left</entityname.arrowleft>
-    <entityname.arrowright>Arrow Right</entityname.arrowright>
-    <entityname.labelslettera>Label Letter A</entityname.labelslettera>
-    <entityname.labelsletterb>Label Letter B</entityname.labelsletterb>
-    <entityname.labelsletterc>Label Letter C</entityname.labelsletterc>
-    <entityname.labelsletterd>Label Letter D</entityname.labelsletterd>
-    <entityname.labelslettere>Label Letter E</entityname.labelslettere>
-    <entityname.labelsletterf>Label Letter F</entityname.labelsletterf>
-    <entityname.labelsletterg>Label Letter G</entityname.labelsletterg>
-    <entityname.labelsletterh>Label Letter H</entityname.labelsletterh>
-    <entityname.labelsletteri>Label Letter I</entityname.labelsletteri>
-    <entityname.labelsletterj>Label Letter J</entityname.labelsletterj>
-    <entityname.labelsletterk>Label Letter K</entityname.labelsletterk>
-    <entityname.labelsletterl>Label Letter L</entityname.labelsletterl>
-    <entityname.labelsletterm>Label Letter M</entityname.labelsletterm>
-    <entityname.labelslettern>Label Letter N</entityname.labelslettern>
-    <entityname.labelslettero>Label Letter O</entityname.labelslettero>
-    <entityname.labelsletterp>Label Letter P</entityname.labelsletterp>
-    <entityname.labelsletterq>Label Letter Q</entityname.labelsletterq>
-    <entityname.labelsletterr>Label Letter R</entityname.labelsletterr>
-    <entityname.labelsletters>Label Letter S</entityname.labelsletters>
-    <entityname.labelslettert>Label Letter T</entityname.labelslettert>
-    <entityname.labelsletteru>Label Letter U</entityname.labelsletteru>
-    <entityname.labelsletterv>Label Letter V</entityname.labelsletterv>
-    <entityname.labelsletterw>Label Letter W</entityname.labelsletterw>
-    <entityname.labelsletterx>Label Letter X</entityname.labelsletterx>
-    <entityname.labelslettery>Label Letter Y</entityname.labelslettery>
-    <entityname.labelsletterz>Label Letter Z</entityname.labelsletterz>
-    <entityname.labelsnumber0>Label Number 0</entityname.labelsnumber0>
-    <entityname.labelsnumber1>Label Number 1</entityname.labelsnumber1>
-    <entityname.labelsnumber2>Label Number 2</entityname.labelsnumber2>
-    <entityname.labelsnumber3>Label Number 3</entityname.labelsnumber3>
-    <entityname.labelsnumber4>Label Number 4</entityname.labelsnumber4>
-    <entityname.labelsnumber5>Label Number 5</entityname.labelsnumber5>
-    <entityname.labelsnumber6>Label Number 6</entityname.labelsnumber6>
-    <entityname.labelsnumber7>Label Number 7</entityname.labelsnumber7>
-    <entityname.labelsnumber8>Label Number 8</entityname.labelsnumber8>
-    <entityname.labelsnumber9>Label Number 9</entityname.labelsnumber9>
-    <entityname.labelscaptureitlettera>Label Letter A Rough</entityname.labelscaptureitlettera>
-    <entityname.labelscaptureitletterb>Label Letter B Rough</entityname.labelscaptureitletterb>
-    <entityname.labelscaptureitletterc>Label Letter C Rough</entityname.labelscaptureitletterc>
-    <entityname.labelscaptureitletterd>Label Letter D Rough</entityname.labelscaptureitletterd>
-    <entityname.labelscaptureitlettere>Label Letter E Rough</entityname.labelscaptureitlettere>
-    <entityname.labelscaptureitletterf>Label Letter F Rough</entityname.labelscaptureitletterf>
-    <entityname.labelscaptureitletterg>Label Letter G Rough</entityname.labelscaptureitletterg>
-    <entityname.labelscaptureitletterh>Label Letter H Rough</entityname.labelscaptureitletterh>
-    <entityname.labelscaptureitletteri>Label Letter I Rough</entityname.labelscaptureitletteri>
-    <entityname.labelscaptureitletterj>Label Letter J Rough</entityname.labelscaptureitletterj>
-    <entityname.labelscaptureitletterk>Label Letter K Rough</entityname.labelscaptureitletterk>
-    <entityname.labelscaptureitletterl>Label Letter L Rough</entityname.labelscaptureitletterl>
-    <entityname.labelscaptureitletterm>Label Letter M Rough</entityname.labelscaptureitletterm>
-    <entityname.labelscaptureitlettern>Label Letter N Rough</entityname.labelscaptureitlettern>
-    <entityname.labelscaptureitlettero>Label Letter O Rough</entityname.labelscaptureitlettero>
-    <entityname.labelscaptureitletterp>Label Letter P Rough</entityname.labelscaptureitletterp>
-    <entityname.labelscaptureitletterq>Label Letter Q Rough</entityname.labelscaptureitletterq>
-    <entityname.labelscaptureitletterr>Label Letter R Rough</entityname.labelscaptureitletterr>
-    <entityname.labelscaptureitletters>Label Letter S Rough</entityname.labelscaptureitletters>
-    <entityname.labelscaptureitlettert>Label Letter T Rough</entityname.labelscaptureitlettert>
-    <entityname.labelscaptureitletteru>Label Letter U Rough</entityname.labelscaptureitletteru>
-    <entityname.labelscaptureitletterv>Label Letter V Rough</entityname.labelscaptureitletterv>
-    <entityname.labelscaptureitletterw>Label Letter W Rough</entityname.labelscaptureitletterw>
-    <entityname.labelscaptureitletterx>Label Letter X Rough</entityname.labelscaptureitletterx>
-    <entityname.labelscaptureitlettery>Label Letter Y Rough</entityname.labelscaptureitlettery>
-    <entityname.labelscaptureitletterz>Label Letter Z Rough</entityname.labelscaptureitletterz>
-    <entityname.labelscaptureitnumber0>Label Number 0 Rough</entityname.labelscaptureitnumber0>
-    <entityname.labelscaptureitnumber1>Label Number 1 Rough</entityname.labelscaptureitnumber1>
-    <entityname.labelscaptureitnumber2>Label Number 2 Rough</entityname.labelscaptureitnumber2>
-    <entityname.labelscaptureitnumber3>Label Number 3 Rough</entityname.labelscaptureitnumber3>
-    <entityname.labelscaptureitnumber4>Label Number 4 Rough</entityname.labelscaptureitnumber4>
-    <entityname.labelscaptureitnumber5>Label Number 5 Rough</entityname.labelscaptureitnumber5>
-    <entityname.labelscaptureitnumber6>Label Number 6 Rough</entityname.labelscaptureitnumber6>
-    <entityname.labelscaptureitnumber7>Label Number 7 Rough</entityname.labelscaptureitnumber7>
-    <entityname.labelscaptureitnumber8>Label Number 8 Rough</entityname.labelscaptureitnumber8>
-    <entityname.labelscaptureitnumber9>Label Number 9 Rough</entityname.labelscaptureitnumber9>
-    <entityname.labelsiconairlock>Label Icon Airlock</entityname.labelsiconairlock>
-    <entityname.labelsiconballast>Label Icon Ballast</entityname.labelsiconballast>
-    <entityname.labelsiconcargo>Label Icon Cargo</entityname.labelsiconcargo>
-    <entityname.labelsicondiving>Label Icon Diving</entityname.labelsicondiving>
-    <entityname.labelsicondocking>Label Icon Docking</entityname.labelsicondocking>
-    <entityname.labelsiconelectricity>Label Icon Electricity</entityname.labelsiconelectricity>
-    <entityname.labelsiconengine>Label Icon Engine</entityname.labelsiconengine>
-    <entityname.labelsiconengineering>Label Icon Engineering</entityname.labelsiconengineering>
-    <entityname.labelsiconexit>Label Icon Exit</entityname.labelsiconexit>
-    <entityname.labelsiconmedical>Label Icon Medical</entityname.labelsiconmedical>
-    <entityname.labelsiconreactor>Label Icon Reactor</entityname.labelsiconreactor>
-    <entityname.labelsiconsecurity>Label Icon Security</entityname.labelsiconsecurity>
-    <entityname.labelsiconsteering>Label Icon Steering</entityname.labelsiconsteering>
-    <entityname.labelsiconweapons>Label Icon Weapons</entityname.labelsiconweapons>
-    <entityname.labelsarroverticala>Label Arrow Vertical A</entityname.labelsarroverticala>
-    <entityname.labelsarroverticalb>Label Arrow Vertical B</entityname.labelsarroverticalb>
-    <entityname.labelsarrowdiagonala>Label Arrow Diagonal A</entityname.labelsarrowdiagonala>
-    <entityname.labelsarrowdiagonalb>Label Arrow Diagonal B</entityname.labelsarrowdiagonalb>
-    <entityname.labelsarrowhorizontala>Label Arrow Horizontal A</entityname.labelsarrowhorizontala>
-    <entityname.labelsarrowhorizontalb>Label Arrow Horizontal B</entityname.labelsarrowhorizontalb>
-    <entityname.decorativelabel>A decorative label.</entityname.decorativelabel>
+    <entityname.arrowup>箭头 上</entityname.arrowup>
+    <entityname.arrowdown>箭头 下</entityname.arrowdown>
+    <entityname.arrowleft>箭头 左</entityname.arrowleft>
+    <entityname.arrowright>箭头 右</entityname.arrowright>
+    <entityname.labelslettera>标签 字母 A</entityname.labelslettera>
+    <entityname.labelsletterb>标签 字母 B</entityname.labelsletterb>
+    <entityname.labelsletterc>标签 字母 C</entityname.labelsletterc>
+    <entityname.labelsletterd>标签 字母 D</entityname.labelsletterd>
+    <entityname.labelslettere>标签 字母 E</entityname.labelslettere>
+    <entityname.labelsletterf>标签 字母 F</entityname.labelsletterf>
+    <entityname.labelsletterg>标签 字母 G</entityname.labelsletterg>
+    <entityname.labelsletterh>标签 字母 H</entityname.labelsletterh>
+    <entityname.labelsletteri>标签 字母 I</entityname.labelsletteri>
+    <entityname.labelsletterj>标签 字母 J</entityname.labelsletterj>
+    <entityname.labelsletterk>标签 字母 K</entityname.labelsletterk>
+    <entityname.labelsletterl>标签 字母 L</entityname.labelsletterl>
+    <entityname.labelsletterm>标签 字母 M</entityname.labelsletterm>
+    <entityname.labelslettern>标签 字母 N</entityname.labelslettern>
+    <entityname.labelslettero>标签 字母 O</entityname.labelslettero>
+    <entityname.labelsletterp>标签 字母 P</entityname.labelsletterp>
+    <entityname.labelsletterq>标签 字母 Q</entityname.labelsletterq>
+    <entityname.labelsletterr>标签 字母 R</entityname.labelsletterr>
+    <entityname.labelsletters>标签 字母 S</entityname.labelsletters>
+    <entityname.labelslettert>标签 字母 T</entityname.labelslettert>
+    <entityname.labelsletteru>标签 字母 U</entityname.labelsletteru>
+    <entityname.labelsletterv>标签 字母 V</entityname.labelsletterv>
+    <entityname.labelsletterw>标签 字母 W</entityname.labelsletterw>
+    <entityname.labelsletterx>标签 字母 X</entityname.labelsletterx>
+    <entityname.labelslettery>标签 字母 Y</entityname.labelslettery>
+    <entityname.labelsletterz>标签 字母 Z</entityname.labelsletterz>
+    <entityname.labelsnumber0>标签 数字 0</entityname.labelsnumber0>
+    <entityname.labelsnumber1>标签 数字 1</entityname.labelsnumber1>
+    <entityname.labelsnumber2>标签 数字 2</entityname.labelsnumber2>
+    <entityname.labelsnumber3>标签 数字 3</entityname.labelsnumber3>
+    <entityname.labelsnumber4>标签 数字 4</entityname.labelsnumber4>
+    <entityname.labelsnumber5>标签 数字 5</entityname.labelsnumber5>
+    <entityname.labelsnumber6>标签 数字 6</entityname.labelsnumber6>
+    <entityname.labelsnumber7>标签 数字 7</entityname.labelsnumber7>
+    <entityname.labelsnumber8>标签 数字 8</entityname.labelsnumber8>
+    <entityname.labelsnumber9>标签 数字 9</entityname.labelsnumber9>
+    <entityname.labelscaptureitlettera>标签 字母 A Rough</entityname.labelscaptureitlettera>
+    <entityname.labelscaptureitletterb>标签 字母 B Rough</entityname.labelscaptureitletterb>
+    <entityname.labelscaptureitletterc>标签 字母 C Rough</entityname.labelscaptureitletterc>
+    <entityname.labelscaptureitletterd>标签 字母 D Rough</entityname.labelscaptureitletterd>
+    <entityname.labelscaptureitlettere>标签 字母 E Rough</entityname.labelscaptureitlettere>
+    <entityname.labelscaptureitletterf>标签 字母 F Rough</entityname.labelscaptureitletterf>
+    <entityname.labelscaptureitletterg>标签 字母 G Rough</entityname.labelscaptureitletterg>
+    <entityname.labelscaptureitletterh>标签 字母 H Rough</entityname.labelscaptureitletterh>
+    <entityname.labelscaptureitletteri>标签 字母 I Rough</entityname.labelscaptureitletteri>
+    <entityname.labelscaptureitletterj>标签 字母 J Rough</entityname.labelscaptureitletterj>
+    <entityname.labelscaptureitletterk>标签 字母 K Rough</entityname.labelscaptureitletterk>
+    <entityname.labelscaptureitletterl>标签 字母 L Rough</entityname.labelscaptureitletterl>
+    <entityname.labelscaptureitletterm>标签 字母 M Rough</entityname.labelscaptureitletterm>
+    <entityname.labelscaptureitlettern>标签 字母 N Rough</entityname.labelscaptureitlettern>
+    <entityname.labelscaptureitlettero>标签 字母 O Rough</entityname.labelscaptureitlettero>
+    <entityname.labelscaptureitletterp>标签 字母 P Rough</entityname.labelscaptureitletterp>
+    <entityname.labelscaptureitletterq>标签 字母 Q Rough</entityname.labelscaptureitletterq>
+    <entityname.labelscaptureitletterr>标签 字母 R Rough</entityname.labelscaptureitletterr>
+    <entityname.labelscaptureitletters>标签 字母 S Rough</entityname.labelscaptureitletters>
+    <entityname.labelscaptureitlettert>标签 字母 T Rough</entityname.labelscaptureitlettert>
+    <entityname.labelscaptureitletteru>标签 字母 U Rough</entityname.labelscaptureitletteru>
+    <entityname.labelscaptureitletterv>标签 字母 V Rough</entityname.labelscaptureitletterv>
+    <entityname.labelscaptureitletterw>标签 字母 W Rough</entityname.labelscaptureitletterw>
+    <entityname.labelscaptureitletterx>标签 字母 X Rough</entityname.labelscaptureitletterx>
+    <entityname.labelscaptureitlettery>标签 字母 Y Rough</entityname.labelscaptureitlettery>
+    <entityname.labelscaptureitletterz>标签 字母 Z Rough</entityname.labelscaptureitletterz>
+    <entityname.labelscaptureitnumber0>标签 数字 0 Rough</entityname.labelscaptureitnumber0>
+    <entityname.labelscaptureitnumber1>标签 数字 1 Rough</entityname.labelscaptureitnumber1>
+    <entityname.labelscaptureitnumber2>标签 数字 2 Rough</entityname.labelscaptureitnumber2>
+    <entityname.labelscaptureitnumber3>标签 数字 3 Rough</entityname.labelscaptureitnumber3>
+    <entityname.labelscaptureitnumber4>标签 数字 4 Rough</entityname.labelscaptureitnumber4>
+    <entityname.labelscaptureitnumber5>标签 数字 5 Rough</entityname.labelscaptureitnumber5>
+    <entityname.labelscaptureitnumber6>标签 数字 6 Rough</entityname.labelscaptureitnumber6>
+    <entityname.labelscaptureitnumber7>标签 数字 7 Rough</entityname.labelscaptureitnumber7>
+    <entityname.labelscaptureitnumber8>标签 数字 8 Rough</entityname.labelscaptureitnumber8>
+    <entityname.labelscaptureitnumber9>标签 数字 9 Rough</entityname.labelscaptureitnumber9>
+    <entityname.labelsiconairlock>标签 图标 Airlock</entityname.labelsiconairlock>
+    <entityname.labelsiconballast>标签 图标 Ballast</entityname.labelsiconballast>
+    <entityname.labelsiconcargo>标签 图标 Cargo</entityname.labelsiconcargo>
+    <entityname.labelsicondiving>标签 图标 Diving</entityname.labelsicondiving>
+    <entityname.labelsicondocking>标签 图标 Docking</entityname.labelsicondocking>
+    <entityname.labelsiconelectricity>标签 图标 Electricity</entityname.labelsiconelectricity>
+    <entityname.labelsiconengine>标签 图标 Engine</entityname.labelsiconengine>
+    <entityname.labelsiconengineering>标签 图标 Engineering</entityname.labelsiconengineering>
+    <entityname.labelsiconexit>标签 图标 Exit</entityname.labelsiconexit>
+    <entityname.labelsiconmedical>标签 图标 Medical</entityname.labelsiconmedical>
+    <entityname.labelsiconreactor>标签 图标 Reactor</entityname.labelsiconreactor>
+    <entityname.labelsiconsecurity>标签 图标 Security</entityname.labelsiconsecurity>
+    <entityname.labelsiconsteering>标签 图标 Steering</entityname.labelsiconsteering>
+    <entityname.labelsiconweapons>标签 图标 Weapons</entityname.labelsiconweapons>
+    <entityname.labelsarroverticala>标签 箭头 Vertical A</entityname.labelsarroverticala>
+    <entityname.labelsarroverticalb>标签 箭头 Vertical B</entityname.labelsarroverticalb>
+    <entityname.labelsarrowdiagonala>标签 箭头 Diagonal A</entityname.labelsarrowdiagonala>
+    <entityname.labelsarrowdiagonalb>标签 箭头 Diagonal B</entityname.labelsarrowdiagonalb>
+    <entityname.labelsarrowhorizontala>标签 箭头 Horizontal A</entityname.labelsarrowhorizontala>
+    <entityname.labelsarrowhorizontalb>标签 箭头 Horizontal B</entityname.labelsarrowhorizontalb>
+    <entityname.decorativelabel>装饰性标签。</entityname.decorativelabel>
 
     <entityname.cableholderhorizontal>Cable Holder Horizontal</entityname.cableholderhorizontal>
     <entityname.cableholdervertical>Cable Holder Vertical</entityname.cableholdervertical>
@@ -1110,9 +1110,9 @@
     <entityname.slopeback>Slope Backwards</entityname.slopeback>
     <entitydescription.decorativepiece>A decorative piece.</entitydescription.decorativepiece>
 
-    <entityname.stairs>Stairs</entityname.stairs>
-    <entityname.stairsshort>Stairs Short</entityname.stairsshort>
-    <entityname.stairslong>Stairs Long</entityname.stairslong>
+    <entityname.stairs>楼梯</entityname.stairs>
+    <entityname.stairsshort>楼梯 短</entityname.stairsshort>
+    <entityname.stairslong>楼梯 长</entityname.stairslong>
 
     <entityname.ruinwallhorizontal>Ruin Wall Horizontal</entityname.ruinwallhorizontal>
     <entityname.ruinwallvertical>Ruin Wall Vertical</entityname.ruinwallvertical>
@@ -1174,11 +1174,11 @@
     <entityname.opdeco_debris2>Mining Debris 2</entityname.opdeco_debris2>
     <entityname.opdeco_debris3>Mining Debris 3</entityname.opdeco_debris3>
     <entityname.opdeco_construction_sign>Construction Sign</entityname.opdeco_construction_sign>
-    <entityname.opdeco_box1>Box 1</entityname.opdeco_box1>
-    <entityname.opdeco_box2>Box 2</entityname.opdeco_box2>
-    <entityname.opdeco_box3>Box 3</entityname.opdeco_box3>
-    <entityname.opdeco_box4>Box 4</entityname.opdeco_box4>
-    <entityname.opdeco_box5>Box 5</entityname.opdeco_box5>
+    <entityname.opdeco_box1>箱子 1</entityname.opdeco_box1>
+    <entityname.opdeco_box2>箱子 2</entityname.opdeco_box2>
+    <entityname.opdeco_box3>箱子 3</entityname.opdeco_box3>
+    <entityname.opdeco_box4>箱子 4</entityname.opdeco_box4>
+    <entityname.opdeco_box5>箱子 5</entityname.opdeco_box5>
     <entityname.heavydoor>Heavy Door</entityname.heavydoor>
     <entityname.opdeco_door>Background Door</entityname.opdeco_door>
     <entitydescription.decodoor>A decorative door.</entitydescription.decodoor>
@@ -1260,7 +1260,7 @@
     <entityname.opdeco_instructionsign>指示标志</entityname.opdeco_instructionsign>
     <entityname.opdeco_propagandaposter>宣传横幅</entityname.opdeco_propagandaposter>
     <entityname.crackedwall1>龟裂墙面贴花</entityname.crackedwall1>
-    <entityname.graffiti1>Graffiti</entityname.graffiti1>
+    <entityname.graffiti1>涂鸦</entityname.graffiti1>
     <entityname.icewall>Tunnel Ice Wall</entityname.icewall>
     <entityname.icewallcracked>Tunnel Ice Wall Cracked</entityname.icewallcracked>
     <entityname.icewall90>Tunnel Ice Wall 90 </entityname.icewall90>
@@ -1288,13 +1288,13 @@
     <entityname.decobarrier1>Protective barrier</entityname.decobarrier1>
     <entityname.opbg_jail>White Prison</entityname.opbg_jail>
     <entityname.opbg_rock>Rock Background</entityname.opbg_rock>
-    <entityname.opdeco_prisonbed>Prison Bed</entityname.opdeco_prisonbed>
+    <entityname.opdeco_prisonbed>监狱床</entityname.opdeco_prisonbed>
     <entityname.shop_decoration>Shop Decoration</entityname.shop_decoration>
-    <entityname.op_circusposter.png>Poster</entityname.op_circusposter.png>
-    <entityname.op_plaque.png>Plaque</entityname.op_plaque.png>
+    <entityname.op_circusposter.png>海报</entityname.op_circusposter.png>
+    <entityname.op_plaque.png>牌匾</entityname.op_plaque.png>
     <entityname.wreckdecal>Wreck Decal</entityname.wreckdecal>
     <entityname.engineerequipment>Engineer Equipment</entityname.engineerequipment>
-    <entityname.Jaildoor>Jail Door</entityname.Jaildoor>
-    <entityname.shelf>Shelf</entityname.shelf>
+    <entityname.Jaildoor>监狱门</entityname.Jaildoor>
+    <entityname.shelf>架子</entityname.shelf>
 
 </infotexts>

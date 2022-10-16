@@ -86,7 +86,7 @@
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true" />
       <override language="Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <!-- 更改处 -->
-      <override language="CHS2" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
+      <override language="Simplified Chinese Fixes" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <Size maxresolution="1024,768" size="11" />
       <Size maxresolution="1280,800" size="12" />
       <Size maxresolution="1920,1080" size="14" />
@@ -98,14 +98,14 @@
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true" />
       <override language="Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <!-- 更改处 -->
-      <override language="CHS2" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
+      <override language="Simplified Chinese Fixes" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <Size size="12" />
     </UnscaledSmallFont>
     <SmallFont file="Content/Fonts/Exo2-SemiBold.otf">
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Medium.otf" dynamicloading="true" iscjk="true" />
       <override language="Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <!-- 更改处 -->
-      <override language="CHS2" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
+      <override language="Simplified Chinese Fixes" file="Content/Fonts/NotoSans/NotoSansCJKsc-Medium.otf" dynamicloading="true" iscjk="true" />
       <Size maxresolution="1024,768" size="9" />
       <Size maxresolution="1280,800" size="10" />
       <Size maxresolution="1920,1080" size="12" />
@@ -136,7 +136,7 @@
         <Size size="36" />
       </override>
       <!-- 更改处 -->
-      <override language="CHS2" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true">
+      <override language="Simplified Chinese Fixes" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true">
         <Size maxresolution="1024,768" size="20" />
         <Size maxresolution="1280,800" size="22" />
         <Size maxresolution="1920,1080" size="25" />
@@ -153,7 +153,7 @@
       <override language="Traditional Chinese" file="Content/Fonts/NotoSans/NotoSansTC-Bold.otf" dynamicloading="true" iscjk="true" />
       <override language="Simplified Chinese,Japanese,Korean" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true" />
       <!-- 更改处 -->
-      <override language="CHS2" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true" />
+      <override language="Simplified Chinese Fixes" file="Content/Fonts/NotoSans/NotoSansCJKsc-Bold.otf" dynamicloading="true" iscjk="true" />
       <Size maxresolution="1024,768" size="11" />
       <Size maxresolution="1280,800" size="13" />
       <Size maxresolution="1920,1080" size="16" />
@@ -193,7 +193,7 @@
         <override language="Traditional Chinese" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343" />
         <override language="Simplified Chinese" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343" />
         <!-- 更改处 -->
-        <override language="CHS2" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343" />
+        <override language="Simplified Chinese Fixes" texture="Content/UI/titleText.png" sourcerect="0,176,1024,343" />
       </Sprite>
     </TitleText>
     <InnerGlow color="255,255,255,204" hovercolor="255,255,255,204" selectedcolor="255,255,255,204">
