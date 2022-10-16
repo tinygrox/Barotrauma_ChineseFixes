@@ -1042,15 +1042,15 @@
 		</Conversation>
 	</Conversation>
 
-	<Conversation line="你好啊朋友！ 我们这里的访客可不多。" speaker="0" flags="EnterOutpost,OutpostNPC" />
+	<Conversation line="真高兴能看到新面孔！ 我们这里的访客可不多。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="哦，我们又有访客了。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="你们好！" speaker="0" flags="EnterOutpost,OutpostNPC" />
-	<Conversation line="你好啊！你看起来像是经历了一次艰难的旅行。" speaker="0" flags="EnterOutpost,OutpostNPC" />
+	<Conversation line="你好啊！你们看起来累坏了。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="你好! 欢迎光临寒舍。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="你们这些人看起来需要休息一下。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="我以前没有见过你们啊。" speaker="0" flags="EnterOutpost,OutpostNPC" />
 	<Conversation line="你们的潜水艇真漂亮!" speaker="0" flags="EnterOutpost,OutpostNPC" />
-	<Conversation line="我希望你们不打算在这里待很久。这下面的问题已经够多了。" speaker="0" flags="EnterOutpost, OutpostNPC" speakertags="rude" />
+	<Conversation line="我希望你们不打算在这里待太久。这里的麻烦已经够多了。" speaker="0" flags="EnterOutpost, OutpostNPC" speakertags="rude" />
 	<Conversation line="你们好。我希望你们不要造成任何麻烦。" speaker="0" flags="EnterOutpost,OutpostNPC" speakertags="fearful" />
 	<Conversation line="我会盯着你的。" speaker="0" flags="EnterOutpost, OutpostNPC" allowedjobs="securityofficer" />
 	<Conversation line="别搞事。" speaker="0" flags="EnterOutpost, OutpostNPC" allowedjobs="securityofficer" />

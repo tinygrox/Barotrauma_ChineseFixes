@@ -852,7 +852,7 @@
     <character.orangeboy>橙仔</character.orangeboy>
     <character.psilotoad>巨蟾</character.psilotoad>
     <character.cthulhu>克苏鲁</character.cthulhu>
-    <character.hammerheadspawn>锤头鲨卵</character.hammerheadspawn>
+    <character.hammerheadspawn>锤头鲨幼体</character.hammerheadspawn>
     <character.spineling>脊刺</character.spineling>
     <ballastflora>压载植物群</ballastflora>
     <character.crawlerbroodmother>爬行者巢母</character.crawlerbroodmother>
@@ -888,8 +888,8 @@
     <savenameinuseheader>存档名称已被占用</savenameinuseheader>
     <savenameinusetext>请重命名存档</savenameinusetext>
     <savename>存档名称</savename>
-    <savefile.defaultname>保存</savefile.defaultname>
-    <lastsaved>最近存档</lastsaved>
+    <savefile.defaultname>默认存档</savefile.defaultname>
+    <lastsaved>最近保存</lastsaved>
     <mapseed>地图种子</mapseed>
     <startcampaignbutton>潜入</startcampaignbutton>
     <campaignenteroutpostprompt>你想进入[locationname]吗？</campaignenteroutpostprompt>
@@ -2285,7 +2285,7 @@
     <entityname.safetyharness>安全背带</entityname.safetyharness>
     <entitydescription.safetyharness>一种特殊的安全带，用于减少木卫二潜艇上发生的工伤。该安全带还能减弱水流冲刷的影响，在船体破裂的情况下稳定使用者的身形。</entitydescription.safetyharness>
     <entityname.pucs>PUCS防护服</entityname.pucs>
-    <entitydescription.pucs>危险环境适应防护服，或简称PUCS，赋予穿着者抵抗辐射和火灾等环境危害的能力。内置的空气过滤系统使防护服在可能的情况下利用船体内的氧气，而内置的计算机可以为使用者注射放在防护服内的药物。</entitydescription.pucs>
+    <entitydescription.pucs>危险环境适应防护服（Protective Universal Crisis Suit），或简称PUCS，赋予穿着者抵抗辐射和火灾等环境危害的能力。内置的空气过滤系统使防护服在可能的情况下利用船体内的氧气，而内置的计算机可以为使用者注射放在防护服内的药物。</entitydescription.pucs>
     <entityname.cigar>雪茄</entityname.cigar>
     <entitydescription.cigar>潜艇上生活的人们在精神上是很疲惫的，但也许这支精致的雪茄可以帮助你舒缓一下神经。</entitydescription.cigar>
     <entityname.stungundartfulgurium>雷素电击枪飞镖</entityname.stungundartfulgurium>
@@ -2924,8 +2924,8 @@
     <entitydescription.aliendoor>竖直方向的异星遗迹入口。</entitydescription.aliendoor>
     <entityname.alienmotionsensor>异星运动传感器</entityname.alienmotionsensor>
     <entitydescription.alienmotionsensor>外星人使用的运动传感器。</entitydescription.alienmotionsensor>
-    <entityname.artifactholder>遗物柜</entityname.artifactholder>
-    <entitydescription.artifactholder>用于保存关键遗物的容器。</entitydescription.artifactholder>
+    <entityname.artifactholder>异星遗物柜</entityname.artifactholder>
+    <entitydescription.artifactholder>用于保存关键异星遗物的容器。</entitydescription.artifactholder>
     <entityname.aliengenerator>异星发电机</entityname.aliengenerator>
     <entitydescription.aliengenerator>能将异星动力电池转化成可利用的电能。</entitydescription.aliengenerator>
     <entityname.alienpowercell>异星电池</entityname.alienpowercell>
@@ -3021,7 +3021,7 @@
     <entitydescription.pipetobacco>放入烟斗，细细品味。</entitydescription.pipetobacco>
 
     <!-- Room names -->
-    <roomname.reactorroom>反应堆机房</roomname.reactorroom>
+    <roomname.reactorroom>反应堆舱</roomname.reactorroom>
     <roomname.engineroom>引擎舱</roomname.engineroom>
     <roomname.commandroom>指挥室</roomname.commandroom>
     <roomname.airlock>气闸</roomname.airlock>
@@ -3124,7 +3124,7 @@
     <label.engineering>工程站</label.engineering>
     <label.ballast>压载舱</label.ballast>
     <label.reactor>反应堆</label.reactor>
-    <label.armory>军火库</label.armory>
+    <label.armory>军械库</label.armory>
     <label.batteryoutput>蓄电池输出</label.batteryoutput>
     <label.onoff>开/关</label.onoff>
     <label.bilge>舱底</label.bilge>
@@ -4283,13 +4283,13 @@
     <jobname.vipsecurityofficer>保镖</jobname.vipsecurityofficer>
     <jobdescription.captain1>木卫二深洋中的航行老手，可以让船员忠于使命，也可以武力镇压不应之辈。</jobdescription.captain1>
     <jobdescription.captain2>叛逆者船长是当权者的眼中钉。他们激进而极富侵略性的行动破坏了联盟中脆弱的平衡。</jobdescription.captain2>
-    <jobdescription.captain3>隶属于联盟的船长往往需要循规蹈矩，但他们总能想出新的办法追捕敌人。</jobdescription.captain3>
+    <jobdescription.captain3>隶属于联盟的船长往往被教育需要墨守成规，但他们总能想出新的办法追捕敌人。</jobdescription.captain3>
     <jobdescription.engineer1>核能工程师负责管理潜艇的核反应堆。为避免辐射伤害，他们在作业时必须穿上辐射防护服。</jobdescription.engineer1>
     <jobdescription.engineer2>潜艇中错综复杂的电力系统需要长期维护。电气工程师就是那些冒着被电击的风险，做更换保险丝、接通设备电源等麻烦事的人。</jobdescription.engineer2>
-    <jobdescription.mechanic1>机械师的主要工作是检修故障，他们在作业时必须装备齐整。</jobdescription.mechanic1>
-    <jobdescription.mechanic2>机械师擅长将原始的材料转换为艺术品和补给品。</jobdescription.mechanic2>
+    <jobdescription.mechanic1>焊工的主要工作是检修故障，他们在作业时必须装备齐整。</jobdescription.mechanic1>
+    <jobdescription.mechanic2>装配工也属于是机修工工作的一部分，将原材料变成艺术品（和物资用品）。</jobdescription.mechanic2>
     <jobdescription.securityofficer1>突击队是一种的特殊的安全官。他们只有一个目的：消灭一切来犯之敌。</jobdescription.securityofficer1>
-    <jobdescription.securityofficer2>这些维和人员会不惜一切代价维护和平。他们可以使用致命武力，但最好不要这样。</jobdescription.securityofficer2>
+    <jobdescription.securityofficer2>这些维和人员会不惜一切代价维护和平。他们被授权可以使用致命武力，但最好不要到达那种地步。</jobdescription.securityofficer2>
     <jobdescription.securityofficer3>久经训练的潜艇炮手不仅要能够进行精确的电磁枪和轨道炮射击，还要能进行维护工作。</jobdescription.securityofficer3>
     <jobdescription.medicaldoctor1>实施战场急救的人员需要身入险地，建议给他们配备有防护能力、又不影响其行动的装备，以低于怪物的爪牙与无情的子弹。</jobdescription.medicaldoctor1>
     <jobdescription.medicaldoctor2>医生会尽其所能地治疗那些在航行过程中受伤的船员。</jobdescription.medicaldoctor2>
@@ -4401,7 +4401,7 @@
     <tutorial.medicaldoctordescription>武器、引擎和反应堆并不是潜艇运行的关键——只有人才是。炮手能否活着开出炮，船长能否活着驾驶这艘潜艇，这都取决于你。记住，你的工作不仅仅是保障船员的身体健康，我们是在深沉幽暗的冰洋之下，挤在又破又小的潜艇中夹缝求生，所以当熄灯后你的“兄弟们”进入梦乡时，那些来自深海中的各种幽深黑暗的玩意会爬进他们的大脑，慢慢侵蚀掉他们的灵魂。是让他们保持清醒地活着，还是让他们死的像条狗，都取决于你。</tutorial.medicaldoctordescription>
     <tutorial.medicaldoctorresponsibilities>职责\n-急救\n-制毒与解毒</tutorial.medicaldoctorresponsibilities>
     <tutorial.captaintitle>舰长——富有远见卓识的海军将领，航海家，天才（大概是）</tutorial.captaintitle>
-    <tutorial.captaindescription>亚哈船长曾经说过，“地狱的观念本来就起源于一个难以消化的苹果馅饼。”你知道那是什么意思吗？不。船员认为你是深不可测的天才吗？当然。你是地图，是指南针，是胸怀冰洋的人。指引方向，审慎抉择，记住，你与前哨站的领导人之间仅有几步之遥，如果需要牺牲几个人才能前进的话——不也挺好吗？</tutorial.captaindescription>
+    <tutorial.captaindescription>亚哈船长曾经说过，“地狱就是首先由不易消化的苹果馅汤团而产生出来的一种心象”你知道那是什么意思吗？不。船员认为你是深不可测的天才吗？当然。你是地图，是指南针，是胸怀冰洋的人。指引方向，审慎抉择，记住，你与前哨站的领导人之间仅有几步之遥，如果需要牺牲几个人才能前进的话——不也挺好吗？</tutorial.captaindescription>
     <tutorial.captainresponsibilities>职责\n-驾驶潜艇\n-下达指令</tutorial.captainresponsibilities>
 
 
@@ -5403,7 +5403,7 @@
     <eventtext.unlockpatheuropanridge.o1.c1>啊，足够了，现在你们可以过去了。“	啊，足夠了，現在你們可以過去了。“</eventtext.unlockpatheuropanridge.o1.c1>
     <eventtext.unlockpatheuropanridge.o2.c1>“哦？那你就在木卫二海脊待着吧。愿意待多久都可以。”</eventtext.unlockpatheuropanridge.o2.c1>
     <eventtext.unlockpatheuropanridge.o1.nomoney>“不好意思，少于四千我可不干。你可以去多捞几艘潜艇，或者想点别的办法赚钱。”</eventtext.unlockpatheuropanridge.o1.nomoney>
-    <eventtext.unlockpathaphoticplateau.c1>“那恭喜你，这样以来你们就可以穿过海原前往渊洋了。现在这情况，没几个人能过去。我会用无线电通知他们，让你们进入渊洋。</eventtext.unlockpathaphoticplateau.c1>
+    <eventtext.unlockpathaphoticplateau.c1>“牛啊兄弟，很少人能穿过无光海原，更别说还做了如此大的贡献了。我会提前通知他们，好打开通道让你们进入渊洋。</eventtext.unlockpathaphoticplateau.c1>
     <eventtext.unlockpathaphoticplateau.c2>“很抱歉，我知道你一路来此颇为艰难，但我们不能冒险让一个不知名的舰船进入渊洋。这是为了保护你们，你懂吧。”</eventtext.unlockpathaphoticplateau.c2>
     <eventtext.unlockpathaphoticplateau.o1.c1>“当然可以，不过这并非是联盟官方的保证，我只能私底下通知守卫关照你们一下。”</eventtext.unlockpathaphoticplateau.o1.c1>
     <eventtext.unlockpathaphoticplateau.o2.c1>“如果你想退休的话，应该能在这儿买到一套不错的复式公寓。至少短时间内辐射不会影响到这里。”</eventtext.unlockpathaphoticplateau.o2.c1>
@@ -6246,7 +6246,7 @@
     <talentname.olympian>奥林匹克</talentname.olympian>
     <talentname.playingcatchup>后来居上</talentname.playingcatchup>
     <talentname.skedaddle>脚底抹油</talentname.skedaddle>
-    <talentname.crewlayabout>摸鱼船员</talentname.crewlayabout>
+    <talentname.crewlayabout>躺平船员</talentname.crewlayabout>
     <talentname.survivalpackage>道友先死</talentname.survivalpackage>
     <talentname.insurancepolicy>保险政策</talentname.insurancepolicy>
     <talentname.stillkicking>死而不僵</talentname.stillkicking>
@@ -6412,7 +6412,7 @@
     <talentdescription.scrapsavant>你可以将[scrapamount]废料精炼成异星材料。\n当你制造异星材料时，获得[experienceamount]经验。</talentdescription.scrapsavant>
     <talentdescription.scrounger>当你拆解废料时，获得[experienceamount]经验。</talentdescription.scrounger>
     <talentdescription.elbowgrease>你的近战力量和最大生命值提升机修技能的[statamount]%。</talentdescription.elbowgrease>
-    <talentdescription.miner>每次拆解矿石是，有[probability]%概率获得双倍产出。</talentdescription.miner>
+    <talentdescription.miner>每次分解矿石时，有[probability]%概率获得双倍产出。</talentdescription.miner>
     <talentdescription.tinker.fabricatoranddeconstructor>你可以对加工台和解构仪进行超频，提高其运行速度[speedincrease]%。\n你可以对加工台和解构仪进行无限次超频。</talentdescription.tinker.fabricatoranddeconstructor>
     <talentdescription.tinker.pump>你可以超频水泵，使其抽水速度提高[speedincrease]%。</talentdescription.tinker.pump>
     <talentdescription.tinker.engine>你可以超频发动机，使其运转提升[speedincrease]%。</talentdescription.tinker.engine>
@@ -6451,7 +6451,7 @@
     <talentdescription.lowhealth.regenerate>当你的生命低于[health]%时，普通伤害会缓慢自愈。</talentdescription.lowhealth.regenerate>
     <talentdescription.gainstructurerepairspeed>使用焊枪修复船体的速度提升[amount]%。</talentdescription.gainstructurerepairspeed>
     <talentdescription.gainstructurecutterdamage>用切割器对结构造成的伤害提升[amount]%。</talentdescription.gainstructurecutterdamage>
-    <talentdescription.gainoredetachspeed>用切割器分解矿石速度提升[amount]%。</talentdescription.gainoredetachspeed>
+    <talentdescription.gainoredetachspeed>用切割器分离矿石速度提升[amount]%。</talentdescription.gainoredetachspeed>
     <talentdescription.gainforcedoorsopenspeed>强行打开门的速度提高[amount]%。</talentdescription.gainforcedoorsopenspeed>
     <talentdescription.findadditionalscrap>每当你第一次打开船墟中的容器时，你有[probability]%的概率找到一个额外的废料。</talentdescription.findadditionalscrap>
     <talentdescription.gainmarksonskillpoint>获得技能点时获得[amount]马克。</talentdescription.gainmarksonskillpoint>
@@ -6471,7 +6471,7 @@
     <talentdescription.reductiontostattypeself>失去[amount]% [stattype]</talentdescription.reductiontostattypeself>
     <talentdescription.additionalresistanceself>获得[amount]% [affliction]抗性增益</talentdescription.additionalresistanceself>
     <talentdescription.gainmissionxpanditem>每当你在无船员伤亡的情况下完成任务，你将获得[amount]%额外经验以及物品[item]。</talentdescription.gainmissionxpanditem>
-    <talentdescription.depletedfueldeconstructedbyally>你或你的盟友拆解贫化燃料时，获得[amount]经验。</talentdescription.depletedfueldeconstructedbyally>
+    <talentdescription.depletedfueldeconstructedbyally>你或你的盟友分解贫化燃料时，获得[amount]经验。</talentdescription.depletedfueldeconstructedbyally>
     <talentdescription.gaindoubleskillatskill>只要你的[skillname1]技能是[skilltotal]或更高，即可获得两倍的[skillname2]技能。</talentdescription.gaindoubleskillatskill>
 
     <!-- Talent stat types -->
@@ -6625,7 +6625,7 @@
     <missionheader0.miningmission2>矿物已开采</missionheader0.miningmission2>
     <missionsonarlabel.miningmission2>矿物</missionsonarlabel.miningmission2>
     <missionname.miningmission1_abyss>为[resourcename1]潜入深渊</missionname.miningmission1_abyss>
-    <missiondescription.miningmission1_abyss>据说[location1]和[location2]之间的深渊地带存在[resourcename1]与[resourcename2]矿脉。带回[resourcequantity1]份[resourcename1]和[resourcename2]样本来证实这一说法。到时只要交出[handoverpercentage]，剩下的你可以自己留着。</missiondescription.miningmission1_abyss>
+    <missiondescription.miningmission1_abyss>据说[location1]和[location2]之间的深渊地带存在[resourcename1]矿脉。带回[resourcequantity1]份[resourcename1]的样本来证实这一说法。到时只要交出[handoverpercentage]，剩下的你可以自己留着。</missiondescription.miningmission1_abyss>
     <missionmessage0.miningmission1_abyss>你开采到了足量的[resourcename1]。将其带到前哨站以获取奖励。</missionmessage0.miningmission1_abyss>
     <missionsuccess.miningmission1_abyss>稀有[resourcename1]矿脉的储量已被成功证明。</missionsuccess.miningmission1_abyss>
     <missionheader0.miningmission1_abyss>矿物已开采</missionheader0.miningmission1_abyss>
@@ -6914,7 +6914,7 @@
     <tutorial.roles.popup.mechanic_fabrication2>分解铁矿。</tutorial.roles.popup.mechanic_fabrication2>
     <tutorial.roles.popup.mechanic_fabrication3>获取铁。</tutorial.roles.popup.mechanic_fabrication3>
     <tutorial.roles.popup.mechanic_fabrication4>制造扳手</tutorial.roles.popup.mechanic_fabrication4>
-    <tutorial.roles.mechanicinstructor_fabrication4>“那个你自己留着吧。教学差不多要结束了，最后一个房间，然后终于可以开瓶啤酒。”</tutorial.roles.mechanicinstructor_fabrication4>
+    <tutorial.roles.mechanicinstructor_fabrication4>“那个你自己留着吧。教学差不多要结束了，最后一个教学，然后就去喝啤酒。”</tutorial.roles.mechanicinstructor_fabrication4>
     <tutorial.roles.mechanicinstructor_fabrication4_player>“谢啦。”</tutorial.roles.mechanicinstructor_fabrication4_player>
     <tutorial.roles.oxygendescription>“这是制氧舱，通常尺寸不大，但要想活命可离不了它。”</tutorial.roles.oxygendescription>
     <tutorial.roles.mechanicinstructor_oxygen>“记住常来看看，定期维护。如果还有多余的时间，用它来充满氧气罐。”</tutorial.roles.mechanicinstructor_oxygen>
@@ -6922,7 +6922,7 @@
     <tutorial.roles.mechanicinstructor_oxygen2_player>“好啊。”</tutorial.roles.mechanicinstructor_oxygen2_player>
     <tutorial.roles.popup.mechanic_oxygen>与制氧机互动</tutorial.roles.popup.mechanic_oxygen>
     <tutorial.roles.popup.mechanic_oxygen2>将用过的氧气罐放进制氧机</tutorial.roles.popup.mechanic_oxygen2>
-    <tutorial.roles.mechanicinstructor_oxygen3>“很好，训练生，你完成了教学。整理好你的工具和工作环境，我们去喝啤酒吧。”</tutorial.roles.mechanicinstructor_oxygen3>
+    <tutorial.roles.mechanicinstructor_oxygen3>“很好，你完成了教学。整理好你的工具，收拾收拾地面，我们去喝啤酒吧。”</tutorial.roles.mechanicinstructor_oxygen3>
     <tutorial.roles.mechanicinstructor_oxygen3_player>“好的，谢谢！”</tutorial.roles.mechanicinstructor_oxygen3_player>
     <tutorial.roles.mechanic.objective.engine>维修引擎</tutorial.roles.mechanic.objective.engine>
     <tutorial.roles.mechanic.objective.leaks>使用焊枪维修船壳</tutorial.roles.mechanic.objective.leaks>
@@ -6934,12 +6934,12 @@
     <tutorial.roles.mechanic.objective.engineering2>获得铁</tutorial.roles.mechanic.objective.engineering2>
     <tutorial.roles.mechanic.objective.engineering3>制造扳手</tutorial.roles.mechanic.objective.engineering3>
     <tutorial.roles.mechanic.objective.oxygen>回充氧气罐</tutorial.roles.mechanic.objective.oxygen>
-    <tutorial.roles.securityinstructor>“给我站直了，新兵！我将教会你射击，劈砍，击倒你的敌人。我是佩雷兹警官，但你不需要记住，只用记得叫我女士！”</tutorial.roles.securityinstructor>
+    <tutorial.roles.securityinstructor>“给我站直了，新兵！我将教会你怎么用枪，用刀杀死敌人。我是佩雷兹警官，但你不需要记得这个，只用记得叫我教官！”</tutorial.roles.securityinstructor>
     <charactername.securityinstructor>佩雷兹警官</charactername.securityinstructor>
-    <tutorial.roles.securityinstructor.yesmaam1>“是的，女士！”</tutorial.roles.securityinstructor.yesmaam1>
-    <tutorial.roles.armorydescription>“欢迎来到军火库。每个潜艇都需要军火库来储存武器，而且通常都配有锁门以防止武器落入外人之手。军火库通常在指挥室或枪炮库附近。手持武器通常也存在军火库的安保柜中。”</tutorial.roles.armorydescription>
+    <tutorial.roles.securityinstructor.yesmaam1>“是，教官！”</tutorial.roles.securityinstructor.yesmaam1>
+    <tutorial.roles.armorydescription>“欢迎来到军械库。每个潜艇都需要军械库来储存武器，而且通常都配有锁门以防止武器落入外人之手。军械库通常在指挥室或枪炮库附近。手持武器通常也存在军械库的安保柜中。”</tutorial.roles.armorydescription>
     <tutorial.roles.securityinstructor.bodyarmor>“学得够快，活得才久。首先，装备上护甲。汗臭味最重的那个柜子里就有。”</tutorial.roles.securityinstructor.bodyarmor>
-    <tutorial.roles.securityinstructor.yesmaam2>“是的，女士...”</tutorial.roles.securityinstructor.yesmaam2>
+    <tutorial.roles.securityinstructor.yesmaam2>“是，教官...”</tutorial.roles.securityinstructor.yesmaam2>
     <tutorial.roles.popup.bodyarmor>找到护甲。</tutorial.roles.popup.bodyarmor>
     <tutorial.roles.securityinstructor.gun1>“好。上次死在这身护甲里的是新兵米勒。很阳光的一个少年，但枪法实在惨不忍睹。现在，去枪架拿来武器和弹药。用鼠标悬浮其上确保它已经装弹。”</tutorial.roles.securityinstructor.gun1>
     <tutorial.roles.popup.gun>找一把枪。</tutorial.roles.popup.gun>
