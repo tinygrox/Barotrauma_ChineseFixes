@@ -55,7 +55,7 @@
 
 **解决办法1**：
 
-因为此 mod 对游戏来说相当于是新的语言包，语言名称为我设置的【CHS2】，在xml文件中定义为`<infotexts language="CHS2" ...>`，而不是原官中的`language="Simplified Chinese"`，而现存支持中文翻译的 mod 中，在xml的翻译中都是`<infotexts language="Simplified Chinese">`，故会失效。所以解决办法如下：
+因为此 mod 对游戏来说相当于是新的语言包，语言名称为我设置的【Simplified Chinese Fixes】，在xml文件中定义为`<infotexts language="Simplified Chinese Fixes" ...>`，而不是原官中的`language="Simplified Chinese"`，而现存支持中文翻译的 mod 中，在xml的翻译中都是`<infotexts language="Simplified Chinese">`，故会失效。所以解决办法如下：
 
 ---
 
@@ -68,7 +68,7 @@
 改成
 
 ```xml
-<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="Simplified Chinese Fixes" nowhitespace="true" translatedname="中文(简体)[修正]">
 ```
 
 然后相应的在`filelist.xml`中加入刚才新加的文件即可。
@@ -87,7 +87,7 @@
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
-<infotexts language="CHS2" nowhitespace="true" translatedname="中文(简体)[修正]">
+<infotexts language="Simplified Chinese Fixes" nowhitespace="true" translatedname="中文(简体)[修正]">
     ...
 </infotexts>
 ```
