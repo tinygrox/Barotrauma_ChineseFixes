@@ -25,13 +25,15 @@
 
 # 📗使用
 
-* 无论哪种用户首先进入设置-模组然后将右侧的`Chinese Fix`移动至左侧，点击应用
-* 然后在语言设置中下拉选择`中文（简体）[修正]`，然后再应用一遍
-* 最好重启一遍游戏
+* 无论哪种用户首先进入 **设置** - **模组**然后将右侧的`Simplified Chinese Fixes`移动至左侧，点击应用。
+* 重启游戏。
+* 然后在语言设置中下拉选择`中文（简体）[修正]`，然后应用。
+
+图文在这里：[链接](./lnstallation_guide.md)
 
 # 📕问题提交
 
-如遇到任何问题，请在创意工坊页面下留言回复或在 github 新开一个 Issues：
+如在使用该 mod 的情况下遇到任何问题，请在创意工坊页面下留言回复或在 GitHub 新开一个 Issues：
 
 问题一般格式如下：
 
@@ -47,13 +49,13 @@
 
 参与贡献一般流程可参考 [GitHub官方文档 - 快速入门 - 参与项目](https://docs.github.com/cn/get-started/quickstart/contributing-to-projects)，对于Windows用户，不想打 git 命令打到发疯可以尝试使用 GitHub Desktop。
 
-在 Pull Request 时请选择提交到分支 （*branch*）**"dev"**下
+在 Pull Request 时请选择提交到分支 （*branch*） **dev** 下
 
 # :pushpin:已知问题
 
 **问题1：** 安装此 mod 会导致其他 mod 的现存中文翻译失效
 
-**解决办法1**：
+**解决办法**：
 
 因为此 mod 对游戏来说相当于是新的语言包，语言名称为我设置的【Simplified Chinese Fixes】，在xml文件中定义为`<infotexts language="Simplified Chinese Fixes" ...>`，而不是原官中的`language="Simplified Chinese"`，而现存支持中文翻译的 mod 中，在xml的翻译中都是`<infotexts language="Simplified Chinese">`，故会失效。所以解决办法如下：
 
@@ -106,5 +108,5 @@
 
 # 📜许可证
 
-* TBD
+* 本项目遵循 [GPL3.0协议](LICENSE)。
 
