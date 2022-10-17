@@ -1,0 +1,7 @@
+﻿<Override>
+  <Character SpeciesName="Human">
+    <names path="%ModDir%/Characters/Human/names.xml">
+      <!-- <Override path="%ModDir%/Characters/Human/names.xml" /> -->
+    </names>
+  </Character>
+</Override>
