@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Chinese Fixes" modversion="1.0.1" corepackage="False" steamworkshopid="2873342760" gameversion="0.19.11.0">
+<contentpackage name="Simplified Chinese Fixes" modversion="1.0.0" corepackage="False" gameversion="0.19.11.0">
   <UIStyle file="%ModDir%/UI/style.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
   <NPCConversations file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
+  <!-- <Other file="%ModDir%/Characters/Human/Human.xml" /> -->
+  <!-- <Other file="%ModDir%/Characters/Human/names.xml" /> -->
 </contentpackage>
