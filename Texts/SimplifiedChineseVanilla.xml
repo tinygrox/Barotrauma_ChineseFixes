@@ -1824,7 +1824,7 @@
     <sideobjective>支线任务</sideobjective>
     <beaconstationactivetooltip>这个已被激活的‖color:gui.orange‖信标‖end‖能对人们拓展生存区域起到一定的作用。</beaconstationactivetooltip>
     <beaconstationinactivetooltip>通道内有个未激活的‖color:gui.orange‖信标‖end‖，若激活，则可对人们出行起到一定的协助作用。</beaconstationinactivetooltip>
-    <huntinggroundstooltip>一头来自深渊的异兽把这条通道当成了自己的‖color:gui.orange‖猎场‖end‖。要是它不死，我们很难在周边建设新的前哨站，甚至会影响已经建成的前哨站。</huntinggroundstooltip>
+    <huntinggroundstooltip>一头来自深渊的异兽把这条通道当成了自己的‖color:gui.orange‖狩猎场‖end‖。要是它不死，我们很难在周边建设新的前哨站，甚至会影响已经建成的前哨站。</huntinggroundstooltip>
     <enteremptylocation>选择一个目的地，离开该通道。</enteremptylocation>
     <undockingdisabledbymission>在完成任务之前，你无法撤离前哨站。</undockingdisabledbymission>
     <hostagesdiscovered>我们已经找到了人质，但还要护送他们安全离开前哨站。你可以解开他们的手铐，命令他们跟随我们行动。</hostagesdiscovered>
@@ -6121,14 +6121,14 @@
     <hint.onstartedinteracting.item.deconstructor>可使用解构仪来拆解物品。将物品放入投入槽，按“解构”来开始拆解。</hint.onstartedinteracting.item.deconstructor>
     <hint.onstartedinteracting.item.fabricator>可用加工台来制作物品。从列表中选择想要制作的物品，若原料库存足够，则可按“制造”开始相应工作。</hint.onstartedinteracting.item.fabricator>
     <hint.onstartedinteracting.item.gunloader>需在该装弹器里填入相应武器的弹药。</hint.onstartedinteracting.item.gunloader>
-    <hint.onstartedinteracting.item.navterminal>你可以在这里为潜艇绘制航线，设置自动驾驶仪，操纵声呐，并监视声呐回波的侧视图。点击声呐视图来选择一个方向。也可以使用鼠标滚轮来放大和缩小声呐视图。</hint.onstartedinteracting.item.navterminal>
+    <hint.onstartedinteracting.item.navterminal>你可以在这里为潜艇设定前进方向，设置自动驾驶仪，操纵声呐，并监视声呐回波的侧视图。在声呐视图里点击位置来设定潜艇行动方向。鼠标滚轮缩放视图。</hint.onstartedinteracting.item.navterminal>
     <hint.onstartedinteracting.item.reactor>核反应堆会为你的设备提供动力。尽量保持 "负载 "和 "输出 "一致，否则很可能造成停电或电力超载的状况，对各种设备造成损害。</hint.onstartedinteracting.item.reactor>
     <hint.onstoleitem>你偷了不属于你的东西。这一行为影响了你的声望，而且安全官会对你进行惩处。</hint.onstoleitem>
     <hint.ontryopenstuckdoor>这扇门已经被焊死了。你得找一个等离子切割机把它切开。</hint.ontryopenstuckdoor>
     <hint.onweldingdoor>你正在焊上一扇门，一但焊死后，就只能用撬棍或等离子切割机才能把它打开。</hint.onweldingdoor>
     <hint.reminder.characterchange>你可以按照你的想法，通过屏幕左上方的船员名单并点击一个头像来操纵潜艇的任何一个船员。</hint.reminder.characterchange>
     <hint.reminder.commandinterface>你可以按[commandkey]打开命令菜单，对你的船员下达命令。</hint.reminder.commandinterface>
-    <hint.reminder.tabmenu>你可以按[infotabkey]打开信息标签，在这里你可以了解到船上船员、你的任务和你的声望等信息。</hint.reminder.tabmenu>
+    <hint.reminder.tabmenu>你可以按[infotabkey]打开信息标签界面，在这里你可以查看如船员信息、任务信息以及声望等其他重要信息。</hint.reminder.tabmenu>
     <hint.reminder.toolbelt>你已经装备了一条工具带。将鼠标悬停在你库存中的图标上，就可以打开工具带库存。</hint.reminder.toolbelt>
     <hint.onballastflorainfected>有一个泵体被寄生植物感染了。可以用火来烧掉它的根。</hint.onballastflorainfected>
 
