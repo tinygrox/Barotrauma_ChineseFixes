@@ -490,17 +490,17 @@
     <sp.signalcheckcomponent.targetsignal.description>用于比较接收的信号值的值</sp.signalcheckcomponent.targetsignal.description>
     <sp.relaycomponent.maxpower.name>最大电力</sp.relaycomponent.maxpower.name>
     <sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
-    <sp.relaycomponent.ison.name>Is On</sp.relaycomponent.ison.name>
+    <sp.relaycomponent.ison.name>开启</sp.relaycomponent.ison.name>
     <sp.relaycomponent.ison.description>Can the relay currently pass power and signals through it.</sp.relaycomponent.ison.description>
     <sp.relaycomponent.canbeoverloaded.name>Can Be Overloaded</sp.relaycomponent.canbeoverloaded.name>
     <sp.relaycomponent.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.relaycomponent.canbeoverloaded.description>
     <sp.relaycomponent.overloadvoltage.name>过载电压</sp.relaycomponent.overloadvoltage.name>
     <sp.relaycomponent.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.relaycomponent.overloadvoltage.description>
-    <sp.relaycomponent.fireprobability.name>Fire Probability</sp.relaycomponent.fireprobability.name>
+    <sp.relaycomponent.fireprobability.name>起火概率</sp.relaycomponent.fireprobability.name>
     <sp.relaycomponent.fireprobability.description>The probability for a fire to start when the item breaks.</sp.relaycomponent.fireprobability.description>
     <sp.oscillatorcomponent.outputtype.name>输出类型</sp.oscillatorcomponent.outputtype.name>
     <sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: a periodical signal of 1. Sine: a sine wave oscillating between -1 and 1. Square: a signal that alternates between 0 and 1. Sawtooth: a signal that rises from 0 to 1 and then drops back to 0. Triangle: a triangle wave oscillating between -1 and 1</sp.oscillatorcomponent.outputtype.description>
-    <sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
+    <sp.oscillatorcomponent.frequency.name>频率</sp.oscillatorcomponent.frequency.name>
     <sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
     <sp.lightcomponent.lightcolor.name>灯光颜色</sp.lightcomponent.lightcolor.name>
     <sp.lightcomponent.lightcolor.description>灯光的颜色(R,G,B,A).</sp.lightcomponent.lightcolor.description>
@@ -1114,12 +1114,12 @@
     <entityname.stairsshort>楼梯 短</entityname.stairsshort>
     <entityname.stairslong>楼梯 长</entityname.stairslong>
 
-    <entityname.ruinwallhorizontal>Ruin Wall Horizontal</entityname.ruinwallhorizontal>
-    <entityname.ruinwallvertical>Ruin Wall Vertical</entityname.ruinwallvertical>
-    <entityname.ruinwallheavyhorizontal>Ruin Wall Heavy Horizontal</entityname.ruinwallheavyhorizontal>
-    <entityname.ruinwallheavyvertical>Ruin Wall Heavy Vertical</entityname.ruinwallheavyvertical>
-    <entityname.ruinwallhorizontalsmall>Ruin Wall Small Horizontal</entityname.ruinwallhorizontalsmall>
-    <entityname.ruinwallverticalsmall>Ruin Wall Small Vertical</entityname.ruinwallverticalsmall>
+    <entityname.ruinwallhorizontal>遗迹 墙 水平</entityname.ruinwallhorizontal>
+    <entityname.ruinwallvertical>遗迹 墙 竖直</entityname.ruinwallvertical>
+    <entityname.ruinwallheavyhorizontal>遗迹 墙 Heavy 水平</entityname.ruinwallheavyhorizontal>
+    <entityname.ruinwallheavyvertical>遗迹 墙 Heavy 竖直</entityname.ruinwallheavyvertical>
+    <entityname.ruinwallhorizontalsmall>遗迹 墙 小型 水平</entityname.ruinwallhorizontalsmall>
+    <entityname.ruinwallverticalsmall>遗迹 墙 小型 竖直</entityname.ruinwallverticalsmall>
     <entityname.ruinback>Ruin Back Wall Basic</entityname.ruinback>
     <entityname.ruinprop>Ruin Prop</entityname.ruinprop>
 
@@ -1173,7 +1173,7 @@
     <entityname.opdeco_debris1>Mining Debris 1</entityname.opdeco_debris1>
     <entityname.opdeco_debris2>Mining Debris 2</entityname.opdeco_debris2>
     <entityname.opdeco_debris3>Mining Debris 3</entityname.opdeco_debris3>
-    <entityname.opdeco_construction_sign>Construction Sign</entityname.opdeco_construction_sign>
+    <entityname.opdeco_construction_sign>Construction 标志</entityname.opdeco_construction_sign>
     <entityname.opdeco_box1>箱子 1</entityname.opdeco_box1>
     <entityname.opdeco_box2>箱子 2</entityname.opdeco_box2>
     <entityname.opdeco_box3>箱子 3</entityname.opdeco_box3>
