@@ -2143,7 +2143,7 @@
     <entitydescription.orangejumpsuit1>配有铅衬的辐射防护服。</entitydescription.orangejumpsuit1>
     <entityname.orangejumpsuit2>工程师的连身裤</entityname.orangejumpsuit2>
     <entityname.bluejumpsuit1>工作服</entityname.bluejumpsuit1>
-    <entityname.bluejumpsuit2>机械师的连身裤</entityname.bluejumpsuit2>
+    <entityname.bluejumpsuit2>机修工的连身裤</entityname.bluejumpsuit2>
     <entityname.captainscap1>老水手帽</entityname.captainscap1>
     <entitydescription.captainscap1>上面有很多口子的破旧帽子。</entitydescription.captainscap1>
     <entityname.captainsuniform1>老水手夹克</entityname.captainsuniform1>
@@ -2165,7 +2165,7 @@
     <entityname.doctorsuniform1>战地医疗服</entityname.doctorsuniform1>
     <entitydescription.doctorsuniform1>为前线医疗人员准备。在抵御敌人时能够提供一定的防护作用。</entitydescription.doctorsuniform1>
     <entityname.baseballcap>棒球帽</entityname.baseballcap>
-    <entitydescription.baseballcap>每个有追求的机械师都应该有一顶。</entitydescription.baseballcap>
+    <entitydescription.baseballcap>每个有追求的机修工都应该有一顶。</entitydescription.baseballcap>
     <entityname.duffelbag>遗物袋</entityname.duffelbag>
     <entitydescription.duffelbag>一种用于存放已故海员遗物的传统方法，一般会送回其亲人手中（如果没被偷走卖掉的话）</entitydescription.duffelbag>
     <entityname.outpostoutfit1>前哨站居民的服装</entityname.outpostoutfit1>
@@ -3462,7 +3462,7 @@
     <dialogcantfindcontroller>我不知道如何控制[item]！</dialogcantfindcontroller>
     <dialogloadturret>正在给[itemname]装弹！</dialogloadturret>
     <dialogfireturret>开火！</dialogfireturret>
-    <dialogfireturret>打爆他们！</dialogfireturret>
+    <dialogfireturret>我TM射爆！</dialogfireturret>
     <dialogturrettargetdead>已干掉敌人！</dialogturrettargetdead>
     <dialogturrettargetdead>击中目标！</dialogturrettargetdead>
     <dialogturrettargetdead>我打中了！</dialogturrettargetdead>
@@ -6502,7 +6502,7 @@
     <npctitle.outpostmanager>前哨站管理员</npctitle.outpostmanager>
     <npctitle.outpostmanagerseparatists>前哨站管理员</npctitle.outpostmanagerseparatists>
     <npctitle.hrmanager>人力管理员</npctitle.hrmanager>
-    <npctitle.subupgradenpc>主任机械师</npctitle.subupgradenpc>
+    <npctitle.subupgradenpc>主任机修工</npctitle.subupgradenpc>
     <npctitle.subsalesnpc>潜艇商</npctitle.subsalesnpc>
     <npctitle.merchantoutpost>商人</npctitle.merchantoutpost>
     <npctitle.merchantcity>商人</npctitle.merchantcity>
@@ -6638,16 +6638,16 @@
     <tutorial.continue>“明白。”</tutorial.continue>
     <tutorial.skiptotutorial>[跳至教程]</tutorial.skiptotutorial>
     <tutorial.basic>基础(移动与互动)</tutorial.basic>
-    <tutorial.basics.message.1>“来了啊。你已经是今天我带的第六个人，我就长话短说了。</tutorial.basics.message.1>
+    <tutorial.basics.message.1>“来了啊。我就长话短说了，你是今天我带的第六个人，而且不怕跟你说，我已经累了。</tutorial.basics.message.1>
     <tutorial.basics.message.1_player>“...我是谁，我在哪？”</tutorial.basics.message.1_player>
-    <tutorial.basics.message.2>“你在一所自动化康复室里。你经历了一些创伤性事件，原本已经半疯了。医生决定对你进行治疗。”</tutorial.basics.message.2>
+    <tutorial.basics.message.2>“你在一所自动化康复室里。你经历了一些创伤性事件，原本已经半疯了。但Happy医生认为你是个绝佳的医疗实验对象。”</tutorial.basics.message.2>
     <tutorial.basics.message.2_player>“我什么都不记得了...”</tutorial.basics.message.2_player>
-    <tutorial.basics.message.3>“这是好事！那样你不仅不容易复发，连噩梦都会少做。也算是给你的药物的副作用吧。不过没有关系，我们将从怎么走路开始重新教导你，很快你就能重新开始工作，偿还你的治疗费用！”</tutorial.basics.message.3>
+    <tutorial.basics.message.3>“这是好事！那样你不仅不容易复发，连噩梦都会少做。算是药物的副作用吧，都在我们的预期之中。不过没有关系，我们将重新开始对你进行最基础的教学，比如路怎么走，手怎么摆，很快你就能重新开始工作，偿还你的治疗费用！”</tutorial.basics.message.3>
     <tutorial.basics.message.3_player>“治疗费用？”</tutorial.basics.message.3_player>
-    <tutorial.basics.message.4>“这个我们之后再说。试试动动胳膊腿吧？你按下按钮后门将会开启。不过它离你有些距离。”</tutorial.basics.message.4>
+    <tutorial.basics.message.4>“这个我们之后再说。试试动动你的胳膊和腿吧，没有什么问题吧？你按下那个按钮后门就会开。不过它离你还有些距离。”</tutorial.basics.message.4>
     <tutorial.basics.endmessage.1>“靠，你的进展有些太快了...这个区域如你所见还没完成施工。以前这是个泥偶迅猛龙巢，但我们有九成把握它们已经离开了。</tutorial.basics.endmessage.1>
     <tutorial.basics.endmessage.1_player>“泥偶迅猛龙是什么？”</tutorial.basics.endmessage.1_player>
-    <tutorial.basics.endmessage.2>“等一下...我在摄像机上看到有动静。啊哦...”</tutorial.basics.endmessage.2>
+    <tutorial.basics.endmessage.2>“等一下...我在监控上看到有什么动静。啊哦...”</tutorial.basics.endmessage.2>
     <tutorial.basics.endmessage.2_player>“那是什么声音?!”</tutorial.basics.endmessage.2_player>
     <tutorial.basics.wasd>使用[InputType.Up], [InputType.Left], [InputType.Down], 和[InputType.Right]来移动角色。</tutorial.basics.wasd>
     <tutorial.basics.looking>使用鼠标控制角色面朝方向。</tutorial.basics.looking>
@@ -6707,27 +6707,27 @@
     <tutorial.basics.objective14>离开</tutorial.basics.objective14>
     <tutorial.roles>角色 (职业特殊任务)</tutorial.roles>
     <charactername.receptiondude>托德·布多克</charactername.receptiondude>
-    <tutorial.roles.message.1>“近况如何啊兄弟。你是来这签协议上潜艇的吧？”</tutorial.roles.message.1>
+    <tutorial.roles.message.1>“嘿！近况如何啊兄弟。你是来潜艇找工作的吧？”</tutorial.roles.message.1>
     <tutorial.roles.message.1_player>“没错！”</tutorial.roles.message.1_player>
-    <tutorial.roles.message.2>“嚯，真有干劲啊，我喜欢！你熟悉潜艇上的规矩吗？”</tutorial.roles.message.2>
-    <tutorial.roles.message.2_player1>“什么规矩?”</tutorial.roles.message.2_player1>
-    <tutorial.roles.message.2_player2>“知道。” [跳过教程]</tutorial.roles.message.2_player2>
-    <tutorial.roles.message.3_skip>“没问题，在隔壁间和其他学生一起等着吧，我给你开门。”</tutorial.roles.message.3_skip>
+    <tutorial.roles.message.2>“嚯，真有干劲啊，我喜欢！你之前有上过我们的课程吗？”</tutorial.roles.message.2>
+    <tutorial.roles.message.2_player1>“什么课?”</tutorial.roles.message.2_player1>
+    <tutorial.roles.message.2_player2>“当然。” [跳过教程]</tutorial.roles.message.2_player2>
+    <tutorial.roles.message.3_skip>“好极了，去隔壁等其他学生都到位吧，我给你开门。”</tutorial.roles.message.3_skip>
     <tutorial.roles.message.3_skip_player>“好！”</tutorial.roles.message.3_skip_player>
-    <tutorial.roles.message.3>“没什么，只是个在象牙塔里的政客想要解决一个问题...用实际上不解决问题的方式。懂吗？”</tutorial.roles.message.3>
+    <tutorial.roles.message.3>“没什么，只是某个待在象牙塔里的高官想要解决某个问题...但用了个没法真正解决问题的方法。懂吗？”</tutorial.roles.message.3>
     <tutorial.roles.message.3_player>“什么问题?”</tutorial.roles.message.3_player>
-    <tutorial.roles.message.4>“当然是潜艇问题喽？出去的人多，回来的人少。出去十趟还能活着回来的更是一个都没有。所以教育都是免费的，就指着给你们上点课能解决问题呢。”</tutorial.roles.message.4>
+    <tutorial.roles.message.4>“当然是潜艇方面问题喽，但也不单单是这个问题，你能懂我意思吗？出去的人多，回来的人少。出去十趟还能活着回来的更是一个都没有。所以这里的课程都是免费的，就指着给你们上点课能解决问题呢。”</tutorial.roles.message.4>
     <tutorial.roles.message.4_player>“你是在批判自己的课程吗?”</tutorial.roles.message.4_player>
-    <tutorial.roles.message.5>“我只是个前台，哥们，不负责给绞肉机找肉。想听听我的建议吗？给自己找个站点工作，别被政府当枪使。”</tutorial.roles.message.5>
+    <tutorial.roles.message.5>“我只是个前台，哥们，不负责给绞肉机找肉。想听听我的建议吗？给自己找个在站点的工作，别被政府当枪使。”</tutorial.roles.message.5>
     <tutorial.roles.message.5_player>“可是我想冒险！而且站点里也没东西吃了...”</tutorial.roles.message.5_player>
-    <tutorial.roles.message.6a>“随你吧...我们这有五节课程:\n\n首先，艇长课。如果你喜欢给全船的人擦屁股，这就是你的最佳岗位，强烈推荐。”</tutorial.roles.message.6a>
+    <tutorial.roles.message.6a>“随你吧...我们这有五节课程:\n\n首先，艇长课。如果你喜欢给全艇的人擦屁股，这就是你的最佳岗位，强烈推荐。”</tutorial.roles.message.6a>
     <tutorial.roles.message.6a_player>“就像著名的赫尔曼·波拉德！”</tutorial.roles.message.6a_player>
-    <tutorial.roles.message.6b>“好好好。然后是负责船只修理的哼哈二将。\n工程师工具繁多，但要经常挨电。不是弱者能承担的职业。\n机械师则经常要弄自己一身湿T，焊接船舱啊修水泵之类的。要是你抽烟的话就别干这活了。懂？”</tutorial.roles.message.6b>
+    <tutorial.roles.message.6b>“好好好。然后是负责船只修理的哼哈二将。\n工程师装备齐全，但要经常挨电。心脏有毛病的别干。\n机修工则经常要弄自己一身湿，焊接船舱啊修水泵之类的。要是你喜欢抽烟的话就别干这个。懂？”</tutorial.roles.message.6b>
     <tutorial.roles.message.6b_player>“听起来是很重要的工作！”</tutorial.roles.message.6b_player>
-    <tutorial.roles.message.6c>“是啊，重要的要命。不过还有更要命的。安全官。负责挥棒开枪。一帮对自己权利过于自恋的混蛋，看到我胳膊上这个纹身了吗？“安全官都是狗”你在外头也要小心这些人。”</tutorial.roles.message.6c>
+    <tutorial.roles.message.6c>“是啊，重要的要命。不过还有更要命的。安全官。负责挥棒开枪。一帮对自己权利过于自恋的混蛋，看到我胳膊上这个纹身了吗？ASOAB，意思是“安全官都是王八蛋（All Security Officers Are Bastards）”。你在外头也要小心这些人。”</tutorial.roles.message.6c>
     <tutorial.roles.message.6c_player>“总不能所有安全官都是坏人吧?”</tutorial.roles.message.6c_player>
-    <tutorial.roles.message.6d>“最后是医生。他们中大多数比怪物还要令人害怕，但有些确实能救命。吗啡天使，懂不懂？\n行吧差不多就是这样了，如果感兴趣就去下一个房间。”</tutorial.roles.message.6d>
-    <tutorial.roles.message.6_player>“给我登记上！”</tutorial.roles.message.6_player>
+    <tutorial.roles.message.6d>“最后是医生。大多数的医生比怪物还要令人害怕，但有些确实能救命。吗啡天使，懂不懂？\n行吧差不多就是这样了，如果还想了解更多就去隔壁舱室。”</tutorial.roles.message.6d>
+    <tutorial.roles.message.6_player>“把我签了吧，长官！”</tutorial.roles.message.6_player>
     <roomname.reception>前台</roomname.reception>
     <roomname.lounge>休息室</roomname.lounge>
     <tutorial.roles.popup.moveright>前往右边房间继续。</tutorial.roles.popup.moveright>
@@ -6735,38 +6735,38 @@
     <tutorial.roles.popup.creworders2>使用[InputType.Select]从成员列表中选择一个训练生位置。</tutorial.roles.popup.creworders2>
     <charactername.captaintrainee>艇长训练生</charactername.captaintrainee>
     <charactername.engineertrainee>工程师训练生</charactername.engineertrainee>
-    <charactername.mechanictrainee>机械师训练生</charactername.mechanictrainee>
+    <charactername.mechanictrainee>机修工训练生</charactername.mechanictrainee>
     <charactername.securitytrainee>安全官训练生</charactername.securitytrainee>
     <charactername.medictrainee>船医训练生</charactername.medictrainee>
     <tutorial.roles.idcarddescription>此ID卡让训练生可以访问训练区域。</tutorial.roles.idcarddescription>
     <tutorial.roles.captaindescription>艇长负责驾驶潜艇，操作声呐以及对船员发号施令。</tutorial.roles.captaindescription>
     <tutorial.roles.engineerdescription>工程师负责操作核反应堆以及维护电子设备。技巧杰出的工程师甚至能够使用线路和信号原件为潜艇加入自定改装。</tutorial.roles.engineerdescription>
-    <tutorial.roles.mechanicdescription>机械师负责维护机械设备，例如引擎和水泵，保持潜艇运转正常。此外，由于机械师拥有更高的焊接技能，船壳破损通常也由其负责修复。</tutorial.roles.mechanicdescription>
+    <tutorial.roles.mechanicdescription>机修工负责维护机械设备，例如引擎和水泵，保持潜艇运转正常。此外，由于机修工拥有更高的焊接技能，船壳破损通常也由其负责修复。</tutorial.roles.mechanicdescription>
     <tutorial.roles.securitydescription>安全官负责保护潜艇和船员不受来自内部或外部的危险。安全官有着操作从手持武器到舰载火炮的技能，是潜艇面对威胁时的第一道防线。</tutorial.roles.securitydescription>
     <tutorial.roles.medicdescription>医生负责治愈船员的伤病。从包扎伤口到施用药物。在最危急的情况下，对于倒地不起的船员可能需要先做个心肺复苏.</tutorial.roles.medicdescription>
     <tutorial.roles.startprompt_captain>开始艇长训练教程？</tutorial.roles.startprompt_captain>
     <tutorial.roles.startprompt_engineer>开始工程师训练教程？</tutorial.roles.startprompt_engineer>
-    <tutorial.roles.startprompt_mechanic>开始机械师训练教程？</tutorial.roles.startprompt_mechanic>
+    <tutorial.roles.startprompt_mechanic>开始机修工训练教程？</tutorial.roles.startprompt_mechanic>
     <tutorial.roles.startprompt_security>开始安全官训练教程？</tutorial.roles.startprompt_security>
     <tutorial.roles.startprompt_medic>开始医生训练教程？</tutorial.roles.startprompt_medic>
     <tutorial.roles.startprompt_yes>确定，开始教程。</tutorial.roles.startprompt_yes>
     <tutorial.roles.startprompt_no>拒绝，选择另一教程。</tutorial.roles.startprompt_no>
-    <tutorial.roles.reception_notification>“嘿哥们，导师准备好了。”</tutorial.roles.reception_notification>
+    <tutorial.roles.reception_notification>“嘿哥们，导师安排好了。”</tutorial.roles.reception_notification>
     <tutorial.roles.reception_notification_player>“这就来。”</tutorial.roles.reception_notification_player>
     <tutorial.roles.popup.start>要开始教程，在标记地点找到你的导师。</tutorial.roles.popup.start>
     <tutorial.roles.objective.selection1>切换角色</tutorial.roles.objective.selection1>
     <tutorial.roles.objective.selection2>离开休息室</tutorial.roles.objective.selection2>
-    <tutorial.roles.captaininstructor>“你好，我是斯坦纳艇长，是今天负责带你的导师。我将向你简短介绍艇长的职责，然后进行实操演练。确保命令链是很重要的，所以你必须称呼我为艇长。明白了的话就说“是的艇长”。”</tutorial.roles.captaininstructor>
+    <tutorial.roles.captaininstructor>“你好，我是斯坦纳艇长，是今天负责带你的导师。我将向你简短介绍艇长的职责，然后进行实操演练。确保命令的传达是很重要的，所以你必须称呼我为艇长。明白了的话就说“是，艇长”。”</tutorial.roles.captaininstructor>
     <charactername.captaininstructor>斯坦纳艇长</charactername.captaininstructor>
-    <tutorial.roles.yescaptain_player>“是的艇长!”</tutorial.roles.yescaptain_player>
+    <tutorial.roles.yescaptain_player>“是，艇长!”</tutorial.roles.yescaptain_player>
     <tutorial.roles.commandroomdescription>“指挥室是潜艇的大脑。命令从这里传出 - 通过语音或电子信号 - 最终抵达船员和潜艇设备。”</tutorial.roles.commandroomdescription>
     <tutorial.roles.commandroomdescription2>“使用诸如导航终端和状态监测器这样的设备，艇长可以发出命令，比如让船员修复设备，让引擎全速运转，或排空压载舱让潜艇上浮。”</tutorial.roles.commandroomdescription2>
     <tutorial.roles.navigationterminal>“导航终端的核心功能是移动潜艇。”</tutorial.roles.navigationterminal>
     <tutorial.roles.navigationterminal_sonar>“由于我们处于低照明环境，声呐是侦查周围地形，物体和生命的最有效手段。”</tutorial.roles.navigationterminal_sonar>
     <tutorial.roles.navigationterminal_sonar2>“声呐的意思是声音导航与测距。声呐有两种模式: 主动和被动。”</tutorial.roles.navigationterminal_sonar2>
-    <tutorial.roles.navigationterminal_sonar3>“在'被动'模式下，声呐只会监听声音。它依然能侦查，尤其是发现那些会发出噪音的东西。但诸如地形这样的静态物体只有在极近距离才会被发现。”</tutorial.roles.navigationterminal_sonar3>
-    <tutorial.roles.navigationterminal_sonar4>“在'主动'模式下，声呐周期性发出音波脉冲。简单来说，就是每几秒钟声波就会揭示一次周围地形，物体和生命体。想要以比蜗牛爬更快的速度移动而不撞船，就要利用好主动声呐。”</tutorial.roles.navigationterminal_sonar4>
-    <tutorial.roles.navigationterminal_sonar5>“最后，定向脉冲。主动声呐虽然视野广阔，但同时也会暴露自己。定向脉冲限制了声波的方向，防止敌人发现你的潜艇 - 只要你没对准它们。”</tutorial.roles.navigationterminal_sonar5>
+    <tutorial.roles.navigationterminal_sonar3>“在'被动'模式下，声呐只会被动接收声波。它依然能探测到东西，尤其是发现那些会发出噪音的东西。但诸如地形这样的静态物体只有在极近距离才会被探测到。”</tutorial.roles.navigationterminal_sonar3>
+    <tutorial.roles.navigationterminal_sonar4>“在'主动'模式下，声呐周期性发出声波脉冲。简单来说，就是每几秒钟声波就会揭示一次周围的地形，物体和生命体。想要以比蜗牛爬更快的速度移动而不撞到东西，就要利用好主动声呐。”</tutorial.roles.navigationterminal_sonar4>
+    <tutorial.roles.navigationterminal_sonar5>“最后，定向脉冲。主动声呐虽然视野广阔，但同时也会暴露自己。定向脉冲限制了声波的方向，防止敌人发现你的潜艇 - 只要你不是对着他们。”</tutorial.roles.navigationterminal_sonar5>
     <tutorial.roles.navigationterminal_sonar6>“我们已经将这个导航终端连上了声呐。试试看吧。”</tutorial.roles.navigationterminal_sonar6>
     <tutorial.roles.popup.navigationterminal_sonar>按[InputType.Select]与导航终端互动。</tutorial.roles.popup.navigationterminal_sonar>
     <tutorial.roles.popup.navigationterminal_sonar2>尝试使用声呐的几个功能。</tutorial.roles.popup.navigationterminal_sonar2>
@@ -6792,7 +6792,7 @@
     <tutorial.roles.popup.captain_command2>下达开启反应堆的指令。</tutorial.roles.popup.captain_command2>
     <tutorial.roles.popup.captain_command3>命令界面将自动选择最适船员进行工作。</tutorial.roles.popup.captain_command3>
     <tutorial.roles.popup.captain_command4>你还可以通过船员列表直接向特定船员下达命令(用[InputType.CrewOrders]切换)。</tutorial.roles.popup.captain_command4>
-    <tutorial.roles.captaininstructor_repairs>“很好。记住艇长应得到尊重与服从。所以艇长应该佩戴武器。我的前任工程师史蒂夫·卜甘霍曾说过： "怎么，你还能一枪崩了我不成？"。哈哈。总之，他的表亲在那之后也很快下船了。那么，我们来试试下达维护命令吧？”</tutorial.roles.captaininstructor_repairs>
+    <tutorial.roles.captaininstructor_repairs>“很好。记住艇长应得到尊重与服从。所以艇长应该佩戴武器。我的前任工程师史蒂夫·卜甘霍曾这么跟我说话：“怎么，你还能一枪崩了我不成？”。哈哈。总之，他的表亲在那之后也很快下船了。那么，我们来试试下达维护命令吧？”</tutorial.roles.captaininstructor_repairs>
     <tutorial.roles.popup.captain_commandmaintenance>下令修复漏水点。</tutorial.roles.popup.captain_commandmaintenance>
     <tutorial.roles.popup.captain_commandmaintenance2>下令修复电气设备。</tutorial.roles.popup.captain_commandmaintenance2>
     <tutorial.roles.popup.captain_commandmaintenance3>下令修复机械设备。</tutorial.roles.popup.captain_commandmaintenance3>
@@ -6886,10 +6886,10 @@
     <tutorial.roles.engineer.objective.rewire2>装备线缆</tutorial.roles.engineer.objective.rewire2>
     <tutorial.roles.engineer.objective.rewire3>连上接线盒的 能源</tutorial.roles.engineer.objective.rewire3>
     <tutorial.roles.engineer.objective.rewire4>连上灯的 能源</tutorial.roles.engineer.objective.rewire4>
-    <tutorial.roles.mechanicinstructor>“你好，我是阿莫斯，这里的机械师。我将教导你如何照顾好你的潜艇。记住：她好，你才好。”</tutorial.roles.mechanicinstructor>
+    <tutorial.roles.mechanicinstructor>“你好，我是阿莫斯，这里的机修工。我将教导你如何照顾好你的潜艇。记住：她好，你才好。”</tutorial.roles.mechanicinstructor>
     <charactername.mechanicinstructor>阿莫斯·阿波尔</charactername.mechanicinstructor>
     <tutorial.roles.engineroomdescription>“这是引擎室。每个潜艇都装备着的引擎就在此处。引擎能让潜艇向前或向后移动。”</tutorial.roles.engineroomdescription>
-    <tutorial.roles.mechanicinstructor_engine>“引擎是机械设备。如果你想成为机械师，就要照顾好机械设备。”</tutorial.roles.mechanicinstructor_engine>
+    <tutorial.roles.mechanicinstructor_engine>“引擎是机械设备。如果你想成为机修工，就要照顾好机械设备。”</tutorial.roles.mechanicinstructor_engine>
     <tutorial.roles.mechanicinstructor_engine2>“东西冒烟或者发出奇怪的响声？拿起扳手把它修好。拿上这个扳手。去吧。”</tutorial.roles.mechanicinstructor_engine2>
     <tutorial.roles.popup.mechanic_engine>装备扳手。</tutorial.roles.popup.mechanic_engine>
     <tutorial.roles.popup.mechanic_engine2>维修引擎。</tutorial.roles.popup.mechanic_engine2>
