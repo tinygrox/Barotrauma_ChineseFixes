@@ -6799,7 +6799,7 @@
     <tutorial.roles.captaininstructor_firearms>“嗯，暂时还不能给你武器，等你毕业了再说。赞美小丑圣母。说到武器，接下来是炮台操作命令。”</tutorial.roles.captaininstructor_firearms>
     <tutorial.roles.popup.captain_commandsecurity>下令操作底部炮台。</tutorial.roles.popup.captain_commandsecurity>
     <tutorial.roles.captaininstructor_end>“基本就是这样了。那么接下来是真正的考验：从站点离港，开到下一个前哨站，就算你成功毕业。祝你好运，训练生！”</tutorial.roles.captaininstructor_end>
-    <tutorial.roles.popup.captain_graduation>使用你学到的知识前往下一个前哨站。</tutorial.roles.popup.captain_graduation>
+    <tutorial.roles.popup.captain_graduation>运用你学到的知识前往下一个前哨站。</tutorial.roles.popup.captain_graduation>
     <tutorial.roles.captain.objective.sonar>掌握声呐</tutorial.roles.captain.objective.sonar>
     <tutorial.roles.captain.objective.sonar1>与导航终端互动</tutorial.roles.captain.objective.sonar1>
     <tutorial.roles.captain.objective.sonar2>试用主动声呐</tutorial.roles.captain.objective.sonar2>
@@ -6824,7 +6824,7 @@
     <tutorial.roles.engineerinstructor_fuelrods>“虽然'核反应堆'听起来有点吓人，因为核辐射看不见摸不着，但其实没什么可担心的！操作反应堆是相对安全的工作。”</tutorial.roles.engineerinstructor_fuelrods>
     <tutorial.roles.engineerinstructor_fuelrods2>“和谁相比？当然是其他那些危险的要命的事情啦。而反应堆室守备森严，重重防护！”</tutorial.roles.engineerinstructor_fuelrods2>
     <tutorial.roles.engineerinstructor_fuelrods3>“有一件事我要重点强调: 不·要·把你找到的燃料棒全塞进反应堆。”</tutorial.roles.engineerinstructor_fuelrods3>
-    <tutorial.roles.engineerinstructor_fuelrods4>“这不是在开玩笑。绝对不要。每根燃料棒都会提高反应堆产生的热量。热量过高就会产生火灾。然后是炉心熔毁，最终...轰！不过也算是没什么痛苦的死法了，总比被海盗劫船强。”</tutorial.roles.engineerinstructor_fuelrods4>
+    <tutorial.roles.engineerinstructor_fuelrods4>“这不是在开玩笑。绝对不要。每根燃料棒都会提高反应堆产生的热量。热量过高就会产生火灾。然后是堆芯熔毁，最终...轰！不过也算是没什么痛苦的死法了，总比被海盗劫船强。”</tutorial.roles.engineerinstructor_fuelrods4>
     <tutorial.roles.engineerinstructor_fuelrods5>“安全起见，我现在只给你一根燃料棒。让我给你展示如何插入燃料棒。”</tutorial.roles.engineerinstructor_fuelrods5>
     <tutorial.roles.engineerinstructor_fuelrods5_player>“真的安全吗？”</tutorial.roles.engineerinstructor_fuelrods5_player>
     <tutorial.roles.popup.engineer_fuelrods>与反应堆互动，然后将燃料棒拖进左边的槽位中。</tutorial.roles.popup.engineer_fuelrods>
