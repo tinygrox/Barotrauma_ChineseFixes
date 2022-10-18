@@ -1000,8 +1000,8 @@
     <playercredits>马克：[credits]</playercredits>
     <missioninfo>任务信息</missioninfo>
     <missionreward>奖励：[reward]</missionreward>
-    <missionrewardcargopercrate>奖励: [rewardpercrate] x [itemcount] (超出上限 [maxitemcount]) = [totalreward]</missionrewardcargopercrate>
-    <missionrewardcargo>奖励: [totalreward] ([itemcount] 超出上限 [maxitemcount])</missionrewardcargo>
+    <missionrewardcargopercrate>奖励: [rewardpercrate] x [itemcount] (上限[maxitemcount]) = [totalreward]</missionrewardcargopercrate>
+    <missionrewardcargo>奖励: [totalreward] ([itemcount]箱 上限[maxitemcount])</missionrewardcargo>
     <infobutton>信息</infobutton>
     <endround>结束巡回</endround>
     <enterlocation>进入 [locationname]</enterlocation>
@@ -2843,7 +2843,7 @@
     <entityname.ff_wall_airlock1>气闸</entityname.ff_wall_airlock1>
     <entityname.piratesubexterior>海盗潜艇外观部分</entityname.piratesubexterior>
     <entityname.piratesubdeco>海盗潜艇装饰</entityname.piratesubdeco>
-    <entityname.unitloaddevice>装载集装箱</entityname.unitloaddevice>
+    <entityname.unitloaddevice>货物集装箱</entityname.unitloaddevice>
     <entitydescription.unitloaddevice>能装入大量板条箱的集装箱。</entitydescription.unitloaddevice>
     <entityname.streetlight>路灯</entityname.streetlight>
     <entityname.neonlighta>霓虹灯A</entityname.neonlighta>
@@ -5459,7 +5459,7 @@
     <eventtext.shockjock.o1.o2.c1>“更别提四处泛滥的阿片类药物了，简直哪儿都是了！根据可靠的情报来源，联盟在里面放了什么可以的原料，会让人上瘾！过不了多久，可能就是各位的孩子们，蹲在废弃的前哨站里，穿着肮脏的袍子，用脏兮兮的手拼了命地找药来抽。“</eventtext.shockjock.o1.o2.c1>
     <eventtext.shockjock.o1.c3>“亲爱的听众们，如果我是联盟的首脑，我会直接走进船员宿舍，打起演讲台，如此宣言：听着，公民们，如果你们投票反对军费开支，分裂主义分子的暴徒就会冲进来把你们炸上天，而我们却对此无能为力。”</eventtext.shockjock.o1.c3>
     <eventtext.shockjock.o1.o3.c1>“你想就这么毁掉你们的小哨站，然后无能哭泣吗？下次把钱交给我们！总之，如果我是首脑，我就会这么说。”</eventtext.shockjock.o1.o3.c1>
-    <eventtext.shockjock.o1.c4>“真实一派胡言，不要相信你在收音机里听到的一切。”</eventtext.shockjock.o1.c4>
+    <eventtext.shockjock.o1.c4>“真是一派胡言，不要相信你在收音机里听到的一切。”</eventtext.shockjock.o1.c4>
     <eventtext.shockjock.o1.o4>“广播里讲的到底是什么？”</eventtext.shockjock.o1.o4>
     <eventtext.shockjock.o1.o4.c1>“那时一个奇怪的家伙，藏在什么地方建了一座临时电台。没人知道他到底在哪里，不然早有人管住他了，他让所有人都心烦气躁。”</eventtext.shockjock.o1.o4.c1>
     <eventtext.assassinationofjacovsubra1.c1>（嗯？这是什么？）</eventtext.assassinationofjacovsubra1.c1>
@@ -5495,10 +5495,10 @@
     <eventtext.assassinationofjacovsubra4.o1.o2>“多少钱？”</eventtext.assassinationofjacovsubra4.o1.o2>
     <eventtext.assassinationofjacovsubra4.o1.o2.c1>“给你三千，我们就在这儿分道扬镳。”</eventtext.assassinationofjacovsubra4.o1.o2.c1>
     <eventtext.assassinationofjacovsubra4.o2>“不感兴趣。”（攻击他）</eventtext.assassinationofjacovsubra4.o2>
-    <eventtext.infiltration.c1>前哨站管理人看着你，憔悴万分。“朋友，你是新来的？终于看到一张不戴面具的脸了。”</eventtext.infiltration.c1>
-    <eventtext.infiltration.o1>“瞧你这么说，这里有很多人戴面具的样子。”</eventtext.infiltration.o1>
-    <eventtext.infiltration.o1.c1>“全都是小丑。我问你，你有没有被半夜的摩托喇叭声吵醒过？他们甚至都不去尝试组成什么音调、旋律，就是乱鸣笛。我天天都睡不好，大概有…”他茫然地抬头看着，”大概好几周了？”</eventtext.infiltration.o1.c1>
-    <eventtext.infiltration.o1.o1>“好像很可怕，他们到底要干什么？”</eventtext.infiltration.o1.o1>
+    <eventtext.infiltration.c1>前哨站管理人看着你，憔悴万分。“朋友，你是新来的？终于看到一个不戴面具的人了。”</eventtext.infiltration.c1>
+    <eventtext.infiltration.o1>“说到这个，周围这帮戴面具的都是些什么人。”</eventtext.infiltration.o1>
+    <eventtext.infiltration.o1.c1>“全都是小丑。我问你，你有没有半夜被摩托喇叭吵醒过？这帮狗日的甚至连节奏都不会，就是瞎几把乱按。我天天都睡不好，已经有…”他失神地盯着天花板，”几个星期了？”</eventtext.infiltration.o1.c1>
+    <eventtext.infiltration.o1.o1>“真是令人毛骨悚然，他们到底要干什么？”</eventtext.infiltration.o1.o1>
     <eventtext.infiltration.o1.o1.c1>“谁知道呢？我和他们谈过，给过他们钱，还威胁他们要把他们都撵走，你能想到的办法，我都试过了。我猜他们只是想折磨我们。”</eventtext.infiltration.o1.o1.c1>
     <eventtext.infiltration.o1.o1.o1>施以援手。</eventtext.infiltration.o1.o1.o1>
     <eventtext.infiltration.o1.o1.o1.c1>管理人发出了无声的嘲笑。“随便你，如果你能赶走他们，我就给你…”他眯起眼睛，“给你一千马克。不过有一个前提，不可以施加暴力。虽然我个人很讨厌这些小丑，但我们必须要讲规矩。”</eventtext.infiltration.o1.o1.o1.c1>
