@@ -21,20 +21,20 @@
     <loadingscreentip>核反应堆配备有自动调控功率水平的自动控制系统，不过，该系统面对电力消耗大幅波动的情况时，反应常常有些迟缓。</loadingscreentip>
     <loadingscreentip>如果导航终端受损，声呐的反馈图像可能会不太准确——让你的工程师随时确保终端正常！</loadingscreentip>
     <loadingscreentip>关闭主动声呐才能让部署的诱饵发挥最佳效果。</loadingscreentip>
-    <loadingscreentip>电气工程技能不精而强行进行布线可能会触电。</loadingscreentip>
-    <loadingscreentip>焊枪简单易用，潜艇上的船员都会用，但熟练的机修工做事往往兼具安全与高效，能不受伤、快速地完成相关工作。</loadingscreentip>
+    <loadingscreentip>电气工程技能不足而强行进行布线可能会导致触电。</loadingscreentip>
+    <loadingscreentip>焊枪简单易用，潜艇上的船员都会用，但熟练的机修工做事往往兼具安全与高效，能安全、快速地完成相关工作。</loadingscreentip>
     <loadingscreentip>潜艇上的船员都接受过电气设备的基础维修培训，不过电气工程师的经验更足、效率更高。</loadingscreentip>
     <loadingscreentip>潜艇上的船员都接受过机械设备的基础维修培训，不过机修工的经验更足、效率更高。</loadingscreentip>
     <loadingscreentip>一般情况下，艇长的驾驶能力比普通船员更高。</loadingscreentip>
     <loadingscreentip>如果潜艇的反应堆发电量无法满足其他所有设备的需求，可以尝试降低潜艇的电池还有超级电容器的充电速率，还可以尝试让潜艇开慢点。</loadingscreentip>
     <loadingscreentip>潜艇上的电气与机械设备会因恶劣的环境与长时间的使用而逐渐老化。务必让机修工与电气工程师定时维护，避免关键时刻发生设备故障。</loadingscreentip>
     <loadingscreentip>用解构仪分解异星文物可为你提供特殊的异星原材料。</loadingscreentip>
-    <loadingscreentip>木卫二上的部分外星建筑由一种抗打击、抗形变的超材料构成。针对该材料的研究已经成为木卫二科学家的课题核心。</loadingscreentip>
-    <loadingscreentip>将异星文物带到潜艇上来时，务必多加小心。</loadingscreentip>
+    <loadingscreentip>木卫二上的部分外星建筑由一种抗打击、抗形变的超材料构成。针对该材料的研究已经成为木卫二科学家的核心课题。</loadingscreentip>
+    <loadingscreentip>将异星遗物带到潜艇上来时，务必多加小心。</loadingscreentip>
     <loadingscreentip>据推测，某个灭绝的外星文明建造了遍布整个木卫二的文明遗迹，但人类对该文明知之甚少。由于异星建筑与设备的自我修复特性，人类对遗迹年代的测定毫无进展。</loadingscreentip>
     <loadingscreentip>在遍布整个木卫二的文明遗迹中，人类未能发现任何外星生命的痕迹。在遗迹内部能发现的唯一生命是用于守卫遗迹的生化造物。</loadingscreentip>
     <loadingscreentip>在探索遗迹或洞穴时，如果需要紧急脱离，记得多投下照明弹以标记可行路径。</loadingscreentip>
-    <loadingscreentip>类头足生物的独目观察者性情温驯，但受到挑衅时依然会攻击对方。</loadingscreentip>
+    <loadingscreentip>独目哨兵性情温驯且对事物充满好奇心：尽管它们不会主动攻击潜艇，但它们还是会经常主动靠近潜艇，来凝视着人类的一举一动。</loadingscreentip>
     <loadingscreentip>同类相食在藻鬃爬行者之间很常见。如果你杀死一只爬行者，其他爬行者可能会抛下你，对进食的渴望会促使它们争抢同类的尸体。</loadingscreentip>
     <loadingscreentip>泥偶迅猛龙可以用它们锋利的喙轻松地破坏金属门。</loadingscreentip>
     <loadingscreentip>一种名为画皮的外壳寄生虫会慢慢吞噬宿主的躯体，最终将其变为一具完全由寄生虫控制的空壳。</loadingscreentip>
@@ -50,10 +50,10 @@
     <loadingscreentip>潜水面罩可以让你在水下呼吸，但不能帮助你抵御深海水压。如果船体有较大的结构破损，请立即换上潜水衣。</loadingscreentip>
     <loadingscreentip>一旦发生火灾，比烧伤更需要注意的是潜艇内的氧气含量。</loadingscreentip>
     <loadingscreentip>穿越这片被称为热液废土的地形时需格外小心，这些区域生物数量丰富，地热活动引发的水流变化使航行变得更加危险。</loadingscreentip>
-    <loadingscreentip>木卫二上的一些固着生物会发出干扰潜艇声呐的低频声波。</loadingscreentip>
+    <loadingscreentip>木卫二上的一些固着生物（水生附着生物）可能会发出干扰潜艇声呐的低频声波。</loadingscreentip>
     <loadingscreentip>木卫二拥有丰富的自然资源，唯有目光敏锐、富有进取心的艇长与等离子切割机才能坚持到收获之时。</loadingscreentip>
     <loadingscreentip>你可以将自己伪装成其他人，只要带上他们的身份证与一些面部的伪装。</loadingscreentip>
-    <loadingscreentip>你可以在潜艇编辑器中将wifi组件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
+    <loadingscreentip>在潜艇编辑器中，你可以将Wifi元件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
     <loadingscreentip>木星周围的辐射带得在木卫二表面建立永久定居点变得不现实，因此所有的木卫二前哨站都位于地表冰壳之下。</loadingscreentip>
     <loadingscreentip>木卫二的水下生态系统链条尚未完全明确，但人们相信食物链的基础是渺小的化学合成细菌。</loadingscreentip>
     <loadingscreentip>木卫二联盟最初是两个最大的木卫二定居点与几个私人准军事组织之间的贸易合作协定，但后来逐渐发展为木卫二政府。</loadingscreentip>
@@ -3279,10 +3279,10 @@
     <fabricatorrequiredskills>所需技能</fabricatorrequiredskills>
     <fabricatorcreate>创造</fabricatorcreate>
     <fabricatorcancel>取消</fabricatorcancel>
-    <fabricatorinsufficientskills>未满足制作所需的技能条件</fabricatorinsufficientskills>
-    <fabricatorsufficientskills>满足制作所需的技能条件</fabricatorsufficientskills>
+    <fabricatorinsufficientskills>要求技能不足</fabricatorinsufficientskills>
+    <fabricatorsufficientskills>满足技能要求</fabricatorsufficientskills>
     <fabricator.input>放入</fabricator.input>
-    <fabricatorrequiresrecipe>需要配方才可制造</fabricatorrequiresrecipe>
+    <fabricatorrequiresrecipe>需要配方制造</fabricatorrequiresrecipe>
     <vendingmachine.outofstock>缺货</vendingmachine.outofstock>
     <uilabel.input>输入</uilabel.input>
     <uilabel.output>输出</uilabel.output>
@@ -6297,7 +6297,7 @@
     <talentname.curiosity>奇思妙想</talentname.curiosity>
     <talentname.reverseengineer>逆向工程</talentname.reverseengineer>
     <talentname.alienhoarder>异星收藏</talentname.alienhoarder>
-    <talentname.doubleduty>一心二用</talentname.doubleduty>
+    <talentname.doubleduty>一身两任</talentname.doubleduty>
     <talentname.firemanscarry>消防搬运</talentname.firemanscarry>
     <talentname.mechanicscourse>机修方针</talentname.mechanicscourse>
     <talentname.commander>指挥官</talentname.commander>
@@ -6488,11 +6488,11 @@
     <stattypenames.buffdurationmultiplier>增益持续时间</stattypenames.buffdurationmultiplier>
     <stattypenames.swimmingspeed>游泳速度</stattypenames.swimmingspeed>
     <stattypenames.walkingspeed>步行速度</stattypenames.walkingspeed>
-    <stattypenames.skillgainspeed>技能获取速度</stattypenames.skillgainspeed>
+    <stattypenames.skillgainspeed>技能学习速度</stattypenames.skillgainspeed>
     <stattypenames.deconstructorspeedmultiplier>解构仪分解速度</stattypenames.deconstructorspeedmultiplier>
     <stattypenames.repairtoolstructurerepairmultiplier>船体修复速度</stattypenames.repairtoolstructurerepairmultiplier>
     <stattypenames.electricalskillbonus>电气技能增益</stattypenames.electricalskillbonus>
-    <stattypenames.helmskillbonus>舵手技能增益</stattypenames.helmskillbonus>
+    <stattypenames.helmskillbonus>驾驶技能增益</stattypenames.helmskillbonus>
     <stattypenames.mechanicalskillbonus>机械技能增益</stattypenames.mechanicalskillbonus>
     <stattypenames.medicalskillbonus>医疗技能增益</stattypenames.medicalskillbonus>
     <stattypenames.weaponsskillbonus>武器技能增益</stattypenames.weaponsskillbonus>
@@ -6784,7 +6784,7 @@
     <tutorial.roles.navigationterminal_commanding2>“一艘大型潜艇是不可能一个人开起来的。你需要船员。而船员需要指引，否则就会像一群无头苍蝇一样满潜艇乱窜...算了不说了。”</tutorial.roles.navigationterminal_commanding2>
     <tutorial.roles.navigationterminal_commanding3>“作为艇长，你的职责是带领你的船员。所以你要给他们发号施令，也就是说要明白该干什么！”</tutorial.roles.navigationterminal_commanding3>
     <tutorial.roles.navigationterminal_commanding4>“这就是状态监测器出场的时候了。状态监测器让你能看到潜艇的何处需要修理。你可以将这些房间标记为需要修理，然后祈祷手底下的人没有白痴到连修个东西都不会。真的，祈祷很重要。”</tutorial.roles.navigationterminal_commanding4>
-    <tutorial.roles.navigationterminal_commanding5>“你最好向你的船员反复强调平时整修的重要性，真出事情临时抱佛脚可就来不及了！这意味着要提前下达命令。”</tutorial.roles.navigationterminal_commanding5>
+    <tutorial.roles.navigationterminal_commanding5>“你最好向你的船员反复强调例行保养的重要性，真出事情临时抱佛脚可就来不及了！这意味着要提前下达命令。”</tutorial.roles.navigationterminal_commanding5>
     <tutorial.roles.navigationterminal_commanding6>“就让我们在真正的潜艇上试试看吧？其他的训练生现在应该也准备好了。跟我来。”</tutorial.roles.navigationterminal_commanding6>
     <tutorial.roles.popup.captain_follow>跟随斯坦纳艇长进入潜艇。</tutorial.roles.popup.captain_follow>
     <tutorial.roles.captaininstructor_start>“我们到了，开始向船员下达命令吧。没有电力，潜艇上的一切设施都无法工作，所以先下令开启反应堆。”</tutorial.roles.captaininstructor_start>
