@@ -1130,13 +1130,13 @@
     <entityname.op_weaponstoragesmall>Small Weapons Display Case</entityname.op_weaponstoragesmall>
     <entityname.op_weaponstoragemedium>Medium Weapons Display Case</entityname.op_weaponstoragemedium>
     <entityname.op_weaponstoragelarge>Large Weapons Display Case</entityname.op_weaponstoragelarge>
-    <entityname.opdeco_storageitemshelf>Item Display Shelf</entityname.opdeco_storageitemshelf>
+    <entityname.opdeco_storageitemshelf>物品展示架</entityname.opdeco_storageitemshelf>
     <entityname.opdeco_storagemineralshelf>Mineral Display Shelf</entityname.opdeco_storagemineralshelf>
     <entityname.opdeco_storageweaponshelf>Weapon Display Shelf</entityname.opdeco_storageweaponshelf>
     <entityname.opdeco_storageseedshelf>Seeds Display Shelf</entityname.opdeco_storageseedshelf>
     <entityname.opdeco_storagefrozenseedshelf>Frozen Seeds Display Shelf</entityname.opdeco_storagefrozenseedshelf>
     <entityname.opdeco_diningtable>餐桌</entityname.opdeco_diningtable>
-    <entityname.opdeco_boxes1>Boxes</entityname.opdeco_boxes1>
+    <entityname.opdeco_boxes1>箱子</entityname.opdeco_boxes1>
     <entityname.opdeco_bunks1>双人床铺</entityname.opdeco_bunks1>
     <entityname.opdeco_researchdecal1>Lab Decal</entityname.opdeco_researchdecal1>
     <entityname.opdeco_hrwindow1>办公窗</entityname.opdeco_hrwindow1>
@@ -1185,10 +1185,10 @@
     <entityname.opdeco_door>Locked Door</entityname.opdeco_door>
     <entityname.opdeco_towelrack>Towel Rack</entityname.opdeco_towelrack>
     <entityname.concretewall>Concrete Wall</entityname.concretewall>
-    <entityname.opdeco_wheelchair1>Wheelchair</entityname.opdeco_wheelchair1>
-    <entityname.opdeco_adposter>Advertisement</entityname.opdeco_adposter>
-    <entityname.windowglass>Window Glass</entityname.windowglass>
-    <entityname.windowframe>Window Frame</entityname.windowframe>
+    <entityname.opdeco_wheelchair1>轮椅</entityname.opdeco_wheelchair1>
+    <entityname.opdeco_adposter>广告</entityname.opdeco_adposter>
+    <entityname.windowglass>窗户玻璃</entityname.windowglass>
+    <entityname.windowframe>窗户框架</entityname.windowframe>
     <entityname.op_cafeteriawindow>Cafeteria Bar</entityname.op_cafeteriawindow>
     <entityname.op_gardendistiller>Distiller</entityname.op_gardendistiller>
     <entityname.op_cafeteriabench>Cafeteria Bench</entityname.op_cafeteriabench>
@@ -1196,10 +1196,10 @@
     <entityname.op_cafeteriachair>Cafeteria Chair</entityname.op_cafeteriachair>
     <entityname.op_cafeteriaposter>Cafeteria Poster</entityname.op_cafeteriaposter>
     <entityname.op_cafeteriacart>Cafeteria Cart</entityname.op_cafeteriacart>
-    <entityname.op_gardenproducebox>Produce Boxes</entityname.op_gardenproducebox>
+    <entityname.op_gardenproducebox>蔬菜箱</entityname.op_gardenproducebox>
     <entityname.op_gardenbags>Bags of soil</entityname.op_gardenbags>
     <entityname.op_gardenposter>Garden Poster</entityname.op_gardenposter>
-    <entityname.table>Table</entityname.table>
+    <entityname.table>桌子</entityname.table>
     <entityname.Target>Target</entityname.Target>
     <entityname.sign>Sign</entityname.sign>
     <entityname.op_freezer>Freezer</entityname.op_freezer>
@@ -1235,27 +1235,27 @@
     <entityname.opbg_shop2>前哨站商店墙体 2</entityname.opbg_shop2>
     <entityname.opbg_shop3>前哨站商店墙体 3</entityname.opbg_shop3>
     <entityname.opbg_shop4>前哨站商店墙体 4</entityname.opbg_shop4>
-    <entityname.opbgsocialcentera1>Outpost Social Center Wall</entityname.opbgsocialcentera1>
-    <entityname.opbg_barracks1>Outpost Barracks Background 1</entityname.opbg_barracks1>
-    <entityname.opbg_barracks2>Outpost Barracks Background 2</entityname.opbg_barracks2>
-    <entityname.opbg_barracks3>Outpost Barracks Background 3</entityname.opbg_barracks3>
-    <entityname.opbg_services1>Outpost Services Background 1</entityname.opbg_services1>
-    <entityname.opbg_services2>Outpost Services Background 2</entityname.opbg_services2>
-    <entityname.opbgmaintenancebaya1>Outpost Maintenance Bay Background 1</entityname.opbgmaintenancebaya1>
-    <entityname.opbgmaintenancebaya2>Outpost Maintenance Bay Background 2</entityname.opbgmaintenancebaya2>
-    <entityname.opbgmaintenancebaya3>Outpost Maintenance Bay Background 3</entityname.opbgmaintenancebaya3>
-    <entityname.opbg_researchlab1>Outpost Research Lab Background 1</entityname.opbg_researchlab1>
-    <entityname.opbg_researchlab2>Outpost Research Lab Background 2</entityname.opbg_researchlab2>
-    <entityname.opbg_tunnel1>Outpost Tunnel Background 1</entityname.opbg_tunnel1>
-    <entityname.opbg_tunnel2>Outpost Tunnel Background 2</entityname.opbg_tunnel2>
-    <entityname.opbg_tunnel4>Outpost Tunnel Background 4</entityname.opbg_tunnel4>
-    <entityname.opbg_tunnel5>Outpost Tunnel Background 5</entityname.opbg_tunnel5>
-    <entityname.opbg_tunnel6>Outpost Tunnel Background 6</entityname.opbg_tunnel6>
-    <entityname.opbg_manageroffice1>Outpost Manager's Office Background 1</entityname.opbg_manageroffice1>
-    <entityname.opbg_manageroffice2>Outpost Manager's Office Background 2</entityname.opbg_manageroffice2>
-    <entityname.opbg_manageroffice3>Outpost Manager's Office Background 3</entityname.opbg_manageroffice3>
-    <entityname.opbg_dorm1>Outpost Dorm Background</entityname.opbg_dorm1>
-    <entityname.opbg_messhall1>Outpost Mess Hall Background</entityname.opbg_messhall1>
+    <entityname.opbgsocialcentera1>前哨站 Social Center Wall</entityname.opbgsocialcentera1>
+    <entityname.opbg_barracks1>前哨站 Barracks Background 1</entityname.opbg_barracks1>
+    <entityname.opbg_barracks2>前哨站 Barracks Background 2</entityname.opbg_barracks2>
+    <entityname.opbg_barracks3>前哨站 Barracks Background 3</entityname.opbg_barracks3>
+    <entityname.opbg_services1>前哨站 Services Background 1</entityname.opbg_services1>
+    <entityname.opbg_services2>前哨站 Services Background 2</entityname.opbg_services2>
+    <entityname.opbgmaintenancebaya1>前哨站 Maintenance Bay Background 1</entityname.opbgmaintenancebaya1>
+    <entityname.opbgmaintenancebaya2>前哨站 Maintenance Bay Background 2</entityname.opbgmaintenancebaya2>
+    <entityname.opbgmaintenancebaya3>前哨站 Maintenance Bay Background 3</entityname.opbgmaintenancebaya3>
+    <entityname.opbg_researchlab1>前哨站 Research Lab Background 1</entityname.opbg_researchlab1>
+    <entityname.opbg_researchlab2>前哨站 Research Lab Background 2</entityname.opbg_researchlab2>
+    <entityname.opbg_tunnel1>前哨站 Tunnel Background 1</entityname.opbg_tunnel1>
+    <entityname.opbg_tunnel2>前哨站 Tunnel Background 2</entityname.opbg_tunnel2>
+    <entityname.opbg_tunnel4>前哨站 Tunnel Background 4</entityname.opbg_tunnel4>
+    <entityname.opbg_tunnel5>前哨站 Tunnel Background 5</entityname.opbg_tunnel5>
+    <entityname.opbg_tunnel6>前哨站 Tunnel Background 6</entityname.opbg_tunnel6>
+    <entityname.opbg_manageroffice1>前哨站 Manager's Office Background 1</entityname.opbg_manageroffice1>
+    <entityname.opbg_manageroffice2>前哨站 Manager's Office Background 2</entityname.opbg_manageroffice2>
+    <entityname.opbg_manageroffice3>前哨站 Manager's Office Background 3</entityname.opbg_manageroffice3>
+    <entityname.opbg_dorm1>前哨站 Dorm Background</entityname.opbg_dorm1>
+    <entityname.opbg_messhall1>前哨站 Mess Hall Background</entityname.opbg_messhall1>
     <entityname.opdeco_nuclearsign>核标志</entityname.opdeco_nuclearsign>
     <entityname.opdeco_instructionsign>指示标志</entityname.opdeco_instructionsign>
     <entityname.opdeco_propagandaposter>宣传横幅</entityname.opdeco_propagandaposter>
@@ -1289,7 +1289,7 @@
     <entityname.opbg_jail>White Prison</entityname.opbg_jail>
     <entityname.opbg_rock>Rock Background</entityname.opbg_rock>
     <entityname.opdeco_prisonbed>监狱床</entityname.opdeco_prisonbed>
-    <entityname.shop_decoration>Shop Decoration</entityname.shop_decoration>
+    <entityname.shop_decoration>商店装饰</entityname.shop_decoration>
     <entityname.op_circusposter.png>海报</entityname.op_circusposter.png>
     <entityname.op_plaque.png>牌匾</entityname.op_plaque.png>
     <entityname.wreckdecal>Wreck Decal</entityname.wreckdecal>
