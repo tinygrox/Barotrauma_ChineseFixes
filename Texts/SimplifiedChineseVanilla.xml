@@ -265,7 +265,7 @@
     <PublishPopupCreateLocal>创建本地副本...</PublishPopupCreateLocal>
     <PublishPopupStaging>将项目复制到暂存文件夹...</PublishPopupStaging>
     <PublishPopupSubmit>提交项目到工作室...</PublishPopupSubmit>
-    <OpenLocalModInExplorer>本地模组/n点击在浏览器中打开</OpenLocalModInExplorer>
+    <OpenLocalModInExplorer>本地模组\n点击在资源管理器中打开</OpenLocalModInExplorer>
     <ViewWorkshopModDetails>查看详情</ViewWorkshopModDetails>
     <EnableWorkshopMod>启用</EnableWorkshopMod>
     <DisableWorkshopMod>禁用</DisableWorkshopMod>
@@ -278,7 +278,7 @@
     <RefreshModLists>刷新</RefreshModLists>
     <WorkshopItemUpdate>更新</WorkshopItemUpdate>
     <ServerExecutable>服务器可执行文件</ServerExecutable>
-    <ModServerExesAtYourOwnRisk>模组服务器可执行文件可能是不安全的或恶意的。如果运行，后果自负。/n你依旧想切换到[exename]？</ModServerExesAtYourOwnRisk>
+    <ModServerExesAtYourOwnRisk>模组服务器可执行文件可能是不安全的或恶意的。如果运行，后果自负。\n你依旧想切换到[exename]？</ModServerExesAtYourOwnRisk>
     <CannotChangeMods>你只能在主菜单中启用/禁用模组。</CannotChangeMods>
     <WorkshopItemSubscriptions>[subscriptioncount] 订阅</WorkshopItemSubscriptions>
     <Ugc.TransferTitle>转移模组</Ugc.TransferTitle>
