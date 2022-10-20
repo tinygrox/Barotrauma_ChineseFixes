@@ -1853,7 +1853,7 @@
     <!-- Display names -->
     <displayname.oxygentankempty>氧气罐（空）</displayname.oxygentankempty>
     <displayname.weldingfueltankempty>焊接燃料罐（空）</displayname.weldingfueltankempty>
-    <displayname.scrapsavantitem>[物品名称] (废料专家)</displayname.scrapsavantitem>
+    <displayname.scrapsavantitem>[itemname] (废料专家)</displayname.scrapsavantitem>
     <displayname.recycleitem>[itemname] (回收)</displayname.recycleitem>
     <displayname.emptyitem>[itemname] (空)</displayname.emptyitem>
 
