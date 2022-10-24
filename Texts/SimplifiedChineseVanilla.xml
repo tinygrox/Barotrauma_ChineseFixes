@@ -171,7 +171,7 @@
     <workshopitembrowse>浏览…</workshopitembrowse>
     <workshopitemcorepackage>核心内容包</workshopitemcorepackage>
     <workshopitemcorepackagetooltip>只有在您创建的Mod会替换游戏本体文件的情况下选择此标记。仅向游戏或其他核心内容包添加内容的Mod不应被标记为核心内容包。</workshopitemcorepackagetooltip>
-    <workshopitemfiles>项目中包含的文件</workshopitemfiles>
+    <workshopitemfiles>包含物品的文件</workshopitemfiles>
     <workshopitemshowfolder>显示文件夹</workshopitemshowfolder>
     <workshopitemchangenote>修改说明文件</workshopitemchangenote>
     <workshopitemchangenotetooltip>您正为一个创意工坊项目发布更新。您可以修改说明文件来解释更新内容。</workshopitemchangenotetooltip>
@@ -202,13 +202,13 @@
     <workshopitemincompatible>不兼容</workshopitemincompatible>
     <workshopitemincompatibletooltip>该创意工坊项目与当前游戏版本不兼容</workshopitemincompatibletooltip>
     <workshop.contenttag.submarine>潜艇</workshop.contenttag.submarine>
-    <workshop.contenttag.item>项目中包含的文件</workshop.contenttag.item>
+    <workshop.contenttag.item>物品</workshop.contenttag.item>
     <workshop.contenttag.art>美化</workshop.contenttag.art>
     <workshop.contenttag.environment>环境</workshop.contenttag.environment>
     <workshop.contenttag.monster>怪物</workshop.contenttag.monster>
     <workshop.contenttag.mission>关卡</workshop.contenttag.mission>
     <workshop.contenttag.eventset>事件组</workshop.contenttag.eventset>
-    <workshop.contenttag.totalconversion>总转化</workshop.contenttag.totalconversion>
+    <workshop.contenttag.totalconversion>完全修改</workshop.contenttag.totalconversion>
     <workshop.contenttag.itemassembly>物品组合</workshop.contenttag.itemassembly>
     <workshop.contenttag.language>语言</workshop.contenttag.language>
     <workshoperroronenable>无法启用工坊项目'[itemname]'。</workshoperroronenable>
@@ -374,7 +374,7 @@
     <enabletexturecompression>启用材质压缩</enabletexturecompression>
     <enabletexturecompressiontooltip>可以降低材质对GPU的占用率，场景加载速度可能会降低。</enabletexturecompressiontooltip>
     <radialdistortion>鱼眼透镜特效</radialdistortion>
-    <radialdistortiontooltip>启用鱼眼透镜的视觉效果，营造真实的水下环境体验。</radialdistortiontooltip>
+    <radialdistortiontooltip>为某些疾病或环境危急状态中启用鱼眼透镜的视觉效果，营造真实的水下环境体验。</radialdistortiontooltip>
     <textscale>文字大小</textscale>
 
     <!-- Audio tab -->
@@ -1673,7 +1673,7 @@
     <missionheader0.abandonedoutpostrescue>前哨站营救成功</missionheader0.abandonedoutpostrescue>
     <missionmessage0.abandonedoutpostrescue>人质们都上舰了。该回去复命了。</missionmessage0.abandonedoutpostrescue>
     <hostageskilled>任务失败了。有人质在营救过程中死亡了。</hostageskilled>
-    <missionname.huntinggrounds>猎场</missionname.huntinggrounds>
+    <missionname.huntinggrounds>狩猎场</missionname.huntinggrounds>
     <missiondescription.huntinggrounds>一头来自深渊的异兽把这条通道当成了自己的猎场。要是它不死，我们很难在周边建设新的前哨站，甚至会影响已经建成的前哨站。</missiondescription.huntinggrounds>
     <missionsuccess.huntinggrounds>深渊异兽已经死了，这条通道安全了。</missionsuccess.huntinggrounds>
     <missionfailure.huntinggrounds>深渊异兽还盘踞在此，影响着人们的生活。</missionfailure.huntinggrounds>
@@ -2675,7 +2675,7 @@
 
     <!-- Misc -->
     <entityname.swimbladder>自愈囊泡</entityname.swimbladder>
-    <entitydescription.swimbladder>很多木卫二原生生物都有发育的一个含有组织液的囊泡组织，其中的组织液可以加工成愈素和生理盐水。</entitydescription.swimbladder>
+    <entitydescription.swimbladder>很多木卫二原生生物都有发育的一个含有组织液的囊泡组织，其中的组织液可以加工成疗素和生理盐水。</entitydescription.swimbladder>
     <entityname.adrenalinegland>肾上腺素腺体</entityname.adrenalinegland>
     <entitydescription.adrenalinegland>内含大量肾上腺素，可用解构仪提取。</entitydescription.adrenalinegland>
     <entityname.guitar>吉他</entityname.guitar>
@@ -2753,7 +2753,7 @@
     <entityname.nuclearshell>核弹</entityname.nuclearshell>
     <entitydescription.nuclearshell>用轨道炮发射的核弹。</entitydescription.nuclearshell>
     <entityname.alienshell>刚素炮弹</entityname.alienshell>
-    <entitydescription.alienshell>用电磁枪发射的刚素炮弹。</entitydescription.alienshell>
+    <entitydescription.alienshell>用轨道炮发射的刚素炮弹。</entitydescription.alienshell>
     <entityname.mudraptoregg>泥偶迅猛龙蛋</entityname.mudraptoregg>
     <entitydescription.mudraptoregg>一只覆满粘液，不断涌动的泥偶迅猛龙蛋。蛋顶端张开的口子仿佛要择人而噬。</entitydescription.mudraptoregg>
     <entityname.loosevent>松动的通风口</entityname.loosevent>
@@ -3192,7 +3192,7 @@
 
     <!-- Submarine names & descriptions -->
     <submarine.name.humpback>座头鲸号</submarine.name.humpback>
-    <submarine.description.humpback>前军舰WH4-L3 “座头鲸”（Humpback）已经重新整修来对抗木卫二深海中的大多数危险。该舰速度较高，但机动性差，而且由于安装的反应堆型号已经是老古董，发电效率只能说是勉强，如果你想安装新设备，最好在舰上加装一个备用电池阵列。</submarine.description.humpback>
+    <submarine.description.humpback>前军舰WH4-L3 “座头鲸”（Humpback）已经重新修整，可以对抗木卫二深海中的大多数危险。该舰速度较高，但机动性差，由于上面的反应堆型号已经过时，勉强依靠备用电池阵列发电，如果备用电池没电，那你就会发现这上面的新设备根本用不了。</submarine.description.humpback>
     <submarine.name.bunyip>沼灵号</submarine.name.bunyip>
     <submarine.description.bunyip>在载客方面，沼灵号（Bunyip）的能力是出色的，可以快速将人员从一个地方运送到另一个地方。相比同类型的潜艇，作战半径更小，而且没配备任何武器，这使得防御能力严重不足。</submarine.description.bunyip>
     <submarine.name.muikku>湖青号</submarine.name.muikku>
@@ -3204,7 +3204,7 @@
     <submarine.name.typhon>台风号</submarine.name.typhon>
     <submarine.description.typhon>台风号（Typhon）潜艇外形粗犷、性能可靠、轻重火力兼备，不过，开过的人都知道这种潜艇有着糟糕的极限航速与浮潜速度。</submarine.description.typhon>
     <submarine.name.dugong>儒艮号</submarine.name.dugong>
-    <submarine.description.dugong>儒艮号（Dugong）潜艇有着最佳的性价比——虽然它各方面性能都稍逊一筹。缺乏火力与速度的问题只能靠灵活机动来弥补。</submarine.description.dugong>
+    <submarine.description.dugong>与其他更大号的潜艇相比，儒艮号（Dugong）这个系列的潜艇可以说浑身都是缺点，唯一的优点只能是其世界级的性价比。因为火力和速度都是短板，所以谨慎是你驾驶的关键。</submarine.description.dugong>
     <submarine.name.selkie>海豹号</submarine.name.selkie>
     <submarine.description.selkie>木卫二殖民地的主力型号，海豹号（Selkie）具有不错的速度与良好的浮潜性能，另一方面，它们脆弱而“短腿”——上面装载的低容量电池限制了它们的航程距离。</submarine.description.selkie>
     <submarine.name.venture>冒险号</submarine.name.venture>
@@ -3376,7 +3376,7 @@
     <statusmonitorbutton.hullcondition.tooltip>船体耐久</statusmonitorbutton.hullcondition.tooltip>
     <statusmonitorbutton.itemfinder.tooltip>物品搜索器</statusmonitorbutton.itemfinder.tooltip>
     <draganddropreports>拖动到一个房间</draganddropreports>
-    <researchstation.invalidinput>非法操作</researchstation.invalidinput>
+    <researchstation.invalidinput>插入无效</researchstation.invalidinput>
     <researchstation.empty.infotext>未插入遗传物质。请插入可用的遗传物质。</researchstation.empty.infotext>
     <researchstation.research>研究</researchstation.research>
     <researchstation.research.infotext>植入异星材料。请谨慎使用。</researchstation.research.infotext>
@@ -3474,12 +3474,12 @@
     <dialognobatteries>找不到电池！</dialognobatteries>
     <dialogstopchargingbatteries>[itemname]的充电中止了！</dialogstopchargingbatteries>
     <dialogleakfixed>[roomname]的进水问题已经修复！</dialogleakfixed>
-    <dialogleakfixed>还在修补[roomname]，还剩几个洞！</dialogleakfixed>
-    <dialogleaksfixed>[roomname] 的所有缺口都修好了！</dialogleaksfixed>
-    <dialogleaksfixed>[roomname] 现在没有缺口了！</dialogleaksfixed>
+    <dialogleakfixed>[roomname]的进水问题还在解决中，马上就好！</dialogleakfixed>
+    <dialogleaksfixed>[roomname]的所有缺口都修好了！</dialogleaksfixed>
+    <dialogleaksfixed>[roomname]现在没有缺口了！</dialogleaksfixed>
     <dialogitemrepaired>[itemname]已经修好了！</dialogitemrepaired>
-    <dialogitemrepaired>[itemname] 准备就绪！</dialogitemrepaired>
-    <dialogitemrepaired>[itemname] 修理好了！</dialogitemrepaired>
+    <dialogitemrepaired>[itemname]又能用了！</dialogitemrepaired>
+    <dialogitemrepaired>[itemname]修理好了！</dialogitemrepaired>
     <dialoggetdivinggear>需要找到一件潜水服！</dialoggetdivinggear>
     <dialoggetdivinggear>我需要潜水装备！</dialoggetdivinggear>
     <dialoggetoxygentank>需要找到氧气罐！</dialoggetoxygentank>
@@ -3516,7 +3516,7 @@
     <dialogsonartargetmultiple>声呐显示，[direction]出现了[count]个目标！</dialogsonartargetmultiple>
     <dialogsonartargetmultiple>我们发现，[direction]出现了[count]个目标！</dialogsonartargetmultiple>
     <dialogfoundunconscioustarget>发现[targetname]在[roomname]不省人事！</dialogfoundunconscioustarget>
-    <dialogfoundunconscioustarget>对[roomname]的[targetname]进行急救！</dialogfoundunconscioustarget>
+    <dialogfoundunconscioustarget>对[roomname]的[targetname]进行救治！</dialogfoundunconscioustarget>
     <dialoglistrequiredtreatments>我得马上找到[treatmentlist]！</dialoglistrequiredtreatments>
     <dialoglistrequiredtreatments>我得找到[treatmentlist]才能对[targetname]进行医治！</dialoglistrequiredtreatments>
     <dialogrequiredtreatmentoptionsfirst>[treatment1], [treatment2]</dialogrequiredtreatmentoptionsfirst>
@@ -3538,8 +3538,8 @@
     <dialognoleaks>哪里有缺口？</dialognoleaks>
     <dialogfoundwoundedtarget>对[roomname]的[targetname]进行急救！</dialogfoundwoundedtarget>
     <dialogfoundwoundedtarget>去[roomname]救援[targetname]！</dialogfoundwoundedtarget>
-    <dialognorescuetargets>目前似乎没有人需要医疗！</dialognorescuetargets>
-    <dialognorescuetargets>我想现在好像没有人需要医疗！</dialognorescuetargets>
+    <dialognorescuetargets>目前似乎没有人需要医治！</dialognorescuetargets>
+    <dialognorescuetargets>我想现在好像没有人需要医治！</dialognorescuetargets>
     <dialogcannotreachtarget>无法到达[name]!</dialogcannotreachtarget>
     <dialogcannotreachplace>没法到那儿！</dialogcannotreachplace>
     <dialogcannotreachfire>无法接触到[name]的火情！</dialogcannotreachfire>
@@ -4208,7 +4208,7 @@
     <afflictiondescription.inspiringtunes>该角色的技能水平瞬间得到提高。</afflictiondescription.inspiringtunes>
     <afflictionname.tandemfire>交叉火力</afflictionname.tandemfire>
     <afflictiondescription.tandemfire>该角色靠近鼓舞人心的友军，战斗力有所提升。</afflictiondescription.tandemfire>
-    <afflictionname.tumbling>枪神再世</afflictionname.tumbling>
+    <afflictionname.tumbling>枪神降世</afflictionname.tumbling>
     <afflictiondescription.tumbling>该角色使用手枪的水平提高。</afflictiondescription.tumbling>
     <afflictionname.quickdrawing>快枪手</afflictionname.quickdrawing>
     <afflictiondescription.quickdrawing>该角色已准备好随时拔枪。</afflictiondescription.quickdrawing>
@@ -5281,11 +5281,11 @@
     <eventtext.missionevent_clownoutbreak.o2.c1>远处传来了小丑喇叭的声音，确认你接受了这项任务。你离开前哨站时，货物会交付到你手上。</eventtext.missionevent_clownoutbreak.o2.c1>
     <eventtext.missionevent_clownoutbreak.o3>保持沉默。</eventtext.missionevent_clownoutbreak.o3>
     <eventtext.bigbrother.c1>扩音器开始播报，“请刚才停靠的潜艇派个代表到指挥室向安全主管报道”。</eventtext.bigbrother.c1>
-    <eventtext.bigbrother.c1.c1>“你就是那些新来的吗，正好，我这里有个棘手的问题，因为现在我手下的人都不可信。”安全主管停顿了一下，打量了一下你，“一般来说，我不会向外人寻求协助，但我已经没得选了，不多说了，我需要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
+    <eventtext.bigbrother.c1.c1>“你就是那些新来的吗，正好，我这里有个棘手的问题，我信不过我手底下的那些人。”安全主管停顿了一下，打量了一下你，“一般来说，我不会要个外人来插手，但我已经没得选了，不多说了，首先我要你对这次任务保密，有兴趣吗？”</eventtext.bigbrother.c1.c1>
     <eventtext.bigbrother.c1.o1>跟我说说具体情况吧。</eventtext.bigbrother.c1.o1>
     <eventtext.bigbrother.c1.o1.c1>主管点点头，“根据我们之前获得的线报，有个分离主义分子正在策划越狱。”他坦诚地说到，“有囚犯要越狱已经很棘手了，更麻烦的是，我有充分的证据证明我们中出了一个叛徒。”</eventtext.bigbrother.c1.o1.c1>
-    <eventtext.bigbrother.c1.o1.o1>“中出了一个叛徒是吧？”</eventtext.bigbrother.c1.o1.o1>
-    <eventtext.bigbrother.c1.o1.o1.c1>“我是说安保团队里出了叛徒”，这个主管一点幽默感都没有，“也就是说，我需要保证我的团队都在我的掌控之中，并按我的意思去采取预防措施。这就是你的任务，把这些麦克风装到他们的居住舱内。”</eventtext.bigbrother.c1.o1.o1.c1>
+    <eventtext.bigbrother.c1.o1.o1>“你们...中出了一个叛徒是吧？”</eventtext.bigbrother.c1.o1.o1>
+    <eventtext.bigbrother.c1.o1.o1.c1>“我是说安保团队里出了叛徒。”，这个主管一点幽默感都没有，“回到正题，我现在需要保证我的整个团队都在我的掌控之中，一个能听从我的命令做好准备的团队。而我要你做的，就是把这些麦克风藏到他们的居住舱内。”</eventtext.bigbrother.c1.o1.o1.c1>
     <eventtext.bigbrother.c1.o1.o1.o1>接受任务</eventtext.bigbrother.c1.o1.o1.o1>
     <eventtext.bigbrother.c1.o1.o1.o1.c1>你拿起这些小小的监听麦克风。“还有一件事，这不是官方授权的行动，所以如果你的人被抓到了，自求多福吧。”</eventtext.bigbrother.c1.o1.o1.o1.c1>
     <eventtext.bigbrother.c1.o1.o1.o2>“那我还是不参与其中了。”</eventtext.bigbrother.c1.o1.o1.o2>
@@ -5313,7 +5313,7 @@
     <eventtext.bigbrother.c1.c1.o2.o2>“刚装了监听麦克风”</eventtext.bigbrother.c1.c1.o2.o2>
     <eventtext.bigbrother.c1.c1.o2.o2.c1>他们笑了，“你这家伙真有意思，这里不是你该来的地方，走吧。”他们去查看摄像头的录像了，在他们发现什么之前，尽快脱身吧。任务失败。</eventtext.bigbrother.c1.c1.o2.o2.c1>
     <eventtext.bigbrother.c1.c1.o2.o2.c1.c1>他们拔出武器，“麦克风，是吧？跟我走一趟吧。”赶紧跑吧。</eventtext.bigbrother.c1.c1.o2.o2.c1.c1>
-    <eventtext.tastetest.c1>你在附近的垃圾桶里找到两小瓶透明液体。上面标记着不同的化学方程式。</eventtext.tastetest.c1>
+    <eventtext.tastetest.c1>你在附近的垃圾桶里找到两小瓶透明液体。两个瓶子上标的化学式表明这是两种不同的液体。</eventtext.tastetest.c1>
     <eventtext.tastetest.o1>仔细观察这两个瓶子。</eventtext.tastetest.o1>
     <eventtext.tastetest.o1.c1>你不能确定瓶子里装的是什么，只能确定其中一种是强酸性物质。你把强酸放在一边，另一瓶里装的是什么？</eventtext.tastetest.o1.c1>
     <eventtext.tastetest.o1.o1>喝一口！</eventtext.tastetest.o1.o1>
@@ -5335,10 +5335,10 @@
     <eventtext.tastetest.o1.o4.o1>不怎么样。</eventtext.tastetest.o1.o4.o1>
     <eventtext.tastetest.o1.o5>不，当然不要！</eventtext.tastetest.o1.o5>
     <eventtext.tastetest.o2>无视它们。</eventtext.tastetest.o2>
-    <eventtext.crawleroutbreak.c1>一群惊慌失措的研究员从你身边跑过，“该死的吉米，我跟你说过，我们应该用机械挂锁而不是这些该死的电子设备!”</eventtext.crawleroutbreak.c1>
+    <eventtext.crawleroutbreak.c1>一位惊慌失措的研究员从你身边跑过，“该死的吉米，我跟你说过，我们应该用机械挂锁而不是这些电子垃圾!”</eventtext.crawleroutbreak.c1>
     <eventtext.consultant.c1>你走进办公室后，经理注意到你你，“你是为矿井里的问题而来，是吧？”他问道。</eventtext.consultant.c1>
     <eventtext.consultant.o1>“啊…没错，再跟我说说当前情况吧。“</eventtext.consultant.o1>
-    <eventtext.consultant.o1.c1>原来是这样，因为有毒气体泄漏，矿工们已经停止在井下的工作。“他们提出的高危作业津贴太离谱了，我们没准备这笔预算。这就是你前来的原因，对吧？让我们和矿工之间达成互惠互利的协议？”</eventtext.consultant.o1.c1>
+    <eventtext.consultant.o1.c1>搞清了来龙去脉，因为有毒气体泄漏，矿工们已经停止在井下的工作。“他们提出的高危作业津贴太离谱了，我们没准备这笔预算。这就是你前来的原因，对吧？让我们和矿工之间达成互惠互利的协议？”</eventtext.consultant.o1.c1>
     <eventtext.consultant.o1.o1>“没错，我和工头联系一下。”</eventtext.consultant.o1.o1>
     <eventtext.consultant.o1.o1.c1>“他们应该在主矿井那边，祝你好运。”</eventtext.consultant.o1.o1.c1>
     <eventtext.consultant.o1.o1.c1.c1>工头踱来踱去，和无线电另一边的人大声争论。你只听到最后几句话，“我们没有足够的全遮罩氧气面罩分给所有人，即使有，我们也没有那么多氧气可挥霍，不，矿井通风设施和前哨站其他设施是连接在一起的，我们不能冒险把它抽出来。”他一脸恼怒地看着你，“你也是为了气体泄漏这件事来的吗？”</eventtext.consultant.o1.o1.c1.c1>
@@ -5378,7 +5378,7 @@
     <eventtext.missionevent_crawlernest.c1>“几名潜水员在附近发现了一个堆满怪物蛋的藻鬃爬行者巢穴。我们可不想在周边看到一群藻鬃爬行者，所以如果你能处理掉这些麻烦，我们可以给你一些报酬。”</eventtext.missionevent_crawlernest.c1>
     <eventtext.missionevent_tigerthreshernest.c1>“几名潜水员在附近发现了一个堆满怪物蛋的虎尾鲨巢穴。我们可不想在周边看到一群虎尾鲨，所以如果你能处理掉这些麻烦，我们可以给你一些报酬。”</eventtext.missionevent_tigerthreshernest.c1>
     <eventtext.missionevent_clearruin.c1>我们正在对附近的遗迹进行研究，但此处的守护者阻碍了研究。为我们清除它们，好吗？</eventtext.missionevent_clearruin.c1>
-    <eventtext.missionevent_scanruin.c1>“科學家們提出一個請求。需要測繪附近的一個遺跡。當然，是有償的。”</eventtext.missionevent_scanruin.c1>
+    <eventtext.missionevent_scanruin.c1>“科学家们提出一个请求。需要测绘附近的一个遗迹。当然，是有偿的。”</eventtext.missionevent_scanruin.c1>
     <eventtext.missionevent_beacon.c1>“为了建立新的前哨站，我们希望你去帮忙重启一个失去信号的信标。待它恢复正常后，你和你的船员可以从中获益。”</eventtext.missionevent_beacon.c1>
     <eventtext.missionevent_escort2.c1>“一位德高望重的医疗专家和他的武装护卫正在寻找前往附近前哨站的交通工具。务必要保证他们的安全。”</eventtext.missionevent_escort2.c1>
     <eventtext.missionevent_pirate1.c1>“最近有一批海盗在周边劫掠物资。消灭海盗，我们就会给出我们掌握的坐标。不过要小心，这些小贼的船火力强劲。”</eventtext.missionevent_pirate1.c1>
@@ -5482,7 +5482,7 @@
     <eventtext.assassinationofjacovsubra4.o1.o1>“留着贿赂法官吧。”</eventtext.assassinationofjacovsubra4.o1.o1>
     <eventtext.assassinationofjacovsubra4.o1.o1.c1>“我上过法庭，知道那是怎么回事。”雅可夫的笑容十分怪异。“你怎么能确认我不会再逃出来呢？”</eventtext.assassinationofjacovsubra4.o1.o1.c1>
     <eventtext.assassinationofjacovsubra4.o1.o1.o1>“不关我事。”</eventtext.assassinationofjacovsubra4.o1.o1.o1>
-    <eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>“看得出來你根本不關心我的是，我給你三千馬克，你放我走，成嗎？”</eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>
+    <eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>“看得出来你根本不关心我的事，我给你三千马克，你放我走，成交？”</eventtext.assassinationofjacovsubra4.o1.o1.o1.c1>
     <eventtext.assassinationofjacovsubra4.deal>“成交。”</eventtext.assassinationofjacovsubra4.deal>
     <eventtext.assassinationofjacovsubra4.neversaw>“钱给你，后会无期。”</eventtext.assassinationofjacovsubra4.neversaw>
     <eventtext.assassinationofjacovsubra4.nodeal>“想都别想，老实点，跟我走。”</eventtext.assassinationofjacovsubra4.nodeal>
@@ -6236,19 +6236,19 @@
     <talentname.warriorpoet>弃笔从戎</talentname.warriorpoet>
     <talentname.gunsmith>玩枪妙手</talentname.gunsmith>
     <talentname.commando>敢死部队</talentname.commando>
-    <talentname.dualspecops>双重动力</talentname.dualspecops>
+    <talentname.dualspecops>两栖特战队</talentname.dualspecops>
     <talentname.implacable>破釜沉舟</talentname.implacable>
-    <talentname.apprenticeship>虚心好学</talentname.apprenticeship>
-    <talentname.multitasker>一心多用</talentname.multitasker>
+    <talentname.apprenticeship>实习员工</talentname.apprenticeship>
+    <talentname.multitasker>身兼数职</talentname.multitasker>
     <talentname.richinknowledge>博学多识</talentname.richinknowledge>
-    <talentname.standanddeliver>为人师表</talentname.standanddeliver>
+    <talentname.standanddeliver>辗转相传</talentname.standanddeliver>
     <talentname.aceofalltrades>全职高手</talentname.aceofalltrades>
-    <talentname.olympian>奥林匹克</talentname.olympian>
+    <talentname.olympian>奥运选手</talentname.olympian>
     <talentname.playingcatchup>后来居上</talentname.playingcatchup>
     <talentname.skedaddle>脚底抹油</talentname.skedaddle>
     <talentname.crewlayabout>躺平船员</talentname.crewlayabout>
     <talentname.survivalpackage>道友先死</talentname.survivalpackage>
-    <talentname.insurancepolicy>保险政策</talentname.insurancepolicy>
+    <talentname.insurancepolicy>保险单</talentname.insurancepolicy>
     <talentname.stillkicking>死而不僵</talentname.stillkicking>
     <talentname.graduationceremony>毕业典礼</talentname.graduationceremony>
     <talentname.enrollintoclowncollege>小丑修行</talentname.enrollintoclowncollege>
@@ -6270,7 +6270,7 @@
     <talentname.intheflow>内部应用</talentname.intheflow>
     <talentname.castledoctrine>城堡学说</talentname.castledoctrine>
     <talentname.electrochemist>电化学家</talentname.electrochemist>
-    <talentname.optimizedpowerflow>能量优化</talentname.optimizedpowerflow>
+    <talentname.optimizedpowerflow>电流优化</talentname.optimizedpowerflow>
     <talentname.coauthor>共同作者</talentname.coauthor>
     <talentname.polymath>博学多才</talentname.polymath>
     <talentname.phdinnuclearphysics>核物理博士</talentname.phdinnuclearphysics>
@@ -6362,7 +6362,7 @@
     <talentdescription.hazardousmaterials>每当你第一次检查船骸中的反应堆时，必然会找到稀有材料。</talentdescription.hazardousmaterials>
     <talentdescription.gainskillatlowskill>当你获得低于[skilltotal]级技能的技能点时，额外再获得一个技能点。</talentdescription.gainskillatlowskill>
     <talentdescription.advancedsplicing>每当你或其他友军组合或精炼基因材料时，获得[experienceamount]经验和[skillbonus]医疗技能的奖励。</talentdescription.advancedsplicing>
-    <talentdescription.increasemaxrepairelectrical>只要你的电气技能是高于[skilltotal]，你就可以修复电气设备，使其状态超过其上限[percentage]%。</talentdescription.increasemaxrepairelectrical>
+    <talentdescription.increasemaxrepairelectrical>只要你的电气技能是[skilltotal]以上，你修复的电气设备其状态可以超过其上限[percentage]%。</talentdescription.increasemaxrepairelectrical>
     <talentname.overclocking>超频</talentname.overclocking>
     <talentname.dontdieonme>冥土追魂</talentname.dontdieonme>
     <talentdescription.dontdieonme>你施展的心肺复苏效力大幅增强。</talentdescription.dontdieonme>
@@ -6411,7 +6411,7 @@
     <talentdescription.pyromaniac>当你对敌人造成燃烧伤害时，获得[physicaldamagereduction]%的物理伤害抗性，持续[seconds]秒。\n并增加[burnincrease]%的额外燃烧伤害。</talentdescription.pyromaniac>
     <talentdescription.scrapsavant>你可以将[scrapamount]废料精炼成异星材料。\n当你制造异星材料时，获得[experienceamount]经验。</talentdescription.scrapsavant>
     <talentdescription.scrounger>当你拆解废料时，获得[experienceamount]经验。</talentdescription.scrounger>
-    <talentdescription.elbowgrease>你的近战力量和最大生命值提升机修技能的[statamount]%。</talentdescription.elbowgrease>
+    <talentdescription.elbowgrease>你的近战力量和最大生命值提升机械工程技能的[statamount]%。\n当你分解废料时，获得[skillamount]点机械工程技能加成。</talentdescription.elbowgrease>
     <talentdescription.miner>每次分解矿石时，有[probability]%概率获得双倍产出。</talentdescription.miner>
     <talentdescription.tinker.fabricatoranddeconstructor>你可以对加工台和解构仪进行超频，提高其运行速度[speedincrease]%。\n你可以对加工台和解构仪进行无限次超频。</talentdescription.tinker.fabricatoranddeconstructor>
     <talentdescription.tinker.pump>你可以超频水泵，使其抽水速度提高[speedincrease]%。</talentdescription.tinker.pump>
@@ -6976,11 +6976,11 @@
     <tutorial.roles.medicalinstructor.healthui>“很好，拿过来给我。把你的鼠标移到我身上，然后按 [InputType.Health] 进入我的健康界面。”</tutorial.roles.medicalinstructor.healthui>
     <tutorial.roles.popup.healthui1>按[InputType.Health]打开医生的健康界面。</tutorial.roles.popup.healthui1>
     <tutorial.roles.popup.healthui2>将吗啡拖拽到身体上。</tutorial.roles.popup.healthui2>
-    <tutorial.roles.medicalinstructor.medfabricator1>“这下头痛好了，但手还在颤抖。我们的烯丙羟吗啡酮是不是用完了？那只能新造了。你去找来吗啡和愈素。”</tutorial.roles.medicalinstructor.medfabricator1>
-    <tutorial.roles.popup.medfabricator1>找到吗啡和愈素。</tutorial.roles.popup.medfabricator1>
+    <tutorial.roles.medicalinstructor.medfabricator1>“这下头痛好了，但手还在颤抖。我们的烯丙羟吗啡酮是不是用完了？那只能新造了。你去找来吗啡和疗素。”</tutorial.roles.medicalinstructor.medfabricator1>
+    <tutorial.roles.popup.medfabricator1>找到吗啡和疗素。</tutorial.roles.popup.medfabricator1>
     <tutorial.roles.medicalinstructor.medfabricator2>“你可以在医疗加工台制造药物。就像普通加工台一样，材料放进去，成品拿出来。试试看吧。”</tutorial.roles.medicalinstructor.medfabricator2>
     <tutorial.roles.popup.medfabricator2>在列表中找到烯丙羟吗啡酮并点击</tutorial.roles.popup.medfabricator2>
-    <tutorial.roles.popup.medfabricator3>将吗啡和愈素放入素材栏并点击“制造”。</tutorial.roles.popup.medfabricator3>
+    <tutorial.roles.popup.medfabricator3>将吗啡和疗素放入素材栏并点击“制造”。</tutorial.roles.popup.medfabricator3>
     <tutorial.roles.popup.medfabricator4>将制造出的烯丙羟吗啡酮从右边的输出端拿出。</tutorial.roles.popup.medfabricator4>
     <tutorial.roles.medicalinstructor.medfabricator3>“把烯丙羟吗啡酮给我用上吧。记住，按[InputType.Health]进入我的健康界面。”</tutorial.roles.medicalinstructor.medfabricator3>
     <tutorial.roles.popup.naloxone>施用烯丙羟吗啡酮。</tutorial.roles.popup.naloxone>
@@ -7004,7 +7004,7 @@
     <tutorial.roles.medic.objective.morphine1>找到吗啡</tutorial.roles.medic.objective.morphine1>
     <tutorial.roles.medic.objective.morphine2>对导师施用吗啡</tutorial.roles.medic.objective.morphine2>
     <tutorial.roles.medic.objective.medfabricator>制造并施用烯丙羟吗啡酮</tutorial.roles.medic.objective.medfabricator>
-    <tutorial.roles.medic.objective.medfabricator1>找到吗啡和愈素</tutorial.roles.medic.objective.medfabricator1>
+    <tutorial.roles.medic.objective.medfabricator1>找到吗啡和疗素</tutorial.roles.medic.objective.medfabricator1>
     <tutorial.roles.medic.objective.medfabricator2>施用医疗加工台制造烯丙羟吗啡酮</tutorial.roles.medic.objective.medfabricator2>
     <tutorial.roles.medic.objective.medfabricator3>使用烯丙羟吗啡酮治疗导师</tutorial.roles.medic.objective.medfabricator3>
     <tutorial.roles.medic.objective.crewquarters>治疗船员室里的病人</tutorial.roles.medic.objective.crewquarters>
