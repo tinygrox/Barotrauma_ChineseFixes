@@ -56,7 +56,7 @@
     <loadingscreentip>在潜艇编辑器中，你可以将Wifi元件连接到无线电聊天模块，以构建语音控制系统。</loadingscreentip>
     <loadingscreentip>木星周围的辐射带得在木卫二表面建立永久定居点变得不现实，因此所有的木卫二前哨站都位于地表冰壳之下。</loadingscreentip>
     <loadingscreentip>木卫二的水下生态系统链条尚未完全明确，但人们相信食物链的基础是渺小的化学合成细菌。</loadingscreentip>
-    <loadingscreentip>木卫二联盟最初是两个最大的木卫二定居点与几个私人准军事组织之间的贸易合作协定，但后来逐渐发展为木卫二政府。</loadingscreentip>
+    <loadingscreentip>木卫二联盟最初是两个最大的木卫二定居点与几个私人准军事组织之间的贸易合作协定，但后来逐渐发展为木卫二的联合政府。</loadingscreentip>
     <loadingscreentip>有人计划在潜艇中派驻专业娱乐人员来缓解船员压力，不过这项计划很快被认定是失败的，并在人们的嘲讽声中终止了。</loadingscreentip>
     <loadingscreentip>大多数潜艇与船只都避免驶出隧道与木卫二冰层内部的裂缝——表层与内核之间的巨大深渊之中，潜藏着木卫二最巨大、最危险的“原生居民”。</loadingscreentip>
     <loadingscreentip>若放着它们不管，一群寄生植物群最终会聚合生长，成为一个能够控制它所居住的潜艇的高智能有机体——丘脑。</loadingscreentip>
@@ -264,7 +264,7 @@
     <PublishPopupInstall>安装中...</PublishPopupInstall>
     <PublishPopupCreateLocal>创建本地副本...</PublishPopupCreateLocal>
     <PublishPopupStaging>将项目复制到暂存文件夹...</PublishPopupStaging>
-    <PublishPopupSubmit>提交项目到工作室...</PublishPopupSubmit>
+    <PublishPopupSubmit>提交项目到创意工坊...</PublishPopupSubmit>
     <OpenLocalModInExplorer>本地模组\n点击在资源管理器中打开</OpenLocalModInExplorer>
     <ViewWorkshopModDetails>查看详情</ViewWorkshopModDetails>
     <EnableWorkshopMod>启用</EnableWorkshopMod>
@@ -1000,8 +1000,8 @@
     <playercredits>马克：[credits]</playercredits>
     <missioninfo>任务信息</missioninfo>
     <missionreward>奖励：[reward]</missionreward>
-    <missionrewardcargopercrate>奖励: [rewardpercrate] x [itemcount] (上限[maxitemcount]) = [totalreward]</missionrewardcargopercrate>
-    <missionrewardcargo>奖励: [totalreward] ([itemcount]箱 上限[maxitemcount])</missionrewardcargo>
+    <missionrewardcargopercrate>奖励: [rewardpercrate] x [itemcount] (最多运输[maxitemcount]) = [totalreward]</missionrewardcargopercrate>
+    <missionrewardcargo>奖励: [totalreward] ([itemcount]箱 最多运输[maxitemcount])</missionrewardcargo>
     <infobutton>信息</infobutton>
     <endround>结束巡回</endround>
     <enterlocation>进入 [locationname]</enterlocation>
@@ -1941,7 +1941,7 @@
     <entitydescription.railguncanistershellpellet>霰弹炮弹中填装的弹丸。</entitydescription.railguncanistershellpellet>
     <entityname.pulselaser>脉冲激光</entityname.pulselaser>
     <entitydescription.pulselaser>一种可作为炮塔装载的大型化学脉冲激光器，在充电后能发出威力强劲的激光束，对目标造成严重的灼伤。</entitydescription.pulselaser>
-    <entityname.pulselaserammobox>脉冲激光物资箱</entityname.pulselaserammobox>
+    <entityname.pulselaserammobox>脉冲激光弹药箱</entityname.pulselaserammobox>
     <entitydescription.pulselaserammobox>一个装好化学药剂和聚焦透镜的箱子，可以诱发强烈的能量爆发，可以视作脉冲激光的弹药。</entitydescription.pulselaserammobox>
     <entityname.pulselaserbolt>脉冲激光枪栓</entityname.pulselaserbolt>
     <entityname.pulselaserloader>脉冲激光装弹器</entityname.pulselaserloader>
@@ -2041,7 +2041,7 @@
     <entitydescription.coilgunammoboxpiercing>电磁枪弹药。具有穿甲效果。</entitydescription.coilgunammoboxpiercing>
     <entityname.chaingunammoboxphysicorium>刚素连射炮弹药箱</entityname.chaingunammoboxphysicorium>
     <entitydescription.chaingunammoboxphysicorium>极其沉重的，主体由刚素构成的连射炮弹药箱。这种弹药可以阻碍任何敌人的行动，甚至有可能将其击晕。</entitydescription.chaingunammoboxphysicorium>
-    <entityname.pulselaserammoboxtrilaser>三联脉冲激光物资箱</entityname.pulselaserammoboxtrilaser>
+    <entityname.pulselaserammoboxtrilaser>三联脉冲激光弹药箱</entityname.pulselaserammoboxtrilaser>
     <entitydescription.pulselaserammoboxtrilaser>一个装好化学药剂和聚焦透镜的箱子，可以诱发三束强力的激光，可以一次击中多个目标。</entitydescription.pulselaserammoboxtrilaser>
     <entityname.coilgunboltexplosive>爆破电磁枪矢</entityname.coilgunboltexplosive>
     <entitydescription.coilgunboltexplosive>电磁枪弹药。命中时爆炸。</entitydescription.coilgunboltexplosive>
@@ -2065,7 +2065,7 @@
     <entitydescription.alienspear>鱼叉枪的“弹药”，以异星原料制成。</entitydescription.alienspear>
     <entityname.explosivespear>爆炸鱼叉</entityname.explosivespear>
     <entitydescription.explosivespear>鱼叉枪的“弹药”。</entitydescription.explosivespear>
-    <entityname.harpoongun>鱼叉枪用的鱼叉枪。</entityname.harpoongun>
+    <entityname.harpoongun>鱼叉枪</entityname.harpoongun>
     <entitydescription.harpoongun>可发射鱼叉、爆炸鱼叉、刚素鱼叉。</entitydescription.harpoongun>
     <entityname.syringegun>注射器枪</entityname.syringegun>
     <entitydescription.syringegun>发射包含药物或毒液的注射器。</entitydescription.syringegun>
@@ -2624,7 +2624,7 @@
     <entitydescription.titanium>一种硬质金属。用于制作耐久的钛铝合金，以及部分军用设备。</entitydescription.titanium>
     <entityname.thorium>钍</entityname.thorium>
     <entitydescription.thorium>一种带有一定放射性的银色金属。可以精炼以制造耐用的燃料棒。</entitydescription.thorium>
-    <entityname.steel>钢筋</entityname.steel>
+    <entityname.steel>钢</entityname.steel>
     <entitydescription.steel>一种由碳和铁制成的高强度合金。用于燃料棒制造以及部分军用设备。</entitydescription.steel>
     <entityname.titaniumaluminiumalloy>钛铝合金</entityname.titaniumaluminiumalloy>
     <entitydescription.titaniumaluminiumalloy>一种高强度合金。用于制作耐久的潜水装备，以及高级军用设备。</entitydescription.titaniumaluminiumalloy>
@@ -3310,7 +3310,7 @@
     <reactorwarningcriticallowtemp>临界\n低温</reactorwarningcriticallowtemp>
     <reactorwarningcriticaloutput>临界\n输出</reactorwarningcriticaloutput>
     <reactorwarninglowtemp>温度过低</reactorwarninglowtemp>
-    <reactorwarningoverheating>炉芯过热</reactorwarningoverheating>
+    <reactorwarningoverheating>堆芯过热</reactorwarningoverheating>
     <reactorwarninglowoutput>输出过低</reactorwarninglowoutput>
     <reactorwarninghighoutput>输出过高</reactorwarninghighoutput>
     <reactorwarninglowfuel>燃料不足</reactorwarninglowfuel>
@@ -3950,7 +3950,7 @@
     <minorbleeding>轻微出血</minorbleeding>
     <bleeding>出血</bleeding>
     <heavybleeding>大出血</heavybleeding>
-    <catastrophicbleeding>血崩</catastrophicbleeding>
+    <catastrophicbleeding>血流如注</catastrophicbleeding>
     <noinjuries>无明显创伤</noinjuries>
     <minorinjuries>轻伤</minorinjuries>
     <injuries>受伤</injuries>
@@ -4885,7 +4885,7 @@
     <traitorgoalkeepalive>保护[speciesname]，[duration]秒。</traitorgoalkeepalive>
 
     <!-- MVP traitor mission text package -->
-    <mvptraitormissionstartinfotext>你脑袋里的一个声音吓了你一跳：“寄生虫教召唤你的服务！”</mvptraitormissionstartinfotext>
+    <mvptraitormissionstartinfotext>你脑袋里的一个声音吓了你一跳：“画皮神教需要你的服务！”</mvptraitormissionstartinfotext>
     <mvptraitorobjectivestartmessage1>你的脑海中涌出了一个想法，尽管平庸无比，但还是占据了你的心志：\n[traitorgoalinfos]</mvptraitorobjectivestartmessage1>
     <mvp_goalinfotext_1>寻找储藏柜 - 给你的特别消息就藏在一个备用氧气罐下面。</mvp_goalinfotext_1>
     <mvpobjectivesuccessmessage1>不知怎么，氧气罐下面真的藏着一张肮脏的纸片。上面涂抹着原始的字样，但你本能的理解了上面的内容。</mvpobjectivesuccessmessage1>
@@ -5790,7 +5790,7 @@
     <upgradename.increasewallhealth>强化船壳</upgradename.increasewallhealth>
     <upgradedescription.increasewallhealth>提升潜艇外壳强度，使潜艇外壳更加牢靠，使其能够抵御更深层海域的水压。</upgradedescription.increasewallhealth>
     <upgradename.increasedeteriorationdelay>耐久性增强</upgradename.increasedeteriorationdelay>
-    <upgradedescription.increasedeteriorationdelay>船内设备使用更久后才会开始恶化</upgradedescription.increasedeteriorationdelay>
+    <upgradedescription.increasedeteriorationdelay>船内设备使用更久后才会开始老化。</upgradedescription.increasedeteriorationdelay>
     <upgradename.decreasedeteriorationspeed>冗余系统增强</upgradename.decreasedeteriorationspeed>
     <upgradedescription.decreasedeteriorationspeed>船内设备老化的速度有所减缓</upgradedescription.decreasedeteriorationspeed>
     <upgradename.decreaselowskillfixduration>模组化修复</upgradename.decreaselowskillfixduration>
@@ -5807,8 +5807,8 @@
     <upgradedescription.decreasedeconstructiontime>减少解构物品所需的时间，但略微提高能量使用。</upgradedescription.decreasedeconstructiontime>
     <upgradename.turretdecreasepowerconsumption>能效提升</upgradename.turretdecreasepowerconsumption>
     <upgradedescription.turretdecreasepowerconsumption>降低功耗。</upgradedescription.turretdecreasepowerconsumption>
-    <upgradename.turretincreaserotationlowskill>快速装弹</upgradename.turretincreaserotationlowskill>
-    <upgradedescription.turretincreaserotationlowskill>减少船员技能等级不足时装弹所需时间</upgradedescription.turretincreaserotationlowskill>
+    <upgradename.turretincreaserotationlowskill>快速转向</upgradename.turretincreaserotationlowskill>
+    <upgradedescription.turretincreaserotationlowskill>为技能不熟练的船员提升炮塔转向速度。</upgradedescription.turretincreaserotationlowskill>
     <upgradename.turretincreaseoffsetonselected>潜望镜增强</upgradename.turretincreaseoffsetonselected>
     <upgradedescription.turretincreaseoffsetonselected>提升所有武器的观察范围。</upgradedescription.turretincreaseoffsetonselected>
     <upgradename.increaseoxygengeneration>高效制氧</upgradename.increaseoxygengeneration>
@@ -5816,9 +5816,9 @@
     <upgradename.increasereactoroutput>高效反应堆</upgradename.increasereactoroutput>
     <upgradedescription.increasereactoroutput>提升反应堆输出功率。</upgradedescription.increasereactoroutput>
     <upgradename.decreasefuelconsumption>改良冷却棒</upgradename.decreasefuelconsumption>
-    <upgradedescription.decreasefuelconsumption>降低油耗率。提高反应堆在熔毁前能在临界温度支持的时间。</upgradedescription.decreasefuelconsumption>
+    <upgradedescription.decreasefuelconsumption>降低燃料棒消耗速度。提高反应堆处在临界温度而不熔毁的时间。</upgradedescription.decreasefuelconsumption>
     <upgradename.increasemeltdowndelay>耐热反应堆</upgradename.increasemeltdowndelay>
-    <upgradedescription.increasemeltdowndelay>提升反应堆在熔毁前维持临界温度的时间。</upgradedescription.increasemeltdowndelay>
+    <upgradedescription.increasemeltdowndelay>提高反应堆处在临界温度而不熔毁的时间。</upgradedescription.increasemeltdowndelay>
     <upgradename.increasemaxpumpflow>高效水泵</upgradename.increasemaxpumpflow>
     <upgradedescription.increasemaxpumpflow>提升水泵的抽出泵入效率。降低水泵能量消耗。</upgradedescription.increasemaxpumpflow>
     <upgradename.increaseenginemaxforce>增强引擎</upgradename.increaseenginemaxforce>
@@ -6148,7 +6148,7 @@
     <qualitystattypenames.repairspeed>修复速度</qualitystattypenames.repairspeed>
     <qualitystattypenames.repairtoolstructurerepairmultiplier>船体修复速度</qualitystattypenames.repairtoolstructurerepairmultiplier>
     <qualitystattypenames.repairtoolstructuredamagemultiplier>船体伤害</qualitystattypenames.repairtoolstructuredamagemultiplier>
-    <qualitystattypenames.repairtooldeattachtimemultiplier>分离速度减少</qualitystattypenames.repairtooldeattachtimemultiplier>
+    <qualitystattypenames.repairtooldeattachtimemultiplier>分离时间减少</qualitystattypenames.repairtooldeattachtimemultiplier>
     <qualitystattypenames.attackmultiplier>攻击力</qualitystattypenames.attackmultiplier>
     <qualitystattypenames.attackspeedmultiplier>攻击速度</qualitystattypenames.attackspeedmultiplier>
     <qualitystattypenames.forcedoorsopenspeedmultiplier>撬门速度</qualitystattypenames.forcedoorsopenspeedmultiplier>
@@ -6325,7 +6325,7 @@
     <talentdescription.tinker.fabricatoranddeconstructor>你可以超频加工台或解构仪，使其的运行速度提高[speedincrease]%。</talentdescription.tinker.fabricatoranddeconstructor>
     <talentdescription.honkinggivesskillgain>有了小丑之力后，你可以通过鸣喇叭让附近的友军在短时间内获得[skillgainincrease]%的技能加成。</talentdescription.honkinggivesskillgain>
     <talentdescription.honkinghealscharacters>有了小丑之力后，你可以通过鸣喇叭让附近的友军缓慢恢复生命。</talentdescription.honkinghealscharacters>
-    <talentdescription.standanddeliver>每当你完成任一任务，都会获得一本《水手指南》。\n当你使用《水手指南》，附近所有船员提升其所有技能[skillamount]点。</talentdescription.standanddeliver>
+    <talentdescription.standanddeliver>每当你完成任一任务，都会获得一本《水手指南》。\n当你使用《水手指南》，离你最近的船员提升其所有技能[skillamount]点。</talentdescription.standanddeliver>
     <talentdescription.letitdrainreminder>你最多只能在你的潜艇上安装[itemcount]个该物品。</talentdescription.letitdrainreminder>
     <talentdescription.cannedheat>每当你演奏手风琴时，离你最近的友军将每秒获得[allyexperienceamount]经验。当友军获得经验时，你会获得[experienceamount]经验。</talentdescription.cannedheat>
     <talentdescription.nuclearoption>当你制造燃料棒时，获得三倍产出。</talentdescription.nuclearoption>
