@@ -7,8 +7,8 @@
     <!-- Submarine Editor -->
     <items>物品</items>
     <structures>结构</structures>
-    <totalhullvolume>总的艇体空间</totalhullvolume>
-    <selectedhullvolume>选定的艇体空间</selectedhullvolume>
+    <totalhullvolume>总的船体空间</totalhullvolume>
+    <selectedhullvolume>选定的船体空间</selectedhullvolume>
     <optimalballastlevel>压载舱悬浮最佳水位[value]</optimalballastlevel>
     <saveitemassembly>保存为物品组件</saveitemassembly>
     <insufficientballast>压载舱体积空间不足以控制浮潜</insufficientballast>
@@ -34,8 +34,8 @@
     <showwaypoints>路径点</showwaypoints>
     <showspawnpoints>生成点</showspawnpoints>
     <showlinks>连接</showlinks>
-    <showhulls>艇体</showhulls>
-    <showgaps>分隔点</showgaps>
+    <showhulls>船体</showhulls>
+    <showgaps>间隙</showgaps>
     <previouslyusedlabel>上次使用</previouslyusedlabel>
     <subnamemissingwarning>保存前请命名你的潜水艇。</subnamemissingwarning>
     <subnameillegalcharswarning>文件名包含非法字符([illegalchar])</subnameillegalcharswarning>
@@ -51,7 +51,7 @@
     <itemassemblynamemissingwarning>保存前请给物品组件命名.</itemassemblynamemissingwarning>
     <itemassemblyfileexistswarning>存在相同名称的物品组件。你是要覆盖掉这个物品组件吗?</itemassemblyfileexistswarning>
     <itemassemblynameillegalcharswarning>文件名包含非法字符([illegalchar])</itemassemblynameillegalcharswarning>
-    <nohullswarning>未在该潜艇找到艇体结构. 艇体结构是潜艇中作为识别舱室的'边界'，只有存在舱室的情况下，潜艇中才会视为有空气和水的流动。</nohullswarning>
+    <nohullswarning>未在该潜艇找到船体结构. 船体结构是潜艇中作为识别舱室的'边界'，只有存在舱室的情况下，潜艇中才会视为有空气和水的流动。</nohullswarning>
     <disconnectedventswarning>潜水艇安装的通风口未连接到制氧机上。选定通风口，按住空格并单击制氧机来进行连接。</disconnectedventswarning>
     <disconnectedturretswarning>潜水艇安装的[itemname]未连接到装弹器. 选定该物品，按住空格并单击装弹器来进行连接</disconnectedturretswarning>
     <nowaypointswarning>潜艇上未找到路径点. 没有路径点将导致 AI 船员无法行动。</nowaypointswarning>
@@ -61,7 +61,7 @@
     <adjustedlightsnotification>潜艇的光影效果已调整。有多个光源的区域可能还是会显得很亮，需要手动降低灯光的范围或亮度。 你也可以使用控制台命令'multiplylights'一次调整所有灯的亮度. 例如, 'multiplylights 1,1,1,0.5' 会降低亮度 50%.</adjustedlightsnotification>
     <noballasttagswarning>你应该在压载舱水泵上添加标签“压载”，以允许 AI 船员识别哪些泵用于控制潜艇的浮力。</noballasttagswarning>
     <insufficientfreeconnectionswarning>该模块包含一个连接了[doorcount]个门的接线盒，但只有[freeconnectioncount]个的空闲接线位置。这可能会导致前哨站的供电不正确。</insufficientfreeconnectionswarning>
-    <nohullnameswarning>没有给任何艇体（舱室）命名，将使用自动生成的名称。角色在报告如舱室进水等事件时将会使用自动生成的名称。</nohullnameswarning>
+    <nohullnameswarning>没有给任何船体（舱室）命名，将使用自动生成的名称。角色在报告如舱室进水等事件时将会使用自动生成的名称。</nohullnameswarning>
     <deletingcontainerwithitems>一个装有物品的货柜已经移除, 同时也移除包含的物品?\n\n包含物品:\n\n</deletingcontainerwithitems>
     <hideinmenus>在菜单隐藏</hideinmenus>
     <manuallyoutfitted>手动装配物资</manuallyoutfitted>
@@ -73,7 +73,7 @@
     <mirrorentityxtooltip>水平方向翻转物体。也可以使用快捷键Ctrl + N.</mirrorentityxtooltip>
     <mirrorentityy>竖直翻转</mirrorentityy>
     <mirrorentityytooltip>竖直向翻转物体。也可以使用快捷键Ctrl + M.</mirrorentityytooltip>
-    <nonlinkedgapswarning>潜艇上有一些未与艇体相接的分隔点。分隔点应始终至少与一个艇体（如船员通过该分隔点到达潜艇外部），如要分隔出两个舱室，则分隔点需要在两个艇体之间。</nonlinkedgapswarning>
+    <nonlinkedgapswarning>潜艇上有一些未与船体相接的间隙。间隙应始终至少与一个船体（如船员通过该间隙到达潜艇外部），如要分隔出两个舱室，则需要在两个船体之间存在间隙。</nonlinkedgapswarning>
     <cannoteditvanillasubs>无法编辑原版内容包中定义的潜艇！</cannoteditvanillasubs>
     <subeditor.structurecountwarning>潜艇中的结构数量非常多，这可能会导致性能相关的问题。可考虑减少结构的数量。</subeditor.structurecountwarning>
     <subeditor.structurecounterror>潜艇结构数量超出上限 (>[max]), 将导致性能问题。 请减少结构的数量。</subeditor.structurecounterror>
@@ -425,7 +425,7 @@
     <sp.minimap.requirewaterdetectors.description>机器是否需要安装水位传感器才能显示舱室内的水位信息。</sp.minimap.requirewaterdetectors.description>
     <sp.minimap.requireoxygendetectors.name>需要氧含量传感器</sp.minimap.requireoxygendetectors.name>
     <sp.minimap.requireoxygendetectors.description>机器是否需要安装氧含量传感器才能显示舱室内的氧气含量。</sp.minimap.requireoxygendetectors.description>
-    <sp.minimap.showhullintegrity.name>显示艇体完整度</sp.minimap.showhullintegrity.name>
+    <sp.minimap.showhullintegrity.name>显示船体完整度</sp.minimap.showhullintegrity.name>
     <sp.minimap.showhullintegrity.description>机器是否显示舱内墙体受损的位置。</sp.minimap.showhullintegrity.description>
     <sp.reactor.maxpoweroutput.name>最高电力输出</sp.reactor.maxpoweroutput.name>
     <sp.reactor.maxpoweroutput.description>反应堆满负荷运行时产生的电力（kW）。</sp.reactor.maxpoweroutput.description>
@@ -595,10 +595,10 @@
     <sp.vulnerabletoemp.description>电磁脉冲是否会损坏该物品。</sp.vulnerabletoemp.description>
 
     <!-- Structure -->
-    <entityname.hull>艇体</entityname.hull>
-    <entitydescription.hull>艇体决定了那些区域是属于'潜艇内'。 一般每个封闭的舱室都应该存在艇体。</entitydescription.hull>
-    <entityname.gap>分隔点</entityname.gap>
-    <entitydescription.gap>分隔点能让水和空气在两个艇体间流动。</entitydescription.gap>
+    <entityname.hull>船体</entityname.hull>
+    <entitydescription.hull>船体决定了那些区域是属于'潜艇内部'，分隔空间。 一般每个封闭的舱室都应该存在船体。</entitydescription.hull>
+    <entityname.gap>间隙</entityname.gap>
+    <entitydescription.gap>间隙能让水和空气在两个船体间流动。</entitydescription.gap>
     <entityname.waypoint>路径点</entityname.waypoint>
     <entitydescription.waypoint>用于AI船员在潜艇内行动。</entitydescription.waypoint>
     <entityname.spawnpoint>生成点</entityname.spawnpoint>
