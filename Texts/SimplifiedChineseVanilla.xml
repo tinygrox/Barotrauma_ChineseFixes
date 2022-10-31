@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="Simplified Chinese Fixes" nowhitespace="true" translatedname="中文(简体)[修正]">
 
 
@@ -107,9 +107,9 @@
     <!-- Host server menu -->
     <servername>服务器名称</servername>
     <serverport>服务器端口</serverport>
-    <serverporttooltip>该端口用于客户端互联。如果本地客户端无法连接到您的服务器，您可能需要启用UPnP端口转发或手动转发端口。</serverporttooltip>
+    <serverporttooltip>该端口用于与客户端通信。如果其他客户端无法连接到您的服务器，您可能需要启用UPnP端口转发或手动转发端口。</serverporttooltip>
     <serverqueryport>查询端口</serverqueryport>
-    <serverqueryporttooltip>该端口用于与Steam服务器链接，并响应来自其他客户端的信息。如果其他本地客户端未能在服务器列表中看到您的服务器，或出现Steam ID验证失败的情况，请尝试启用UPnP端口转发或手动转发端口。</serverqueryporttooltip>
+    <serverqueryporttooltip>该端口用于与Steam服务器连接，并响应来自其他客户端的信息。如果其他本地客户端未能在服务器列表中看到您的服务器，或出现Steam ID验证失败的情况，请尝试启用UPnP端口转发或手动转发端口。</serverqueryporttooltip>
     <maxplayers>玩家数量上限</maxplayers>
     <password>密码</password>
     <publicserver>公共服务器</publicserver>
@@ -2253,11 +2253,11 @@
     <entityname.coalitionmedal>联盟勋章</entityname.coalitionmedal>
     <entitydescription.coalitionmedal>一枚由联盟用青铜制成的小勋章。与联盟奖章一样，它能赋予另一名船员经验，只是数值更高。</entitydescription.coalitionmedal>
     <entityname.assaultrifle>突击步枪</entityname.assaultrifle>
-    <entitydescription.assaultrifle>一种突击步枪，装填6.8毫米子弹。虽然被联盟禁止，但这些步枪的设计图仍然在木卫二上流传，因为它们是潜艇内防御的最佳选择，或者按照木星分离主义的说法 -  社会革命的首选武器。</entitydescription.assaultrifle>
+    <entitydescription.assaultrifle>一种突击步枪，装填6.8毫米子弹。虽然被联盟禁造，但这些步枪的设计图仍然在木卫二上流传，因为它们是潜艇内防御的最佳选择，或者按照木星分离主义的说法 -  社会革命的首选武器。</entitydescription.assaultrifle>
     <entityname.assaultriflemagazine>突击步枪弹夹</entityname.assaultriflemagazine>
     <entitydescription.assaultriflemagazine>一个专门用于容纳6.8毫米子弹的弹夹。</entitydescription.assaultriflemagazine>
     <entityname.shotgunslugexplosive>爆炸独头弹</entityname.shotgunslugexplosive>
-    <entitydescription.shotgunslugexplosive>一种含有爆炸基质的猎枪弹头。威力强大，但由于是用猎枪发射的所以精准度并不值得期待。</entitydescription.shotgunslugexplosive>
+    <entitydescription.shotgunslugexplosive>一种含有爆炸基质的霰弹枪弹药。威力强大，但由于是霰弹枪的弹药所以精准度并不值得期待。</entitydescription.shotgunslugexplosive>
     <entityname.boardingaxe>登船斧</entityname.boardingaxe>
     <entitydescription.boardingaxe>一把大型手斧，需用双手挥舞。</entitydescription.boardingaxe>
     <entityname.skillbooksailorsguide>《水手指南》</entityname.skillbooksailorsguide>
@@ -2296,8 +2296,8 @@
     <entitydescription.portablepump>一种可以安装在墙上的、用小型电池供电的水泵。泵出水的速度非常快，但消耗电力也很快。</entitydescription.portablepump>
     <entityname.combatstimulantsyringe>战斗兴奋剂</entityname.combatstimulantsyringe>
     <entitydescription.combatstimulantsyringe>一种高度先进的兴奋剂，能迅速治愈使用者的身体损伤和失血。</entitydescription.combatstimulantsyringe>
-    <entityname.explosiveslug>爆炸猎弹</entityname.explosiveslug>
-    <entitydescription.explosiveslug>猎枪的爆炸性弹药。</entitydescription.explosiveslug>
+    <entityname.explosiveslug>爆炸独头弹</entityname.explosiveslug>
+    <entitydescription.explosiveslug>霰弹枪的爆炸性弹药。</entitydescription.explosiveslug>
     <entityname.wrenchdementonite>摄魂扳手</entityname.wrenchdementonite>
     <entityname.screwdriverdementonite>摄魂螺丝刀</entityname.screwdriverdementonite>
     <entityname.crowbardementonite>摄魂撬棍</entityname.crowbardementonite>
@@ -3192,13 +3192,13 @@
 
     <!-- Submarine names & descriptions -->
     <submarine.name.humpback>座头鲸号</submarine.name.humpback>
-    <submarine.description.humpback>前军舰WH4-L3 “座头鲸”（Humpback）已经重新修整，可以对抗木卫二深海中的大多数危险。该舰速度较高，但机动性差，由于上面的反应堆型号已经过时，勉强依靠备用电池阵列发电，如果备用电池没电，那你就会发现这上面的新设备根本用不了。</submarine.description.humpback>
+    <submarine.description.humpback>为了能应对木卫二冰洋深处的危险，前军舰 WH4-L3 “座头鲸”（Humpback）被重新翻修了一遍，升级了设备。该舰速度较高，但机动性差。上面的反应堆型号已经过时，现在勉强依靠备用电池阵列来支撑整个舰艇的设备运行，如果备用电池没电了，那你就会发现这上面的新设备马上就宕机。</submarine.description.humpback>
     <submarine.name.bunyip>沼灵号</submarine.name.bunyip>
-    <submarine.description.bunyip>在载客方面，沼灵号（Bunyip）的能力是出色的，可以快速将人员从一个地方运送到另一个地方。相比同类型的潜艇，作战半径更小，而且没配备任何武器，这使得防御能力严重不足。</submarine.description.bunyip>
+    <submarine.description.bunyip>在人员运输方面，沼灵号（Bunyip）不输其他，可以快速将人员从一个地方运送到另一个地方。相比同类型的潜艇，武器射程较短，而且潜艇上没配备任何武器，这使得在面对攻击时反制能力严重不足。</submarine.description.bunyip>
     <submarine.name.muikku>湖青号</submarine.name.muikku>
     <submarine.description.muikku>木卫二殖民地的主力型号，湖青号（Muikku）具有不错的速度与良好的浮潜性能，但是，它非常脆弱而“短腿”——上面装载的低容量电池限制了它们的航程距离。</submarine.description.muikku>
     <submarine.name.orca>逆戟鲸号</submarine.name.orca>
-    <submarine.description.orca>三个大型压载舱的激进设计使得逆戟鲸（Orca）有着令人惊异的极限航速与浮潜速度，如果你觉得引擎偶尔发生故障、反应堆耗能过大和武器落后这些是小问题的话，逆戟鲸绝对是冰洋中的迅捷之王。</submarine.description.orca>
+    <submarine.description.orca>三个大型压载舱的激进设计使得逆戟鲸（Orca）有着令人惊异的极限航速与浮潜速度，如果你觉得引擎偶尔发生点小故障、反应堆燃料棒消耗神速和武器打不死怪这些是小问题的话，逆戟鲸绝对是冰洋中的迅捷之王。</submarine.description.orca>
     <submarine.name.remora>鮣鱼号</submarine.name.remora>
     <submarine.description.remora>鮣(yìn)鱼号（Remora）有着较大的自由定制空间，船体主要结构包括一个可分离的压载舱和一架遥控无人机，想要玩转这艘潜艇，你需要雇佣大量人力。</submarine.description.remora>
     <submarine.name.typhon>台风号</submarine.name.typhon>
@@ -3214,17 +3214,17 @@
     <submarine.name.kastrull>卡斯特罗</submarine.name.kastrull>
     <submarine.description.kastrull>卡斯特罗（Kastrull）是一种可靠的攻击型潜艇，配备有强大的火力。虽然不是很灵活，但是配备无人机炮艇是这种型号的标准配置。它有着实验性开放式压载舱，由于一不小心就容易进水的特性和高人员数量要求，只有一队经验丰富的船员才能发挥此舰艇的最大实力。</submarine.description.kastrull>
     <submarine.name.hemulen>希米伦号</submarine.name.hemulen>
-    <submarine.description.hemulen>如果你想要的是能在房间里自由伸展你的双腿或是想跟穷人保持距离，那么希米伦（Hemulen）是最佳的选项。</submarine.description.hemulen>
+    <submarine.description.hemulen>如果你想要的是能在房间里自由伸展你的双腿或是想跟穷人划分界限，那么希米伦号（Hemulen）是你的最佳选项。</submarine.description.hemulen>
     <submarine.name.typhon2>台风2号</submarine.name.typhon2>
     <submarine.description.typhon2>台风2号（Typhon 2）是台风号的“船新”版本。作为重型武装潜艇，台风2号潜航速度较慢，外形丑陋，但具备极强的生存能力。</submarine.description.typhon2>
     <submarine.name.azimuth>方位角号</submarine.name.azimuth>
     <submarine.description.azimuth>方位角号（Azimuth）速度一流，设计时尚，舱内生活条件舒适，这种潜艇成为了那些攒了一堆钱且活下来的联盟退休老艇长的最爱。</submarine.description.azimuth>
     <submarine.name.r-29>R-29 “大块头”</submarine.name.r-29>
-    <submarine.description.r-29>R-29是一艘重型运输潜艇，它的武备很难对付木卫二冰洋之下的怪物们，但作为替代，其上加装了两个强大的放电线圈。该舰船原设计者为rav2n。</submarine.description.r-29>
+    <submarine.description.r-29>R-29是一艘重型运输潜艇，它上面配备的武器很难对付木卫二冰洋里的怪物们，但作为替代，其上加装了两个强大的放电线圈。该舰船原设计者为rav2n。</submarine.description.r-29>
     <submarine.name.barsuk>野獾</submarine.name.barsuk>
     <submarine.description.barsuk>野獾（Barsuk）号潜艇是新手艇长的最爱。它使用被摧毁潜艇的回收材料（反正很多都是野獾）制造使该系列的价格低廉。多年来围绕着定制和调整该原型的船只，甚至形成了野獾爱好者亚文化圈。</submarine.description.barsuk>
     <submarine.name.winterhalter>御冬</submarine.name.winterhalter>
-    <submarine.description.winterhalter>御冬号（Winterhalter）潜艇最初是由 New Iapetus 的 Archsteel Yards 制造的，只生产了一年就被联盟收购用于研究目的。许多现存的型号都配备有船载研究室，而且武装到了牙齿。</submarine.description.winterhalter>
+    <submarine.description.winterhalter>御冬号（Winterhalter）潜艇最初是从 New Iapetus 的 Archsteel Yards ()制造的，只生产了一年就被联盟收购用于研究目的。许多现存的型号都配备有船载研究室，而且武装到了牙齿。</submarine.description.winterhalter>
     <submarine.name.herja>女武神</submarine.name.herja>
     <submarine.description.herja>凭借配备大量武器装备，女武神（Herja）潜艇可以处理与各种木卫二原住民的冲突，是联盟舰队中的中流砥柱。如果听说附近哪个怪物巢穴被清除了，那么很有可能就是女武神的功劳。</submarine.description.herja>
     <submarine.name.orca2>逆戟鲸2号</submarine.name.orca2>
@@ -3609,8 +3609,8 @@
     <dialoglowonfuelrods>燃料棒所剩不多，我们应该去买一些，或是制作一点儿。</dialoglowonfuelrods>
     <dialogoutofweldingfuel>焊接燃料所剩无几！</dialogoutofweldingfuel>
     <dialogoutofoxygentanks>氧气罐空空如也！</dialogoutofoxygentanks>
-    <dialogoutofcoilgunammo>电磁枪的炮弹所剩无几。</dialogoutofcoilgunammo>
-    <dialogoutofrailgunammo>轨道炮的炮弹全打光了！</dialogoutofrailgunammo>
+    <dialogoutofcoilgunammo>电磁枪炮弹所剩无几。</dialogoutofcoilgunammo>
+    <dialogoutofrailgunammo>轨道炮炮弹全打光了！</dialogoutofrailgunammo>
     <dialogoutofturretammo>我们缺少弹药补给！</dialogoutofturretammo>
     <dialogoutoffuelrods>燃料棒全用光了！</dialogoutoffuelrods>
     <dialogcannotfindloadable>我找不到要找的物品！</dialogcannotfindloadable>
@@ -3694,10 +3694,10 @@
     <dialogoutofchaingunammo>连射炮的弹药用尽了。</dialogoutofchaingunammo>
     <dialogoutofpulselaserammo>脉冲激光的物资用光了。</dialogoutofpulselaserammo>
     <dialoglowonchaingunammo>连射炮的弹药全打光了！短时间内无法进行火力压制！</dialoglowonchaingunammo>
-    <dialoglowonpulselaserammo>穿上的脉冲激光物资所剩无几了！</dialoglowonpulselaserammo>
+    <dialoglowonpulselaserammo>潜艇上的脉冲激光所剩无几了！</dialoglowonpulselaserammo>
     <dialoghuskdormant>我的喉咙感觉有点痛。</dialoghuskdormant>
     <dialoghuskdormant>我想我可能发烧了。</dialoghuskdormant>
-    <dialoghuskdormant>我感到非常虚弱。每块肌肉都很疼。</dialoghuskdormant>
+    <dialoghuskdormant>我感觉非常虚弱。全身到处都疼。</dialoghuskdormant>
     <dialoghuskcantspeak>我的嘴里有东西...</dialoghuskcantspeak>
 
     <!-- Character orders -->
@@ -4153,7 +4153,7 @@
     <afflictiondescription.naturalrangedweapon>该角色背部长出尖刺。</afflictiondescription.naturalrangedweapon>
     <afflictionname.damageresistance>摩螺克基因</afflictionname.damageresistance>
     <afflictiondescription.damageresistance>该角色皮肤变硬，抵抗伤害的能力增强。</afflictiondescription.damageresistance>
-    <afflictionname.decreasedoxygenconsumption>虎尾鱼蛇基因</afflictionname.decreasedoxygenconsumption>
+    <afflictionname.decreasedoxygenconsumption>虎尾鲨基因</afflictionname.decreasedoxygenconsumption>
     <afflictiondescription.decreasedoxygenconsumption>该角色身体的氧气利用率提升，需氧量降低。</afflictiondescription.decreasedoxygenconsumption>
     <afflictionname.increasedwalkingspeed>虾脊螳螂基因</afflictionname.increasedwalkingspeed>
     <afflictiondescription.increasedwalkingspeed>该角色骨密度降低，地上行走奔跑速度加快。</afflictiondescription.increasedwalkingspeed>
@@ -5407,8 +5407,8 @@
     <eventtext.unlockpathaphoticplateau.c2>“很抱歉，我知道你一路来此颇为艰难，但我们不能冒险让一个不知名的舰船进入渊洋。这是为了保护你们，你懂吧。”</eventtext.unlockpathaphoticplateau.c2>
     <eventtext.unlockpathaphoticplateau.o1.c1>“当然可以，不过这并非是联盟官方的保证，我只能私底下通知守卫关照你们一下。”</eventtext.unlockpathaphoticplateau.o1.c1>
     <eventtext.unlockpathaphoticplateau.o2.c1>“如果你想退休的话，应该能在这儿买到一套不错的复式公寓。至少短时间内辐射不会影响到这里。”</eventtext.unlockpathaphoticplateau.o2.c1>
-    <eventtext.unlockpathgreatsea.c1>“所以你想进入热液废土？你为什么要在木卫二干这种傻事？算了，不管了，联盟的朋友就是我的朋友，去吧。”</eventtext.unlockpathgreatsea.c1>
-    <eventtext.unlockpathgreatsea.c2>“所以你想进入热液废土？原则上来讲不行，但是最近我们可以稍微通融一下，你懂的。”</eventtext.unlockpathgreatsea.c2>
+    <eventtext.unlockpathgreatsea.c1>“所以，你想进入热液废土？你为什么要在木卫二干这种蠢事？算了，不关我事，联盟的朋友就是我的朋友，去吧。”</eventtext.unlockpathgreatsea.c1>
+    <eventtext.unlockpathgreatsea.c2>“你有进入热液废土的许可吗？看起来你没有，但是最近我们在搞促销福利，刺激经济嘛，你懂的。”</eventtext.unlockpathgreatsea.c2>
     <eventtext.unlockpathgreatsea.o1.c1>“如果你想好了，可以拿着钱再来找我。”</eventtext.unlockpathgreatsea.o1.c1>
     <eventtext.unlockpathgreatsea.o2.c1>“命比钱重要。”</eventtext.unlockpathgreatsea.o2.c1>
     <eventtext.unlockpathcoldcaverns.o1>给他们2000马克。</eventtext.unlockpathcoldcaverns.o1>
