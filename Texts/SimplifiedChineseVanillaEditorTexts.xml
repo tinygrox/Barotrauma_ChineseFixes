@@ -992,11 +992,11 @@
     <entitydescription.decorativestructure>A decorative structure with no collision detection.</entitydescription.decorativestructure>
 
     <entityname.doorlabel>标签 门</entityname.doorlabel>
-    <entityname.engineeringlabel>Engineering Label</entityname.engineeringlabel>
-    <entityname.commandlabel>Command Label</entityname.commandlabel>
-    <entityname.airlocklabel>Airlock Label</entityname.airlocklabel>
-    <entityname.cabinslabel>Cabins Label</entityname.cabinslabel>
-    <entityname.medicallabel>Medical Label</entityname.medicallabel>
+    <entityname.engineeringlabel>工程舱标签</entityname.engineeringlabel>
+    <entityname.commandlabel>指挥舱标签</entityname.commandlabel>
+    <entityname.airlocklabel>气闸舱标签</entityname.airlocklabel>
+    <entityname.cabinslabel>乘员舱标签</entityname.cabinslabel>
+    <entityname.medicallabel>医疗舱标签</entityname.medicallabel>
     <entityname.arrowup>箭头 上</entityname.arrowup>
     <entityname.arrowdown>箭头 下</entityname.arrowdown>
     <entityname.arrowleft>箭头 左</entityname.arrowleft>
@@ -1037,108 +1037,108 @@
     <entityname.labelsnumber7>标签 数字 7</entityname.labelsnumber7>
     <entityname.labelsnumber8>标签 数字 8</entityname.labelsnumber8>
     <entityname.labelsnumber9>标签 数字 9</entityname.labelsnumber9>
-    <entityname.labelscaptureitlettera>标签 字母 A Rough</entityname.labelscaptureitlettera>
-    <entityname.labelscaptureitletterb>标签 字母 B Rough</entityname.labelscaptureitletterb>
-    <entityname.labelscaptureitletterc>标签 字母 C Rough</entityname.labelscaptureitletterc>
-    <entityname.labelscaptureitletterd>标签 字母 D Rough</entityname.labelscaptureitletterd>
-    <entityname.labelscaptureitlettere>标签 字母 E Rough</entityname.labelscaptureitlettere>
-    <entityname.labelscaptureitletterf>标签 字母 F Rough</entityname.labelscaptureitletterf>
-    <entityname.labelscaptureitletterg>标签 字母 G Rough</entityname.labelscaptureitletterg>
-    <entityname.labelscaptureitletterh>标签 字母 H Rough</entityname.labelscaptureitletterh>
-    <entityname.labelscaptureitletteri>标签 字母 I Rough</entityname.labelscaptureitletteri>
-    <entityname.labelscaptureitletterj>标签 字母 J Rough</entityname.labelscaptureitletterj>
-    <entityname.labelscaptureitletterk>标签 字母 K Rough</entityname.labelscaptureitletterk>
-    <entityname.labelscaptureitletterl>标签 字母 L Rough</entityname.labelscaptureitletterl>
-    <entityname.labelscaptureitletterm>标签 字母 M Rough</entityname.labelscaptureitletterm>
-    <entityname.labelscaptureitlettern>标签 字母 N Rough</entityname.labelscaptureitlettern>
-    <entityname.labelscaptureitlettero>标签 字母 O Rough</entityname.labelscaptureitlettero>
-    <entityname.labelscaptureitletterp>标签 字母 P Rough</entityname.labelscaptureitletterp>
-    <entityname.labelscaptureitletterq>标签 字母 Q Rough</entityname.labelscaptureitletterq>
-    <entityname.labelscaptureitletterr>标签 字母 R Rough</entityname.labelscaptureitletterr>
-    <entityname.labelscaptureitletters>标签 字母 S Rough</entityname.labelscaptureitletters>
-    <entityname.labelscaptureitlettert>标签 字母 T Rough</entityname.labelscaptureitlettert>
-    <entityname.labelscaptureitletteru>标签 字母 U Rough</entityname.labelscaptureitletteru>
-    <entityname.labelscaptureitletterv>标签 字母 V Rough</entityname.labelscaptureitletterv>
-    <entityname.labelscaptureitletterw>标签 字母 W Rough</entityname.labelscaptureitletterw>
-    <entityname.labelscaptureitletterx>标签 字母 X Rough</entityname.labelscaptureitletterx>
-    <entityname.labelscaptureitlettery>标签 字母 Y Rough</entityname.labelscaptureitlettery>
-    <entityname.labelscaptureitletterz>标签 字母 Z Rough</entityname.labelscaptureitletterz>
-    <entityname.labelscaptureitnumber0>标签 数字 0 Rough</entityname.labelscaptureitnumber0>
-    <entityname.labelscaptureitnumber1>标签 数字 1 Rough</entityname.labelscaptureitnumber1>
-    <entityname.labelscaptureitnumber2>标签 数字 2 Rough</entityname.labelscaptureitnumber2>
-    <entityname.labelscaptureitnumber3>标签 数字 3 Rough</entityname.labelscaptureitnumber3>
-    <entityname.labelscaptureitnumber4>标签 数字 4 Rough</entityname.labelscaptureitnumber4>
-    <entityname.labelscaptureitnumber5>标签 数字 5 Rough</entityname.labelscaptureitnumber5>
-    <entityname.labelscaptureitnumber6>标签 数字 6 Rough</entityname.labelscaptureitnumber6>
-    <entityname.labelscaptureitnumber7>标签 数字 7 Rough</entityname.labelscaptureitnumber7>
-    <entityname.labelscaptureitnumber8>标签 数字 8 Rough</entityname.labelscaptureitnumber8>
-    <entityname.labelscaptureitnumber9>标签 数字 9 Rough</entityname.labelscaptureitnumber9>
-    <entityname.labelsiconairlock>标签 图标 Airlock</entityname.labelsiconairlock>
-    <entityname.labelsiconballast>标签 图标 Ballast</entityname.labelsiconballast>
-    <entityname.labelsiconcargo>标签 图标 Cargo</entityname.labelsiconcargo>
-    <entityname.labelsicondiving>标签 图标 Diving</entityname.labelsicondiving>
-    <entityname.labelsicondocking>标签 图标 Docking</entityname.labelsicondocking>
-    <entityname.labelsiconelectricity>标签 图标 Electricity</entityname.labelsiconelectricity>
-    <entityname.labelsiconengine>标签 图标 Engine</entityname.labelsiconengine>
-    <entityname.labelsiconengineering>标签 图标 Engineering</entityname.labelsiconengineering>
-    <entityname.labelsiconexit>标签 图标 Exit</entityname.labelsiconexit>
-    <entityname.labelsiconmedical>标签 图标 Medical</entityname.labelsiconmedical>
-    <entityname.labelsiconreactor>标签 图标 Reactor</entityname.labelsiconreactor>
-    <entityname.labelsiconsecurity>标签 图标 Security</entityname.labelsiconsecurity>
-    <entityname.labelsiconsteering>标签 图标 Steering</entityname.labelsiconsteering>
-    <entityname.labelsiconweapons>标签 图标 Weapons</entityname.labelsiconweapons>
-    <entityname.labelsarroverticala>标签 箭头 Vertical A</entityname.labelsarroverticala>
-    <entityname.labelsarroverticalb>标签 箭头 Vertical B</entityname.labelsarroverticalb>
-    <entityname.labelsarrowdiagonala>标签 箭头 Diagonal A</entityname.labelsarrowdiagonala>
-    <entityname.labelsarrowdiagonalb>标签 箭头 Diagonal B</entityname.labelsarrowdiagonalb>
-    <entityname.labelsarrowhorizontala>标签 箭头 Horizontal A</entityname.labelsarrowhorizontala>
-    <entityname.labelsarrowhorizontalb>标签 箭头 Horizontal B</entityname.labelsarrowhorizontalb>
+    <entityname.labelscaptureitlettera>标签 字母 A 磨损</entityname.labelscaptureitlettera>
+    <entityname.labelscaptureitletterb>标签 字母 B 磨损</entityname.labelscaptureitletterb>
+    <entityname.labelscaptureitletterc>标签 字母 C 磨损</entityname.labelscaptureitletterc>
+    <entityname.labelscaptureitletterd>标签 字母 D 磨损</entityname.labelscaptureitletterd>
+    <entityname.labelscaptureitlettere>标签 字母 E 磨损</entityname.labelscaptureitlettere>
+    <entityname.labelscaptureitletterf>标签 字母 F 磨损</entityname.labelscaptureitletterf>
+    <entityname.labelscaptureitletterg>标签 字母 G 磨损</entityname.labelscaptureitletterg>
+    <entityname.labelscaptureitletterh>标签 字母 H 磨损</entityname.labelscaptureitletterh>
+    <entityname.labelscaptureitletteri>标签 字母 I 磨损</entityname.labelscaptureitletteri>
+    <entityname.labelscaptureitletterj>标签 字母 J 磨损</entityname.labelscaptureitletterj>
+    <entityname.labelscaptureitletterk>标签 字母 K 磨损</entityname.labelscaptureitletterk>
+    <entityname.labelscaptureitletterl>标签 字母 L 磨损</entityname.labelscaptureitletterl>
+    <entityname.labelscaptureitletterm>标签 字母 M 磨损</entityname.labelscaptureitletterm>
+    <entityname.labelscaptureitlettern>标签 字母 N 磨损</entityname.labelscaptureitlettern>
+    <entityname.labelscaptureitlettero>标签 字母 O 磨损</entityname.labelscaptureitlettero>
+    <entityname.labelscaptureitletterp>标签 字母 P 磨损</entityname.labelscaptureitletterp>
+    <entityname.labelscaptureitletterq>标签 字母 Q 磨损</entityname.labelscaptureitletterq>
+    <entityname.labelscaptureitletterr>标签 字母 R 磨损</entityname.labelscaptureitletterr>
+    <entityname.labelscaptureitletters>标签 字母 S 磨损</entityname.labelscaptureitletters>
+    <entityname.labelscaptureitlettert>标签 字母 T 磨损</entityname.labelscaptureitlettert>
+    <entityname.labelscaptureitletteru>标签 字母 U 磨损</entityname.labelscaptureitletteru>
+    <entityname.labelscaptureitletterv>标签 字母 V 磨损</entityname.labelscaptureitletterv>
+    <entityname.labelscaptureitletterw>标签 字母 W 磨损</entityname.labelscaptureitletterw>
+    <entityname.labelscaptureitletterx>标签 字母 X 磨损</entityname.labelscaptureitletterx>
+    <entityname.labelscaptureitlettery>标签 字母 Y 磨损</entityname.labelscaptureitlettery>
+    <entityname.labelscaptureitletterz>标签 字母 Z 磨损</entityname.labelscaptureitletterz>
+    <entityname.labelscaptureitnumber0>标签 数字 0 磨损</entityname.labelscaptureitnumber0>
+    <entityname.labelscaptureitnumber1>标签 数字 1 磨损</entityname.labelscaptureitnumber1>
+    <entityname.labelscaptureitnumber2>标签 数字 2 磨损</entityname.labelscaptureitnumber2>
+    <entityname.labelscaptureitnumber3>标签 数字 3 磨损</entityname.labelscaptureitnumber3>
+    <entityname.labelscaptureitnumber4>标签 数字 4 磨损</entityname.labelscaptureitnumber4>
+    <entityname.labelscaptureitnumber5>标签 数字 5 磨损</entityname.labelscaptureitnumber5>
+    <entityname.labelscaptureitnumber6>标签 数字 6 磨损</entityname.labelscaptureitnumber6>
+    <entityname.labelscaptureitnumber7>标签 数字 7 磨损</entityname.labelscaptureitnumber7>
+    <entityname.labelscaptureitnumber8>标签 数字 8 磨损</entityname.labelscaptureitnumber8>
+    <entityname.labelscaptureitnumber9>标签 数字 9 磨损</entityname.labelscaptureitnumber9>
+    <entityname.labelsiconairlock>标签 图标 气闸舱</entityname.labelsiconairlock>
+    <entityname.labelsiconballast>标签 图标 压载舱</entityname.labelsiconballast>
+    <entityname.labelsiconcargo>标签 图标 载货舱</entityname.labelsiconcargo>
+    <entityname.labelsicondiving>标签 图标 潜水舱</entityname.labelsicondiving>
+    <entityname.labelsicondocking>标签 图标 对接</entityname.labelsicondocking>
+    <entityname.labelsiconelectricity>标签 图标 电力</entityname.labelsiconelectricity>
+    <entityname.labelsiconengine>标签 图标 引擎</entityname.labelsiconengine>
+    <entityname.labelsiconengineering>标签 图标 工程</entityname.labelsiconengineering>
+    <entityname.labelsiconexit>标签 图标 出口</entityname.labelsiconexit>
+    <entityname.labelsiconmedical>标签 图标 医务</entityname.labelsiconmedical>
+    <entityname.labelsiconreactor>标签 图标 反应堆</entityname.labelsiconreactor>
+    <entityname.labelsiconsecurity>标签 图标 安全室</entityname.labelsiconsecurity>
+    <entityname.labelsiconsteering>标签 图标 导航</entityname.labelsiconsteering>
+    <entityname.labelsiconweapons>标签 图标 武器</entityname.labelsiconweapons>
+    <entityname.labelsarroverticala>标签 箭头 竖直 A</entityname.labelsarroverticala>
+    <entityname.labelsarroverticalb>标签 箭头 竖直 B</entityname.labelsarroverticalb>
+    <entityname.labelsarrowdiagonala>标签 箭头 倾斜 A</entityname.labelsarrowdiagonala>
+    <entityname.labelsarrowdiagonalb>标签 箭头 倾斜 B</entityname.labelsarrowdiagonalb>
+    <entityname.labelsarrowhorizontala>标签 箭头 水平 A</entityname.labelsarrowhorizontala>
+    <entityname.labelsarrowhorizontalb>标签 箭头 水平 B</entityname.labelsarrowhorizontalb>
     <entityname.decorativelabel>装饰性标签。</entityname.decorativelabel>
 
-    <entityname.cableholderhorizontal>Cable Holder Horizontal</entityname.cableholderhorizontal>
-    <entityname.cableholdervertical>Cable Holder Vertical</entityname.cableholdervertical>
-    <entitydescription.cableholder>Decorative strip for stowing wires neatly.</entitydescription.cableholder>
+    <entityname.cableholderhorizontal>电线支撑架 水平</entityname.cableholderhorizontal>
+    <entityname.cableholdervertical>电线支撑架 竖直</entityname.cableholdervertical>
+    <entitydescription.cableholder>用于整齐摆放电线的装饰用条形支架。</entitydescription.cableholder>
 
     <entityname.topwindow>Window Top</entityname.topwindow>
     <entityname.verticalwindow>Window Vertical</entityname.verticalwindow>
 
-    <entityname.largeplatform>Platform Large</entityname.largeplatform>
-    <entityname.platform>Platform Basic</entityname.platform>
-    <entitydescription.platform>Walkable platform which a character may optionally drop down from or climb on.</entitydescription.platform>
+    <entityname.largeplatform>平台 大型</entityname.largeplatform>
+    <entityname.platform>平台 基础型</entityname.platform>
+    <entitydescription.platform>角色可在上面行走的平台，可以从上面下落或从下上爬。</entitydescription.platform>
 
-    <entityname.slopeforward>Slope Forwards</entityname.slopeforward>
-    <entityname.slopeback>Slope Backwards</entityname.slopeback>
-    <entitydescription.decorativepiece>A decorative piece.</entitydescription.decorativepiece>
+    <entityname.slopeforward>斜坡 向前</entityname.slopeforward>
+    <entityname.slopeback>斜坡 向后</entityname.slopeback>
+    <entitydescription.decorativepiece>装饰性潜艇物件。</entitydescription.decorativepiece>
 
     <entityname.stairs>楼梯</entityname.stairs>
     <entityname.stairsshort>楼梯 短</entityname.stairsshort>
     <entityname.stairslong>楼梯 长</entityname.stairslong>
 
-    <entityname.ruinwallhorizontal>遗迹 墙 水平</entityname.ruinwallhorizontal>
-    <entityname.ruinwallvertical>遗迹 墙 竖直</entityname.ruinwallvertical>
-    <entityname.ruinwallheavyhorizontal>遗迹 墙 Heavy 水平</entityname.ruinwallheavyhorizontal>
-    <entityname.ruinwallheavyvertical>遗迹 墙 Heavy 竖直</entityname.ruinwallheavyvertical>
-    <entityname.ruinwallhorizontalsmall>遗迹 墙 小型 水平</entityname.ruinwallhorizontalsmall>
+    <entityname.ruinwallhorizontal>遗迹墙 水平</entityname.ruinwallhorizontal>
+    <entityname.ruinwallvertical>遗迹墙 竖直</entityname.ruinwallvertical>
+    <entityname.ruinwallheavyhorizontal>遗迹墙 重型 水平</entityname.ruinwallheavyhorizontal>
+    <entityname.ruinwallheavyvertical>遗迹墙 重型 竖直</entityname.ruinwallheavyvertical>
+    <entityname.ruinwallhorizontalsmall>遗迹墙 小型 水平</entityname.ruinwallhorizontalsmall>
     <entityname.ruinwallverticalsmall>遗迹 墙 小型 竖直</entityname.ruinwallverticalsmall>
-    <entityname.ruinback>Ruin Back Wall Basic</entityname.ruinback>
-    <entityname.ruinprop>Ruin Prop</entityname.ruinprop>
+    <entityname.ruinback>遗迹背景墙 基础</entityname.ruinback>
+    <entityname.ruinprop>遗迹道具</entityname.ruinprop>
 
     <entityname.bunk>床铺</entityname.bunk>
 
     <!--Outpost decorative structures-->
-    <entityname.opdeco_weaponstoragesuit1>Outfit Display Case</entityname.opdeco_weaponstoragesuit1>
-    <entityname.op_weaponstoragesmall>Small Weapons Display Case</entityname.op_weaponstoragesmall>
-    <entityname.op_weaponstoragemedium>Medium Weapons Display Case</entityname.op_weaponstoragemedium>
-    <entityname.op_weaponstoragelarge>Large Weapons Display Case</entityname.op_weaponstoragelarge>
+    <entityname.opdeco_weaponstoragesuit1>服装展示柜</entityname.opdeco_weaponstoragesuit1>
+    <entityname.op_weaponstoragesmall>小型武器展示柜</entityname.op_weaponstoragesmall>
+    <entityname.op_weaponstoragemedium>中型武器展示柜</entityname.op_weaponstoragemedium>
+    <entityname.op_weaponstoragelarge>大型武器展示柜</entityname.op_weaponstoragelarge>
     <entityname.opdeco_storageitemshelf>物品展示架</entityname.opdeco_storageitemshelf>
-    <entityname.opdeco_storagemineralshelf>Mineral Display Shelf</entityname.opdeco_storagemineralshelf>
-    <entityname.opdeco_storageweaponshelf>Weapon Display Shelf</entityname.opdeco_storageweaponshelf>
-    <entityname.opdeco_storageseedshelf>Seeds Display Shelf</entityname.opdeco_storageseedshelf>
-    <entityname.opdeco_storagefrozenseedshelf>Frozen Seeds Display Shelf</entityname.opdeco_storagefrozenseedshelf>
+    <entityname.opdeco_storagemineralshelf>矿物展示架</entityname.opdeco_storagemineralshelf>
+    <entityname.opdeco_storageweaponshelf>武器展示架</entityname.opdeco_storageweaponshelf>
+    <entityname.opdeco_storageseedshelf>种子展示架</entityname.opdeco_storageseedshelf>
+    <entityname.opdeco_storagefrozenseedshelf>冷冻种子展示架</entityname.opdeco_storagefrozenseedshelf>
     <entityname.opdeco_diningtable>餐桌</entityname.opdeco_diningtable>
     <entityname.opdeco_boxes1>箱子</entityname.opdeco_boxes1>
     <entityname.opdeco_bunks1>双人床铺</entityname.opdeco_bunks1>
-    <entityname.opdeco_researchdecal1>Lab Decal</entityname.opdeco_researchdecal1>
+    <entityname.opdeco_researchdecal1>实验室墙纸</entityname.opdeco_researchdecal1>
     <entityname.opdeco_hrwindow1>办公窗</entityname.opdeco_hrwindow1>
     <entityname.opdeco_hrwindow2>Tall Office Window</entityname.opdeco_hrwindow2>
     <entityname.opdeco_hrwindowblinds>Office Window Blinds</entityname.opdeco_hrwindowblinds>
