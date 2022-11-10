@@ -3,6 +3,7 @@
   <UIStyle file="%ModDir%/UI/style.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanilla.xml" />
   <Text file="%ModDir%/Texts/SimplifiedChineseVanillaEditorTexts.xml" />
+  <Text file="%ModDir%/Texts/SimplifiedChineseVanillaNew.xml"/>
   <NPCConversations file="%ModDir%/Texts/NpcConversations_SimplifiedChinese.xml" />
   <!-- <Other file="%ModDir%/Characters/Human/Human.xml" /> -->
   <!-- <Other file="%ModDir%/Characters/Human/names.xml" /> -->
