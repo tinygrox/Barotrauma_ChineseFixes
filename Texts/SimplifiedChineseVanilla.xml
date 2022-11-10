@@ -1619,7 +1619,6 @@
     <missiontypedescription.abandonedoutpost>消灭占据废弃前哨站的侵略性生物或盗匪，或从其中解救人质。</missiontypedescription.abandonedoutpost>
     <missiontypedescription.clearalienruins>清除异星遗迹中的守护者。</missiontypedescription.clearalienruins>
     <missiontypedescription.escort>护送前哨站中的一些人员前往另一座前哨站，途中确保他们的生命安全。</missiontypedescription.escort>
-    <missiontypedescription.scanalienruins>在外星遗迹上安装扫描器，并从中收集数据。</missiontypedescription.scanalienruins>
     <missiontypedescription.pirate>找到海盗船，船和海盗一个不留。</missiontypedescription.pirate>
     <missionname.crawlernest>摧毁藻鬃爬行者巢穴</missionname.crawlernest>
     <missiondescription.crawlernest>我们最近在[location1]周边发现了一个藻鬃爬行者的巢穴，破坏并回返前哨站，我们会给予[reward]赏金。</missiondescription.crawlernest>
@@ -2248,10 +2247,6 @@
     <entitydescription.handcannon>一把巨大的左轮手枪，与一般的枪械相比，它能更好地对付木卫二上的大型外星生物的威胁。</entitydescription.handcannon>
     <entityname.handcannonround>手炮子弹</entityname.handcannonround>
     <entitydescription.handcannonround>一种口径非常大的.61左轮手枪子弹。独特的合金材料使其具有很强的穿透力和杀伤力。</entitydescription.handcannonround>
-    <entityname.coalitioncommendation>联盟奖章</entityname.coalitioncommendation>
-    <entitydescription.coalitioncommendation>一个由联盟用铜制成的小奖章。佩戴在船员的身上时，会立即赋予他们额外经验。</entitydescription.coalitioncommendation>
-    <entityname.coalitionmedal>联盟勋章</entityname.coalitionmedal>
-    <entitydescription.coalitionmedal>一枚由联盟用青铜制成的小勋章。与联盟奖章一样，它能赋予另一名船员经验，只是数值更高。</entitydescription.coalitionmedal>
     <entityname.assaultrifle>突击步枪</entityname.assaultrifle>
     <entitydescription.assaultrifle>一种突击步枪，装填6.8毫米子弹。虽然被联盟禁造，但这些步枪的设计图仍然在木卫二上流传，因为它们是潜艇内防御的最佳选择，或者按照木星分离主义的说法 -  社会革命的首选武器。</entitydescription.assaultrifle>
     <entityname.assaultriflemagazine>突击步枪弹夹</entityname.assaultriflemagazine>
@@ -2463,7 +2458,7 @@
     <entityname.lever>控制杆</entityname.lever>
     <entitydescription.lever>产生一个持续的信号输出，用于改变设备与门的开闭状态。</entitydescription.lever>
     <entityname.concatcomponent>拼接元件</entityname.concatcomponent>
-    <entitydescription.concatcomponent>将输入值一并输出（如，输入“泥偶”和“迅猛龙”，输出“泥偶迅猛龙”）。</entitydescription.concatcomponent>
+    <entitydescription.concatcomponent>将输入值合并输出（如，输入“泥偶”和“迅猛龙”，输出“泥偶迅猛龙”）。</entitydescription.concatcomponent>
 
     <!-- Material -->
     <entityname.alienblood>异星血浆</entityname.alienblood>
@@ -2493,9 +2488,7 @@
     <entityname.potassium>钾</entityname.potassium>
     <entitydescription.potassium>用于制作炸药与医用化合物，与水接触后剧烈反应。</entitydescription.potassium>
     <entityname.magnesium>镁</entityname.magnesium>
-    <entitydescription.magnesium>用于制作炸药与医用化合物。与水接触时反应剧烈。</entitydescription.magnesium>
     <entityname.lithium>锂</entityname.lithium>
-    <entitydescription.lithium>最常用于制造电池和抗精神病药物。与水接触时反应剧烈。</entitydescription.lithium>
     <entityname.chlorine>氯</entityname.chlorine>
     <entitydescription.chlorine>常用于制作生理盐水（治疗失血）与水合三氯乙醛（强力镇静剂）。</entitydescription.chlorine>
     <entityname.slimebacteria>史莱姆变形细菌</entityname.slimebacteria>
@@ -4028,7 +4021,6 @@
     <afflictioncauseofdeath.bleeding>失血而死</afflictioncauseofdeath.bleeding>
     <afflictioncauseofdeathself.bleeding>你因流血过多而死。</afflictioncauseofdeathself.bleeding>
     <afflictionname.burn>烧伤</afflictionname.burn>
-    <afflictiondescription.burn>创伤区域起泡发红，存在皮肤剥离症状。患者非常痛苦。</afflictiondescription.burn>
     <afflictioncauseofdeath.burn>烧伤至死</afflictioncauseofdeath.burn>
     <afflictioncauseofdeathself.burn>你因烧伤的伤势过重，不治身亡。</afflictioncauseofdeathself.burn>
     <afflictionname.oxygenlow>缺氧</afflictionname.oxygenlow>
@@ -4125,7 +4117,6 @@
     <afflictiondescription.concussion>病人似乎迷失方向，眼神难以集中。</afflictiondescription.concussion>
     <afflictionname.disguised>伪装</afflictionname.disguised>
     <afflictiondescription.disguised>只要遮住自己的脸，别人可能就无法看出你是谁......</afflictiondescription.disguised>
-    <afflictiondescription.hallucinating>你感觉有些奇怪。</afflictiondescription.hallucinating>
     <afflictiontype.damage>伤害</afflictiontype.damage>
 
     <!-- Buffs -->
@@ -4194,7 +4185,6 @@
     <afflictiondescription.regeneration>该角色的生命力在慢慢恢复。</afflictiondescription.regeneration>
     <afflictionname.repairflow>驾轻就熟</afflictionname.repairflow>
     <afflictiondescription.repairflow>该角色处于驾轻就熟状态，能够毫不费力地修复设备。</afflictiondescription.repairflow>
-    <afflictionname.evasivemaneuvers>机动回避</afflictionname.evasivemaneuvers>
     <afflictiondescription.evasivemaneuvers>该角色驾驶水平暂时提升。</afflictiondescription.evasivemaneuvers>
     <afflictionname.skedaddle>脚底抹油</afflictionname.skedaddle>
     <afflictiondescription.skedaddle>该角色现在移速惊人!</afflictiondescription.skedaddle>
@@ -4230,8 +4220,6 @@
     <afflictiondescription.pyromania>该角色有点过于享受肉体被烧焦的味道。</afflictiondescription.pyromania>
     <afflictionname.tinkerexhaustion>超频过度</afflictionname.tinkerexhaustion>
     <afflictiondescription.tinkerexhaustion>该角色暂时不能再超频任何设备。</afflictiondescription.tinkerexhaustion>
-    <afflictionname.bedsidemanner>治疗态度</afflictionname.bedsidemanner>
-    <afflictiondescription.bedsidemanner>该角色物理伤害抗性提升，并且能更快地学习新技能。</afflictiondescription.bedsidemanner>
     <afflictionname.guarded>严阵以待</afflictionname.guarded>
     <afflictiondescription.guarded>该角色已为下一次针对他们的攻击做好准备。</afflictiondescription.guarded>
     <afflictionname.skillfulmelodies>驾轻就熟</afflictionname.skillfulmelodies>
@@ -4695,7 +4683,6 @@
     <karmadecreasedunknownamount>你的道德值降低了。</karmadecreasedunknownamount>
     <karmaincreasedunknownamount>你的道德值提高了。</karmaincreasedunknownamount>
     <afflictionname.spaceherpes>太空疱疹</afflictionname.spaceherpes>
-    <afflictiondescription.spaceherpes>病人的脸上满是恶心的脓包。</afflictiondescription.spaceherpes>
     <afflictionname.invertcontrols>晕眩</afflictionname.invertcontrols>
     <afflictiondescription.invertcontrols>病人头晕目眩，无法正确感知周围环境。</afflictiondescription.invertcontrols>
     <karmakicked>由于你的道德值降低至[banthreshold]以下，你已被从服务器踢出。</karmakicked>
@@ -6177,7 +6164,6 @@
     <talenttree.pioneer>先驱者</talenttree.pioneer>
     <talenttree.xenologist>异星学家</talenttree.xenologist>
     <talenttree.medic>医学家</talenttree.medic>
-    <talenttree.scientist>生物学家</talenttree.scientist>
 
     <!-- Talents -->
     <talentmenu.alltalentsunlocked>所有天赋已解锁</talentmenu.alltalentsunlocked>
@@ -6194,7 +6180,6 @@
     <talentdescription.quickdraw>若[seconds]内没开过枪，则下一次手枪造成的伤害提升[damage]%。</talentdescription.quickdraw>
     <talentname.travelingtradesman>游商</talentname.travelingtradesman>
     <talentname.evasivemaneuvers>机动规避</talentname.evasivemaneuvers>
-    <talentdescription.evasivemaneuvers>当你的舰船因怪物攻击受到伤害时，你在[seconds]秒内获得[helmbonus]的驾驶水平加成。</talentdescription.evasivemaneuvers>
     <talentname.bountyhunter>赏金猎人</talentname.bountyhunter>
     <talentdescription.bountyhunter>你或其他盟友击杀怪物后，额外获得该怪物生命值上限[percentage]%的马克奖励。</talentdescription.bountyhunter>
     <talentname.trustedcaptain>值得嘉奖</talentname.trustedcaptain>
@@ -6202,11 +6187,9 @@
     <talentname.esteemedcaptain>功勋卓著</talentname.esteemedcaptain>
     <talentdescription.esteemedcaptain>每次你完成至少一项任务后，会获得一枚联盟勋章。\n为其他角色授予联盟勋章时，其会获得[selfxpgain]经验。</talentdescription.esteemedcaptain>
     <talentname.downwiththeship>与舰休戚</talentname.downwiththeship>
-    <talentdescription.downwiththeship>若你在潜艇上，且[flooded]%船体被淹时，你获得[swimmingboost]% 游泳速度加成、[skillboost]机修及电气技能加成，持续[duration]秒。</talentdescription.downwiththeship>
     <talentname.camaraderie>袍泽之情</talentname.camaraderie>
     <talentdescription.camaraderie>若你在完成任务时无船员死亡，且[jobcount]种不同的岗位上有船员就位，则船员获得[extramoney]%的马克与经验加成。</talentdescription.camaraderie>
     <talentname.drunkensailor>醉汉水手</talentname.drunkensailor>
-    <talentdescription.drunkensailor>喝酒后获得[dmgresistance]%的物理伤害抗性及[stunresistance]%的昏迷抗性。\n若你吹口琴，潜艇上船员每秒有[skillgainprobability]%的概率获得一点随机技能点。</talentdescription.drunkensailor>
     <talentname.trucker>任务达人</talentname.trucker>
     <talentdescription.trucker>每次你完成选定的所有任务后，会获得一枚联盟奖章。</talentdescription.trucker>
     <talentname.trustbuilding>建立信任</talentname.trustbuilding>
@@ -6328,7 +6311,6 @@
     <talentdescription.standanddeliver>每当你完成任一任务，都会获得一本《水手指南》。\n当你使用《水手指南》，离你最近的船员提升其所有技能[skillamount]点。</talentdescription.standanddeliver>
     <talentdescription.letitdrainreminder>你最多只能在你的潜艇上安装[itemcount]个该物品。</talentdescription.letitdrainreminder>
     <talentdescription.cannedheat>每当你演奏手风琴时，离你最近的友军将每秒获得[allyexperienceamount]经验。当友军获得经验时，你会获得[experienceamount]经验。</talentdescription.cannedheat>
-    <talentdescription.nuclearoption>当你制造燃料棒时，获得三倍产出。</talentdescription.nuclearoption>
     <talentdescription.quickfix>每当你完全修复一个装置时，获得[experienceamount]经验。</talentdescription.quickfix>
     <talentdescription.maxtriggeruntildeath>此效果每轮每条命只能触发一次。</talentdescription.maxtriggeruntildeath>
     <talentdescription.maxtriggeruntilmission>在你完成新的任务之前，这个效果最多只能生效[maxtrigger]次。</talentdescription.maxtriggeruntilmission>
@@ -6378,12 +6360,10 @@
     <talentdescription.simultaneousskillgain>获得[skillname1]经验的同时，也会获得[skillname2]的经验。</talentdescription.simultaneousskillgain>
     <talentdescription.increasereputationgains>船员的声望获取量提升 [value]%。</talentdescription.increasereputationgains>
     <talentdescription.chanceofextraweapondamage>使用武器攻击时，[probability]%概率造成双倍伤害。</talentdescription.chanceofextraweapondamage>
-    <talentdescription.extrapowertoharpoons>使用鱼叉时，攻击力提升[value]%。</talentdescription.extrapowertoharpoons>
     <talentdescription.extrapowertoharpoonsinopensea>在开阔海域使用鱼叉时，攻击力提升[value]%。</talentdescription.extrapowertoharpoonsinopensea>
     <talentdescription.dropalienmaterialonkill>当你在潜艇外杀死怪物时，有[probability]%的几率掉落额外的外星材料。</talentdescription.dropalienmaterialonkill>
     <talentdescription.warriorpoet>你可以写一本书。\n若想如此，操纵你的角色进入布娃娃状态。[seconds]秒后，你将获得[itemname]，并且自你上次出书以来击杀的所有敌人都会让你获得[moneyamount]马克(作为版税)。</talentdescription.warriorpoet>
     <talentdescription.dualspecops>当你操纵角色在水中进入布娃娃状态时，会推动自己向自己当前朝向前进。</talentdescription.dualspecops>
-    <talentdescription.beatcop>你可以操纵角色在高速布娃娃状态撞向目标来进行拦截。</talentdescription.beatcop>
     <talentdescription.truepotential>小丑之力允许你在用玩具锤击打目标时有[probability]%概率引发目标内爆。</talentdescription.truepotential>
     <talentdescription.stonewall>当你受到攻击后，[seconds]秒内你的物理伤害抗性提升[physicaldamagereduction]%，击晕抗性提升[stunresistance]%。</talentdescription.stonewall>
     <talentdescription.richinknowledge>每次获得技能点，额外获得[experienceamount]经验，你的队友额外获得[alliedexperienceamount]经验。</talentdescription.richinknowledge>
@@ -6398,17 +6378,12 @@
     <talentdescription.enrollintoclowncollege>只要你穿着全套小丑服装，你就会获得小丑之力。</talentdescription.enrollintoclowncollege>
     <talentdescription.clownpowerdamagereduction>有了小丑之力后，你获得[physicalresistance]%的物理伤害抗性。</talentdescription.clownpowerdamagereduction>
     <talentdescription.waterprankster>有了小丑之力后，你免疫压力，获得[swimspeedvalue]%的游泳速度加成。</talentdescription.waterprankster>
-    <talentdescription.inspiringtunes>有了小丑之力后，你可以通过鸣喇叭修复附近的电气设施和机械，附近的友军在短时间内获得全技能[skillamount]的技能加成。</talentdescription.inspiringtunes>
-    <talentdescription.psychoclown>有了小丑之力后，基于你的精神状态，你的近战攻速提升，上限为[maxattackspeed]%，但在此状态下你不可跑动。</talentdescription.psychoclown>
     <talentdescription.slapstickexpert>有了小丑之力后，你在奔跑时你有微小的概率会被绊倒。\n操纵角色时，攻击你的敌人力量降低[powerreduction]%，并有[probability]%概率昏迷[stunseconds]秒。</talentdescription.slapstickexpert>
-    <talentdescription.commando>当你蹲着发射远程武器时，穿甲概率提升[armorpenetration]%，攻击提升[powerincrease]%，但射速下降[firingratedecrease]%。你也能更快地从出血状态中恢复过来。</talentdescription.commando>
     <talentdescription.phdinnuclearphysics>用撬棍造成的伤害提升[powerincrease]%。</talentdescription.phdinnuclearphysics>
     <talentdescription.intheflow>修理完成后，你在接下来的[seconds]秒内修复速度提升[repairspeed]%。</talentdescription.intheflow>
     <talentdescription.coauthor>你可以与机修工合著一本书。\n若想如此，同时选中你的角色和某一机修工，在[seconds]秒后，你会获得[itemname]，两位撰写者都会获得[experienceamount]经验。</talentdescription.coauthor>
     <talentdescription.polymath>所有技能提升[skillincrease]，获得[experiencegain]%的额外任务经验，但你的最大健康值减少[maximumhealthreduction]%。</talentdescription.polymath>
     <talentdescription.optimizedpowerflow>根据你的电气工程技能，炮塔耗能和充能时间降低[statamount]%。每当你完全修复一件物品时，获得[skillamount]的电气工程技能奖励。</talentdescription.optimizedpowerflow>
-    <talentdescription.aggressiveengineering>当你用扳手攻击时，有[probability]%的几率获得[powerincrease]%攻击加成并造成额外的眩晕效果。</talentdescription.aggressiveengineering>
-    <talentdescription.pyromaniac>当你对敌人造成燃烧伤害时，获得[physicaldamagereduction]%的物理伤害抗性，持续[seconds]秒。\n并增加[burnincrease]%的额外燃烧伤害。</talentdescription.pyromaniac>
     <talentdescription.scrapsavant>你可以将[scrapamount]废料精炼成异星材料。\n当你制造异星材料时，获得[experienceamount]经验。</talentdescription.scrapsavant>
     <talentdescription.scrounger>当你拆解废料时，获得[experienceamount]经验。</talentdescription.scrounger>
     <talentdescription.elbowgrease>你的近战力量和最大生命值提升机械工程技能的[statamount]%。\n当你分解废料时，获得[skillamount]点机械工程技能加成。</talentdescription.elbowgrease>
@@ -6437,13 +6412,6 @@
     <talentdescription.allhandsondeck>你可以同时赋予两个角色激励增益。</talentdescription.allhandsondeck>
     <talentdescription.atmosmachine>当你拆解一件外星文物时，有[probability]%的概率将其转变成一件随机的异星造物。每当你完成一项任务时，你船上的每有一件大型异星造物，你的船员额外获得[experienceamount]%的任务经验，上限为[maxexperienceamount]%。</talentdescription.atmosmachine>
     <talentdescription.navydiver>当你在水中时，你受到的攻击会降低[attackpowerreduction]%。</talentdescription.navydiver>
-    <talentdescription.crafthighqualityrepairtools>你制造的焊枪和等离子切割机质量提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
-    <talentdescription.crafthighqualityweapons>你制造的武器质量提升[qualitybonus]。</talentdescription.crafthighqualityweapons>
-    <talentdescription.crafthighqualitybatteries>你制造的电池质量提升[qualitybonus]。</talentdescription.crafthighqualitybatteries>
-    <talentdescription.crafthighqualityfuelrods>你制造的燃料棒质量提升[qualitybonus]。</talentdescription.crafthighqualityfuelrods>
-    <talentdescription.crafthighqualitytools>你制造的工具质量提升[qualitybonus]。</talentdescription.crafthighqualitytools>
-    <talentdescription.crafthighqualitytanks>你制造的燃料与氧气罐质量提升[qualitybonus]。</talentdescription.crafthighqualitytanks>
-    <talentdescription.crafthighqualityexplosives>你制造的炸药质量提升[qualitybonus]。</talentdescription.crafthighqualityexplosives>
     <talentdescription.gainitemsonmission>每当你完成至少一个任务，就会获得以下物品作为额外奖励：</talentdescription.gainitemsonmission>
     <talentdescription.extramission>你可以多选择一个任务。</talentdescription.extramission>
     <talentdescription.extratalentpoint>额外获得[points] 点天赋点数。</talentdescription.extratalentpoint>
@@ -6636,8 +6604,6 @@
     <tutorialcompleted>[tutorialname] (已完成)</tutorialcompleted>
     <tutorial.continue>“收到。”</tutorial.continue>
     <tutorial.continue>“明白。”</tutorial.continue>
-    <tutorial.skiptotutorial>[跳至教程]</tutorial.skiptotutorial>
-    <tutorial.basic>基础(移动与互动)</tutorial.basic>
     <tutorial.basics.message.1>“来了啊。我就长话短说了，你是今天我带的第六个人，而且不怕跟你说，我已经累了。</tutorial.basics.message.1>
     <tutorial.basics.message.1_player>“...我是谁，我在哪？”</tutorial.basics.message.1_player>
     <tutorial.basics.message.2>“你在一所自动化康复室里。你经历了一些创伤性事件，原本已经半疯了。但Happy医生认为你是个绝佳的医疗实验对象。”</tutorial.basics.message.2>
@@ -6650,14 +6616,12 @@
     <tutorial.basics.endmessage.2>“等一下...我在监控上看到有什么动静。啊哦...”</tutorial.basics.endmessage.2>
     <tutorial.basics.endmessage.2_player>“那是什么声音?!”</tutorial.basics.endmessage.2_player>
     <tutorial.basics.wasd>使用[InputType.Up], [InputType.Left], [InputType.Down], 和[InputType.Right]来移动角色。</tutorial.basics.wasd>
-    <tutorial.basics.looking>使用鼠标控制角色面朝方向。</tutorial.basics.looking>
     <tutorial.basics.cursor>使用[InputType.Select]与按钮，门或物体互动。</tutorial.basics.cursor>
     <tutorial.basics.highlight>可互动物体在鼠标悬浮在其上时会高亮显示。</tutorial.basics.highlight>
     <tutorial.basics.obtain>要拾取物品，将鼠标对准它并按[InputType.Select]。</tutorial.basics.obtain>
     <tutorial.basics.lockeddoor>被锁住的门需要ID卡才能通行。</tutorial.basics.lockeddoor>
     <tutorial.basics.stairsusage>按[InputType.Down]来从平台下至楼梯。</tutorial.basics.stairsusage>
     <tutorial.basics.sprint>按住[InputType.Run]跑动。</tutorial.basics.sprint>
-    <tutorial.basics.repair>设备有时会宕机。可以使用对应维修工具修复它们。</tutorial.basics.repair>
     <tutorial.basics.containers>容器有时装有物品。使用鼠标和[InputType.Select]来打开容器。</tutorial.basics.containers>
     <tutorial.basics.equip>双击物品来装备它。</tutorial.basics.equip>
     <tutorial.basics.equip2>在你工具栏中的物品也可以通过按下对应数字键(1-9)装备。</tutorial.basics.equip2>
@@ -6666,8 +6630,6 @@
     <tutorial.basics.repairouchie>嘶！记得在竖线进入进度条有色区域时按下维修按钮。</tutorial.basics.repairouchie>
     <tutorial.basics.weldingtool>焊枪是修复漏水点不可或缺的装备。获取一把焊枪。</tutorial.basics.weldingtool>
     <tutorial.basics.weldingfuel>焊枪需要燃料。从容器中获取焊接燃料罐。</tutorial.basics.weldingfuel>
-    <tutorial.basics.insertweldingfuel>将焊接燃料罐拖拽到焊枪上来安装它。</tutorial.basics.insertweldingfuel>
-    <tutorial.basics.insertweldingfuelalt>另一种方法时，当你已经装备了焊枪，再按焊接燃料罐的工具栏数字来安装。</tutorial.basics.insertweldingfuelalt>
     <tutorial.basics.aimandfire>要瞄准你的工具或武器，按住[InputType.Aim]。当瞄准时，按下[InputType.Shoot]来使用或开火。</tutorial.basics.aimandfire>
     <tutorial.basics.aim>瞄准</tutorial.basics.aim>
     <tutorial.basics.fire>开火</tutorial.basics.fire>
@@ -6675,14 +6637,10 @@
     <tutorial.basics.holdaim2>瞄准时，按住[InputType.Shoot]进行焊接。</tutorial.basics.holdaim2>
     <tutorial.basics.ladders>在楼梯旁按[InputType.Up]或[InputType.Down]来上下楼梯。</tutorial.basics.ladders>
     <tutorial.basics.welding>焊接完漏水的墙壁以继续。</tutorial.basics.welding>
-    <tutorial.basics.divingsuits>潜水服使你能在水下游泳。</tutorial.basics.divingsuits>
-    <tutorial.basics.divingsuits2>通过双击潜水服装备它，或者直接将其图标拖拽至高亮栏位。</tutorial.basics.divingsuits2>
     <tutorial.basics.nooxygen>警告！你的潜水服没有安装氧气罐，你正在窒息。赶快找到氧气罐并安装！</tutorial.basics.nooxygen>
     <tutorial.basics.oxygen>穿着潜水服会逐渐消耗安装的氧气罐。</tutorial.basics.oxygen>
     <tutorial.basics.oxygen2>当氧气罐储量即将告罄，你的潜水服会发出警报。</tutorial.basics.oxygen2>
     <tutorial.basics.oxygen3>氧气量不足！要脱下潜水服，将其从物品栏栏位中拖出。</tutorial.basics.oxygen3>
-    <tutorial.basics.righttool>水泵是机械设备。维修机械设备的工具是扳手。</tutorial.basics.righttool>
-    <tutorial.basics.wrenchrepair>在附近箱子中找到扳手，装备它，并维修附近的水泵。</tutorial.basics.wrenchrepair>
     <tutorial.basics.interact2>按[InputType.Select]来与水泵或其他可互动物品互动。</tutorial.basics.interact2>
     <tutorial.basics.puzzle>使用水泵的界面，试试爬上楼梯...</tutorial.basics.puzzle>
     <tutorial.basics.puzzlehelp>通过将水泵设定为向房间泵入水，你将能游到楼梯处。</tutorial.basics.puzzlehelp>
@@ -6705,13 +6663,11 @@
     <tutorial.basics.objective12>维修水泵</tutorial.basics.objective12>
     <tutorial.basics.objective13>使用水泵淹没房间</tutorial.basics.objective13>
     <tutorial.basics.objective14>离开</tutorial.basics.objective14>
-    <tutorial.roles>角色 (职业特殊任务)</tutorial.roles>
     <charactername.receptiondude>托德·布多克</charactername.receptiondude>
     <tutorial.roles.message.1>“嘿！近况如何啊兄弟。你是来潜艇找工作的吧？”</tutorial.roles.message.1>
     <tutorial.roles.message.1_player>“没错！”</tutorial.roles.message.1_player>
     <tutorial.roles.message.2>“嚯，真有干劲啊，我喜欢！你之前有上过我们的课程吗？”</tutorial.roles.message.2>
     <tutorial.roles.message.2_player1>“什么课?”</tutorial.roles.message.2_player1>
-    <tutorial.roles.message.2_player2>“当然。” [跳过教程]</tutorial.roles.message.2_player2>
     <tutorial.roles.message.3_skip>“好极了，去隔壁等其他学生都到位吧，我给你开门。”</tutorial.roles.message.3_skip>
     <tutorial.roles.message.3_skip_player>“好！”</tutorial.roles.message.3_skip_player>
     <tutorial.roles.message.3>“没什么，只是某个待在象牙塔里的高官想要解决某个问题...但用了个没法真正解决问题的方法。懂吗？”</tutorial.roles.message.3>
@@ -6778,8 +6734,6 @@
     <tutorial.roles.navigationterminal_steering6>“举个例子: 如果你想让你的潜艇缓慢向右移动，就点击潜艇当前位置稍右的位置。如果想要快速上浮，就点击潜艇当前位置极上方的位置。”</tutorial.roles.navigationterminal_steering6>
     <tutorial.roles.navigationterminal_steering7>“要不要亲手驾驶一下?”</tutorial.roles.navigationterminal_steering7>
     <tutorial.roles.navigationterminal_steering8>“开玩笑的，你还不能开！潜艇在待命时通常会靠港，防止被海流推走以及减少燃料消耗。首先你要按那个红色大按钮来进行离港。就这么简单，试试看吧？”</tutorial.roles.navigationterminal_steering8>
-    <tutorial.roles.popup.navigationterminal_steering>使用导航终端，让无人机离岗。</tutorial.roles.popup.navigationterminal_steering>
-    <tutorial.roles.popup.navigationterminal_steering2>练习驾驶无人机，准备好之后将无人机重新靠港。</tutorial.roles.popup.navigationterminal_steering2>
     <tutorial.roles.navigationterminal_commanding>“不赖，训练生。你已经做好了掌舵的准备，但当艇长可没有这么简单。”</tutorial.roles.navigationterminal_commanding>
     <tutorial.roles.navigationterminal_commanding2>“一艘大型潜艇是不可能一个人开起来的。你需要船员。而船员需要指引，否则就会像一群无头苍蝇一样满潜艇乱窜...算了不说了。”</tutorial.roles.navigationterminal_commanding2>
     <tutorial.roles.navigationterminal_commanding3>“作为艇长，你的职责是带领你的船员。所以你要给他们发号施令，也就是说要明白该干什么！”</tutorial.roles.navigationterminal_commanding3>
@@ -6866,9 +6820,7 @@
     <tutorial.roles.engineerinstructor_wiring3_player>“好。”</tutorial.roles.engineerinstructor_wiring3_player>
     <tutorial.roles.popup.engineer_wiring>装备螺丝刀和线。</tutorial.roles.popup.engineer_wiring>
     <tutorial.roles.popup.engineer_wiring2>按[InputType.Use]对接线盒重新布线。</tutorial.roles.popup.engineer_wiring2>
-    <tutorial.roles.popup.engineer_wiring3>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring3>
     <tutorial.roles.popup.engineer_wiring4>按[InputType.Use]对灯重新布线。</tutorial.roles.popup.engineer_wiring4>
-    <tutorial.roles.popup.engineer_wiring5>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring5>
     <tutorial.roles.engineerinstructor_end>“干得好！这就是工程师的基础了。剩下的在船上学吧！你是个好学生，那么再见了！”</tutorial.roles.engineerinstructor_end>
     <tutorial.roles.engineerinstructor_end_player>“谢谢你凯莱，再见。”</tutorial.roles.engineerinstructor_end_player>
     <tutorial.roles.engineer.objective.reactor>学习控制反应堆</tutorial.roles.engineer.objective.reactor>
@@ -6884,8 +6836,6 @@
     <tutorial.roles.engineer.objective.rewire>学习布线</tutorial.roles.engineer.objective.rewire>
     <tutorial.roles.engineer.objective.rewire1>装备螺丝刀</tutorial.roles.engineer.objective.rewire1>
     <tutorial.roles.engineer.objective.rewire2>装备线缆</tutorial.roles.engineer.objective.rewire2>
-    <tutorial.roles.engineer.objective.rewire3>连上接线盒的 能源</tutorial.roles.engineer.objective.rewire3>
-    <tutorial.roles.engineer.objective.rewire4>连上灯的 能源</tutorial.roles.engineer.objective.rewire4>
     <tutorial.roles.mechanicinstructor>“你好，我是阿莫斯，这里的机修工。我将教导你如何照顾好你的潜艇。记住：她好，你才好。”</tutorial.roles.mechanicinstructor>
     <charactername.mechanicinstructor>阿莫斯·阿波尔</charactername.mechanicinstructor>
     <tutorial.roles.engineroomdescription>“这是引擎室。每个潜艇都装备着的引擎就在此处。引擎能让潜艇向前或向后移动。”</tutorial.roles.engineroomdescription>
@@ -6899,7 +6849,6 @@
     <tutorial.roles.popup.mechanic_welding2>焊接漏点。</tutorial.roles.popup.mechanic_welding2>
     <tutorial.roles.mechanicinstructor_ballast>“这样就行了。现在去补给箱拿个潜水面具。”</tutorial.roles.mechanicinstructor_ballast>
     <tutorial.roles.mechanicinstructor_ballast_player>“好的。”</tutorial.roles.mechanicinstructor_ballast_player>
-    <tutorial.roles.popup.mechanic_divingmask>装备潜水面具</tutorial.roles.popup.mechanic_divingmask>
     <tutorial.roles.ballastdescription>“下楼梯穿过地门就是压载舱。压载舱就是个不断地抽水进来排水出去，以此控制潜艇上浮下潜的地方。”</tutorial.roles.ballastdescription>
     <tutorial.roles.mechanicinstructor_ballast2>“压载舱中有水泵负责抽水。如果水泵坏了，你就要进去修理。因为里面往往有水，所以最好随身携带潜水设备。刚才的扳手还在身上吗？”</tutorial.roles.mechanicinstructor_ballast2>
     <tutorial.roles.mechanicinstructor_ballast2_player>“在的。”</tutorial.roles.mechanicinstructor_ballast2_player>
@@ -6961,7 +6910,6 @@
     <tutorial.roles.security.objective.gearup1>装备护甲</tutorial.roles.security.objective.gearup1>
     <tutorial.roles.security.objective.gearup2>获取枪支</tutorial.roles.security.objective.gearup2>
     <tutorial.roles.security.objective.gearup3>获取弹药</tutorial.roles.security.objective.gearup3>
-    <tutorial.roles.security.objective.gearup4>消灭目标</tutorial.roles.security.objective.gearup4>
     <tutorial.roles.security.objective.turret>操作炮台</tutorial.roles.security.objective.turret>
     <tutorial.roles.security.objective.turret1>为装弹器装弹</tutorial.roles.security.objective.turret1>
     <tutorial.roles.security.objective.turret2>为超级电容器充能</tutorial.roles.security.objective.turret2>
@@ -6985,8 +6933,6 @@
     <tutorial.roles.medicalinstructor.medfabricator3>“把烯丙羟吗啡酮给我用上吧。记住，按[InputType.Health]进入我的健康界面。”</tutorial.roles.medicalinstructor.medfabricator3>
     <tutorial.roles.popup.naloxone>施用烯丙羟吗啡酮。</tutorial.roles.popup.naloxone>
     <tutorial.roles.medicalinstructor.patients1>“你能帮我的差不多也就只有这些了。如果你还想出点力，就去照顾一下隔壁的病人。还有，出去的时候记得把灯关了。我要休息一下。”</tutorial.roles.medicalinstructor.patients1>
-    <tutorial.roles.medicalinstructor.patients2>“这里有几位病人，每个都有独特的病症。对他们每个人进行检查(按“H”进入健康界面) 来了解他们的问题。”</tutorial.roles.medicalinstructor.patients2>
-    <tutorial.roles.medicalinstructor.patients3>“点击界面中病人的肢体以揭示他们的病症及原因。你可以查看每种病症的可用治疗方法。需要的药物柜子里都有。”</tutorial.roles.medicalinstructor.patients3>
     <tutorial.roles.popup.treatpatients>治疗所有病人。</tutorial.roles.popup.treatpatients>
     <tutorial.roles.medicalinstructor.burns>“烧伤通常由爆炸和电击引起。绷带和可塑人造皮肤通常是治疗烧伤的有效用具。另外烧伤是一种肢体性病症，需要针对受到烧伤的肢体治疗。</tutorial.roles.medicalinstructor.burns>
     <tutorial.roles.popup.burns>对烧伤的肢体使用绷带。</tutorial.roles.popup.burns>
