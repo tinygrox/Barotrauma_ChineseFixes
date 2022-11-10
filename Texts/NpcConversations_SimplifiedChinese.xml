@@ -1137,4 +1137,36 @@
 			<Conversation line="不是吧，你别吓我..." speaker="0" />
 		</Conversation>
 	</Conversation>
+
+	<!-- Husk Extremist conversations-->
+	<!-- NEW TODO add to localization before deadline 04/11/2022 -->
+	<Conversation line="Who'd interrupt our experiment now...?" speaker="0" flags="EnterOutpost, HuskExtremist" />
+	<Conversation line="A submarine? Maybe we can take it for ourselves? This experiment got a bit out of hand..." speaker="0" flags="EnterOutpost, HuskExtremist" />
+	<Conversation line="More bodies to experiment on! One step closer..." speaker="0" flags="EnterOutpost, HuskExtremist" />
+	<Conversation line="The way forward for humankind will originate here! Behold history being made!" speaker="0" flags="EnterOutpost, HuskExtremist" />
+	<Conversation line="Non-believers!" speaker="0" flags="EnterOutpost, HuskExtremist" />
+	<Conversation line="*ominous clicking sounds*" speaker="0" flags="EnterOutpost, HuskExtremist" />
+
+	<Conversation line="Did you hear that?" speaker="0" flags="HuskExtremist">
+		<Conversation line="The husk in your throat? The husk in my throat? The husk in the corridor?" speaker="1" flags="HuskExtremist">
+			<Conversation line="*ominously cheerful clicking sounds*" speaker="0" />
+			<Conversation line="It sounded different, husk footsteps are more like *dunk-dunk*, this was more of a *tap-tap*." speaker="0" />
+			<Conversation line="You're right, could be anything." speaker="0" />
+			<Conversation line="Somehow I thought symbiosis would be more comfortable. The word symbiosis sounds pleasant enough." speaker="0" />
+		</Conversation>
+	</Conversation>
+
+	<Conversation line="What's your parasite called?" speaker="0" flags="HuskExtremist">
+		<Conversation line="Symbiote, idiot." speaker="1" flags="HuskExtremist">
+			<Conversation line="Strange name." speaker="0" />
+		</Conversation>
+		<Conversation line="Symbiote. You're naming your symbiote? I consider it part of me..." speaker="1" flags="HuskExtremist">
+			<Conversation line="I am still torn between Lucy and Hank." speaker="0">
+				<Conversation line="Definitely Hank, Lucy sounds too nice." speaker="1" />
+				<Conversation line="Whatabout Calyxus? Sounds cool." speaker="1" />
+				<Conversation line="Lucy sounds more gentle. I wish my throat hurt less..." speaker="1" />
+			</Conversation>
+		</Conversation>
+	</Conversation>
+
 </Conversations>

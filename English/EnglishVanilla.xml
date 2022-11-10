@@ -1619,7 +1619,6 @@
 <missiontypedescription.abandonedoutpost>Eradicate aggressive creatures or bandit outlaws who have taken over an abandoned outpost, or rescue hostages from one.</missiontypedescription.abandonedoutpost>
 <missiontypedescription.clearalienruins>Clear an alien ruin of its guardians.</missiontypedescription.clearalienruins>
 <missiontypedescription.escort>Escort a number of personnel from outpost to another while ensuring their safety.</missiontypedescription.escort>
-<missiontypedescription.scanalienruins>Install scanners in the alien ruins and gather data from them.</missiontypedescription.scanalienruins>
 <missiontypedescription.pirate>Find the pirate ship and destroy it, along with its crew.</missiontypedescription.pirate>
 <missionname.crawlernest>Destroy a Crawler nest</missionname.crawlernest>
 <missiondescription.crawlernest>A crawler nest was recently discovered in a cave near [location1]. A reward of [reward] marks has been promised to any crew that can get rid of the nest.</missiondescription.crawlernest>
@@ -2248,10 +2247,6 @@
 <entitydescription.handcannon>A humongous beast of a revolver, designed to better deal with the large alien threats on Europa than typical firearms.</entitydescription.handcannon>
 <entityname.handcannonround>Handcannon Round</entityname.handcannonround>
 <entitydescription.handcannonround>An exceedingly large .61 revolver round. The unique alloy of materials allows for high penetration and stopping power.</entitydescription.handcannonround>
-<entityname.coalitioncommendation>Coalition Commendation</entityname.coalitioncommendation>
-<entitydescription.coalitioncommendation>A small medal fashioned out of copper by the Coalition. When applied to another crewmember's body, it instantly bestows them with a sum of experience.</entitydescription.coalitioncommendation>
-<entityname.coalitionmedal>Coalition Medal</entityname.coalitionmedal>
-<entitydescription.coalitionmedal>A small medal fashioned out of bronze by the Coalition. Much like a Coalition Commendation, it bestows another crewmember with experience, except in greater amounts.</entitydescription.coalitionmedal>
 <entityname.assaultrifle>Assault Rifle</entityname.assaultrifle>
 <entitydescription.assaultrifle>An assault rifle chambering 6.8mm cartridges. Though banned by the Coalition, the schematics for these rifles are still passed around Europa as they present a premier option for submarine defense, or as the Separatists would prefer, societal revolution.</entitydescription.assaultrifle>
 <entityname.assaultriflemagazine>Assault Rifle Magazine</entityname.assaultriflemagazine>
@@ -2493,9 +2488,7 @@
 <entityname.potassium>Potassium</entityname.potassium>
 <entitydescription.potassium>Used in the manufacture of explosives and medical compounds. Reacts violently when in contact with water.</entitydescription.potassium>
 <entityname.magnesium>Magnesium</entityname.magnesium>
-<entitydescription.magnesium>Used in the manufacture of explosives and medical compounds. Reacts violently when in contact with water.</entitydescription.magnesium>
 <entityname.lithium>Lithium</entityname.lithium>
-<entitydescription.lithium>Most commonly used in the manufacture of batteries and antipsychotic drugs.</entitydescription.lithium>
 <entityname.chlorine>Chlorine</entityname.chlorine>
 <entitydescription.chlorine>Most commonly used in saline, a common treatment for blood loss, and chloral hydrate, a powerful sedative.</entitydescription.chlorine>
 <entityname.slimebacteria>Slime Bacteria</entityname.slimebacteria>
@@ -4028,7 +4021,6 @@
 <afflictioncauseofdeath.bleeding>Bled to death.</afflictioncauseofdeath.bleeding>
 <afflictioncauseofdeathself.bleeding>You have bled to death.</afflictioncauseofdeathself.bleeding>
 <afflictionname.burn>Burn</afflictionname.burn>
-<afflictiondescription.burn>The area is blistered and red, and skin is already beginning to peel away in sheets. The patient is in a great deal of pain.</afflictiondescription.burn>
 <afflictioncauseofdeath.burn>Burned to death.</afflictioncauseofdeath.burn>
 <afflictioncauseofdeathself.burn>You have burned to death.</afflictioncauseofdeathself.burn>
 <afflictionname.oxygenlow>Oxygen low</afflictionname.oxygenlow>
@@ -4125,7 +4117,6 @@
 <afflictiondescription.concussion>The patient seems disoriented and has trouble focusing their eyes.</afflictiondescription.concussion>
 <afflictionname.disguised>Disguised</afflictionname.disguised>
 <afflictiondescription.disguised>As long as you keep covering your face, others might not be able to tell who you are...</afflictiondescription.disguised>
-<afflictiondescription.hallucinating>There's something strange going on with your sense.</afflictiondescription.hallucinating>
 <afflictiontype.damage>Damage</afflictiontype.damage>
 
 <!-- Buffs -->
@@ -4194,7 +4185,6 @@
 <afflictiondescription.regeneration>The subject is slowly regaining their vitality.</afflictiondescription.regeneration>
 <afflictionname.repairflow>In the Flow</afflictionname.repairflow>
 <afflictiondescription.repairflow>The subject is in the flow, and able to repair devices effortlessly.</afflictiondescription.repairflow>
-<afflictionname.evasivemaneuvers>Evasive Maneuvers</afflictionname.evasivemaneuvers>
 <afflictiondescription.evasivemaneuvers>The subject has momentarily become a much better captain.</afflictiondescription.evasivemaneuvers>
 <afflictionname.skedaddle>Skedaddle</afflictionname.skedaddle>
 <afflictiondescription.skedaddle>The subject is skedaddling away!</afflictiondescription.skedaddle>
@@ -4230,8 +4220,6 @@
 <afflictiondescription.pyromania>The subject is enjoying the smell of searing flesh a bit too much.</afflictiondescription.pyromania>
 <afflictionname.tinkerexhaustion>Tinker Exhaustion</afflictionname.tinkerexhaustion>
 <afflictiondescription.tinkerexhaustion>The subject can't tinker with any more devices for the time being.</afflictiondescription.tinkerexhaustion>
-<afflictionname.bedsidemanner>Bedside Manner</afflictionname.bedsidemanner>
-<afflictiondescription.bedsidemanner>The subject is gaining physical damage reduction and is learning faster.</afflictiondescription.bedsidemanner>
 <afflictionname.guarded>Guarded</afflictionname.guarded>
 <afflictiondescription.guarded>The subject is prepared for the next attack on them.</afflictiondescription.guarded>
 <afflictionname.skillfulmelodies>Skillful Melodies</afflictionname.skillfulmelodies>
@@ -4695,7 +4683,6 @@
 <karmadecreasedunknownamount>Your karma has decreased.</karmadecreasedunknownamount>
 <karmaincreasedunknownamount>Your karma has increased.</karmaincreasedunknownamount>
 <afflictionname.spaceherpes>Space herpes</afflictionname.spaceherpes>
-<afflictiondescription.spaceherpes>The patient's face is covered with nasty-looking blisters and ulcers.</afflictiondescription.spaceherpes>
 <afflictionname.invertcontrols>Disoriented</afflictionname.invertcontrols>
 <afflictiondescription.invertcontrols>The patient's eyes are darting around and they seem to be having trouble orienting to their surroundings.</afflictiondescription.invertcontrols>
 <karmakicked>You have been kicked from the server because your Karma decreased below [banthreshold].</karmakicked>
@@ -6177,7 +6164,6 @@
 <talenttree.pioneer>Pioneer</talenttree.pioneer>
 <talenttree.xenologist>Xenologist</talenttree.xenologist>
 <talenttree.medic>Medic</talenttree.medic>
-<talenttree.scientist>Scientist</talenttree.scientist>
 
 <!-- Talents -->
 <talentmenu.alltalentsunlocked>All talents unlocked</talentmenu.alltalentsunlocked>
@@ -6194,7 +6180,6 @@
 <talentdescription.quickdraw>If it has been longer than [seconds] seconds since you've attacked with a pistol, your next attack with a pistol is [damage]% more powerful.</talentdescription.quickdraw>
 <talentname.travelingtradesman>Traveling Tradesman</talentname.travelingtradesman>
 <talentname.evasivemaneuvers>Evasive Maneuvers</talentname.evasivemaneuvers>
-<talentdescription.evasivemaneuvers>Whenever your submarine takes damage from a monster, gain a bonus of [helmbonus] to the Helm skill for [seconds] seconds.</talentdescription.evasivemaneuvers>
 <talentname.bountyhunter>Bounty Hunter</talentname.bountyhunter>
 <talentdescription.bountyhunter>Whenever you or an allied crewmember kills a monster, your crew gains additional marks equal to [percentage]% of the creature's maximum health.</talentdescription.bountyhunter>
 <talentname.trustedcaptain>Trusted Captain</talentname.trustedcaptain>
@@ -6202,11 +6187,9 @@
 <talentname.esteemedcaptain>Esteemed Captain</talentname.esteemedcaptain>
 <talentdescription.esteemedcaptain>Whenever you finish at least one mission, gain a Coalition Medal.\nWhen you apply a Coalition Medal on another character, gain [selfxpgain] experience.</talentdescription.esteemedcaptain>
 <talentname.downwiththeship>Down with the Ship</talentname.downwiththeship>
-<talentdescription.downwiththeship>If you are on your submarine and it becomes at least [flooded]% flooded, you gain an additional [swimmingboost]% swimming speed and a bonus of [skillboost] to Mechanical and Electrical skills for [duration] seconds.</talentdescription.downwiththeship>
 <talentname.camaraderie>Camaraderie</talentname.camaraderie>
 <talentdescription.camaraderie>Whenever you finish a mission without a crewmember dying, and your crew contains at least [jobcount] different jobs, your crew gains an additional [extramoney]% money and experience.</talentdescription.camaraderie>
 <talentname.drunkensailor>Drunken Sailor</talentname.drunkensailor>
-<talentdescription.drunkensailor>Gain [dmgresistance]% physical damage resistance and [stunresistance]% stun resistance while drunk.\nWhen you play a Harmonica, a random ally on your current submarine has a [skillgainprobability]% chance to gain a random skill point every second.</talentdescription.drunkensailor>
 <talentname.trucker>Trucker</talentname.trucker>
 <talentdescription.trucker>Whenever you finish all your selected missions, gain an additional Coalition Commendation.</talentdescription.trucker>
 <talentname.trustbuilding>Trust Building</talentname.trustbuilding>
@@ -6328,7 +6311,6 @@
 <talentdescription.standanddeliver>Whenever you finish at least one mission, gain 'The Sailor's Guide'.\nWhenever you use 'The Sailor's Guide', the ally nearest to you gains [skillamount] to all skills.</talentdescription.standanddeliver>
 <talentdescription.letitdrainreminder>You can only install a maximum of [itemcount] of this item on your submarine.</talentdescription.letitdrainreminder>
 <talentdescription.cannedheat>Whenever you play an accordion, the ally nearest to you will gain [allyexperienceamount] experience every second. When they do, you gain [experienceamount] experience.</talentdescription.cannedheat>
-<talentdescription.nuclearoption>When you fabricate a fuel rod, gain triple output.</talentdescription.nuclearoption>
 <talentdescription.quickfix>Whenever you fully repair a device, gain [experienceamount] experience.</talentdescription.quickfix>
 <talentdescription.maxtriggeruntildeath>This effect can only occur once per life.</talentdescription.maxtriggeruntildeath>
 <talentdescription.maxtriggeruntilmission>This effect can only occur up to [maxtrigger] times until you finish another mission.</talentdescription.maxtriggeruntilmission>
@@ -6378,12 +6360,10 @@
 <talentdescription.simultaneousskillgain>Whenever you gain [skillname1] skill, also gain [skillname2] skill.</talentdescription.simultaneousskillgain>
 <talentdescription.increasereputationgains>Your crew's reputation gains are improved by [value]%.</talentdescription.increasereputationgains>
 <talentdescription.chanceofextraweapondamage>Whenever you attack with any weapon, your attack has a [probability]% chance of becoming twice as powerful.</talentdescription.chanceofextraweapondamage>
-<talentdescription.extrapowertoharpoons>Gain an additional [value]% attack power to harpoons.</talentdescription.extrapowertoharpoons>
 <talentdescription.extrapowertoharpoonsinopensea>If you are in the open sea, gain an additional [value]% attack power to harpoons instead.</talentdescription.extrapowertoharpoonsinopensea>
 <talentdescription.dropalienmaterialonkill>When you kill a monster while outside your submarine, it has a [probability]% chance of having an additional alien material.</talentdescription.dropalienmaterialonkill>
 <talentdescription.warriorpoet>You can write a book.\nTo do this, ragdoll yourself. After [seconds] seconds, you will gain the item [itemname] and [moneyamount] marks for each enemy you've killed since your last book (as royalties).</talentdescription.warriorpoet>
 <talentdescription.dualspecops>When you ragdoll in water, propel yourself forward in your current direction.</talentdescription.dualspecops>
-<talentdescription.beatcop>You can tackle other characters by ragdolling into them at high speeds.</talentdescription.beatcop>
 <talentdescription.truepotential>Clown Power allows you to hit characters with a Toy Hammer for a [probability]% chance to implode them.</talentdescription.truepotential>
 <talentdescription.stonewall>Whenever you are attacked, gain an additional [physicaldamagereduction]% physical damage resistance and [stunresistance]% stun resistance for [seconds] seconds.</talentdescription.stonewall>
 <talentdescription.richinknowledge>Whenever you gain a skill point, gain an additional [experienceamount] experience, while your allied crewmembers gain [alliedexperienceamount] experience.</talentdescription.richinknowledge>
@@ -6398,17 +6378,12 @@
 <talentdescription.enrollintoclowncollege>As long as you are wearing a full clown outfit, you gain Clown Power.</talentdescription.enrollintoclowncollege>
 <talentdescription.clownpowerdamagereduction>Clown Power gives you an additional [physicalresistance]% physical damage resistance.</talentdescription.clownpowerdamagereduction>
 <talentdescription.waterprankster>Clown Power gives you immunity to pressure and allows you to swim [swimspeedvalue]% faster.</talentdescription.waterprankster>
-<talentdescription.inspiringtunes>Clown Power allows you to honk your horn to repair nearby electrical and mechanical items, and nearby allies to gain a bonus of [skillamount] to all skills for a short while.</talentdescription.inspiringtunes>
-<talentdescription.psychoclown>Clown Power allows you to attack faster with melee weapons based on how much Psychosis you have, up to [maxattackspeed]%, but you cannot run while having Psychosis.</talentdescription.psychoclown>
 <talentdescription.slapstickexpert>Clown Power allows you to have a small chance to trip randomly when you run.\nWhile ragdolled, Clown Power allows you to reduce the power of incoming attacks by [powerreduction]%, and characters that attack you have a [probability]% chance of becoming stunned for [stunseconds] seconds.</talentdescription.slapstickexpert>
-<talentdescription.commando>When firing a ranged weapon while crouched, gain [armorpenetration]% additional armor penetration, and your attacks are [powerincrease]% more powerful, but your firing rate is [firingratedecrease]% slower.\nRecover from bleeding much more quickly.</talentdescription.commando>
 <talentdescription.phdinnuclearphysics>Your attacks with crowbars are [powerincrease]% more powerful.</talentdescription.phdinnuclearphysics>
 <talentdescription.intheflow>Whenever you fully repair a device, repair [repairspeed]% faster for the next [seconds] seconds.</talentdescription.intheflow>
 <talentdescription.coauthor>You can co-write a book with a Mechanic.\nTo do this, select their character and have them select yours. After [seconds] seconds, you will gain [itemname], and both of you gain [experienceamount] experience.</talentdescription.coauthor>
 <talentdescription.polymath>Gain a bonus of [skillincrease] to all skills, and you gain [experiencegain]% more mission experience, but you have [maximumhealthreduction]% less maximum health.</talentdescription.polymath>
 <talentdescription.optimizedpowerflow>Gain an additional percentage to Turret Power Cost Reduction and Turret Charge Speed equal to [statamount]% of your Electrical skill.\nWhenever you fully repair an item, gain a bonus of [skillamount] to Electrical.</talentdescription.optimizedpowerflow>
-<talentdescription.aggressiveengineering>When you attack with a wrench, you have a [probability]% chance to attack with [powerincrease]% additional power and inflict an additional stun.</talentdescription.aggressiveengineering>
-<talentdescription.pyromaniac>When you inflict burning damage on an enemy, gain [physicaldamagereduction]% physical damage resistance for [seconds] seconds.\nInflict [burnincrease]% more burning damage.</talentdescription.pyromaniac>
 <talentdescription.scrapsavant>You can refine [scrapamount] scrap to any alien material.\nGain [experienceamount] experience when you fabricate an alien material.</talentdescription.scrapsavant>
 <talentdescription.scrounger>When you deconstruct scrap, gain [experienceamount] experience.</talentdescription.scrounger>
 <talentdescription.elbowgrease>Gain an additional percentage to Melee Power and Maximum Health equal to [statamount]% of your Mechanical skill.\nWhenever you deconstruct scrap, gain a bonus of [skillamount] to Mechanical.</talentdescription.elbowgrease>
@@ -6437,13 +6412,6 @@
 <talentdescription.allhandsondeck>You may bestow an additional character with Inspiration effects.</talentdescription.allhandsondeck>
 <talentdescription.atmosmachine>When you deconstruct an alien artifact, there is a [probability]% chance it will instead transform into a random alien item.\nWhenever you finish a mission, your crew gains [experienceamount]% additional mission experience for each large alien artifact on board your ship, up to [maxexperienceamount]%.</talentdescription.atmosmachine>
 <talentdescription.navydiver>Attacks you suffer are [attackpowerreduction]% less powerful while you are in water.</talentdescription.navydiver>
-<talentdescription.crafthighqualityrepairtools>Welding tools and plasma cutters you fabricate are [qualitybonus] higher quality.</talentdescription.crafthighqualityrepairtools>
-<talentdescription.crafthighqualityweapons>Weapons you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityweapons>
-<talentdescription.crafthighqualitybatteries>Batteries you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitybatteries>
-<talentdescription.crafthighqualityfuelrods>Fuel rods you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityfuelrods>
-<talentdescription.crafthighqualitytools>Tools you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytools>
-<talentdescription.crafthighqualitytanks>Fuel and oxygen tanks you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytanks>
-<talentdescription.crafthighqualityexplosives>Explosives you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityexplosives>
 <talentdescription.gainitemsonmission>Whenever you finish at least one mission, gain the following items as an additional reward:</talentdescription.gainitemsonmission>
 <talentdescription.extramission>You may select an additional mission.</talentdescription.extramission>
 <talentdescription.extratalentpoint>Gain [points] free additional talent points.</talentdescription.extratalentpoint>
@@ -6636,8 +6604,6 @@
 <tutorialcompleted>[tutorialname] (Completed)</tutorialcompleted>
 <tutorial.continue>“Got it.”</tutorial.continue>
 <tutorial.continue>“Understood.”</tutorial.continue>
-<tutorial.skiptotutorial>[Skip to tutorial]</tutorial.skiptotutorial>
-<tutorial.basic>Basics (Movements and interaction)</tutorial.basic>
 <tutorial.basics.message.1>“Ah, I see you're standing. I'd like to keep this brief, since you're the sixth person I've had to guide today, and frankly I'm getting tired of it.”</tutorial.basics.message.1>
 <tutorial.basics.message.1_player>“...Where am I? Who am I?”</tutorial.basics.message.1_player>
 <tutorial.basics.message.2>“You're in an automated rehabilitation chamber. You've suffered a traumatic experience and were in a perpetual state of screaming and defecating your boiler suit. Dr. Happy has seen fit to treat you.”</tutorial.basics.message.2>
@@ -6650,14 +6616,12 @@
 <tutorial.basics.endmessage.2>“Hold on a second... I see some additional movement on a camera. Uh oh...”</tutorial.basics.endmessage.2>
 <tutorial.basics.endmessage.2_player>“What's that noise?!”</tutorial.basics.endmessage.2_player>
 <tutorial.basics.wasd>Use [InputType.Up], [InputType.Left], [InputType.Down], and [InputType.Right] to move your character.</tutorial.basics.wasd>
-<tutorial.basics.looking>Use the cursor to control the direction your character is facing.</tutorial.basics.looking>
 <tutorial.basics.cursor>Use [InputType.Select] to interact with buttons, doors and objects.</tutorial.basics.cursor>
 <tutorial.basics.highlight>Interactable objects are highlighted when the cursor moves over them.</tutorial.basics.highlight>
 <tutorial.basics.obtain>To pick up an item, point at it with the cursor and use [InputType.Select].</tutorial.basics.obtain>
 <tutorial.basics.lockeddoor>Locked doors require an ID card to get through.</tutorial.basics.lockeddoor>
 <tutorial.basics.stairsusage>Press [InputType.Down] to drop down the platform, onto the stairs.</tutorial.basics.stairsusage>
 <tutorial.basics.sprint>Hold [InputType.Run] to run.</tutorial.basics.sprint>
-<tutorial.basics.repair>Devices sometimes break down. They can be repaired with the correct repair tool.</tutorial.basics.repair>
 <tutorial.basics.containers>Items can be found in containers. Use the cursor and [InputType.Select] to open a container.</tutorial.basics.containers>
 <tutorial.basics.equip>Double-click an item to equip it.</tutorial.basics.equip>
 <tutorial.basics.equip2>Items in your hotbar can also be equipped by pressing the corresponding hotbar number (1-9).</tutorial.basics.equip2>
@@ -6666,8 +6630,6 @@
 <tutorial.basics.repairouchie>Ouch! Time your repairs by clicking the repair button when the line is in the colored section of the bar.</tutorial.basics.repairouchie>
 <tutorial.basics.weldingtool>Welding tools are vital equipment for sealing leaks. Obtain a welding tool.</tutorial.basics.weldingtool>
 <tutorial.basics.weldingfuel>Welding tools need welding fuel to work. Get a welding fuel tank from the container.</tutorial.basics.weldingfuel>
-<tutorial.basics.insertweldingfuel>Drag a welding fuel tank onto the welding tool to insert it.</tutorial.basics.insertweldingfuel>
-<tutorial.basics.insertweldingfuelalt>Alternatively, while you have a welding tool equipped, press the welding fuel tank's hotbar number to insert it.</tutorial.basics.insertweldingfuelalt>
 <tutorial.basics.aimandfire>To aim your tool or weapon, hold the [InputType.Aim] button, then press [InputType.Shoot] to use or fire it.</tutorial.basics.aimandfire>
 <tutorial.basics.aim>Aim</tutorial.basics.aim>
 <tutorial.basics.fire>Fire</tutorial.basics.fire>
@@ -6675,14 +6637,10 @@
 <tutorial.basics.holdaim2>While aiming, hold [InputType.Shoot] to weld.</tutorial.basics.holdaim2>
 <tutorial.basics.ladders>Use [InputType.Up] and [InputType.Down] while near a ladder to go up or down it.</tutorial.basics.ladders>
 <tutorial.basics.welding>Weld the leaking wall to continue.</tutorial.basics.welding>
-<tutorial.basics.divingsuits>Diving suits allow you to swim underwater.</tutorial.basics.divingsuits>
-<tutorial.basics.divingsuits2>Equip a diving suit by double-clicking it or dragging it onto the highlighted slot.</tutorial.basics.divingsuits2>
 <tutorial.basics.nooxygen>WARNING! Your diving suit is empty, preventing you from breathing. Quickly find an oxygen tank and insert it.</tutorial.basics.nooxygen>
 <tutorial.basics.oxygen>Wearing a diving suit slowly drains its oxygen tank.</tutorial.basics.oxygen>
 <tutorial.basics.oxygen2>When an oxygen tank is almost empty, your diving suit will sound the alarm.</tutorial.basics.oxygen2>
 <tutorial.basics.oxygen3>You're running low on oxygen! To unequip the diving suit, drag it out of the inventory slot.</tutorial.basics.oxygen3>
-<tutorial.basics.righttool>Pumps are mechanical devices. Mechanical devices require a wrench to repair.</tutorial.basics.righttool>
-<tutorial.basics.wrenchrepair>Find a wrench in a nearby cabinet, equip it, and repair the pump.</tutorial.basics.wrenchrepair>
 <tutorial.basics.interact2>Press [InputType.Select] to interact with the pump or other interactable devices.</tutorial.basics.interact2>
 <tutorial.basics.puzzle>Using the pump's interface, see if you can get up the ladder...</tutorial.basics.puzzle>
 <tutorial.basics.puzzlehelp>By setting the pump to pump water into the room, you will be able to swim to the ladder.</tutorial.basics.puzzlehelp>
@@ -6705,13 +6663,11 @@
 <tutorial.basics.objective12>Repair the pump</tutorial.basics.objective12>
 <tutorial.basics.objective13>Use the pump to flood the room</tutorial.basics.objective13>
 <tutorial.basics.objective14>Leave</tutorial.basics.objective14>
-<tutorial.roles>Roles (Job-specific tasks)</tutorial.roles>
 <charactername.receptiondude>Todd Burdock</charactername.receptiondude>
 <tutorial.roles.message.1>“Oh hey—how's it floating, dude? You here to get your papers to sign on a submarine?”</tutorial.roles.message.1>
 <tutorial.roles.message.1_player>“That's right!”</tutorial.roles.message.1_player>
 <tutorial.roles.message.2>“Whoa, such enthusiasm, dude! I love it! Are you familiar with the courses we offer?”</tutorial.roles.message.2>
 <tutorial.roles.message.2_player1>“No, what courses?”</tutorial.roles.message.2_player1>
-<tutorial.roles.message.2_player2>“Yes.” [Skip to tutorial]</tutorial.roles.message.2_player2>
 <tutorial.roles.message.3_skip>“All righty dude, just chill in the next room until the other students arrive. Lemme open that door for ya.”</tutorial.roles.message.3_skip>
 <tutorial.roles.message.3_skip_player>“Great!”</tutorial.roles.message.3_skip_player>
 <tutorial.roles.message.3>“Ah, you know dude, just the thingamajig politician dude in his ivory tower trying to solve a problem...without actually solving the problem, ya know?”</tutorial.roles.message.3>
@@ -6778,8 +6734,6 @@
 <tutorial.roles.navigationterminal_steering6>“For example: If you want your submarine to move slowly to the right, you touch slightly to the right of the submarine's current position. If you want to rise up quickly, you touch far above the submarine's current position.”</tutorial.roles.navigationterminal_steering6>
 <tutorial.roles.navigationterminal_steering7>“Ready to give it a try?”</tutorial.roles.navigationterminal_steering7>
 <tutorial.roles.navigationterminal_steering8>“Trick question! No you're not, cadet! A submarine is usually docked while idle, to prevent it from drifting and using fuel. First, you'll need to undock using the big red "Undock" button. Easy, right? Now, let's try it out.”</tutorial.roles.navigationterminal_steering8>
-<tutorial.roles.popup.navigationterminal_steering>Undock the drone, using the Navigation Terminal.</tutorial.roles.popup.navigationterminal_steering>
-<tutorial.roles.popup.navigationterminal_steering2>Practice steering the drone. Re-dock the drone when ready.</tutorial.roles.popup.navigationterminal_steering2>
 <tutorial.roles.navigationterminal_commanding>“Not bad, cadet. You are ready to be a helmsman now, but being a captain is more than that.”</tutorial.roles.navigationterminal_commanding>
 <tutorial.roles.navigationterminal_commanding2>“You cannot run a large submarine by yourself. You need a crew. And a crew needs someone to lead them, or they will stumble around like headless chickens. Cluck cluck cluck. Wait, they wouldn't... Never mind.”</tutorial.roles.navigationterminal_commanding2>
 <tutorial.roles.navigationterminal_commanding3>“As captain, you're responsible for leading your crew. So you'll have to issue orders to them. Meaning, you'll need to know what needs doing!”</tutorial.roles.navigationterminal_commanding3>
@@ -6866,9 +6820,7 @@
 <tutorial.roles.engineerinstructor_wiring3_player>“Sure.”</tutorial.roles.engineerinstructor_wiring3_player>
 <tutorial.roles.popup.engineer_wiring>Equip the screwdriver and the wire.</tutorial.roles.popup.engineer_wiring>
 <tutorial.roles.popup.engineer_wiring2>Rewire the junction box with [InputType.Use].</tutorial.roles.popup.engineer_wiring2>
-<tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER_OUT.</tutorial.roles.popup.engineer_wiring3>
 <tutorial.roles.popup.engineer_wiring4>Rewire the lamp with [InputType.Use].</tutorial.roles.popup.engineer_wiring4>
-<tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER_IN.</tutorial.roles.popup.engineer_wiring5>
 <tutorial.roles.engineerinstructor_end>“Awesome job! That covers all the basics of engineering. The rest you can learn on your trips! You were a lovely student. Hope to see you around!”</tutorial.roles.engineerinstructor_end>
 <tutorial.roles.engineerinstructor_end_player>“Thanks Kayleigh! See you!”</tutorial.roles.engineerinstructor_end_player>
 <tutorial.roles.engineer.objective.reactor>Master the reactor</tutorial.roles.engineer.objective.reactor>
@@ -6884,8 +6836,6 @@
 <tutorial.roles.engineer.objective.rewire>Learn to rewire</tutorial.roles.engineer.objective.rewire>
 <tutorial.roles.engineer.objective.rewire1>Equip the screwdriver</tutorial.roles.engineer.objective.rewire1>
 <tutorial.roles.engineer.objective.rewire2>Equip the wire</tutorial.roles.engineer.objective.rewire2>
-<tutorial.roles.engineer.objective.rewire3>Wire the junction box's POWER connection</tutorial.roles.engineer.objective.rewire3>
-<tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER connection</tutorial.roles.engineer.objective.rewire4>
 <tutorial.roles.mechanicinstructor>“Hi, I'm Amos. I'm the mechanic around here. I'll teach you how to care for your submarine. Remember: If you take care of her, she'll take care of you.”</tutorial.roles.mechanicinstructor>
 <charactername.mechanicinstructor>Amos Arbor</charactername.mechanicinstructor>
 <tutorial.roles.engineroomdescription>“This right here is the engine room. It houses the engine. Every submarine has one. The engine moves the submarine forwards and backwards.”</tutorial.roles.engineroomdescription>
@@ -6899,7 +6849,6 @@
 <tutorial.roles.popup.mechanic_welding2>Weld the leak.</tutorial.roles.popup.mechanic_welding2>
 <tutorial.roles.mechanicinstructor_ballast>“Hm, that will do. Now, grab a diving mask from the supply cabinet.”</tutorial.roles.mechanicinstructor_ballast>
 <tutorial.roles.mechanicinstructor_ballast_player>“All right.”</tutorial.roles.mechanicinstructor_ballast_player>
-<tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
 <tutorial.roles.ballastdescription>“Down this ladder and through the hatch is a ballast tank. The ballast tank fills up with water when the submarine needs to go down.”</tutorial.roles.ballastdescription>
 <tutorial.roles.mechanicinstructor_ballast2>“Inside, a pump forces the water in or out. If the pump breaks down, you get in there and fix it. Since there's usually water in the ballast tank, it helps to have some diving tools on you. Still got that wrench?”</tutorial.roles.mechanicinstructor_ballast2>
 <tutorial.roles.mechanicinstructor_ballast2_player>“Yep.”</tutorial.roles.mechanicinstructor_ballast2_player>
@@ -6961,7 +6910,6 @@
 <tutorial.roles.security.objective.gearup1>Equip body armor</tutorial.roles.security.objective.gearup1>
 <tutorial.roles.security.objective.gearup2>Acquire a gun</tutorial.roles.security.objective.gearup2>
 <tutorial.roles.security.objective.gearup3>Acquire ammunition</tutorial.roles.security.objective.gearup3>
-<tutorial.roles.security.objective.gearup4>Kill the target</tutorial.roles.security.objective.gearup4>
 <tutorial.roles.security.objective.turret>Operate a turret</tutorial.roles.security.objective.turret>
 <tutorial.roles.security.objective.turret1>Fill the loader</tutorial.roles.security.objective.turret1>
 <tutorial.roles.security.objective.turret2>Charge up the supercapacitor</tutorial.roles.security.objective.turret2>
@@ -6985,8 +6933,6 @@
 <tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the naloxone on me. Remember, ‘H’ to enter my health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
 <tutorial.roles.popup.naloxone>Administer naloxone.</tutorial.roles.popup.naloxone>
 <tutorial.roles.medicalinstructor.patients1>“That’s about all you can do for me right now. If you want to be of more use, tend to the patients next door. And turn off the lights. I’m gonna rest my eyes a bit.”</tutorial.roles.medicalinstructor.patients1>
-<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them (‘H’ to enter the health interface!) to learn what ails them.”</tutorial.roles.medicalinstructor.patients2>
-<tutorial.roles.medicalinstructor.patients3>“Clicking on a patient's limbs in the interface reveals where they’re hurting, and how. You can see what treatments are available for each affliction. Cabinets should be stocked with whatever you need.”</tutorial.roles.medicalinstructor.patients3>
 <tutorial.roles.popup.treatpatients>Treat all patients.</tutorial.roles.popup.treatpatients>
 <tutorial.roles.medicalinstructor.burns>“Burns are commonly sustained from explosions and electric shocks. Bandages and plastiseal are the typical treatments. Burns are also limb-specific, which means you’ll have to apply the cure to the correct limb.”</tutorial.roles.medicalinstructor.burns>
 <tutorial.roles.popup.burns>Apply bandages to burned limb.</tutorial.roles.popup.burns>

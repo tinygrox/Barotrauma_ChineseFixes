@@ -98,47 +98,6 @@
 <subeditorlights>Lights</subeditorlights>
 <subeditorshadowcastinglights>Shadow-casting lights</subeditorshadowcastinglights>
 
-<!-- Sprite Editor -->
-<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
-<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
-<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
-<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
-<spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
-<spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
-<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
-<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
-<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
-<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
-<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
-<spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
-<spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
-<spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
-<spriteeditor.allchangessavedto>All changes saved to:</spriteeditor.allchangessavedto>
-  
-<!-- Event editor -->
-<eventeditor.loadevent>Load event prefab</eventeditor.loadevent>
-<eventeditor.addaction>Add event action</eventeditor.addaction>
-<eventeditor.addvalue>Add value</eventeditor.addvalue>
-<eventeditor.addspecial>Add special</eventeditor.addspecial>
-<eventeditor.add>Add</eventeditor.add>
-<eventeditor.edit>Edit value</eventeditor.edit>
-<eventeditor.delete>Delete node</eventeditor.delete>
-<eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
-<eventeditor.removeoption>Remove option</eventeditor.removeoption>
-<eventeditor.addoption>Add option</eventeditor.addoption>
-<eventeditor.saveproject>Save project</eventeditor.saveproject>
-<eventeditor.loadproject>Load project</eventeditor.loadproject>
-<eventeditor.newproject>New project</eventeditor.newproject>
-<eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
-<eventeditor.export>Export as event</eventeditor.export>
-<eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
-<eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
-<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
-<eventeditor.opentextheader>Open event</eventeditor.opentextheader>
-<eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
-<eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
-<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined so they have been automatically generated.</eventeditor.randomgenerationbody>
-
 <!-- Character Editor -->
 <charactereditor.creatingnewjoint>Creating a new joint</charactereditor.creatingnewjoint>
 <charactereditor.selectanchor1pos>Select the anchor position for the joint</charactereditor.selectanchor1pos>
@@ -300,40 +259,14 @@
 <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
 <charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 
-<!-- Particle Editor -->
-<particleeditor.emitter>Emitter</particleeditor.emitter>
-
-<!-- Level Editor -->
-<leveleditor.levelseed>Level Seed</leveleditor.levelseed>
-<leveleditor.generate>Generate</leveleditor.generate>
-<leveleditor.test>Test</leveleditor.test>
-<leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
-<leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
-<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
-<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
-<leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
-<leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
-<leveleditor.childobjects>Child Objects</leveleditor.childobjects>
-<leveleditor.addchildobject>Add Child Object</leveleditor.addchildobject>
-<leveleditor.lightsources>Light Sources</leveleditor.lightsources>
-<leveleditor.addlightsource>Add Light Source</leveleditor.addlightsource>
-<leveleditor.createlevelobj>Create a Level Object</leveleditor.createlevelobj>
-<leveleditor.levelobjname>Name</leveleditor.levelobjname>
-<leveleditor.levelobjtexturepath>Texture Path</leveleditor.levelobjtexturepath>
-<leveleditor.levelobjnameempty>Please enter a name for the level object.</leveleditor.levelobjnameempty>
-<leveleditor.levelobjnametaken>The selected name is already in use.</leveleditor.levelobjnametaken>
-<leveleditor.levelobjtexturenotfound>Could not find the selected texture file.</leveleditor.levelobjtexturenotfound>
-<leveleditor.ruinparams>Ruin parameters</leveleditor.ruinparams>
-<leveleditor.caveparams>Cave parameters</leveleditor.caveparams>
-<leveleditor.outpostparams>Outpost parameters</leveleditor.outpostparams>
-<leveleditor.addmoduletype>Add module type</leveleditor.addmoduletype>
-<leveleditor.allowinvalidoutpost>Allow invalid outposts</leveleditor.allowinvalidoutpost>
-<leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
-<leveleditor.allsaved>All changes saved</leveleditor.allsaved>
-
+<!-- Entity properties -->
+<sp.scale.name>Scale</sp.scale.name>
+<sp.spritedepth.name>Sprite Depth</sp.spritedepth.name>
+<sp.disallowedupgrades.name>Disallowed Upgrades</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>Hidden In Game</sp.hiddeningame.name>
+  
 <sp.item.hiddeningame.name>Hidden In Game</sp.item.hiddeningame.name>
 <sp.item.noninteractable.name>Non Interactable</sp.item.noninteractable.name>
-<sp.item.scale.name>Scale</sp.item.scale.name>
 <sp.item.spritecolor.name>Sprite Color</sp.item.spritecolor.name>
 <sp.item.inventoryiconcolor.name>Inventory Icon Color</sp.item.inventoryiconcolor.name>
 <sp.item.containercolor.name>Container Color</sp.item.containercolor.name>
@@ -343,19 +276,99 @@
 <sp.item.displaysidebysidewhenlinked.name>Display Side By Side When Linked</sp.item.displaysidebysidewhenlinked.name>
 <sp.item.displaysidebysidewhenlinked.description>Enable if you want to display the item HUD side by side with another item's HUD, when linked together. Disclaimer: It's possible or even likely that the views block each other, if they were not designed to be viewed together!</sp.item.displaysidebysidewhenlinked.description>
 <sp.item.spritedepth.name>Sprite Depth</sp.item.spritedepth.name>
-<sp.itemcontainer.itempos.name>Item Pos</sp.itemcontainer.itempos.name>
-<sp.itemcontainer.itempos.description>The position where the contained items get drawn at (offset from the upper left corner of the sprite in pixels).</sp.itemcontainer.itempos.description>
-<sp.itemcontainer.iteminterval.name>Item Interval</sp.itemcontainer.iteminterval.name>
-<sp.itemcontainer.iteminterval.description>The interval at which the contained items are spaced apart from each other (in pixels).</sp.itemcontainer.iteminterval.description>
-<sp.itemcontainer.containablerestrictions.name>Containable Restrictions</sp.itemcontainer.containablerestrictions.name>
-<sp.itemcontainer.containablerestrictions.description>Define items (by identifiers or tags) that bots should place inside this container. If empty, no restrictions are applied.</sp.itemcontainer.containablerestrictions.description>
-<sp.controller.istoggle.name>Is Toggle</sp.controller.istoggle.name>
-<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
-<sp.controller.state.name>State</sp.controller.state.name>
-<sp.controller.state.description>Whether the item is toggled on/off. Only valid if IsToggle is set to true.</sp.controller.state.description>
+<sp.item.nonplayerteaminteractable.name>Non Player Team Interactable</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>When enabled, item is interactable only for characters on non-player teams.</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>Allow Swapping</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>Can the item be swapped with other items in outposts? Only relevant on swappable items such as turrets.</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>Invulnerable To Damage</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>When enabled, will prevent the item from taking damage from any source.</sp.item.invulnerabletodamage.description>
 
-<sp.connectionpanel.locked.name>Locked</sp.connectionpanel.locked.name>
-<sp.connectionpanel.locked.description>Locked connection panels cannot be rewired in-game.</sp.connectionpanel.locked.description>
+<sp.structure.indestructible.name>Indestructible</sp.structure.indestructible.name>
+<sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
+<sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points towards the sub's center of mass.</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>If the structure is linked to a door at the edge of an outpost module, this setting will cause the structure to be removed if the door gets used in the outpost. Otherwise the structure is removed if the door is NOT used.</sp.structure.removeiflinkedoutpostdoorinuse.description>
+<sp.structure.noaitarget.name>No AI Target</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>If enabled, monsters won't try to target this structure.</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>Max Health</sp.structure.maxhealth.name>
+  
+<sp.hull.ambientlight.name>Ambient Light</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>Is Wet Room</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>Is it normal for this hull to be filled with water? If the room name contains 'ballast', 'bilge', or 'airlock', you can't disable this setting.</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>Avoid Staying</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Bots avoid staying here, but they are still allowed to access the room when needed and go through it. Forced true for wet rooms.</sp.hull.avoidstaying.description>
+
+<sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>Toggle Cool Down</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>The door cannot be opened/closed during this time after it has been opened/closed by another character.</sp.door.togglecooldown.description>
+<sp.door.isopen.name>Is Open</sp.door.isopen.name>
+<sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>Use Between Outpost Modules</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>Is this a door that should lead to another outpost module? Only relevant for outpost modules.</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Bots Should Keep Open</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>If true, bots won't try to close this door behind them.</sp.door.botsshouldkeepopen.description>
+<sp.itemcomponent.pickingtime.name>Picking Time</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>Can Be Picked</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something else than picking up the item).</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>Allow In Game Editing</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.itemcomponent.allowingameediting.description>
+<sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
+<sp.itemcomponent.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. "[Mouse1] Pick up").</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier In Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>How much further can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine nor shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
+<sp.powered.minvoltage.name>Min Voltage</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>Power Consumption</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>How much power the device draws (or attempts to draw) from the electrical grid when active.</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>Vulnerable To EMP</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>Can the item be damaged by electomagnetic pulses?</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>Item Identifier</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>Identifier of the item to spawn, does nothing if SpeciesName is set. Separate by comma to have multiple items spawn at random.</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>Species Name</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>Species name of the creature to spawn, takes priority if ItemIdentifier is set. Separate by comma to have multiple creatures spawn at random.</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Only Spawn When Crew In Range</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Only spawn if crew members are within certain area</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>Crew Area Shape</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>Shape of the area where crew members need to stay</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>Crew Area Bounds</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>Size of the rectangle where crew members need to stay. Does nothing if CrewAreaShape is set to Circle</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>Crew Area Radius</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>Radius of the circle to spawn stuff in. Does nothing if CrewAreaShape is set to Rectangle</sp.entityspawnercomponent.crewarearadius.description>
+<sp.entityspawnercomponent.crewareaoffset.name>Crew Area Offset</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>Offset of the crew area from the center of the item</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>Spawn Area Shape</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>Shape of the area where enemies or items are spawned</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>Spawn Area Bounds</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>Size of the rectangle where items or creatures will be spawned. Does nothing if SpawnAreaShape is set to Circle</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>Spawn Area Radius</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>Radius of the circle where items or creatures will be spawned. Does nothing if SpawnAreaShape is set to Rectangle</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>Spawn Area Offset</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>Offset of the spawn area from the center of the item</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>Spawn Timer Range</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>Time range between spawn attempts in seconds. Set both to a negative value to disable automatic spawning.</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>Spawn Amount Range</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>Minumum and maximum amount of items or creatures to spawn in one attempt</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>Maximum Amount</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>Total maximum amount of items or creatures that can be spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>Maximum Amount In Area</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>Amount of items or creatures in the spawn area that will prevent further items or creatures from being spawned. 0 = unrestricted.</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>Maximum Amount Range Padding</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>Inflate the circle of rectangle by this value to extend the area that counts towards the maximum amount of items or enemies to be spawned</sp.entityspawnercomponent.maximumamountrangepadding.description>
 <sp.holdable.holdpos.name>Hold Pos</sp.holdable.holdpos.name>
 <sp.holdable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forwards.</sp.holdable.holdpos.description>
 <sp.holdable.holdangle.name>Hold Angle</sp.holdable.holdangle.name>
@@ -370,63 +383,60 @@
 <sp.holdable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.holdable.swingwhenaiming.description>
 <sp.holdable.swingwhenusing.name>Swing When Using</sp.holdable.swingwhenusing.name>
 <sp.holdable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.holdable.swingwhenusing.description>
-<sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
-<sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
-<sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
-<sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
-<sp.door.isopen.name>Is Open</sp.door.isopen.name>
-<sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
-<sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
-<sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
-<sp.repairable.mindeteriorationdelay.name>Min Deterioration Delay</sp.repairable.mindeteriorationdelay.name>
-<sp.repairable.mindeteriorationdelay.description>Minimum initial delay before the item starts to deteriorate.</sp.repairable.mindeteriorationdelay.description>
-<sp.repairable.maxdeteriorationdelay.name>Max Deterioration Delay</sp.repairable.maxdeteriorationdelay.name>
-<sp.repairable.maxdeteriorationdelay.description>Maximum initial delay before the item starts to deteriorate.</sp.repairable.maxdeteriorationdelay.description>
-<sp.repairable.mindeteriorationcondition.name>Min Deterioration Condition</sp.repairable.mindeteriorationcondition.name>
-<sp.repairable.mindeteriorationcondition.description>The item won't deteriorate spontaneously if the condition is below this value. For example, if set to 10, the condition will spontaneously drop to 10 and then stop dropping (unless the item is damaged further by external factors). Percentages of max condition.</sp.repairable.mindeteriorationcondition.description>
-<sp.repairable.showrepairuithreshold.name>Show Repair U I Threshold</sp.repairable.showrepairuithreshold.name>
-<sp.repairable.showrepairuithreshold.description>The condition of the item has to be below this before the repair UI becomes usable. Percentages of max condition.</sp.repairable.showrepairuithreshold.description>
-<sp.repairable.fixdurationlowskill.name>Fix Duration Low Skill</sp.repairable.fixdurationlowskill.name>
-<sp.repairable.fixdurationlowskill.description>The amount of time it takes to fix the item with insufficient skill levels.</sp.repairable.fixdurationlowskill.description>
-<sp.repairable.fixdurationhighskill.name>Fix Duration High Skill</sp.repairable.fixdurationhighskill.name>
-<sp.repairable.fixdurationhighskill.description>The amount of time it takes to fix the item with sufficient skill levels.</sp.repairable.fixdurationhighskill.description>
-<sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
-<sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
-<sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
-<sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
-<sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points towards the sub's center of mass.</sp.structure.dropshadowoffset.description>
-<sp.structure.scale.name>Scale</sp.structure.scale.name>
-<sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
-<sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
-<sp.structure.spritedepth.name>Sprite Depth</sp.structure.spritedepth.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
-<sp.structure.removeiflinkedoutpostdoorinuse.description>If the structure is linked to a door at the edge of an outpost module, this setting will cause the structure to be removed if the door gets used in the outpost. Otherwise the structure is removed if the door is NOT used.</sp.structure.removeiflinkedoutpostdoorinuse.description>
-<sp.lightcomponent.range.name>Range</sp.lightcomponent.range.name>
+<sp.holdable.disableheadrotation.name>Disable Head Rotation</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>Sprite Depth When Dropped</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>Sprite depth that's used when the item is NOT attached to a wall.</sp.holdable.spritedepthwhendropped.description>
+<sp.itemcontainer.containablerestrictions.name>Containable Restrictions</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>Define items (by identifiers or tags) that bots should place inside this container. If empty, no restrictions are applied.</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>Auto Fill</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>Should this container be automatically filled with items?</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>Ignore Localization</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>Whether or not to skip localization and always display the raw value.</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
 <sp.lightcomponent.range.description>The range of the emitted light. Higher values are more performance-intensive.</sp.lightcomponent.range.description>
 <sp.lightcomponent.castshadows.name>Cast Shadows</sp.lightcomponent.castshadows.name>
 <sp.lightcomponent.castshadows.description>Should structures cast shadows when light from this light source hits them. Disabling shadows increases the performance of the game, and is recommended for lights with a short range. Lights that are set to be drawn behind subs don't cast shadows, regardless of this setting.</sp.lightcomponent.castshadows.description>
 <sp.lightcomponent.drawbehindsubs.name>Draw Behind Subs</sp.lightcomponent.drawbehindsubs.name>
 <sp.lightcomponent.drawbehindsubs.description>Lights drawn behind submarines don't cast any shadows and are much faster to draw than shadow-casting lights. It's recommended to enable this on decorative lights outside the submarine's hull.</sp.lightcomponent.drawbehindsubs.description>
-<sp.lightcomponent.ison.name>Is On</sp.lightcomponent.ison.name>
 <sp.lightcomponent.ison.description>Is the light currently on.</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>Flicker</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>How heavily the light flickers. 0 = no flickering, 1 = the light will alternate between completely dark and full brightness.</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>Flicker Speed</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>How fast the light flickers.</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>Pulse Frequency</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>How rapidly the light pulsates (in Hz). 0 = no blinking.</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>Pulse Amount</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>How much light pulsates (in Hz). 0 = not at all, 1 = alternates between full brightness and off.</sp.lightcomponent.pulseamount.description>
 <sp.lightcomponent.blinkfrequency.name>Blink Frequency</sp.lightcomponent.blinkfrequency.name>
 <sp.lightcomponent.blinkfrequency.description>How rapidly the light blinks on and off (in Hz). 0 = no blinking.</sp.lightcomponent.blinkfrequency.description>
-<sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
-<sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
-<sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
-<sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
-<sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
-<sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
-<sp.itemlabel.textcolor.name>Text Color</sp.itemlabel.textcolor.name>
-<sp.itemlabel.textcolor.description>The color of the text displayed on the label (R,G,B,A).</sp.itemlabel.textcolor.description>
-<sp.itemlabel.textscale.name>Text Scale</sp.itemlabel.textscale.name>
-<sp.itemlabel.textscale.description>The scale of the text displayed on the label.</sp.itemlabel.textscale.description>
+<sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>Is Toggle</sp.controller.istoggle.name>
+<sp.controller.istoggle.description>When enabled, the item will continuously send out a 0/1 signal and interacting with it will flip the signal (making the item behave like a switch). When disabled, the item will simply send out 1 when interacted with.</sp.controller.istoggle.description>
+<sp.controller.state.name>State</sp.controller.state.name>
+<sp.controller.state.description>Whether the item is toggled on/off. Only valid if IsToggle is set to true.</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>Deconstruction Speed</sp.deconstructor.deconstructionspeed.name>
+<sp.engine.maxforce.name>Max Force</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>The amount of force exerted on the submarine when the engine is operating at full power.</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>Propeller Pos</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>The position of the propeller as an offset from the item's center (in pixels). Determines where the particles spawn and the position that causes characters to take damage from the engine if the PropellerDamage is defined.</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>Disable Propeller Damage</sp.engine.disablepropellerdamage.name>
 <sp.minimap.requirewaterdetectors.name>Require Water Detectors</sp.minimap.requirewaterdetectors.name>
 <sp.minimap.requirewaterdetectors.description>Does the machine require inputs from water detectors in order to show the water levels inside rooms.</sp.minimap.requirewaterdetectors.description>
 <sp.minimap.requireoxygendetectors.name>Require Oxygen Detectors</sp.minimap.requireoxygendetectors.name>
 <sp.minimap.requireoxygendetectors.description>Does the machine require inputs from oxygen detectors in order to show the oxygen levels inside rooms.</sp.minimap.requireoxygendetectors.description>
 <sp.minimap.showhullintegrity.name>Show Hull Integrity</sp.minimap.showhullintegrity.name>
 <sp.minimap.showhullintegrity.description>Should damaged walls be displayed by the machine.</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>Enable Hull Status</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>Enable hull status mode.</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>Enable Electrical View</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>Enable electrical view mode.</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>Enable Item Finder</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>Enable item finder mode.</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>Max Flow</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>How fast the item pumps water in/out when operating at 100%.</sp.pump.maxflow.description>
 <sp.reactor.maxpoweroutput.name>Max Power Output</sp.reactor.maxpoweroutput.name>
 <sp.reactor.maxpoweroutput.description>How much power (kW) the reactor generates when operating at full capacity.</sp.reactor.maxpoweroutput.description>
 <sp.reactor.meltdowndelay.name>Meltdown Delay</sp.reactor.meltdowndelay.name>
@@ -435,166 +445,165 @@
 <sp.reactor.firedelay.description>How long the temperature has to stay critical until the reactor catches fire.</sp.reactor.firedelay.description>
 <sp.reactor.fuelconsumptionrate.name>Fuel Consumption Rate</sp.reactor.fuelconsumptionrate.name>
 <sp.reactor.fuelconsumptionrate.description>How fast the condition of the contained fuel rods deteriorates per second.</sp.reactor.fuelconsumptionrate.description>
-<sp.powercontainer.maxoutput.name>Max Out Put</sp.powercontainer.maxoutput.name>
+<sp.reactor.explosiondamagesothersubs.name>Explosion Damages Other Subs</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>Use Transducers</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>Does the sonar have to be connected to external transducers to work.</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>Center On Transducers</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>Should the sonar view be centered on the transducers or the submarine's center of mass. Only has an effect if UseTransducers is enabled.</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>Has Mineral Scanner</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>Does the sonar have mineral scanning mode. </sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>Neutral Ballast Level</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>How full the ballast tanks should be when the submarine is not being steered upwards/downwards. Can be used to compensate if the ballast tanks are too large/small relative to the size of the submarine.</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>Max Output</sp.powercontainer.maxoutput.name>
 <sp.powercontainer.maxoutput.description>Maximum output of the device when fully charged (kW).</sp.powercontainer.maxoutput.description>
 <sp.powercontainer.capacity.name>Capacity</sp.powercontainer.capacity.name>
 <sp.powercontainer.capacity.description>The maximum capacity of the device (kW * min). For example, a value of 1000 means the device can output 100 kilowatts of power for 10 minutes, or 1000 kilowatts for 1 minute.</sp.powercontainer.capacity.description>
-<sp.powercontainer.charge.name>Charge</sp.powercontainer.charge.name>
 <sp.powercontainer.charge.description>The current charge of the device.</sp.powercontainer.charge.description>
 <sp.powercontainer.maxrechargespeed.name>Max Recharge Speed</sp.powercontainer.maxrechargespeed.name>
 <sp.powercontainer.maxrechargespeed.description>How fast the device can be recharged. For example, a recharge speed of 100 kW and a capacity of 1000 kW*min would mean it takes 10 minutes to fully charge the device.</sp.powercontainer.maxrechargespeed.description>
 <sp.powercontainer.rechargespeed.name>Recharge Speed</sp.powercontainer.rechargespeed.name>
 <sp.powercontainer.rechargespeed.description>The current recharge speed of the device.</sp.powercontainer.rechargespeed.description>
-<sp.oxygengenerator.generatedamount.name>Generated Amount</sp.oxygengenerator.generatedamount.name>
-<sp.oxygengenerator.generatedamount.description>How much oxygen the machine generates when operating at full power.</sp.oxygengenerator.generatedamount.description>
-<sp.engine.maxforce.name>Max Force</sp.engine.maxforce.name>
-<sp.engine.maxforce.description>The amount of force exerted on the submarine when the engine is operating at full power.</sp.engine.maxforce.description>
-<sp.engine.propellerpos.name>Propeller Pos</sp.engine.propellerpos.name>
-<sp.engine.propellerpos.description>The position of the propeller as an offset from the item's center (in pixels). Determines where the particles spawn and the position that causes characters to take damage from the engine if the PropellerDamage is defined.</sp.engine.propellerpos.description>
-
-<sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
-<sp.hull.spritedepth.name>Sprite Depth</sp.hull.spritedepth.name>
-<sp.hull.scale.name>Scale</sp.hull.scale.name>
-<sp.delaycomponent.delay.name>Delay</sp.delaycomponent.delay.name>
-<sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
-<sp.delaycomponent.resetwhensignalreceived.name>Reset When Signal Received</sp.delaycomponent.resetwhensignalreceived.name>
-<sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
-<sp.delaycomponent.resetwhendifferentsignalreceived.name>Reset When Different Signal Received</sp.delaycomponent.resetwhendifferentsignalreceived.name>
-<sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
-<sp.andcomponent.timeframe.name>Time Frame</sp.andcomponent.timeframe.name>
-<sp.andcomponent.timeframe.description>The item sends the output if both inputs have received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.andcomponent.timeframe.description>
-<sp.andcomponent.output.name>Output</sp.andcomponent.output.name>
-<sp.andcomponent.output.description>The signal sent when both inputs have received a non-zero signal.</sp.andcomponent.output.description>
-<sp.andcomponent.falseoutput.name>False Output</sp.andcomponent.falseoutput.name>
-<sp.andcomponent.falseoutput.description>The signal sent when both inputs have not received a non-zero signal (if empty, no signal is sent).</sp.andcomponent.falseoutput.description>
-<sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe. If set to 0, the inputs must receive a signal at the same time.</sp.orcomponent.timeframe.description>
-<sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
-<sp.orcomponent.falseoutput.description>The signal sent when none of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.orcomponent.falseoutput.description>
-<sp.orcomponent.timeframe.description>The item sends the output if either of the inputs has received a non-zero signal within the timeframe.</sp.orcomponent.timeframe.description>
-<sp.orcomponent.output.description>The signal sent when either of the inputs has received a non-zero signal.</sp.orcomponent.output.description>
-<sp.orcomponent.falseoutput.description>The signal sent when none of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.orcomponent.falseoutput.description>
-<sp.xorcomponent.timeframe.description>The item sends the output if one (and only one) of the inputs has received a non-zero signal within the timeframe.</sp.xorcomponent.timeframe.description>
-<sp.xorcomponent.output.description>The signal sent when one (and only one) of the inputs has received a non-zero signal.</sp.xorcomponent.output.description>
-<sp.xorcomponent.falseoutput.description>The signal sent when none or both of the inputs have received a non-zero signal (if empty, no signal is sent).</sp.xorcomponent.falseoutput.description>
-<sp.arithmeticcomponent.timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time.</sp.arithmeticcomponent.timeframe.description>
-<equalscomponent.timeframe.description>The item must have received signals to both inputs within this timeframe to output the result. If set to 0, the inputs must be received at the same time.</equalscomponent.timeframe.description>
-<equalscomponent.output.description>The signal this item outputs when the inputs are equal.</equalscomponent.output.description>
-<equalscomponent.falseoutput.description>The signal this item outputs when the inputs are not equal.</equalscomponent.falseoutput.description>
-<greatercomponent.output.description>The signal this item outputs when the first input is greater than the second.</greatercomponent.output.description>
-<greatercomponent.falseoutput.description>The signal this item outputs when the first input is not greater than the second.</greatercomponent.falseoutput.description>
-<sp.signalcheckcomponent.output.name>Output</sp.signalcheckcomponent.output.name>
-<sp.signalcheckcomponent.output.description>The signal this item outputs when the received signal matches the target signal.</sp.signalcheckcomponent.output.description>
-<sp.signalcheckcomponent.falseoutput.name>False Output</sp.signalcheckcomponent.falseoutput.name>
-<sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
-<sp.signalcheckcomponent.targetsignal.name>Target Signal</sp.signalcheckcomponent.targetsignal.name>
-<sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
-<sp.relaycomponent.maxpower.name>Max Power</sp.relaycomponent.maxpower.name>
-<sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
-<sp.relaycomponent.ison.name>Is On</sp.relaycomponent.ison.name>
-<sp.relaycomponent.ison.description>Can the relay currently pass power and signals through it.</sp.relaycomponent.ison.description>
-<sp.relaycomponent.canbeoverloaded.name>Can Be Overloaded</sp.relaycomponent.canbeoverloaded.name>
-<sp.relaycomponent.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.relaycomponent.canbeoverloaded.description>
-<sp.relaycomponent.overloadvoltage.name>Overload Voltage</sp.relaycomponent.overloadvoltage.name>
-<sp.relaycomponent.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.relaycomponent.overloadvoltage.description>
-<sp.relaycomponent.fireprobability.name>Fire Probability</sp.relaycomponent.fireprobability.name>
-<sp.relaycomponent.fireprobability.description>The probability for a fire to start when the item breaks.</sp.relaycomponent.fireprobability.description>
-<sp.oscillatorcomponent.outputtype.name>Output Type</sp.oscillatorcomponent.outputtype.name>
-<sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: a periodical signal of 1. Sine: a sine wave oscillating between -1 and 1. Square: a signal that alternates between 0 and 1. Sawtooth: a signal that rises from 0 to 1 and then drops back to 0. Triangle: a triangle wave oscillating between -1 and 1</sp.oscillatorcomponent.outputtype.description>
-<sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
-<sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
-<sp.lightcomponent.lightcolor.name>Light Color</sp.lightcomponent.lightcolor.name>
-<sp.lightcomponent.lightcolor.description>The color of the emitted light (R,G,B,A).</sp.lightcomponent.lightcolor.description>
-<sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
-<sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
-<sp.turret.reload.name>Reload</sp.turret.reload.name>
-<sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
-<sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
-<sp.turret.rotationlimits.description>The range at which the barrel can rotate. TODO</sp.turret.rotationlimits.description>
-<sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
-<sp.turret.springstiffnesslowskill.description>How much torque is applied to rotate the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesslowskill.description>
-<sp.turret.springstiffnesshighskill.name>Spring Stiffness High Skill</sp.turret.springstiffnesshighskill.name>
-<sp.turret.springstiffnesshighskill.description>How much torque is applied to rotate the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesshighskill.description>
-<sp.turret.springdampinglowskill.name>Spring Damping Low Skill</sp.turret.springdampinglowskill.name>
-<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more snappy, stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
-<sp.turret.springdampinghighskill.name>Spring Damping High Skill</sp.turret.springdampinghighskill.name>
-<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more snappy, stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
-<sp.turret.rotationspeedlowskill.name>Rotation Speed Low Skill</sp.turret.rotationspeedlowskill.name>
-<sp.turret.rotationspeedlowskill.description>Maximum angular velocity of the barrel when used by a character with insufficient skills to operate it.</sp.turret.rotationspeedlowskill.description>
-<sp.turret.rotationspeedhighskill.name>Rotation Speed High Skill</sp.turret.rotationspeedhighskill.name>
-<sp.turret.rotationspeedhighskill.description>Maximum angular velocity of the barrel when used by a character with sufficient skills to operate it.</sp.turret.rotationspeedhighskill.description>
-<sp.turret.baserotation.name>Base Rotation</sp.turret.baserotation.name>
-<sp.turret.baserotation.description>The angle of the turret's base in degrees.</sp.turret.baserotation.description>
-<sp.motionsensor.onlyhumans.name>Only Humans</sp.motionsensor.onlyhumans.name>
-<sp.motionsensor.onlyhumans.description>Should the sensor only detect the movement of humans?</sp.motionsensor.onlyhumans.description>
-<sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
-<sp.motionsensor.ignoredead.description>Should the sensor ignore the bodies of dead characters?</sp.motionsensor.ignoredead.description>
-<sp.motionsensor.rangex.name>Range X</sp.motionsensor.rangex.name>
-<sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
-<sp.motionsensor.rangey.name>Range Y</sp.motionsensor.rangey.name>
-<sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
-<sp.motionsensor.detectoffset.name>Detect Offset</sp.motionsensor.detectoffset.name>
-<sp.motionsensor.detectoffset.description>The position to detect the movement at relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
-<sp.motionsensor.output.name>Output</sp.motionsensor.output.name>
-<sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
-<sp.motionsensor.falseoutput.name>False Output</sp.motionsensor.falseoutput.name>
-<sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
-<sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
-<sp.motionsensor.minimumvelocity.description>How fast the objects within the detector's range have to be moving (in m/s).</sp.motionsensor.minimumvelocity.description>
-<sp.waterdetector.output.name>Output</sp.waterdetector.output.name>
-<sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
-<sp.waterdetector.falseoutput.name>False Output</sp.waterdetector.falseoutput.name>
-<sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
-<sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
-<sp.notcomponent.continuousoutput.description>When enabled, the component continuously outputs "1" when it's not receiving a signal.</sp.notcomponent.continuousoutput.description>
-<sp.electricaldischarger.range.name>Range</sp.electricaldischarger.range.name>
-<sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
-<sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier In Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
-<sp.electricaldischarger.rangemultiplierinwalls.description>How much further can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
-<sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
-<sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
-<sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
-<sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine nor shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
+<sp.powercontainer.efficiency.name>Efficiency</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>The amount of power you can get out of a item relative to the amount of power that's put into it.</sp.powercontainer.efficiency.description>
+<sp.PowerContainer.FlipIndicator.name>Flip Indicator</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>Should the progress bar indicating the charge be flipped to fill from the other side.</sp.PowerContainer.FlipIndicator.description>  
 <sp.powertransfer.canbeoverloaded.name>Can Be Overloaded</sp.powertransfer.canbeoverloaded.name>
 <sp.powertransfer.canbeoverloaded.description>Can the item be damaged if too much power is supplied to the power grid.</sp.powertransfer.canbeoverloaded.description>
 <sp.powertransfer.overloadvoltage.name>Overload Voltage</sp.powertransfer.overloadvoltage.name>
 <sp.powertransfer.overloadvoltage.description>How much power has to be supplied to the grid relative to the load before item starts taking damage. E.g. a value of 2 means that the grid has to be receiving twice as much power as the devices in the grid are consuming.</sp.powertransfer.overloadvoltage.description>
 <sp.powertransfer.fireprobability.name>Fire Probability</sp.powertransfer.fireprobability.name>
 <sp.powertransfer.fireprobability.description>The probability for a fire to start when the item breaks.</sp.powertransfer.fireprobability.description>
-<sp.throwable.holdpos.name>Hold Pos</sp.throwable.holdpos.name>
-<sp.throwable.holdpos.description>The position the character holds the item at (in pixels, as an offset from the character's shoulder). For example, a value of 10,-100 would make the character hold the item 100 pixels below the shoulder and 10 pixels forwards.</sp.throwable.holdpos.description>
-<sp.throwable.holdangle.name>Hold Angle</sp.throwable.holdangle.name>
-<sp.throwable.holdangle.description>The rotation at which the character holds the item (in degrees, relative to the rotation of the character's hand).</sp.throwable.holdangle.description>
-<sp.throwable.swingamount.name>Swing Amount</sp.throwable.swingamount.name>
-<sp.throwable.swingamount.description>How much the item swings around when aiming/holding it (in pixels, as an offset from AimPos/HoldPos).</sp.throwable.swingamount.description>
-<sp.throwable.swingspeed.name>Swing Speed</sp.throwable.swingspeed.name>
-<sp.throwable.swingspeed.description>How fast the item swings around when aiming/holding it (only valid if SwingAmount is set).</sp.throwable.swingspeed.description>
-<sp.throwable.swingwhenholding.name>Swing When Holding</sp.throwable.swingwhenholding.name>
-<sp.throwable.swingwhenholding.description>Should the item swing around when it's being held.</sp.throwable.swingwhenholding.description>
-<sp.throwable.swingwhenaiming.name>Swing When Aiming</sp.throwable.swingwhenaiming.name>
-<sp.throwable.swingwhenaiming.description>Should the item swing around when it's being aimed.</sp.throwable.swingwhenaiming.description>
-<sp.throwable.swingwhenusing.name>Swing When Using</sp.throwable.swingwhenusing.name>
-<sp.throwable.swingwhenusing.description>Should the item swing around when it's being used (for example, when firing a weapon or a welding tool).</sp.throwable.swingwhenusing.description>
-<sp.propulsion.force.name>Force</sp.propulsion.force.name>
-<sp.propulsion.force.description>The force to apply to the user's body.</sp.propulsion.force.description>
+<sp.quality.qualitylevel.name>Quality Level</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>Deterioration Speed</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>How fast the condition of the item deteriorates per second.</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>Min Deterioration Delay</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>Minimum initial delay before the item starts to deteriorate.</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>Max Deterioration Delay</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>Maximum initial delay before the item starts to deteriorate.</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>Min Deterioration Condition</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>The item won't deteriorate spontaneously if the condition is below this value. For example, if set to 10, the condition will spontaneously drop to 10 and then stop dropping (unless the item is damaged further by external factors). Percentages of max condition.</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>Repair Threshold</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>The condition of the item has to be below this for it to become repairable. Percentages of max condition.</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>Fix Duration Low Skill</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>The amount of time it takes to fix the item with insufficient skill levels.</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>Fix Duration High Skill</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>The amount of time it takes to fix the item with sufficient skill levels.</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>Barrel Rotation</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>Rotation of the barrel in degrees.</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>Signals</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>Signals sent when the corresponding buttons are pressed.</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>Activating Items</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>Identifiers or tags of items that, when contained, allow the terminal buttons to be used. Multiple ones should be separated by commas.</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>Locked</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>Locked connection panels cannot be rewired in-game.</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>Max Value Length</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>The maximum length of the stored value. Warning: Large values can lead to large memory usage or networking issues.</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>Writeable</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>Can the value stored in the memory component be changed via signals.</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>Should the sensor ignore the bodies of dead characters?</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>Detect Offset</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>The position to detect the movement at relative to the item. For example, 0,100 would detect movement 100 units above the item.</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>Update Interval</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>How often the sensor checks if there's something moving near it. Higher values are better for performance.</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>The signal the item outputs when it has detected movement.</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>The signal the item outputs when it has not detected movement.</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>Minimum Velocity</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>How fast the objects within the detector's range have to be moving (in m/s).</sp.motionsensor.minimumvelocity.description>
 <sp.terminal.welcomemessage.name>Welcome Message</sp.terminal.welcomemessage.name>
-<sp.terminal.welcomemessage.description>The message to be displayed when opened.</sp.terminal.welcomemessage.description>
+<sp.terminal.welcomemessage.description>Message to be displayed on the terminal display when it is first opened.</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>Use Monospace Font</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>The terminal will use a monospace font if this box is ticked.</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>Text Color</sp.textcolor.name>
+<sp.terminal.textcolor.description>Color of the terminal text.</sp.terminal.textcolor.description>
+<sp.range.name>Range</sp.range.name>
+<sp.wificomponent.range.description>How close the recipient has to be to receive a signal from this WiFi component.</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>Allow Cross Team Communication</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>Can the component communicate with wifi components in another team's submarine (e.g. enemy sub in Combat missions, respawn shuttle). Needs to be enabled on both the component transmitting the signal and the component receiving it.</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>Link To Chat</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>If enabled, any signals received from another chat-linked wifi component are displayed as chat messages in the chatbox of the player holding the item.</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>Min Chat Message Interval</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>How many seconds have to pass between signals for a message to be displayed in the chatbox. Setting this to a very low value is not recommended, because it may cause an excessive amount of chat messages to be created if there are chat-linked wifi components that transmit a continuous signal.</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>Discard Duplicate Chat Messages</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>If set to true, the component will only create chat messages when the received signal changes.</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>No Auto Lock</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>If enabled, this wire will be ignored by the "Lock all default wires" setting.</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>Use Sprite Depth</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>If enabled, this wire will use the sprite depth instead of a constant depth.</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>The maximum amount of force applied to the triggering entitites.</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>Distance Based Force</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>Determines if the force gets higher the closer the triggerer is to the center of the trigger.</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>Force Fluctuation</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>Determines if the force fluctuates over time or if it stays constant.</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
+<sp.turret.reload.name>Reload</sp.turret.reload.name>
+<sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>Shots Per Burst</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>How many projectiles needs to be shot before we add an extra break? Think of the double coilgun.</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>Delay Between Bursts</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>An extra delay between the bursts. Added to the reload.</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>Retraction Duration Multiplier</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>Modifies the duration of retraction of the barrell after recoil to get back to the original position after shooting. Reload time affects this too.</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>Recoil Time</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>How quickly the recoil moves the barrel after launching.</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>Retraction Delay</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>How long the barrell stays in place after the recoil and before retracting back to the original position.</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>The range at which the barrel can rotate.</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>How much torque is applied to rotate the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>Spring Stiffness High Skill</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>How much torque is applied to rotate the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>Spring Damping Low Skill</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the aiming more "snappy", stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>Spring Damping High Skill</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>How much torque is applied to resist the movement of the barrel when the item is used by a character with sufficient skills to operate it. Higher values make the aiming more "snappy", stopping the barrel from swinging around the direction it's being aimed at.</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>Rotation Speed Low Skill</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>Maximum angular velocity of the barrel when used by a character with insufficient skills to operate it.</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>Rotation Speed High Skill</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>Maximum angular velocity of the barrel when used by a character with sufficient skills to operate it.</sp.turret.rotationspeedhighskill.description>
+<sp.dockingport.maindockingport.name>Main Docking Port</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>If set to true, this docking port is used when spawning the submarine docked to an outpost (if possible).</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>Apply Effects On Docking</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>Should the OnUse StatusEffects trigger when docking (on vanilla docking ports these effects emit particles and play a sound).)</sp.dockingport.applyeffectsondocking.description>
+<sp.dockingport.forcedockingdirection.name>Force Docking Direction</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>Which direction the port is allowed to dock in. For example, "Top" would mean the port can dock to another port above it. Normally there's no need to touch this setting, but if you notice the docking position is incorrect (for example due to some unusual docking port configuration without hulls or doors), you can use this to enforce the direction.</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>Swing</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>Swing Pos</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>Swing Force</sp.meleeweapon.swingforce.name>
+<sp.swingforce.description></sp.swingforce.description>
+<sp.force.name>Force</sp.force.name>
+<sp.propulsion.force.description>The force to apply to the user's body.</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>Generated Amount</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>How much oxygen the machine generates when operating at full power.</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>The signal sent when the condition is met.</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>The signal sent when the condition is met (if empty, no signal is sent).</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to large memory usage or networking load.</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>How long the item delays the signals (in seconds).</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>Should the component discard previously received signals when a new one is received.</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>Should the component discard previously received signals when the incoming signal changes.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>Continuous Output</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>What kind of a signal the item outputs. Pulse: periodically sends out a signal of 1. Sawtooth: sends out a periodic wave that increases linearly from 0 to 1. Sine: sends out a sine wave oscillating between -1 and 1. Square: sends out a signal that alternates between 0 and 1. Triangle: sends out a wave that alternates between increasing linearly from -1 to 1 and decreasing from 1 to -1.</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>Frequency</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>How fast the signal oscillates, or how fast the pulses are sent (in Hz).</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>The maximum length of the output string. Warning: Large values can lead to large memory usage or networking issues.</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>Max Power</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>The maximum amount of power that can pass through the item.</sp.relaycomponent.maxpower.description>
+<sp.ison.name>Is On</sp.ison.name>
+<sp.relaycomponent.ison.description>Can the relay currently pass power and signals through it.</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>The signal this item outputs when the received signal matches the target signal.</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>The signal this item outputs when the received signal does not match the target signal.</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>The value to compare the received signals against.</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>Max Output Length</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>The maximum length of the output strings. Warning: Large values can lead to large memory usage or networking issues.</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>The signal the item sends out when it's underwater.</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>The signal the item sends out when it's not underwater.</sp.waterdetector.falseoutput.description>
 
-<sp.pickingtime.name>Picking Time</sp.pickingtime.name>
-<sp.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.pickingtime.description>
-<sp.canbepicked.name>Can Be Picked</sp.canbepicked.name>
-<sp.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something else than picking up the item).</sp.canbepicked.description>
-<sp.allowingameediting.name>Allow In Game Editing</sp.allowingameediting.name>
-<sp.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.allowingameediting.description>
-<sp.msg.name>Msg</sp.msg.name>
-<sp.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. [Mouse1] Pick up).</sp.msg.description>
-<sp.minvoltage.name>Min Voltage</sp.minvoltage.name>
-<sp.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.minvoltage.description>
-<sp.powerconsumption.name>Power Consumption</sp.powerconsumption.name>
-<sp.powerconsumption.description>How much power the device draws (or attempts to draw) from the electrical grid when active.</sp.powerconsumption.description>
-<sp.vulnerabletoemp.name>Vulnerable To E M P</sp.vulnerabletoemp.name>
-<sp.vulnerabletoemp.description>Can the item be damaged by electomagnetic pulses.</sp.vulnerabletoemp.description>
 
-<!-- Structure -->
+ <!-- Structure -->
 <entityname.hull>Hull</entityname.hull>
 <entitydescription.hull>Hulls determine which parts are considered to be 'inside the sub'. Generally every room should be enclosed by a hull.</entitydescription.hull>
 <entityname.gap>Gap</entityname.gap>
@@ -1181,7 +1190,7 @@
 <entityname.opdeco_box5>Box 5</entityname.opdeco_box5>
 <entityname.heavydoor>Heavy Door</entityname.heavydoor>
 <entityname.opdeco_door>Background Door</entityname.opdeco_door>
-<entitydescription.decodoor>A decorative door.</entitydescription.decodoor>
+<entitydescription.decodoor>A decorative door</entitydescription.decodoor>
 <entityname.opdeco_door>Locked Door</entityname.opdeco_door>
 <entityname.opdeco_towelrack>Towel Rack</entityname.opdeco_towelrack>
 <entityname.concretewall>Concrete Wall</entityname.concretewall>
@@ -1296,5 +1305,80 @@
 <entityname.engineerequipment>Engineer Equipment</entityname.engineerequipment>
 <entityname.Jaildoor>Jail Door</entityname.Jaildoor>
 <entityname.shelf>Shelf</entityname.shelf>
+
+
+<!-- Sprite Editor -->
+<spriteeditor.reloadtexture>Reload Texture</spriteeditor.reloadtexture>
+<spriteeditor.texturesreloaded>Textures reloaded from [filepath]</spriteeditor.texturesreloaded>
+<spriteeditor.resetchanges>Reset Changes</spriteeditor.resetchanges>
+<spriteeditor.resetsuccessful>Changes successfully reset</spriteeditor.resetsuccessful>
+<spriteeditor.saveselectedsprites>Save Selected Sprites</spriteeditor.saveselectedsprites>
+<spriteeditor.saveallsprites>Save All Sprites</spriteeditor.saveallsprites>
+<spriteeditor.zoom>Zoom:</spriteeditor.zoom>
+<spriteeditor.resetzoom>Reset Zoom</spriteeditor.resetzoom>
+<spriteeditor.showgrid>Show Grid</spriteeditor.showgrid>
+<spriteeditor.snaptogrid>Snap to Grid</spriteeditor.snaptogrid>
+<spriteeditor.backgroundcolor>Background\nColor:</spriteeditor.backgroundcolor>
+<spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
+<spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
+<spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
+<spriteeditor.allchangessavedto>All changes saved to:</spriteeditor.allchangessavedto>
+
+<!-- Event editor -->
+<eventeditor.loadevent>Load event prefab</eventeditor.loadevent>
+<eventeditor.addaction>Add event action</eventeditor.addaction>
+<eventeditor.addvalue>Add value</eventeditor.addvalue>
+<eventeditor.addspecial>Add special</eventeditor.addspecial>
+<eventeditor.add>Add</eventeditor.add>
+<eventeditor.edit>Edit value</eventeditor.edit>
+<eventeditor.delete>Delete node</eventeditor.delete>
+<eventeditor.removeconnection>Clear connections</eventeditor.removeconnection>
+<eventeditor.removeoption>Remove option</eventeditor.removeoption>
+<eventeditor.addoption>Add option</eventeditor.addoption>
+<eventeditor.saveproject>Save project</eventeditor.saveproject>
+<eventeditor.loadproject>Load project</eventeditor.loadproject>
+<eventeditor.newproject>New project</eventeditor.newproject>
+<eventeditor.newprojectprompt>Are you sure you want to create a new project? All unsaved changes will be lost.</eventeditor.newprojectprompt>
+<eventeditor.export>Export as event</eventeditor.export>
+<eventeditor.namefileprompt>Save project as</eventeditor.namefileprompt>
+<eventeditor.exportprojectprompt>Export project as</eventeditor.exportprojectprompt>
+<eventeditor.unnamed>Unnamed</eventeditor.unnamed>
+<eventeditor.opentextheader>Open event</eventeditor.opentextheader>
+<eventeditor.opentextbody>Do you want to open the exported event in a text editor?</eventeditor.opentextbody>
+<eventeditor.randomgenerationheader>No node positions found</eventeditor.randomgenerationheader>
+<eventeditor.randomgenerationbody>This event was not created with the event editor and does not have node positions defined so they have been automatically generated.</eventeditor.randomgenerationbody>
+
+
+<!-- Particle Editor -->
+<particleeditor.emitter>Emitter</particleeditor.emitter>
+
+<!-- Level Editor -->
+<leveleditor.levelseed>Level Seed</leveleditor.levelseed>
+<leveleditor.generate>Generate</leveleditor.generate>
+<leveleditor.test>Test</leveleditor.test>
+<leveleditor.lightingenabled>Enable Lighting</leveleditor.lightingenabled>
+<leveleditor.cursorlightenabled>Enable Cursor Light</leveleditor.cursorlightenabled>
+<leveleditor.reloadtextures>Reload Textures</leveleditor.reloadtextures>
+<leveleditor.spriteeditdone>Done</leveleditor.spriteeditdone>
+<leveleditor.levelobjcommonness>Commonness in [leveltype]</leveleditor.levelobjcommonness>
+<leveleditor.editsprite>Edit Sprite</leveleditor.editsprite>
+<leveleditor.childobjects>Child Objects</leveleditor.childobjects>
+<leveleditor.addchildobject>Add Child Object</leveleditor.addchildobject>
+<leveleditor.lightsources>Light Sources</leveleditor.lightsources>
+<leveleditor.addlightsource>Add Light Source</leveleditor.addlightsource>
+<leveleditor.createlevelobj>Create a Level Object</leveleditor.createlevelobj>
+<leveleditor.levelobjname>Name</leveleditor.levelobjname>
+<leveleditor.levelobjtexturepath>Texture Path</leveleditor.levelobjtexturepath>
+<leveleditor.levelobjnameempty>Please enter a name for the level object.</leveleditor.levelobjnameempty>
+<leveleditor.levelobjnametaken>The selected name is already in use.</leveleditor.levelobjnametaken>
+<leveleditor.levelobjtexturenotfound>Could not find the selected texture file.</leveleditor.levelobjtexturenotfound>
+<leveleditor.ruinparams>Ruin parameters</leveleditor.ruinparams>
+<leveleditor.caveparams>Cave parameters</leveleditor.caveparams>
+<leveleditor.outpostparams>Outpost parameters</leveleditor.outpostparams>
+<leveleditor.addmoduletype>Add module type</leveleditor.addmoduletype>
+<leveleditor.allowinvalidoutpost>Allow invalid outposts</leveleditor.allowinvalidoutpost>
+<leveleditor.allowinvalidoutpost.tooltip>Should the outpost generator place an outpost that generated incorrectly (e.g. missing some required modules) instead of replacing it with a fallback outpost. Can be useful for debugging outpost generation.</leveleditor.allowinvalidoutpost.tooltip>
+<leveleditor.allsaved>All changes saved</leveleditor.allsaved>
+
 
 </infotexts>

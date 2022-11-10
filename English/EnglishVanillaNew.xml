@@ -1,10 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<infotexts language="Simplified Chinese" nowhitespace="true" translatedname="中文(简体)">
+<infotexts language="English" nowhitespace="false" translatedname="English">
   
 <!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
 <!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
 
 <!-- Modified values after September 5 (Hoist the Sails update) -->
+
+<afflictiondescription.hallucinating>The things you hear and see appear so real! But are they?</afflictiondescription.hallucinating>
+
+<tutorial.basic>Basics</tutorial.basic>
+<tutorial.roles>Roles</tutorial.roles>
+
+<tutorial.skiptotutorial>Skip to tutorial.</tutorial.skiptotutorial>
+<tutorial.roles.message.2_player2>“Yes.” Skip to tutorial.”</tutorial.roles.message.2_player2>
+
+<tutorial.basics.looking>Use the cursor to control the direction your character is facing.\nPress [InputType.Use] to close this instruction.</tutorial.basics.looking>
+<tutorial.basics.repair>Devices sometimes break down. They can be repaired with the correct repair tool.\nPress [InputType.Use] to close this instruction.</tutorial.basics.repair>
+<tutorial.basics.insertweldingfuel>Drag a Welding Fuel Tank onto the Welding Tool to insert it.\nAlternatively press the hotbar number of the Welding Fuel Tank to insert it, while you have the tool equipped.</tutorial.basics.insertweldingfuel>
+<tutorial.basics.divingsuits>Diving Suits allow you to swim underwater.\n\nEquip a Diving Suit by double clicking it, or dragging it on the highlighted slot.</tutorial.basics.divingsuits>
+<tutorial.basics.righttool>Pumps are a mechanical device. Mechanical devices require a Wrench to repair.\nFind a Wrench.</tutorial.basics.righttool>
+<tutorial.basics.wrenchrepair>Equip the wrench to be able to repair the pump.</tutorial.basics.wrenchrepair>
+
+<tutorial.roles.popup.navigationterminal_steering>Undock the drone, using the Shuttle Navigation Terminal.</tutorial.roles.popup.navigationterminal_steering>
+<tutorial.roles.popup.navigationterminal_steering2>Practice steering the drone. Re-dock the drone when ready.\nTo dock, align the docking hatches (marked in green). Press Dock once the button flashes.</tutorial.roles.popup.navigationterminal_steering2>
+<tutorial.roles.security.objective.gearup4>Load the gun</tutorial.roles.security.objective.gearup4>
+<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. To find out what ails them, I will give you this Health Scanner HUD. It will display what their issue is, before you see it by yourself up close.”</tutorial.roles.medicalinstructor.patients2>
+<tutorial.roles.medicalinstructor.patients3>“When treating a patient, the health interface will suggest treatments on the bottom. Simply clicking on a suggestion will apply it, but you can also manually drag a medicine to the wound. Cabinets should be stocked with whatever you need.”</tutorial.roles.medicalinstructor.patients3>
+
 <tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
 <tutorial.roles.popup.medfabricator1>Find Morphine and Stabilozine.</tutorial.roles.popup.medfabricator1>
 <tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring3>
@@ -13,13 +35,625 @@
 <tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER input</tutorial.roles.engineer.objective.rewire4>
 <tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.healthui>
 <tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the Naloxone on me. Remember, [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
-<tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. Inspect each of them ([InputType.Health] to enter Health interface!) to learn about what ails them.”</tutorial.roles.medicalinstructor.patients2>
-
 <entitydescription.magnesium>Used in the manufacture of explosives and medical compounds.</entitydescription.magnesium>
 <entitydescription.lithium>Most commonly used in the manufacture of batteries and antipsychotic drugs. Reacts violently when in contact with water.</entitydescription.lithium>
+  
+<afflictiondescription.burn>The area is blistered and red, and skin is already beginning to peel away in sheets.</afflictiondescription.burn>
+
+<afflictiondescription.spaceherpes>They look as ugly on the outside as they are on the inside. Karma strikes back?</afflictiondescription.spaceherpes>
+  
+<entitydescription.riotshield>Blocks projectiles and prevents creatures or people from passing.</entitydescription.riotshield>
+
+<afflictionname.evasivemaneuvers>Emergency Maneuvers</afflictionname.evasivemaneuvers>
+<afflictionname.bedsidemanner>Vitamin Supplements</afflictionname.bedsidemanner>
+<afflictiondescription.bedsidemanner>The subject is feeling very healthy.</afflictiondescription.bedsidemanner>
+
+<talentdescription.beatcop>Doubled against monsters inside the submarine.</talentdescription.beatcop>
+<talentdescription.commando>When firing a ranged weapon while crouched, you gain [spreadreduction]% reduction to spread and inflict [powerincrease]% more damage.</talentdescription.commando>
+<talentdescription.geneharvester>When looting a monster, there is a [probability]% chance of finding a genetic material on it.</talentdescription.geneharvester>
+<talentdescription.vitaminsupplements>Whenever you apply medicine to a friendly character, they gain [healthboost]% health until the end of the mission.</talentdescription.vitaminsupplements>
+<talentdescription.nuclearoption>You can craft much cheaper ‖color:gui.orange‖Nuclear Shells‖end‖ and ‖color:gui.orange‖Nuclear Depth Charges‖end‖, using non-spent ‖color:gui.orange‖Fuel Rods‖end‖.</talentdescription.nuclearoption>
+<talentdescription.pyromaniac>Inflict [burnincrease]% more burning damage. Doubled when fighting against ‖color:gui.orange‖Ballast Flora‖end‖.</talentdescription.pyromaniac>
+<talentdescription.drunkensailor>Gain [stunresistance]% stun resistance while drunk and immunity to the negative effects of drunkenness.</talentdescription.drunkensailor>
+<talentdescription.inspiringtunes>Nearby allies to gain a bonus of [skillamount] to all Skills for [duration] seconds when honking a Bike Horn.</talentdescription.inspiringtunes>
+<talentdescription.psychoclown>Clown Power allows you to attack faster with melee weapons based on how much Psychosis you have, up to [maxattackspeed]%.</talentdescription.psychoclown>
+<talentdescription.extrapowertoharpoons>Gain an additional [value]% attack power with ‖color:gui.orange‖harpoons‖end‖.</talentdescription.extrapowertoharpoons>
+<talentdescription.crafthighqualityrepairtools>‖color:gui.orange‖Welding tools‖end‖ and ‖color:gui.orange‖Plasma Cutters‖end‖ you fabricate are [qualitybonus] higher quality.</talentdescription.crafthighqualityrepairtools>
+<talentdescription.crafthighqualityweapons>‖color:gui.orange‖Weapons‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityweapons>
+<talentdescription.crafthighqualitybatteries>‖color:gui.orange‖Battery Cells‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitybatteries>
+<talentdescription.crafthighqualityfuelrods>‖color:gui.orange‖Fuel Rods‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityfuelrods>
+<talentdescription.crafthighqualitytools>‖color:gui.orange‖Tools‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytools>
+<talentdescription.crafthighqualitytanks>‖color:gui.orange‖Welding Fuel‖end‖ and ‖color:gui.orange‖Oxygen Tanks‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytanks>
+<talentdescription.crafthighqualityexplosives>‖color:gui.orange‖Explosives‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityexplosives>
+
+<entityname.coalitioncommendation>Commendation</entityname.coalitioncommendation>
+<entitydescription.coalitioncommendation>A small medal fashioned out of copper, originally created by the Coalition. When applied to another crewmember's body, it instantly bestows them with a sum of experience.</entitydescription.coalitioncommendation>
+
+<entityname.coalitionmedal>Medal</entityname.coalitionmedal>
+<entitydescription.coalitionmedal>A small medal fashioned out of bronze, originally created by the Coalition. When applied to another crewmember's body, it instantly bestows them with a large sum of experience.</entitydescription.coalitionmedal>
+
+<entityname.huskeggs>Calyx Extract</entityname.huskeggs>
+<entitydescription.huskeggs>The Velonaceps Calyx or 'husk parasite' likes to bind itself to calcium, regardless of whether it's inside human bones or neatly packed inside a syringe.</entitydescription.huskeggs>
 
 <!-- New values after September 5 (Hoist the Sails update) -->
-  
+
+<afflictiondescription.internaldamage.low>No injuries are visible externally, but the sweating and aches suggest something is amiss.</afflictiondescription.internaldamage.low>
+<afflictiondescription.blunttrauma.low>A light bruise shows where something hit, but it doesn’t look like anything is broken.</afflictiondescription.blunttrauma.low>
+<afflictiondescription.lacerations.low>The cuts look worse than they really are.</afflictiondescription.lacerations.low>
+<afflictiondescription.bitewounds.low>Something tried to take a big chomp but luckily only caught a nibble. It will leave a scar though.</afflictiondescription.bitewounds.low>
+<afflictiondescription.gunshotwound.low>The bullet missed all the important bits and went straight through, but the pain is real and so is the risk of infection.</afflictiondescription.gunshotwound.low>
+<afflictiondescription.organdamage.self>You feel a sharp pain in your abdomen. There are no wounds to be seen.</afflictiondescription.organdamage.self>
+<afflictiondescription.explosiondamage.low>The area of skin appears slightly bruised.</afflictiondescription.explosiondamage.low>
+<afflictiondescription.bleeding.low>Blood is slowly dripping out from the wound.</afflictiondescription.bleeding.low>
+<afflictiondescription.bleeding.high>Blood is gushing out at an alarming rate.</afflictiondescription.bleeding.high>
+<afflictiondescription.burn.low>The area is red and dry.</afflictiondescription.burn.low>
+<afflictiondescription.burn.high>The skin is white and partially charred; this looks severe.</afflictiondescription.burn.high>
+<afflictionname.acidburn>Acid Burn</afflictionname.acidburn>
+<afflictiondescription.acidburn.low>The skin is irritated and raw.</afflictiondescription.acidburn.low>
+<afflictiondescription.acidburn>Parts of the flesh are stripped away by acid; a mixture of red and white mark the edges.</afflictiondescription.acidburn>
+<afflictiondescription.acidburn.high>The flesh has deformed and essentially melted away due to high amounts of acid.</afflictiondescription.acidburn.high>
+<afflictiondescription.oxygenlow.low>Restless anxiety and headaches hint at low blood oxygen levels.</afflictiondescription.oxygenlow.low>
+<afflictiondescription.bloodloss.low.self>You feel cold and fatigued.</afflictiondescription.bloodloss.low.self>
+<afflictiondescription.bloodloss.high.self>You feel cold and dizzy, probably not far from passing out.</afflictiondescription.bloodloss.high.self>
+<afflictiondescription.bloodloss.low>The patient's skin feels cold and moist.</afflictiondescription.bloodloss.low>
+<afflictiondescription.stun.self>You are temporarily rendered unable to move.</afflictiondescription.stun.self>
+<afflictiondescription.concussion.low>The patient seems slightly disoriented.</afflictiondescription.concussion.low>
+<afflictiondescription.concussion.low.self>Something hit you so hard your eyes are still shaking.</afflictiondescription.concussion.low.self>
+<afflictiondescription.concussion.high.self>A massive headache, your ears are ringing and your eyes refuse to focus. It takes a lot of effort to stand upright.</afflictiondescription.concussion.high.self>
+<afflictiondescription.huskinfection.dormant.self>There’s an itch in your throat; the source seems to move around.</afflictiondescription.huskinfection.dormant.self>
+<afflictiondescription.huskinfection.transition.self>Something growing in your throat prevents you from talking; it’s freaking you out.</afflictiondescription.huskinfection.transition.self>
+<afflictiondescription.huskinfection.active.self>Deep down you know you should be worried about the thing chittering and moving about in your mouth. Yet, you feel oddly at peace.</afflictiondescription.huskinfection.active.self>
+<afflictiondescription.huskinfection.dormant.other>A faint clicking noise can be heard occasionally from within the patient.</afflictiondescription.huskinfection.dormant.other>
+<afflictiondescription.huskinfection.transition.other>The patient is eerily silent, save for occasional clicking sounds apparently emanating from deep within the throat.</afflictiondescription.huskinfection.transition.other>
+<afflictiondescription.huskinfection.active.other>Something dark and unpleasant moves in the mouth. They are rendered completely mute.</afflictiondescription.huskinfection.active.other>
+<afflictiondescription.huskinfection.final>Violent seizures signal the emergence of the husk.</afflictiondescription.huskinfection.final>
+<afflictiondescription.spaceherpes.self>You feel as ugly on the outside as they said you were on the inside. Karma strikes back?</afflictiondescription.spaceherpes.self>
+<afflictiondescription.invertcontrols.self>You seem to have two left feet, and your brain disagrees with both. It’s like trying to walk mirrored.</afflictiondescription.invertcontrols.self>
+<afflictiondescription.psychosis.low>The patient insists they saw a spider the other day, but seem otherwise healthy.</afflictiondescription.psychosis.low>
+<afflictiondescription.drunk.self>After all… why not? Why shouldn’t you have another drink?</afflictiondescription.drunk.self>
+<afflictiondescription.drunk.lethal.self>Is it time to lie down? Oh the infinite bliss of drowning out your sorrow…</afflictiondescription.drunk.lethal.self>
+<afflictiondescription.drunk.low>This crewmate is in high spirits, perhaps a bit too high to operate complex machinery.</afflictiondescription.drunk.low>
+<afflictiondescription.drunk.lethal>This crewmate has departed this world mentally, with a grin on their face. You fear the crewmate's life functions will soon depart as well.</afflictiondescription.drunk.lethal>
+<afflictiondescription.opiatewithdrawal.low>Teary-eyed, sweaty and fidgety, the craving is growing.</afflictiondescription.opiatewithdrawal.low>
+<afflictiondescription.opiateoverdose.self>You feel disoriented and struggle to breathe. The world is very cold, even colder than usual.</afflictiondescription.opiateoverdose.self>
+<afflictiondescription.opiateaddiction.self>You’re feeling good… so long as the next fix isn’t too far.</afflictiondescription.opiateaddiction.self>
+<afflictiondescription.radiationsickness.low.self>You feel feverish. Even your skin feels as though it’s on fire.</afflictiondescription.radiationsickness.low.self>
+<afflictiondescription.radiationsickness.high.self>You’ve never felt nausea like this, and your body aches all over.</afflictiondescription.radiationsickness.high.self>
+<afflictiondescription.radiationsickness.high>The patient can’t stop vomiting, and they’re showing ulcers and various soft tissue symptoms.</afflictiondescription.radiationsickness.high>
+<afflictiondescription.morbusinepoisoning.low.self>You have some trouble breathing.</afflictiondescription.morbusinepoisoning.low.self>
+<afflictiondescription.morbusinepoisoning.high.self>You’re gasping for air, but to no avail.</afflictiondescription.morbusinepoisoning.high.self>
+<afflictiondescription.morbusinepoisoning.low>The patient’s breathing seems irregular.</afflictiondescription.morbusinepoisoning.low>  
+<afflictiondescription.sufforinpoisoning.medium.self>Your vision seems to be getting blurry and your health is deteriorating.</afflictiondescription.sufforinpoisoning.medium.self>
+<afflictiondescription.sufforinpoisoning.high.self>You can barely see. The neurotoxin reached its late stages.</afflictiondescription.sufforinpoisoning.high.self>
+<afflictiondescription.sufforinpoisoning.low>The patient’s symptoms are barely detectable, but may indicate poisoning.</afflictiondescription.sufforinpoisoning.low>
+<afflictiondescription.sufforinpoisoning.high>The patient has been poisoned. Unless an antidote is found, the patient will suffer delusions, rapidly followed by death.</afflictiondescription.sufforinpoisoning.high>
+<afflictiondescription.deliriuminepoisoning.high.self>You see and hear things that aren't there. They're the effects of Deliriumine poisoning.</afflictiondescription.deliriuminepoisoning.high.self>
+<afflictiondescription.deliriuminepoisoning.high>The patient is manic, their eyes darting around wildly. They're wondering how you can be so calm, when everything around you is on fire…</afflictiondescription.deliriuminepoisoning.high>
+<afflictiondescription.cyanidepoisoning.medium.self>You feel very very wrong. Have you been poisoned?</afflictiondescription.cyanidepoisoning.medium.self>
+<afflictiondescription.cyanidepoisoning.high.self>You regret not having invested in antidotes for Cyanide poisoning. Now you die.</afflictiondescription.cyanidepoisoning.high.self>
+<afflictiondescription.cyanidepoisoning.low>Scanning the patient reveals Cyanide poisoning. Unless administered an antidote, this will be fatal.</afflictiondescription.cyanidepoisoning.low>
+<afflictiondescription.cyanidepoisoning.high>The patient's mouth is foaming and they are rendered unable to move. You could probably steal their valuables and get away with it…</afflictiondescription.cyanidepoisoning.high>
+<afflictiondescription.paralysis.low.self>You’re having trouble moving your limbs</afflictiondescription.paralysis.low.self>
+<afflictiondescription.paralysis.high.self>You can’t move a muscle.</afflictiondescription.paralysis.high.self>
+<afflictiondescription.paralysis.high>The patient is completely paralyzed and unable to move.</afflictiondescription.paralysis.high>
+<afflictiondescription.nausea.low>Feeling queasy, but nothing a rest wouldn't fix.</afflictiondescription.nausea.low>
+<afflictiondescription.watchersgaze.self>You can’t shake it. It will always be there, staring. Would tearing out your own eyes make it go away?</afflictiondescription.watchersgaze.self>
+<afflictiondescription.hallucinating.low>There's something strange going on with your senses.</afflictiondescription.hallucinating.low>
+<afflictiondescription.reaperstax.self>You’re plagued by a sense of déjà vu, and it’s too real. Maybe you should be glad you can only remember your death, and not your birth.</afflictiondescription.reaperstax.self>
+
+<missiontypedescription.scanalienruins>Install scanners in the alien ruins. Retrieve the data by returning the scanners to the next outpost.</missiontypedescription.scanalienruins>
+
+<botspawnmode.normal.tooltip>Adds the specified amount of bots to the crew.</botspawnmode.normal.tooltip>
+<botspawnmode.fill.tooltip>Adds enough bots to make the total size of the crew equal to the specified value.</botspawnmode.fill.tooltip>
+<botspawn.campaignnote>In the campaign mode, the bots only spawn when you start the campaign for the first time. New bots need to be hired from the outposts.</botspawn.campaignnote>
+
 <tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
 <submarine.classandtier>[class] ([tier])</submarine.classandtier>
+<ModLoadOrderExplanation>You can change the load order of the mods by rearranging the list. Mods at the top of the list have a higher priority than the ones below them, meaning that if multiple mods override the same content, the one highest on the list takes precedence over the others.</ModLoadOrderExplanation>
+<ServerMessage.NameChangeFailedCooldownActive>You are not allowed to change your name this often. Please wait [seconds] seconds.</ServerMessage.NameChangeFailedCooldownActive>
+<eventtext.missionevent_cargo_campaignstart.c1>“We've sold some basic construction materials to the neighbouring outpost, but delivery is on us. A simple transport job; perfect for a new crew like yourselves. What say you?”</eventtext.missionevent_cargo_campaignstart.c1>
+
+<entityname.clowncrate>Clown Crate</entityname.clowncrate>
+<entitydescription.clowncrate>A crate large enough to fit a prankster inside.</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] Go inside</itemmsggoinside>
+  
+<entityname.heavywrench>Heavy Wrench</entityname.heavywrench>
+<entitydescription.heavywrench>A large and heavy titanium wrench. Can only be properly swung by very burly mechanics.</entitydescription.heavywrench>
+
+<entityname.arcemitter>Arc Emitter</entityname.arcemitter>
+<entitydescription.arcemitter>A handheld weapon based on electric discharge coil technology. Fires a high-voltage electrical arc.</entitydescription.arcemitter>
+
+<entityname.makeshiftarmor>Makeshift Armor</entityname.makeshiftarmor>
+<entitydescription.makeshiftarmor>A bulky and unwieldy set of iron plates, fashioned into something that resembles armor.</entitydescription.makeshiftarmor>
+<entityname.ironhelmet>Iron Helmet</entityname.ironhelmet>
+<entitydescription.ironhelmet>A very simple and very heavy helmet that covers the entire face.</entitydescription.ironhelmet>
+
+<entityname.scrapcannon>Scrap Cannon</entityname.scrapcannon>
+<entitydescription.scrapcannon>A battery-powered makeshift weapon that fires metal shrapnels. Wildly inaccurate, but not too picky when it comes to ammo – any piece of unprocessed iron or steel will do.</entitydescription.scrapcannon>
+
+<entityname.defensebotspawner>Defense Bot</entityname.defensebotspawner>
+<entitydescription.defensebotspawner>Build a deadly machine to look after you.</entitydescription.defensebotspawner>
+<entityname.defensebotammobox>Defense Bot Ammunition Rounds</entityname.defensebotammobox>
+<entitydescription.defensebotammobox>Ammunition rounds for Defense Bot</entitydescription.defensebotammobox>
+<character.defensebot>Defense Bot</character.defensebot>
+
+<entityname.petraptoregg>Petraptor egg</entityname.petraptoregg>
+<entitydescription.petraptoregg>A slimy, pulsating mudraptor egg. Hard to believe that this one is friendly. Drop it on the floor and feed it with saline, maybe?</entitydescription.petraptoregg>
+<character.mudraptor_pet>Petraptor</character.mudraptor_pet>
+
+<entityname.exosuit>Exosuit</entityname.exosuit>
+<entitydescription.exosuit>A heavy battery-powered suit originally designed for underwater construction work. Heavily armored and capable of carrying heavy loads.</entitydescription.exosuit>
+
+<entityname.advancedsyringegun>Advanced Syringe Gun</entityname.advancedsyringegun>
+<entitydescription.advancedsyringegun>Launches syrettes containing drugs or poisons. Higher capacity for syrettes.</entitydescription.advancedsyringegun>
+<entityname.europabrew>Europabrew</entityname.europabrew>
+<entitydescription.europabrew>A reagent that drastically increases the effect of acid burns.</entitydescription.europabrew>
+<entityname.sulphuricacidsyringe>Sulphuric Acid Syringe</entityname.sulphuricacidsyringe>
+<entitydescription.sulphuricacidsyringe>A strong acid that causes burns when in contact with skin. Contained in a syringe.</entitydescription.sulphuricacidsyringe>
+<entityname.chemgrenade>Acid Grenade</entityname.chemgrenade>
+<entitydescription.chemgrenade>A grenade filled with acid, causing acid burns when it explodes.</entitydescription.chemgrenade>
+<entityname.40mmchemgrenade>40mm Acid Grenade</entityname.40mmchemgrenade>
+<entitydescription.40mmchemgrenade>Ammunition for grenade launcher. Filled with acid, causing acid burns when it explodes.</entitydescription.40mmchemgrenade>
+
+<afflictionname.acidreaction>Acid Vulnerability</afflictionname.acidreaction>
+<afflictiondescription.acidreaction>Reagent that drastically increases acid burn damage.</afflictiondescription.acidreaction>
+
+<entityname.rum>Rum</entityname.rum>
+<entitydescription.rum>A fine liquor made from raptor bane juice. Some purists insist real rum is made from sugarcane — good luck finding any of that Europa.</entitydescription.rum>
+
+<entityname.handhelditemfinder>Handheld Itemfinder</entityname.handhelditemfinder>
+<entitydescription.handhelditemfinder>A small handheld device with a screen, capable of easily finding items within the submarine.</entitydescription.handhelditemfinder>
+<entityname.makeshiftshelf>Makeshift Shelves</entityname.makeshiftshelf>
+<entitydescription.makeshiftshelf>Crate storage shelves that can be manually installed on a submarine.</entitydescription.makeshiftshelf>
+<entityname.ceremonialsword>Ceremonial Sword</entityname.ceremonialsword>
+<entitydescription.ceremonialsword>A sharp sword to commemorate graduating. It takes varied skills to use it to it's highest potential.</entitydescription.ceremonialsword>
+
+<talenttree.frogman>Frogman</talenttree.frogman>
+<talenttree.enforcer>Enforcer</talenttree.enforcer>
+<talenttree.gunner>Gunner</talenttree.gunner>
+<talenttree.scrapper>Scrapper</talenttree.scrapper>
+<talenttree.brawler>Brawler</talenttree.brawler>
+<talenttree.apprentice>Apprentice</talenttree.apprentice>
+<talenttree.primary>Primary</talenttree.primary>
+<talenttree.scientist>Chemist</talenttree.scientist>
+  
+<talentname.veteran>Veteran</talentname.veteran>
+<talentname.inspirationalleader>Inspirational Leader</talentname.inspirationalleader>
+<talentname.prodigy>Prodigy</talentname.prodigy>
+<talentname.logisticsexpert>Logistics Expert</talentname.logisticsexpert>
+<talentname.lonewolf>Lone Wolf</talentname.lonewolf>
+<talentname.deputy>Deputy</talentname.deputy>
+<talentname.bigguns>Big Guns</talentname.bigguns>
+<talentname.affiliation>Affiliation</talentname.affiliation>
+<talentname.campaigning>Campaigning</talentname.campaigning>
+<talentname.yourreputation>Your Reputation...</talentname.yourreputation>
+<talentname.networking>Networking</talentname.networking>
+<talentname.figurehead>Figurehead</talentname.figurehead>
+<talentname.helmsman>Helmsman</talentname.helmsman>
+<talentname.inspiringpresence>Inspiring Presence</talentname.inspiringpresence>
+<talentname.trickledown>Trickle Down</talentname.trickledown>
+<talentname.steadytune>Steady Tune</talentname.steadytune>
+<talentname.family>Family</talentname.family>
+<talentname.leadingbyexample>Leading By Example</talentname.leadingbyexample>
+<talentname.protectandserve>Protect and Serve</talentname.protectandserve>
+<talentname.warstories>War Stories</talentname.warstories>
+<talentname.swole>Swole</talentname.swole>
+<talentname.weaponsmith>Weaponsmith</talentname.weaponsmith>
+<talentname.dontpushit>Don't Push It</talentname.dontpushit>
+<talentname.buff>Buff</talentname.buff>
+<talentname.boardingparty>Boarding Party</talentname.boardingparty>
+<talentname.daringdolphin>Daring Dolphin</talentname.daringdolphin>
+<talentname.easyturtle>Easy Turtle</talentname.easyturtle>
+<talentname.pacificationkit>Pacification Kit</talentname.pacificationkit>
+<talentname.inordinateexsanguination>Inordinate Exsanguination</talentname.inordinateexsanguination>
+<talentname.crustyseaman>Crusty Seaman</talentname.crustyseaman>
+<talentname.rifleman>Rifleman</talentname.rifleman>
+<talentname.extrapowder>Extra Powder</talentname.extrapowder>
+<talentname.gunrunner>Gun Runner</talentname.gunrunner>
+<talentname.healthinsurance>Health Insurance</talentname.healthinsurance>
+<talentname.nobodyimportantdies>Nobody Important Dies</talentname.nobodyimportantdies>
+<talentname.exampleofhealth>Example of Health</talentname.exampleofhealth>
+<talentname.laresistance>La Resistance</talentname.laresistance>
+<talentname.selfcare>Self-care</talentname.selfcare>
+<talentname.stayinalive>Stayin' Alive</talentname.stayinalive>
+<talentname.blooddonor>Blood Donor</talentname.blooddonor>
+<talentname.bloodybusiness>Bloody Business</talentname.bloodybusiness>
+<talentname.genetampering>Gene Tampering</talentname.genetampering>
+<talentname.emergencyresponse>Emergency Response</talentname.emergencyresponse>
+<talentname.medicalexpertise>Medical Expertise</talentname.medicalexpertise>
+<talentname.medicalassistance>Medical Assistance</talentname.medicalassistance>
+<talentname.miracleworker>Miracle Worker</talentname.miracleworker>
+<talentname.deliverysystem>Delivery System</talentname.deliverysystem>
+<talentname.labcontacts>Lab Contacts</talentname.labcontacts>
+<talentname.macrodosing>Macrodosing</talentname.macrodosing>
+<talentname.funwithfission>Fun With Fission</talentname.funwithfission>
+<talentname.grounded>Grounded</talentname.grounded>
+<talentname.egghead>Egghead</talentname.egghead>
+<talentname.junctionjunkie>Junction Junkie</talentname.junctionjunkie>
+<talentname.stationengineer>Station Engineer</talentname.stationengineer>
+<talentname.weaponartisan>Weapon Artisan</talentname.weaponartisan>
+<talentname.submarineofthings>Submarine Of Things</talentname.submarineofthings>
+<talentname.lightningwizard>Lightning Wizard</talentname.lightningwizard>
+<talentname.buzzing>Buzzin'</talentname.buzzing>
+<talentname.cruising>Cruisin'</talentname.cruising>
+<talentname.betterthannew>Better Than New</talentname.betterthannew>
+<talentname.machinemaniac>Machine Maniac</talentname.machinemaniac>
+<talentname.salvagecrew>Salvage Crew</talentname.salvagecrew>
+<talentname.multifunctional>Multifunctional</talentname.multifunctional>
+<talentname.engineengineer>Engine Engineer</talentname.engineengineer>
+<talentname.ballastdenizen>Ballast Denizen</talentname.ballastdenizen>
+<talentname.pumpndump>Pump N Dump</talentname.pumpndump>
+<talentname.ironman>Ironman</talentname.ironman>
+<talentname.oiledmachinery>Oiled Machinery</talentname.oiledmachinery>
+<talentname.retrofit>Retrofit</talentname.retrofit>
+<talentname.toolmaintenance>Tool Maintenance</talentname.toolmaintenance>
+<talentname.residualwaste>Residual Waste</talentname.residualwaste>
+<talentname.ironstorm>Iron Storm</talentname.ironstorm>
+<talentname.iamthatguy>I Am That Guy</talentname.iamthatguy>
+<talentname.heavylifting>Heavy Lifting</talentname.heavylifting>
+<talentname.mudraptorwrestler>Mudraptor Wrestler</talentname.mudraptorwrestler>
+<talentname.foolhardy>Foolhardy</talentname.foolhardy>
+<talentname.berserker>Berserker</talentname.berserker>
+<talentname.powerarmor>MECHanic</talentname.powerarmor>
+<talentname.revengesquad>Revenge Squad</talentname.revengesquad>
+<talentname.jackinthebox>Jack-In-The-Box</talentname.jackinthebox>
+<talentname.peerlearning>Peer Learning</talentname.peerlearning>
+<talentname.thearrival>The Arrival</talentname.thearrival>
+<talentname.mailman>Mailman</talentname.mailman>
+<talentname.anappleaday>An Apple A Day</talentname.anappleaday>
+<talentname.thewaitinglist>The Waiting List</talentname.thewaitinglist>
+<talentname.thefriendswemade>The Friends We Made</talentname.thefriendswemade>
+<talentname.chonkyhonks>Chonky Honks</talentname.chonkyhonks>
+<talentname.logisticssystems>Logistics Systems</talentname.logisticssystems>
+<talentname.journeyman>Journeyman</talentname.journeyman>
+<talentname.loyalassistant>Loyal Assistant</talentname.loyalassistant>
+<talentname.disloyalscum>Treacherous Scum</talentname.disloyalscum>
+<talentname.commendations>Commendations</talentname.commendations>
+<talentname.emergencymaneuvers>Emergency Maneuvers</talentname.emergencymaneuvers>
+<talentname.commando>Commando</talentname.commando>
+<talentname.slayer>Slayer</talentname.slayer>
+<talentname.specops>Spec-Ops</talentname.specops>
+<talentname.medicalcompanion>Medical Companion</talentname.medicalcompanion>
+<talentname.nopressure>No Pressure</talentname.nopressure>
+<talentname.genesplicer>Gene Splicer</talentname.genesplicer>
+<talentname.geneticgenious>Genetic Genious</talentname.geneticgenious>
+<talentname.supersoldiers>Super Soldiers</talentname.supersoldiers>
+<talentname.vitaminsupplements>Vitamin Supplements</talentname.vitaminsupplements>
+<talentname.samplecollection>Sample Collection</talentname.samplecollection>
+<talentname.armsrace>Arms Race</talentname.armsrace>
+<talentname.heavyhitter>Heavy Hitter</talentname.heavyhitter>
+<talentname.gridmaintainer>Grid Maintainer</talentname.gridmaintainer>
+<talentname.unlimitedpower>Unlimited Power</talentname.unlimitedpower>
+<talentname.dangerzone>Danger Zone</talentname.dangerzone>
+<talentname.unstoppablecuriosity>Unstoppable Curiosity</talentname.unstoppablecuriosity>
+<talentname.modularrepairs>Modular Repairs</talentname.modularrepairs>
+<talentname.hullfixer>Hull Fixer</talentname.hullfixer>
+<talentname.quickfixer>Quickfixer</talentname.quickfixer>
+<talentname.nonthreatening>Non-threatening</talentname.nonthreatening>
+<talentname.whatastench>What a Stench!</talentname.whatastench>
+<talentname.blackmarketgenes>Blackmarket Genes</talentname.blackmarketgenes>
+<talentname.robotics>Robotics</talentname.robotics>
+
+<talentdescription.warstories>Gain [xpbonus] bonus XP when completing a mission in which you killed at least [creatureamount] creatures.</talentdescription.warstories>
+<talentdescription.easyturtle>Take [amount]% less damage from attacks while you are in water.</talentdescription.easyturtle>
+<talentdescription.veteran>Gain a one-time bonus of [helmbonus] Helm and [otherbonus] to all other skills.</talentdescription.veteran>
+<talentdescription.logisticsexpert>Gain [xpbonus]% bonus XP and [moneybonus]% bonus money when completing a [missiontype1] or [missiontype2] mission.</talentdescription.logisticsexpert>
+<talentdescription.healthinsurance>Gain [xpbonus]% bonus XP and [moneybonus]% bonus money when completing a [missiontype] mission.</talentdescription.healthinsurance>
+<talentdescription.mailman>Gain [xpbonus]% bonus XP and [moneybonus] bonus money when completing a [missiontype] mission.</talentdescription.mailman>
+<talentdescription.protectandserve>Gain [xpbonus]% bonus XP when completing a [missiontype] mission.</talentdescription.protectandserve>
+<talentdescription.nobodyimportantdies>Gain [xpbonus]% bonus XP when completing a mission, if all crewmembers survived.</talentdescription.nobodyimportantdies>
+<talentdescription.travelingtradesman>Items sold by your crew sell for [amount]% more.</talentdescription.travelingtradesman>
+<talentdescription.appliestoallcrew>Applies to all crew:</talentdescription.appliestoallcrew>
+<talentdescription.camaraderienew>Whenever you finish a mission without a crewmember dying, your crew gains an additional [extraexperience]% experience.</talentdescription.camaraderienew>
+<talentdescription.downwiththeship>If you are on your submarine and it becomes at least [flooded]% flooded, you gain an additional [swimmingboost]% swimming speed and repair hulls [repairspeed]% faster for [duration] seconds.</talentdescription.downwiththeship>
+<talentdescription.emergencymaneuvers>Whenever your submarine takes damage from a monster, gain ‖color:gui.orange‖maximum Helm skill‖end‖ for [seconds] seconds.</talentdescription.emergencymaneuvers>
+<talentdescription.lonewolf>If there's no crew members nearby, gain the following:</talentdescription.lonewolf>
+<talentdescription.deputy>‖color:gui.orange‖Assistants‖end‖ nearby get [skillbonus1] ‖color:gui.orange‖Helm‖end‖ and [skillbonus2] ‖color:gui.orange‖Weapons‖end‖ skill and gain these skills twice as fast.</talentdescription.deputy>
+<talentdescription.bigguns>Deal [amount]% more damage with ‖color:gui.orange‖Revolvers‖end‖ and ‖color:gui.orange‖Handcannons‖end‖ to monsters.</talentdescription.bigguns>
+<talentdescription.commendations>Whenever you finish at least one mission, gain a ‖color:gui.orange‖Commendation‖end‖.\nWhen you apply a ‖color:gui.orange‖Commendation‖end‖ on another character, give them [selfxpgain] experience.</talentdescription.commendations>
+<talentdescription.yourreputation>When entering a new outpost you have positive faction reputation with, gain [amount] mk.\nDoubled for cities.</talentdescription.yourreputation>
+<talentdescription.affiliation>Choose a faction to side with, in order to gain affiliation bonuses for that faction.</talentdescription.affiliation>
+<talentdescription.affiliationfaction>Choose to side with [faction] and gain the following:</talentdescription.affiliationfaction>
+<talentdescription.affiliationbenefit1>Reputation with [faction] increases [reputationincrease]% faster, but reputation with other factions decreases [reputationloss]% faster.</talentdescription.affiliationbenefit1>
+<talentdescription.affiliationbenefit2>Earn [amount]% more marks when completing a mission for [faction].</talentdescription.affiliationbenefit2>
+<talentdescription.affiliationfactionreminder>‖color:gui.red‖Warning:‖end‖ Choosing a faction to side with is permanent and locks this choice for other captains as well.</talentdescription.affiliationfactionreminder>
+<talentdescription.campaigning>Affiliated faction shipyards offer [amount]% discount for upgrades and buying submarines.</talentdescription.campaigning>
+<talentdescription.networking>Affiliated faction shops offer [amount]% lower prices. Doubled for faction-unique items.</talentdescription.networking>
+<talentdescription.figurehead>Replaces ‖color:gui.orange‖Commendations‖end‖ with ‖color:gui.orange‖Medals‖end‖ that give [selfxpgain] XP. If the character is then below level [level], give them XP to reach level [level].</talentdescription.figurehead>
+<talentdescription.factiondiscount>All services on affiliated outposts give [discount]% discount.</talentdescription.factiondiscount>
+<talentdescription.leadingbyexample>As long as you're alive, all crew members receive ‖color:gui.orange‖High Morale‖end‖ granting the following:</talentdescription.leadingbyexample>
+<talentdescription.helmsman>Boosts your ‖color:gui.orange‖Helm‖end‖ skill by [amount].</talentdescription.helmsman>
+<talentdescription.increaseeffectiveness>Increases ‖color:gui.orange‖Engines‖end‖ and ‖color:gui.orange‖Pumps‖end‖ effectiveness by [amount]%.</talentdescription.increaseeffectiveness>
+<talentdescription.inspiringpresence>Crew members in the same room that gain a skill point, instead get [amount]. Crewmembers walk [movespeed]% faster.</talentdescription.inspiringpresence>
+<talentdescription.trickledown>If you gain a skill, so does every other crewmember everywhere. Crewmembers swim [amount]% faster.</talentdescription.trickledown>
+<talentdescription.steadytune>After playing a ‖color:gui.orange‖Harmonica‖end‖ for [duration] seconds or longer, you and nearby allies gain +[buffamount]% [buffname] for [buffduration] seconds.</talentdescription.steadytune>
+<talentdescription.melodicrespite2>After playing a ‖color:gui.orange‖Guitar‖end‖ for [duration] seconds or longer, you and nearby allies gain +[buffamount]% [buffname] for [buffduration] seconds.</talentdescription.melodicrespite2>
+<talentdescription.family>‖color:gui.green‖On unlock:‖end‖ Every crewmember gains one level.</talentdescription.family>
+<talentdescription.family2>During missions, if no crewmember has died, upgrades ‖color:gui.orange‖High Morale‖end‖ to ‖color:gui.orange‖Excellent Morale‖end‖, doubling the bonuses.</talentdescription.family2>
+<talentdescription.extrableedingdamage>Inflict [amount]% more ‖color:gui.orange‖Bleeding‖end‖ damage.</talentdescription.extrableedingdamage>
+<talentdescription.crustyseaman>Recover from bleeding much more quickly.</talentdescription.crustyseaman>
+<talentdescription.moredamagerifles>Inflict [amount]% more damage with ‖color:gui.orange‖Rifles‖end‖.</talentdescription.moredamagerifles>
+<talentdescription.extrapowder>Explosions have [rangeamount]% larger radius and deal [damageamount]% more damage.</talentdescription.extrapowder>
+<talentdescription.gunrunner>You move [amount]% faster while carrying turret ammunition.</talentdescription.gunrunner>
+<talentdescription.walkfasterwhileaiming>Walk [amount]% faster while aiming.</talentdescription.walkfasterwhileaiming>
+<talentdescription.warlord>Inflict [amount]% more damage with ranged weapons for every nearby enemy. Up to [maxamount]%.</talentdescription.warlord>
+<talentdescription.blooddonor>Whenever you finish at least one mission, gain one ‖color:gui.orange‖Blood Pack‖end‖ in your inventory.</talentdescription.blooddonor>
+<talentdescription.itemgiveslessaffliction>Administering ‖color:gui.orange‖Alien Blood‖end‖ gives [amount]% less ‖color:gui.orange‖Psychosis‖end‖.</talentdescription.itemgiveslessaffliction>
+<talentdescription.bloodybusiness>‖color:gui.orange‖Large creatures‖end‖ drop one extra [item].</talentdescription.bloodybusiness>
+<talentdescription.genetampering>All crew members gain [healthamount]% more health and move [movementspeed]% faster.</talentdescription.genetampering>
+<talentdescription.assistantdragatfullspeed>‖color:gui.orange‖Assistants‖end‖ can drag characters at full speed.</talentdescription.assistantdragatfullspeed>
+<talentdescription.emergencyresponse>You move [movementspeed]% faster if any crew member on the submarine is in need of CPR.</talentdescription.emergencyresponse>
+<talentdescription.slightlypowerfulcpr>The CPR applied by crewmembers reduces ‖color:gui.orange‖Oxygen Low‖end‖ [amount]% more effectively.</talentdescription.slightlypowerfulcpr>
+<talentdescription.medicalexpertise>Boosts your ‖color:gui.orange‖Medical‖end‖ skill by [amount]. Your bandages are more effective.</talentdescription.medicalexpertise>
+<talentdescription.medicalassistance>‖color:gui.orange‖Assistants‖end‖ in the same room have their ‖color:gui.orange‖Medical‖end‖ skill boosted by [amount].</talentdescription.medicalassistance>
+<talentdescription.miracleworker>Nearby crew members are unable to succumb to their injuries unless they give in.</talentdescription.miracleworker>
+<talentdescription.blackmarketgenes>Shops on ‖color:gui.orange‖Research Stations‖end‖ and ‖color:gui.orange‖Cities‖end‖ can sell genetic materials.</talentdescription.blackmarketgenes>
+<talentdescription.sellgeneticmaterialsmultiplier>You can sell genetic materials for [amount]% more.</talentdescription.sellgeneticmaterialsmultiplier>
+<talentdescription.chemicalsboughtcheaper>‖color:gui.orange‖Chemicals‖end‖ can be bought [amount]% cheaper.</talentdescription.chemicalsboughtcheaper>
+<talentdescription.constructmedicinefaster>You construct medical items [amount]% faster.</talentdescription.constructmedicinefaster>
+<talentdescription.increaseappliedbuffduration>Buffs you apply last [amount]% longer.</talentdescription.increaseappliedbuffduration>
+<talentdescription.poisonsandacidsdealmoredamage>‖color:gui.orange‖Poisons‖end‖ and ‖color:gui.orange‖Acid‖end‖ deal [amount]% more damage.</talentdescription.poisonsandacidsdealmoredamage>
+<talentdescription.junctionjunkie>Gain [bonus] bonus XP when completing a mission in which you repaired at least [amount] electrical devices.</talentdescription.junctionjunkie>
+<talentdescription.aggressiveengineering>You deal ‖color:gui.green‖triple‖end‖ damage with ‖color:gui.orange‖screwdrivers‖end‖.</talentdescription.aggressiveengineering>
+<talentdescription.machinemaniac>Gain [bonus] bonus XP when completing a mission in which you repaired at least [amount] mechanical devices.</talentdescription.machinemaniac>
+<talentdescription.stationengineer>Gain [bonus]% bonus XP when reactivating a ‖color:gui.orange‖Beacon Station‖end‖.</talentdescription.stationengineer>
+<talentdescription.craftwithlessitems>You can craft ‖color:gui.orange‖FPGA Circuits‖end‖ with much less materials.</talentdescription.craftwithlessitems>
+<talentdescription.buzzing>Your reactor's ‖color:gui.orange‖Max Output‖end‖ is increased by [amount]%.</talentdescription.buzzing>
+<talentdescription.cruising>Your reactor's ‖color:gui.orange‖Fuel Efficiency‖end‖ is increased by [amount]%.</talentdescription.cruising>
+<talentdescription.doesnotstackwith>Does not stack with [talentname].</talentdescription.doesnotstackwith>
+<talentdescription.doesnotstack>Does not stack with multiple of the same talent.</talentdescription.doesnotstack>
+<talentdescription.betterthannew>Electrical devices you've repaired deteriorate [amount]% slower.</talentdescription.betterthannew>
+<talentdescription.unlimitedpower>‖color:gui.orange‖Batteries‖end‖ and ‖color:gui.orange‖Supercapacitors‖end‖ have +[amount]% capacity.</talentdescription.unlimitedpower>
+<talentdescription.multifunctional>Deal [powerincrease]% more damage with ‖color:gui.orange‖Wrenches‖end‖ and ‖color:gui.orange‖Crowbars‖end‖.</talentdescription.multifunctional>
+<talentdescription.engineengineer>Submarine ‖color:gui.orange‖engines‖end‖ have +[amount]% [stattype] per level you have, to a maximum of [max]%.</talentdescription.engineengineer>
+<talentdescription.ballastdenizen>Hold your breath [amount]% longer.</talentdescription.ballastdenizen>
+<talentdescription.underwaterengineer>Submarine ‖color:gui.orange‖Engines‖end‖ have +[amount]% [stattype] when submerged.</talentdescription.underwaterengineer>
+<talentdescription.pumpndump>‖color:gui.orange‖Pumps‖end‖ you've repaired gain [amount]% [stattype].</talentdescription.pumpndump>
+<talentdescription.oiledmachinery>‖color:gui.orange‖Fabricators‖end‖ and ‖color:gui.orange‖Deconstructors‖end‖ works [amount]% faster.</talentdescription.oiledmachinery>
+<talentdescription.retrofit>Unlock ‖color:gui.orange‖hull upgrades‖end‖ as if your submarine is one tier higher.</talentdescription.retrofit>
+<talentdescription.toolmaintenance>All crew members craft at [amount] higher quality.</talentdescription.toolmaintenance>
+<talentdescription.residualwaste>Deconstructing an item has a [chance]% chance to give double the output.</talentdescription.residualwaste>
+<talentdescription.ironstorm>‖color:gui.orange‖Tier 1‖end‖ and ‖color:gui.orange‖Tier 2‖end‖ submarines can be upgraded as if ‖color:gui.orange‖Tier 3‖end‖.</talentdescription.ironstorm>
+<talentdescription.doublescrapoutput>Deconstructing ‖color:gui.orange‖Scrap‖end‖ gives double the output.</talentdescription.doublescrapoutput>
+<talentdescription.repairmechanicaldevicestwiceasfast>You repair ‖color:gui.orange‖mechanical devices‖end‖ twice as fast.</talentdescription.repairmechanicaldevicestwiceasfast>
+<talentdescription.quickfixer>After you repair a ‖color:gui.orange‖mechanical device‖end‖, move [amount]% faster for [duration] seconds.</talentdescription.quickfixer>
+<talentdescription.robotics>Build a powerful (but fragile) drone to watch your back.</talentdescription.robotics>
+<talentdescription.roboticsreminder>Only [amount] defense bots per crew can be active at the same time.</talentdescription.roboticsreminder>
+<talentdescription.iamthatguy>Inflict [amount]% more ‖color:gui.orange‖Blunt Force Trauma‖end‖ damage with melee weapons.</talentdescription.iamthatguy>
+<talentdescription.lowhealthstatboost>While below [health]% health, you gain the following:</talentdescription.lowhealthstatboost>
+<talentdescription.heavylifting>You move [amount]% faster when carrying ‖color:gui.orange‖Metal Crates‖end‖ or ‖color:gui.orange‖Artifacts‖end‖.</talentdescription.heavylifting>
+<talentdescription.mudraptorwrestler>Deal [amount]% more melee damage to ‖color:gui.orange‖Mudraptors‖end‖.</talentdescription.mudraptorwrestler>
+<talentdescription.revengesquad>When you die, your crewmates get [amount]% ‖color:gui.orange‖Physical Damage Resistance‖end‖ for [duration] seconds.</talentdescription.revengesquad>
+<talentdescription.peerlearning>When completing a mission, give the lowest level crew members [amount]% bonus XP.</talentdescription.peerlearning>
+<talentdescription.anappleaday>Gain [amount]% resistance to ‖color:gui.orange‖Reaper's Tax‖end‖.</talentdescription.anappleaday>
+<talentdescription.miracleworker>You become immune to ‖color:gui.orange‖Miracle In Progress‖end‖.</talentdescription.miracleworker>
+<talentdescription.thewaitinglist>When waiting for CPR, your vitality bar decreases [amount]% slower.</talentdescription.thewaitinglist>
+<talentdescription.thefriendswemade>Turn unhatched mudraptors friendly in the medical fabricator.</talentdescription.thefriendswemade>
+<talentdescription.thefriendswemadereminder>Only [amount] per crew can be active at the same time.</talentdescription.thefriendswemadereminder>
+<talentdescription.clownpowerbenefits>Clown Power grants you:</talentdescription.clownpowerbenefits>
+<talentdescription.thearrival>Once per station, honking a ‖color:gui.orange‖Bike Horn‖end‖ will give you [amount] reputation with [faction].</talentdescription.thearrival>
+<talentdescription.chonkyhonks>Honking your horn has a [chance]% chance to stun nearby creatures for one second.</talentdescription.chonkyhonks>
+<talentdescription.apprenticeshipbase>Choose one job as apprenticeship and gain relevant skill boost of that job.</talentdescription.apprenticeshipbase>
+<talentdescription.apprenticeshipjob>Choose [job] as your apprenticeship and gain the following:</talentdescription.apprenticeshipjob>
+<talentdescription.journeyman>You and all crew members whose job matches your apprenticeship get [skilamount] of the job's primary skill and earn this skill [skillspeedboost]% faster.</talentdescription.journeyman>
+<talentdescription.loyalassistant>You and all crew members whose job matches your apprenticeship can craft items at [amount] higher quality.</talentdescription.loyalassistant>
+<talentdescription.disloyalscum>You and all crew members whose job ‖color:gui.orange‖does not‖end‖ match your apprenticeship repair, weld and gain skills [amount]% faster.</talentdescription.disloyalscum>
+<talentdescription.unlockapprenticeshiptalents>Get all talents from one ‖color:gui.orange‖random specialization‖end‖ tree of your apprenticeship job's talent tree.</talentdescription.unlockapprenticeshiptalents>
+<talentdescription.truepotentialtemporary>Hitting an unconscious ally with a ‖color:gui.orange‖Toy Hammer‖end‖ revives them with [affliction] applied for [duration] seconds.</talentdescription.truepotentialtemporary>
+<talentdescription.massproduction>Fabricating items has a [chance]% chance to not consume one of the input ingredients.</talentdescription.massproduction>
+<talentdescription.specops>Inflict double (non-turret) damage against full health enemies.</talentdescription.specops>
+<talentdescription.letitdrain>Build portable pumps and install them where you need them.</talentdescription.letitdrain>
+<talentdescription.powerarmor>Move [bonusmovement]% faster in an ‖color:gui.orange‖Exosuit‖end‖.</talentdescription.powerarmor>
+
+<stattypenames.maxspeed>Max Speed</stattypenames.maxspeed>
+<stattypenames.storesellmultiplier>Item Sell Value</stattypenames.storesellmultiplier>
+<stattypenames.physicalresistance>Physical Damage Resistance</stattypenames.physicalresistance>
+<stattypenames.stunresistance>Stun Resistance</stattypenames.stunresistance>
+<stattypenames.meleedamagebonus>Melee Damage Dealt</stattypenames.meleedamagebonus>
+<stattypenames.reputationgain>Bonus Reputation Gain</stattypenames.reputationgain>
+<stattypenames.reputationloss>Bonus Reputation Loss</stattypenames.reputationloss>
+<stattypenames.maxflow>Maximum Flow</stattypenames.maxflow>
+
+<talentname.plaguedoctor>Plague Doctor</talentname.plaguedoctor>
+
+<clientpermission.managebottalents>Manage talents</clientpermission.managebottalents>
+
+<afflictionname.lonewolf>Lone Wolf</afflictionname.lonewolf>
+<afflictiondescription.lonewolf>You thrive in isolation. Without interference of others, your capabilities are enhanced.</afflictiondescription.lonewolf>
+<afflictionname.deputy>Deputy</afflictionname.deputy>
+<afflictiondescription.deputy>Your captain trusts you to take care of the sub in case of their absence. You wouldn't let them down.</afflictiondescription.deputy>
+<afflictionname.highmorale>High Morale</afflictionname.highmorale>
+<afflictiondescription.highmorale>Your captain is leading by example. You feel confident and energetic.</afflictiondescription.highmorale>
+<afflictionname.excellentmorale>Excellent Morale</afflictionname.excellentmorale>
+<afflictiondescription.excellentmorale>This crew is like a family to you. Nobody messes with your little submarine family.</afflictiondescription.excellentmorale>
+<afflictionname.inspirationalleader>Inspirational Leader</afflictionname.inspirationalleader>
+<afflictiondescription.inspirationalleader>Your captain inspires and encourages you to learn.</afflictiondescription.inspirationalleader>
+<afflictionname.inspiringpresence>Notice me</afflictionname.inspiringpresence>
+<afflictiondescription.inspiringpresence>The presence of your captain makes you eager to impress.</afflictiondescription.inspiringpresence>
+<afflictionname.genetampering>Gene Tampering</afflictionname.genetampering>
+<afflictiondescription.genetampering>Your medical doctor has tampered with your genes, eliminating minor health issues.</afflictiondescription.genetampering>
+<afflictionname.emergencyresponse>Emergency Response</afflictionname.emergencyresponse>
+<afflictiondescription.emergencyresponse>It's fortunate food is scarce. It makes crewmmates that much easier to carry to safety.</afflictiondescription.emergencyresponse>
+<afflictionname.medicalassistance>Medical Assistant</afflictionname.medicalassistance>
+<afflictiondescription.medicalassistance>As long as you follow the Doctor's instructions, the patient will be fine.</afflictiondescription.medicalassistance>
+<afflictionname.miracleworker>Miracle In Progress</afflictionname.miracleworker>
+<afflictiondescription.miracleworker>Your lifeforces are fading, yet one Doctor shines bright like a beacon. While they're nearby, you won't give in.</afflictiondescription.miracleworker>
+<afflictionname.quickfixer>Quickfixer</afflictionname.quickfixer>
+<afflictiondescription.quickfixer>Gotta go speedily.</afflictiondescription.quickfixer>
+<afflictionname.berserker>Berserker</afflictionname.berserker>
+<afflictiondescription.berserker>They've bruised your body and, more importantly, your ego. You'll make them pay. Deal more damage.</afflictiondescription.berserker>
+<afflictionname.foolhardy>Foolhardy</afflictionname.foolhardy>
+<afflictiondescription.foolhardy>Dang, they sure gave you a beating. But what doesn't kill you makes you stronger. Resist some physical damage.</afflictiondescription.foolhardy>
+<afflictionname.revengesquad>Revenge Squad</afflictionname.revengesquad>
+<afflictiondescription.revengesquad>They killed our assistant. You don't remember their name, but you will avenge them. Temporarily take reduced damage.</afflictiondescription.revengesquad>
+<afflictionname.journeyman>Journeyman</afflictionname.journeyman>
+<afflictiondescription.journeyman>Once an apprentice proves their skill, they can efficiently help the professionals. Gain your primary skill faster.</afflictiondescription.journeyman>
+<afflictionname.loyalassistant>Loyal Assistant</afflictionname.loyalassistant>
+<afflictiondescription.loyalassistant>A friend is someone who walks into a room when everyone else is walking out. A loyal assistant keeps working even when you walk out. Increases your crafting quality.</afflictiondescription.loyalassistant>
+<afflictionname.disloyalscum>Treacherous Assistant</afflictionname.disloyalscum>
+<afflictiondescription.disloyalscum>The assistant's dedication to their apprenticeship and their master leaves a lot to be desired, but hanging out with the other crew boosts their efficiency. Repairing and skill gains are increased.</afflictiondescription.disloyalscum>
+
+<UpgradeUI.AllSubmarinesInfo>Upgrades are automatically transferred when you switch to another submarine, provided the tier and class of the new submarine allow for it.</UpgradeUI.AllSubmarinesInfo>
+
+<tutorial.basics.objective_screwdrivercontainer>Open the cabinet</tutorial.basics.objective_screwdrivercontainer>
+<tutorial.basics.objective_weldingfuel>Obtain welding fuel</tutorial.basics.objective_weldingfuel>
+<tutorial.basics.objective_weldingtoolequip>Equip the welding tool</tutorial.basics.objective_weldingtoolequip>
+<tutorial.basics.objective_weldingtoolfill>Fill the welding tool</tutorial.basics.objective_weldingtoolfill>
+
+<tutorial.basics.popup.obtainitems>Your inventory is shown at the bottom.\nTo get the screwdriver into your inventory, drag it there.\nAlternatively, double-click to obtain an item faster.</tutorial.basics.popup.obtainitems>
+<tutorial.basics.popup.deselect>Deselect opened containers by pressing [InputType.Aim]</tutorial.basics.popup.deselect>
+
+<tutorial.basic.description>This tutorial teaches basic controls and game concepts, such as moving and interacting with the environment.</tutorial.basic.description>
+<tutorial.basic.completed>Well done!\nYou've completed the Basics tutorial. Do you want to continue to the Roles tutorial?</tutorial.basic.completed>
+<tutorial.roles.description>This tutorial teaches about the different jobs aboard a submarine. There's five roles to explore:\n- Captain\n- Engineer\n- Mechanic\n- Medical Doctor\n- Security Officer</tutorial.roles.description>
+<tutorial.roles.completed>Well done!\nYou've completed the Roles tutorial. Do you want to restart and explore a different role?</tutorial.roles.completed>
+
+<tutorial.roles.popup.close_interface>Close the interface with [InputType.Aim].</tutorial.roles.popup.close_interface>
+<tutorial.roles.popup.mechanic_divingmask>Equip the Diving Mask. Find one in the Supply Cabinet.</tutorial.roles.popup.mechanic_divingmask>
+<tutorial.roles.mechanic.objective.divingmask>Equip the Diving Mask</tutorial.roles.mechanic.objective.divingmask>
+<tutorial.roles.popup.mechanic_fabrication5>Acquire the Wrench</tutorial.roles.popup.mechanic_fabrication5>
+<tutorial.roles.mechanic.objective.engineering4>Acquire the Wrench</tutorial.roles.mechanic.objective.engineering4>
+<tutorial.roles.popup.medical_healthscanner>Equip the Health Scanner HUD.</tutorial.roles.popup.medical_healthscanner>
+<tutorial.roles.medic.objective.healthscanner>Equip the Health Scanner</tutorial.roles.medic.objective.healthscanner>
+
+<tutorial.roles.security.objective.killtarget>Kill the target</tutorial.roles.security.objective.killtarget>
+<tutorial.roles.popup.bodyarmorequip>Equip the Body Armor. Click the bar above the Body Armor's inventory slot to equip it or press the hotkey.</tutorial.roles.popup.bodyarmorequip>
+<tutorial.roles.popup.ammo>Obtain ammunition.</tutorial.roles.popup.ammo>
+<tutorial.roles.popup.loadgun>Load your gun with the ammo.</tutorial.roles.popup.loadgun>
+
+<tutorial.campaign.introduction.conversation_start>[speakername]: “Finally a chance to get off this station. Can you believe there's so few people willing to crew a submarine, they just sponsored us one fresh from the shipyard?”</tutorial.campaign.introduction.conversation_start>
+<tutorial.campaign.introduction.conversation_start_reply>“I still feel like there must be some catch…”</tutorial.campaign.introduction.conversation_start_reply>
+<tutorial.campaign.introduction.conversation_2>“None as far as I can see. Supply and demand in action: they need able-bodied sailors to keep Europan society running, and the original crew of this submarine drank themselves to death before their maiden voyage. It's ours alright.”</tutorial.campaign.introduction.conversation_2>
+<tutorial.campaign.introduction.conversation_2_reply>“If you say so… Still seems fishy but it sure beats sitting around here. What do we still have to do before we go?”</tutorial.campaign.introduction.conversation_2_reply>
+<tutorial.campaign.introduction.conversation_3>“We'll need some supplies for our first voyage. Fuel Rods are a must, without them I cannot keep our submarine powered. We should make sure we have some spare. Welding Fuel, too, as without it we have no way to patch hull damage. Of course, let's try to avoid hull damage, but just in case.\nI'll transfer my last savings to the shared bank account to contribute.”</tutorial.campaign.introduction.conversation_3>
+<tutorial.campaign.introduction.conversation_3_reply>“Alright, I'll get the supplies!”</tutorial.campaign.introduction.conversation_3_reply>
+<tutorial.campaign.introduction.conversation_4>“Great! Maybe while you're up there, you can check if anyone has some paid work for us? There's not much point in drifting around without a purpose, and keeping a submarine running is expensive.”</tutorial.campaign.introduction.conversation_4>
+<tutorial.campaign.introduction.conversation_4_reply>“Sure, on it.”</tutorial.campaign.introduction.conversation_4_reply>
+
+<tutorial.campaign.objective_missions>Find a way to make money</tutorial.campaign.objective_missions>
+<tutorial.campaign.objective_supplies>Get supplies for the submarine</tutorial.campaign.objective_supplies>
+<tutorial.campaign.objective_supplies_fuelrods>Fuel Rods</tutorial.campaign.objective_supplies_fuelrods>
+<tutorial.campaign.objective_supplies_weldingfuel>Welding Fuel</tutorial.campaign.objective_supplies_weldingfuel>
+<tutorial.campaign.objective_leave>Leave the station</tutorial.campaign.objective_leave>
+
+<tutorial.campaign.objective_tasks>Set orders for your crew</tutorial.campaign.objective_tasks>
+<tutorial.campaign.message_tasks>Open the command interface by pressing [InputType.Command] to give orders to your crew.</tutorial.campaign.message_tasks>
+<tutorial.campaign.objective_tasks_reactor>Power up the reactor</tutorial.campaign.objective_tasks_reactor>
+<tutorial.campaign.objective_tasks_fixleaks>Fix leaks</tutorial.campaign.objective_tasks_fixleaks>
+<tutorial.campaign.objective_tasks_repairelectrical>Repair electrical devices</tutorial.campaign.objective_tasks_repairelectrical>
+<tutorial.campaign.objective_tasks_repairmechanical>Repair mechanical devices</tutorial.campaign.objective_tasks_repairmechanical>
+<tutorial.campaign.objective_tasks_operateturret>Operate turret</tutorial.campaign.objective_tasks_operateturret>
+<tutorial.campaign.objective_move>Move the submarine</tutorial.campaign.objective_move>
+<tutorial.campaign.objective_activatesonar>Activate sonar</tutorial.campaign.objective_activatesonar>
+<tutorial.campaign.objective_reachtarget>Dock at the next station</tutorial.campaign.objective_reachtarget>
+
+<tutorial.campaign.objective_restock>Restock supplies</tutorial.campaign.objective_restock>
+<tutorial.campaign.objective_restock_fuel>Fuel Rods</tutorial.campaign.objective_restock_fuel>
+<tutorial.campaign.objective_restock_coilgunammo>Coilgun Ammo Box</tutorial.campaign.objective_restock_coilgunammo>
+<tutorial.campaign.objective_restock_handheldammo>Revolver Rounds</tutorial.campaign.objective_restock_handheldammo>
+<tutorial.campaign.objective_3missions>Obtain mission leads</tutorial.campaign.objective_3missions>
+
+<tutorial.campaign.outro.conversation_start>[speakername]: “Looks like you settled into the routines of submarining pretty well!”</tutorial.campaign.outro.conversation_start>
+<tutorial.campaign.outro.conversation_start_reply>“So far it seems the risk has been exaggerated. Smooth sailing!”</tutorial.campaign.outro.conversation_start_reply>
+<tutorial.campaign.outro.conversation_2>“From what I've heard, things get riskier the further down we go. The money's better though. No risk, no reward…”</tutorial.campaign.outro.conversation_2>
+<tutorial.campaign.outro.conversation_2_reply>“I do have some urge to go deeper… I mean, who could say no to more money?”</tutorial.campaign.outro.conversation_2_reply>
+<tutorial.campaign.outro.conversation_3>“Money and adventure, exploring the unknown… Sign me up cap'n!”</tutorial.campaign.outro.conversation_3>
+<tutorial.campaign.outro.conversation_3_reply>“Down we go!”</tutorial.campaign.outro.conversation_3_reply>
+
+<campaignoption.enabletutorial>Enable tutorial</campaignoption.enabletutorial>
+<campaignoption.enabletutorial.tooltip>Start the game in a tutorial outpost and learn the basics of navigating through the campaign mode!</campaignoption.enabletutorial.tooltip>
+
+<campaignexittutorialoutpostprompt>Do you want to skip the remaining tutorial objectives and exit [locationname]?</campaignexittutorialoutpostprompt>
+
+<upgrade.requiredmaterials>Required materials</upgrade.requiredmaterials>
+<upgrade.missingmaterials>Missing the required materials</upgrade.missingmaterials>
+
+<medicalclinic.treateveryone>Treat everyone</medicalclinic.treateveryone>
+
+<locationdescription.none>Uninhabited, a potential location for an outpost.</locationdescription.none>
+<locationdescription.city>Bristling with activity and no shortage of supplies.</locationdescription.city>
+<locationdescription.outpost>Average-sized outpost, without any specialization.</locationdescription.outpost>
+<locationdescription.military>Offers an abundance of military hardware.</locationdescription.military>
+<locationdescription.research>Offers rare and exotic items.</locationdescription.research>
+<locationdescription.mine>Offers raw materials at discount prices.</locationdescription.mine>
+<locationdescription.abandoned>Contact was lost with this outpost.\nRe-establishing contact or eliminating a threat here could net you money.</locationdescription.abandoned>
+
+<advancedsub.all>Tier [tiernumber] submarines available.</advancedsub.all>
+<advancedsub.attack>Tier [tiernumber] Attack submarines available.</advancedsub.attack>
+<advancedsub.scout>Tier [tiernumber] Scout submarines available.</advancedsub.scout>
+<advancedsub.transport>Tier [tiernumber] Transport submarines available.</advancedsub.transport>
+<advancedsub.none>No submarines available.</advancedsub.none>
+
+<hint.onobtaineditem.unidentifiedgeneticmaterial>You've found a mass of unidentified alien genetic material. You can use a research station to process it into something that can be inserted into a Gene Splicer – a device that can be used to augment people with non-human abilities.</hint.onobtaineditem.unidentifiedgeneticmaterial>
+<hint.onobtaineditem.geneticmaterial>You've obtained a vial of identified alien genetic material. You can use it with a Gene Splicer, combine it with genetic material of the same type in a Research Station to refine it and boost it's effectiveness, or combine it with a genetic material of different type to combine their effects.</hint.onobtaineditem.geneticmaterial>
+<hint.geneticmaterial.useinstructions>You can use the genetic material by equipping a Gene Splicer, and inserting the genetic material into it in the health interface. Once spliced onto a living subject, genetic material cannot be removed without destroying it.</hint.geneticmaterial.useinstructions>
+<hint.geneticmaterial.onrefiningorcombining>Refining and combining genetic materials has a chance of tainting them, dependent on your medical skill. Combining genetic materials of different type always taints them.\n\nTainted genes cannot be refined or combined further, and using them can have unexpected side-effects.</hint.geneticmaterial.onrefiningorcombining>
+
+<AllLanguages>All</AllLanguages>
+
+<ModUpdatesAvailableLabel>Updates available! Click here for more details</ModUpdatesAvailableLabel>
+
+<ContentPackageEnableError>The content package "[packagename]" could not be enabled due to an error. Check the debug console by pressing F3 for more details.</ContentPackageEnableError>
+
+<infographic.reactor.fuelslots>The reactor needs fuel to generate power. Place one in these slots.</infographic.reactor.fuelslots>
+<infographic.reactor.power>Turns the reactor on or off.</infographic.reactor.power>
+<infographic.reactor.load>Load is the amount of power the submarine is currently consuming, and output is the amount the reactor is currently generating. The output should be kept as close to the load as possible.</infographic.reactor.load>
+<infographic.reactor.fissionrate>Fission rate controls the amount of heat generated, and turbine output controls the amount of power generated from the heat. Try to keep both needles on the green.</infographic.reactor.fissionrate>
+<infographic.reactor.automaticcontrol>When automatic control is on, the reactor will operate itself automatically. However, it reacts to power fluctuations slower than a human operator would be able to.</infographic.reactor.automaticcontrol>
+<infographic.reactor.temperature>The temperature of the reactor core. The temperature is optimal when the bar is between the red indicators.</infographic.reactor.temperature>
+
+<restart>Restart</restart>
+<entityname.huskeggsbasic>Velonaceps Calyx Eggs</entityname.huskeggsbasic>
+<entitydescription.huskeggsbasic>Dormant eggs of the Europan lifeform colloquially referred to as 'husk parasite'.</entitydescription.huskeggsbasic>
+<entityname.aliencircuitry>Alien Circuitry</entityname.aliencircuitry>
+<entitydescription.aliencircuitry>Advanced looking circuitry, typically found within the non-organical guardians of the alien ruins.</entitydescription.aliencircuitry>
+<entityname.diversremains>Diver's Remains</entityname.diversremains>
+<entitydescription.diversremains>The less easily digested remains of the poor soul that met their untimely demise.</entitydescription.diversremains>
+<entityname.hammerheadribs>Hammerhead Ribs</entityname.hammerheadribs>
+<entitydescription.hammerheadribs>The ribs and fleshy remains of a Hammerhead. Can fetch a decent price in colonies.</entitydescription.hammerheadribs>
+<entityname.endwormshell>Endworm Shell Fragment</entityname.endwormshell>
+<entitydescription.endwormshell>A sturdy piece of an endworm's shell.</entitydescription.endwormshell>
+<entityname.watchershell>Watcher Shell Fragment</entityname.watchershell>
+<entitydescription.watchershell>A sturdy piece of a watcher's shell.</entitydescription.watchershell>
+
+<missionname.abandonedoutposthusks>Outpost recovery</missionname.abandonedoutposthusks>
+<missiondescription.abandonedoutposthusks>Contact with [location1] was recently lost. It's suspected that an extremist branch of the Church of Husk is using it for one their ascension rituals. Get rid of the husks, and any eventual cultists.</missiondescription.abandonedoutposthusks>
+<missionsuccess.abandonedoutposthusks>The ritual inside the outpost has been successfully interrupted.</missionsuccess.abandonedoutposthusks>
+<missionfailure.abandonedoutposthusks>The outpost remains infested.</missionfailure.abandonedoutposthusks>
+<missionheader0.abandonedoutposthusks>Ritual interrupted</missionheader0.abandonedoutposthusks>
+<missionmessage0.abandonedoutposthusks>The husk ritual inside the outpost has been successfully foiled. Undock from the outpost to complete the mission.</missionmessage0.abandonedoutposthusks>
+
+<npctitle.huskextremist>Husk Extremist</npctitle.huskextremist>
+<npctitle.huskextremist_leader>Extremist Chief Scientist</npctitle.huskextremist_leader>
+
+<eventtext.huskextremists1.c1>"What kind of idiot would interrupt our undergoing experiment in the post-ascension stage?!"</eventtext.huskextremists1.c1>
+<eventtext.huskextremists1.o1>"You've done all this on purpose?!"</eventtext.huskextremists1.o1>
+<eventtext.huskextremists1.o1.c1>"Ah, of course it's a non-believer. Look around, open your eyes. Have you noticed society is slowly crumbling? Food on outposts is scarce, populations are thinning."</eventtext.huskextremists1.o1.c1>
+<eventtext.huskextremists1.o1.o1>"So you decided to speed up our demise?"</eventtext.huskextremists1.o1.o1>
+<eventtext.huskextremists1.o1.o1.c1>"Our demise? No! Our salvation. Humankind's only way to move beyond slowly being wiped out is by adapting. And the way to adapt is through the Velonaceps Calyx, or Husk as you would call it. It takes us beyond the limits of our frail human bodies, makes us something more. A sacrifice now means less deaths in the long-term – probably even preventing the extinction of our whole race! By whatever means necessary!"</eventtext.huskextremists1.o1.o1.c1>
+<eventtext.huskextremists1.o1.o1.o1>"The Husk may be the way forward, but not like this… Through voluntary experiments and real science in labs, we'll find our way."</eventtext.huskextremists1.o1.o1.o1>
+<eventtext.huskextremists1.o1.o1.o2>"We will find a way to survive. I'd prefer it to be without a parasite in my throat."</eventtext.huskextremists1.o1.o1.o2>
+<eventtext.huskextremists1.o1.o1.o3>"You may have a point… We'll leave you be."</eventtext.huskextremists1.o1.o1.o3>
+<eventtext.huskextremists1.o2>"Brothers, you are clearly misguided. The mess you've made here isn't what an Ascension looks like."</eventtext.huskextremists1.o2>
+<eventtext.huskextremists1.o1.c1>"Oh, so you're one of the cowards who pretend to be on the way to Ascension, but are too afraid to take a proper dive to the deep end? Perhaps we need to silence those weak little human thoughts and give you a little push over the edge?"</eventtext.huskextremists1.o1.c1>
+<eventtext.huskextremists1.o3>"The kind that has a post-shotgun to the face experiment prepared for you."</eventtext.huskextremists1.o3>
+
+<entityname.rifle>Rifle</entityname.rifle>
+<entitydescription.rifle>A .30 caliber rifle with a manual reload mechanism. Slow rate of fire for unskilled users.</entitydescription.rifle>
+<entityname.riflebullet>Rifle Bullet</entityname.riflebullet>
+<entitydescription.riflebullet>A .30 rifle bullet.</entitydescription.riflebullet>
+<entityname.hmg>HMG</entityname.hmg>
+<entitydescription.hmg>Heavy Machine Gun, capable of dealing a lot of damage, provided the user is skilled enough to handle the recoil.</entitydescription.hmg>
+<entityname.hmgmagazine>HMG Magazine</entityname.hmgmagazine>
+<entitydescription.hmgmagazine>A magazine of 5.56mm rounds for the HMG</entitydescription.hmgmagazine>
+<entityname.hmground>HMG Round</entityname.hmground>
+<entitydescription.hmground>Round of a Heavy Machine Gun</entitydescription.hmground>
+<entityname.harpooncoilrifle>Harpoon Coil-Rifle</entityname.harpooncoilrifle>
+<entitydescription.harpooncoilrifle>An advanced harpoon gun, powered by an energy source to launch harpoons at high velocities.</entitydescription.harpooncoilrifle>
+
+<entityname.machinepistol>Machine Pistol</entityname.machinepistol>
+<entitydescription.machinepistol>A high rate of fire automatic weapon, using .45 (SMG) caliber magazines. Hard to aim.</entitydescription.machinepistol>
+
+<outpostmissions>Outpost missions</outpostmissions>
+
 </infotexts>
