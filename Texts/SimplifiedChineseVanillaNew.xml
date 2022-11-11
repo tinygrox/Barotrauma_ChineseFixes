@@ -6,254 +6,254 @@
 
     <!-- Modified values after September 5 (Hoist the Sails update) -->
 
-    <afflictiondescription.hallucinating>The things you hear and see appear so real! But are they?</afflictiondescription.hallucinating>
+    <afflictiondescription.hallucinating>你所听到的和看到的一切都是那么的真实！但那真的是真实存在的吗？</afflictiondescription.hallucinating>
 
-    <tutorial.basic>Basics</tutorial.basic>
-    <tutorial.roles>Roles</tutorial.roles>
+    <tutorial.basic>基础</tutorial.basic>
+    <tutorial.roles>职业</tutorial.roles>
 
-    <tutorial.skiptotutorial>Skip to tutorial.</tutorial.skiptotutorial>
-    <tutorial.roles.message.2_player2>“Yes.” Skip to tutorial.”</tutorial.roles.message.2_player2>
+    <tutorial.skiptotutorial>跳至教程开始。</tutorial.skiptotutorial>
+    <tutorial.roles.message.2_player2>“是。” 跳过至教程开始。”</tutorial.roles.message.2_player2>
 
-    <tutorial.basics.looking>Use the cursor to control the direction your character is facing.\nPress [InputType.Use] to close this instruction.</tutorial.basics.looking>
-    <tutorial.basics.repair>Devices sometimes break down. They can be repaired with the correct repair tool.\nPress [InputType.Use] to close this instruction.</tutorial.basics.repair>
-    <tutorial.basics.insertweldingfuel>Drag a Welding Fuel Tank onto the Welding Tool to insert it.\nAlternatively press the hotbar number of the Welding Fuel Tank to insert it, while you have the tool equipped.</tutorial.basics.insertweldingfuel>
-    <tutorial.basics.divingsuits>Diving Suits allow you to swim underwater.\n\nEquip a Diving Suit by double clicking it, or dragging it on the highlighted slot.</tutorial.basics.divingsuits>
-    <tutorial.basics.righttool>Pumps are a mechanical device. Mechanical devices require a Wrench to repair.\nFind a Wrench.</tutorial.basics.righttool>
-    <tutorial.basics.wrenchrepair>Equip the wrench to be able to repair the pump.</tutorial.basics.wrenchrepair>
+    <tutorial.basics.looking>使用鼠标控制角色面朝方向。\n按[InputType.Use]关闭此提示。</tutorial.basics.looking>
+    <tutorial.basics.repair>设备有时会宕机。可以使用对应维修工具修复它们。\n按[InputType.Use]关闭此提示。</tutorial.basics.repair>
+    <tutorial.basics.insertweldingfuel>将焊接燃料罐拖拽到焊枪上以使用。\n当你装备了此工具时，也可按下焊接燃料罐的快捷键来快速插入到焊枪中。</tutorial.basics.insertweldingfuel>
+    <tutorial.basics.divingsuits>潜水服能让你能在水下自由移动。\n\n双击装备, 或者用鼠标拖动到右下角高亮的装备栏位。</tutorial.basics.divingsuits>
+    <tutorial.basics.righttool>水泵是机械设备。维修机械设备的工具是扳手。\n获得一个扳手。</tutorial.basics.righttool>
+    <tutorial.basics.wrenchrepair>装备扳手修理好水泵。</tutorial.basics.wrenchrepair>
 
-    <tutorial.roles.popup.navigationterminal_steering>Undock the drone, using the Shuttle Navigation Terminal.</tutorial.roles.popup.navigationterminal_steering>
-    <tutorial.roles.popup.navigationterminal_steering2>Practice steering the drone. Re-dock the drone when ready.\nTo dock, align the docking hatches (marked in green). Press Dock once the button flashes.</tutorial.roles.popup.navigationterminal_steering2>
-    <tutorial.roles.security.objective.gearup4>Load the gun</tutorial.roles.security.objective.gearup4>
-    <tutorial.roles.medicalinstructor.patients2>“There are several patients here, each with a different affliction. To find out what ails them, I will give you this Health Scanner HUD. It will display what their issue is, before you see it by yourself up close.”</tutorial.roles.medicalinstructor.patients2>
-    <tutorial.roles.medicalinstructor.patients3>“When treating a patient, the health interface will suggest treatments on the bottom. Simply clicking on a suggestion will apply it, but you can also manually drag a medicine to the wound. Cabinets should be stocked with whatever you need.”</tutorial.roles.medicalinstructor.patients3>
+    <tutorial.roles.popup.navigationterminal_steering>操作穿梭艇导航终端，让无人机离港。</tutorial.roles.popup.navigationterminal_steering>
+    <tutorial.roles.popup.navigationterminal_steering2>熟悉无人机的驾驶操作。 当你觉得自己可以了就让无人机重新停靠在船上。\n停靠时， 要对准对接舱口(绿色标记)。当停靠按钮闪烁时按下它。</tutorial.roles.popup.navigationterminal_steering2>
+    <tutorial.roles.security.objective.gearup4>装载弹药</tutorial.roles.security.objective.gearup4>
+    <tutorial.roles.medicalinstructor.patients2>“这里有几个病人，每个人的症状都不同。 要找出他们的病因，先拿着这个健康扫描仪。这玩意儿可以让你不用很靠近就能看到他们的症状和病因。”</tutorial.roles.medicalinstructor.patients2>
+    <tutorial.roles.medicalinstructor.patients3>“给人治病时，健康界面的下面会显示一堆治疗建议。 点击任意一个就会马上应用治疗药物，你也可以手动拖拽药品到伤口上面。 橱柜里应该包含了所有你所需要的东西。”</tutorial.roles.medicalinstructor.patients3>
 
-    <tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1>
-    <tutorial.roles.popup.medfabricator1>Find Morphine and Stabilozine.</tutorial.roles.popup.medfabricator1>
-    <tutorial.roles.popup.engineer_wiring3>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring3>
-    <tutorial.roles.popup.engineer_wiring5>Attach the wire to the POWER connection.</tutorial.roles.popup.engineer_wiring5>
-    <tutorial.roles.engineer.objective.rewire3>Wire the Junction Box's POWER output</tutorial.roles.engineer.objective.rewire3>
-    <tutorial.roles.engineer.objective.rewire4>Connect the wire to the lamp's POWER input</tutorial.roles.engineer.objective.rewire4>
-    <tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.healthui>
-    <tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the Naloxone on me. Remember, [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.medfabricator3>
-    <entitydescription.magnesium>Used in the manufacture of explosives and medical compounds.</entitydescription.magnesium>
-    <entitydescription.lithium>Most commonly used in the manufacture of batteries and antipsychotic drugs. Reacts violently when in contact with water.</entitydescription.lithium>
+    <!-- <tutorial.roles.popup.healthui1>Open the Doctor's health interface with [InputType.Health]</tutorial.roles.popup.healthui1> -->
+    <!-- <tutorial.roles.popup.medfabricator1>Find Morphine and Stabilozine.</tutorial.roles.popup.medfabricator1> -->
+    <tutorial.roles.popup.engineer_wiring3>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring3>
+    <tutorial.roles.popup.engineer_wiring5>将电线连接至 能源。</tutorial.roles.popup.engineer_wiring5>
+    <tutorial.roles.engineer.objective.rewire3>连上接线盒的 能源</tutorial.roles.engineer.objective.rewire3>
+    <tutorial.roles.engineer.objective.rewire4>连上灯的 能源</tutorial.roles.engineer.objective.rewire4>
+    <!-- <tutorial.roles.medicalinstructor.healthui>“Okay, bring it here. Just highlight me with your mouse and press [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.healthui> -->
+    <!-- <tutorial.roles.medicalinstructor.medfabricator3>“Now be a good assistant and use the Naloxone on me. Remember, [InputType.Health] to enter my Health interface.”</tutorial.roles.medicalinstructor.medfabricator3> -->
+    <entitydescription.magnesium>用于制作炸药与医用化合物。</entitydescription.magnesium>
+    <entitydescription.lithium>最常用于制造电池和抗精神病药物。与水接触时反应剧烈。</entitydescription.lithium>
 
-    <afflictiondescription.burn>The area is blistered and red, and skin is already beginning to peel away in sheets.</afflictiondescription.burn>
+    <afflictiondescription.burn>创伤区域起泡发红，部分皮肤开始剥落脱皮。</afflictiondescription.burn>
 
-    <afflictiondescription.spaceherpes>They look as ugly on the outside as they are on the inside. Karma strikes back?</afflictiondescription.spaceherpes>
+    <afflictiondescription.spaceherpes>病人的脸上满是恶心的脓包，就跟其内在一样。可能是因为恶有恶报？</afflictiondescription.spaceherpes>
 
-    <entitydescription.riotshield>Blocks projectiles and prevents creatures or people from passing.</entitydescription.riotshield>
+    <!-- <entitydescription.riotshield>Blocks projectiles and prevents creatures or people from passing.</entitydescription.riotshield> -->
 
-    <afflictionname.evasivemaneuvers>Emergency Maneuvers</afflictionname.evasivemaneuvers>
-    <afflictionname.bedsidemanner>Vitamin Supplements</afflictionname.bedsidemanner>
-    <afflictiondescription.bedsidemanner>The subject is feeling very healthy.</afflictiondescription.bedsidemanner>
+    <afflictionname.evasivemaneuvers>紧急避险（机动规避）</afflictionname.evasivemaneuvers>
+    <afflictionname.bedsidemanner>维生素补剂（治疗态度）</afflictionname.bedsidemanner>
+    <afflictiondescription.bedsidemanner>该角色感觉自己的身体非常健康。</afflictiondescription.bedsidemanner>
 
-    <talentdescription.beatcop>Doubled against monsters inside the submarine.</talentdescription.beatcop>
-    <talentdescription.commando>When firing a ranged weapon while crouched, you gain [spreadreduction]% reduction to spread and inflict [powerincrease]% more damage.</talentdescription.commando>
-    <talentdescription.geneharvester>When looting a monster, there is a [probability]% chance of finding a genetic material on it.</talentdescription.geneharvester>
-    <talentdescription.vitaminsupplements>Whenever you apply medicine to a friendly character, they gain [healthboost]% health until the end of the mission.</talentdescription.vitaminsupplements>
-    <talentdescription.nuclearoption>You can craft much cheaper ‖color:gui.orange‖Nuclear Shells‖end‖ and ‖color:gui.orange‖Nuclear Depth Charges‖end‖, using non-spent ‖color:gui.orange‖Fuel Rods‖end‖.</talentdescription.nuclearoption>
-    <talentdescription.pyromaniac>Inflict [burnincrease]% more burning damage. Doubled when fighting against ‖color:gui.orange‖Ballast Flora‖end‖.</talentdescription.pyromaniac>
-    <talentdescription.drunkensailor>Gain [stunresistance]% stun resistance while drunk and immunity to the negative effects of drunkenness.</talentdescription.drunkensailor>
-    <talentdescription.inspiringtunes>Nearby allies to gain a bonus of [skillamount] to all Skills for [duration] seconds when honking a Bike Horn.</talentdescription.inspiringtunes>
-    <talentdescription.psychoclown>Clown Power allows you to attack faster with melee weapons based on how much Psychosis you have, up to [maxattackspeed]%.</talentdescription.psychoclown>
-    <talentdescription.extrapowertoharpoons>Gain an additional [value]% attack power with ‖color:gui.orange‖harpoons‖end‖.</talentdescription.extrapowertoharpoons>
-    <talentdescription.crafthighqualityrepairtools>‖color:gui.orange‖Welding tools‖end‖ and ‖color:gui.orange‖Plasma Cutters‖end‖ you fabricate are [qualitybonus] higher quality.</talentdescription.crafthighqualityrepairtools>
-    <talentdescription.crafthighqualityweapons>‖color:gui.orange‖Weapons‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityweapons>
-    <talentdescription.crafthighqualitybatteries>‖color:gui.orange‖Battery Cells‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitybatteries>
-    <talentdescription.crafthighqualityfuelrods>‖color:gui.orange‖Fuel Rods‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityfuelrods>
-    <talentdescription.crafthighqualitytools>‖color:gui.orange‖Tools‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytools>
-    <talentdescription.crafthighqualitytanks>‖color:gui.orange‖Welding Fuel‖end‖ and ‖color:gui.orange‖Oxygen Tanks‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualitytanks>
-    <talentdescription.crafthighqualityexplosives>‖color:gui.orange‖Explosives‖end‖ you fabricate are of [qualitybonus] higher quality.</talentdescription.crafthighqualityexplosives>
+    <talentdescription.beatcop>在潜艇内部时，对怪物的伤害加倍。</talentdescription.beatcop>
+    <talentdescription.commando>当蹲下使用远程武器时, 获得[spreadreduction]%扩散减少并能造成[powerincrease]%的额外伤害。</talentdescription.commando>
+    <!-- <talentdescription.geneharvester>When looting a monster, there is a [probability]% chance of finding a genetic material on it.</talentdescription.geneharvester> -->
+    <talentdescription.vitaminsupplements>当你对一个友方角色使用药物时，他们获得[healthboost]%的生命值加成，直到任务完成。</talentdescription.vitaminsupplements>
+    <talentdescription.nuclearoption>你可以用未使用过的‖color:gui.orange‖燃料棒‖end‖制造‖color:gui.orange‖核弹‖end‖和‖color:gui.orange‖核能深水炸弹‖end‖。</talentdescription.nuclearoption>
+    <talentdescription.pyromaniac>燃烧伤害提升[burnincrease]%。 对‖color:gui.orange‖压载植物群‖end‖造成双倍伤害。</talentdescription.pyromaniac>
+    <talentdescription.drunkensailor>醉酒时获得[stunresistance]%的眩晕抗性并免疫醉酒负面效果。</talentdescription.drunkensailor>
+    <talentdescription.inspiringtunes>吹响小丑喇叭时，附近队友全技能+[skillamount]，持续[duration]秒。</talentdescription.inspiringtunes>
+    <talentdescription.psychoclown>基于你的精神状态，小丑之力给予你近战攻速提升, 上限为[maxattackspeed]%.</talentdescription.psychoclown>
+    <!-- <talentdescription.extrapowertoharpoons>Gain an additional [value]% attack power with ‖color:gui.orange‖harpoons‖end‖.</talentdescription.extrapowertoharpoons> -->
+    <talentdescription.crafthighqualityrepairtools>你制造的‖color:gui.orange‖焊枪‖end‖和‖color:gui.orange‖等离子切割机‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualityrepairtools>
+    <talentdescription.crafthighqualityweapons>你制造的‖color:gui.orange‖武器‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualityweapons>
+    <talentdescription.crafthighqualitybatteries>你制造的‖color:gui.orange‖电池‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualitybatteries>
+    <talentdescription.crafthighqualityfuelrods>你制造的‖color:gui.orange‖燃料棒‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualityfuelrods>
+    <talentdescription.crafthighqualitytools>你制造的‖color:gui.orange‖工具‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualitytools>
+    <talentdescription.crafthighqualitytanks>你制造的‖color:gui.orange‖焊接燃料罐‖end‖与‖color:gui.orange‖氧气罐‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualitytanks>
+    <talentdescription.crafthighqualityexplosives>你制造的‖color:gui.orange‖炸药‖end‖质量提升[qualitybonus]。</talentdescription.crafthighqualityexplosives>
 
-    <entityname.coalitioncommendation>Commendation</entityname.coalitioncommendation>
-    <entitydescription.coalitioncommendation>A small medal fashioned out of copper, originally created by the Coalition. When applied to another crewmember's body, it instantly bestows them with a sum of experience.</entitydescription.coalitioncommendation>
+    <entityname.coalitioncommendation>联盟奖章</entityname.coalitioncommendation>
+    <entitydescription.coalitioncommendation>一枚由铜制成的小奖章，最初由联盟制造。当应用于另一名队友时，赋予额外经验。</entitydescription.coalitioncommendation>
 
-    <entityname.coalitionmedal>Medal</entityname.coalitionmedal>
-    <entitydescription.coalitionmedal>A small medal fashioned out of bronze, originally created by the Coalition. When applied to another crewmember's body, it instantly bestows them with a large sum of experience.</entitydescription.coalitionmedal>
+    <entityname.coalitionmedal>联盟勋章</entityname.coalitionmedal>
+    <entitydescription.coalitionmedal>一枚由青铜制成的小奖章，最初由联盟制造。当应用于另一名队友时，赋予大量的额外经验。</entitydescription.coalitionmedal>
 
-    <entityname.huskeggs>Calyx Extract</entityname.huskeggs>
-    <entitydescription.huskeggs>The Velonaceps Calyx or 'husk parasite' likes to bind itself to calcium, regardless of whether it's inside human bones or neatly packed inside a syringe.</entitydescription.huskeggs>
+    <!-- <entityname.huskeggs>Calyx Extract</entityname.huskeggs> -->
+    <!-- <entitydescription.huskeggs>The Velonaceps Calyx or 'husk parasite' likes to bind itself to calcium, regardless of whether it's inside human bones or neatly packed inside a syringe.</entitydescription.huskeggs> -->
 
     <!-- New values after September 5 (Hoist the Sails update) -->
 
-    <afflictiondescription.internaldamage.low>No injuries are visible externally, but the sweating and aches suggest something is amiss.</afflictiondescription.internaldamage.low>
-    <afflictiondescription.blunttrauma.low>A light bruise shows where something hit, but it doesn’t look like anything is broken.</afflictiondescription.blunttrauma.low>
-    <afflictiondescription.lacerations.low>The cuts look worse than they really are.</afflictiondescription.lacerations.low>
-    <afflictiondescription.bitewounds.low>Something tried to take a big chomp but luckily only caught a nibble. It will leave a scar though.</afflictiondescription.bitewounds.low>
-    <afflictiondescription.gunshotwound.low>The bullet missed all the important bits and went straight through, but the pain is real and so is the risk of infection.</afflictiondescription.gunshotwound.low>
-    <afflictiondescription.organdamage.self>You feel a sharp pain in your abdomen. There are no wounds to be seen.</afflictiondescription.organdamage.self>
-    <afflictiondescription.explosiondamage.low>The area of skin appears slightly bruised.</afflictiondescription.explosiondamage.low>
-    <afflictiondescription.bleeding.low>Blood is slowly dripping out from the wound.</afflictiondescription.bleeding.low>
-    <afflictiondescription.bleeding.high>Blood is gushing out at an alarming rate.</afflictiondescription.bleeding.high>
-    <afflictiondescription.burn.low>The area is red and dry.</afflictiondescription.burn.low>
-    <afflictiondescription.burn.high>The skin is white and partially charred; this looks severe.</afflictiondescription.burn.high>
-    <afflictionname.acidburn>Acid Burn</afflictionname.acidburn>
-    <afflictiondescription.acidburn.low>The skin is irritated and raw.</afflictiondescription.acidburn.low>
-    <afflictiondescription.acidburn>Parts of the flesh are stripped away by acid; a mixture of red and white mark the edges.</afflictiondescription.acidburn>
-    <afflictiondescription.acidburn.high>The flesh has deformed and essentially melted away due to high amounts of acid.</afflictiondescription.acidburn.high>
-    <afflictiondescription.oxygenlow.low>Restless anxiety and headaches hint at low blood oxygen levels.</afflictiondescription.oxygenlow.low>
-    <afflictiondescription.bloodloss.low.self>You feel cold and fatigued.</afflictiondescription.bloodloss.low.self>
-    <afflictiondescription.bloodloss.high.self>You feel cold and dizzy, probably not far from passing out.</afflictiondescription.bloodloss.high.self>
-    <afflictiondescription.bloodloss.low>The patient's skin feels cold and moist.</afflictiondescription.bloodloss.low>
-    <afflictiondescription.stun.self>You are temporarily rendered unable to move.</afflictiondescription.stun.self>
-    <afflictiondescription.concussion.low>The patient seems slightly disoriented.</afflictiondescription.concussion.low>
-    <afflictiondescription.concussion.low.self>Something hit you so hard your eyes are still shaking.</afflictiondescription.concussion.low.self>
-    <afflictiondescription.concussion.high.self>A massive headache, your ears are ringing and your eyes refuse to focus. It takes a lot of effort to stand upright.</afflictiondescription.concussion.high.self>
-    <afflictiondescription.huskinfection.dormant.self>There’s an itch in your throat; the source seems to move around.</afflictiondescription.huskinfection.dormant.self>
-    <afflictiondescription.huskinfection.transition.self>Something growing in your throat prevents you from talking; it’s freaking you out.</afflictiondescription.huskinfection.transition.self>
-    <afflictiondescription.huskinfection.active.self>Deep down you know you should be worried about the thing chittering and moving about in your mouth. Yet, you feel oddly at peace.</afflictiondescription.huskinfection.active.self>
-    <afflictiondescription.huskinfection.dormant.other>A faint clicking noise can be heard occasionally from within the patient.</afflictiondescription.huskinfection.dormant.other>
-    <afflictiondescription.huskinfection.transition.other>The patient is eerily silent, save for occasional clicking sounds apparently emanating from deep within the throat.</afflictiondescription.huskinfection.transition.other>
-    <afflictiondescription.huskinfection.active.other>Something dark and unpleasant moves in the mouth. They are rendered completely mute.</afflictiondescription.huskinfection.active.other>
-    <afflictiondescription.huskinfection.final>Violent seizures signal the emergence of the husk.</afflictiondescription.huskinfection.final>
-    <afflictiondescription.spaceherpes.self>You feel as ugly on the outside as they said you were on the inside. Karma strikes back?</afflictiondescription.spaceherpes.self>
-    <afflictiondescription.invertcontrols.self>You seem to have two left feet, and your brain disagrees with both. It’s like trying to walk mirrored.</afflictiondescription.invertcontrols.self>
-    <afflictiondescription.psychosis.low>The patient insists they saw a spider the other day, but seem otherwise healthy.</afflictiondescription.psychosis.low>
-    <afflictiondescription.drunk.self>After all… why not? Why shouldn’t you have another drink?</afflictiondescription.drunk.self>
-    <afflictiondescription.drunk.lethal.self>Is it time to lie down? Oh the infinite bliss of drowning out your sorrow…</afflictiondescription.drunk.lethal.self>
-    <afflictiondescription.drunk.low>This crewmate is in high spirits, perhaps a bit too high to operate complex machinery.</afflictiondescription.drunk.low>
-    <afflictiondescription.drunk.lethal>This crewmate has departed this world mentally, with a grin on their face. You fear the crewmate's life functions will soon depart as well.</afflictiondescription.drunk.lethal>
-    <afflictiondescription.opiatewithdrawal.low>Teary-eyed, sweaty and fidgety, the craving is growing.</afflictiondescription.opiatewithdrawal.low>
-    <afflictiondescription.opiateoverdose.self>You feel disoriented and struggle to breathe. The world is very cold, even colder than usual.</afflictiondescription.opiateoverdose.self>
-    <afflictiondescription.opiateaddiction.self>You’re feeling good… so long as the next fix isn’t too far.</afflictiondescription.opiateaddiction.self>
-    <afflictiondescription.radiationsickness.low.self>You feel feverish. Even your skin feels as though it’s on fire.</afflictiondescription.radiationsickness.low.self>
-    <afflictiondescription.radiationsickness.high.self>You’ve never felt nausea like this, and your body aches all over.</afflictiondescription.radiationsickness.high.self>
-    <afflictiondescription.radiationsickness.high>The patient can’t stop vomiting, and they’re showing ulcers and various soft tissue symptoms.</afflictiondescription.radiationsickness.high>
-    <afflictiondescription.morbusinepoisoning.low.self>You have some trouble breathing.</afflictiondescription.morbusinepoisoning.low.self>
-    <afflictiondescription.morbusinepoisoning.high.self>You’re gasping for air, but to no avail.</afflictiondescription.morbusinepoisoning.high.self>
-    <afflictiondescription.morbusinepoisoning.low>The patient’s breathing seems irregular.</afflictiondescription.morbusinepoisoning.low>
-    <afflictiondescription.sufforinpoisoning.medium.self>Your vision seems to be getting blurry and your health is deteriorating.</afflictiondescription.sufforinpoisoning.medium.self>
-    <afflictiondescription.sufforinpoisoning.high.self>You can barely see. The neurotoxin reached its late stages.</afflictiondescription.sufforinpoisoning.high.self>
-    <afflictiondescription.sufforinpoisoning.low>The patient’s symptoms are barely detectable, but may indicate poisoning.</afflictiondescription.sufforinpoisoning.low>
-    <afflictiondescription.sufforinpoisoning.high>The patient has been poisoned. Unless an antidote is found, the patient will suffer delusions, rapidly followed by death.</afflictiondescription.sufforinpoisoning.high>
-    <afflictiondescription.deliriuminepoisoning.high.self>You see and hear things that aren't there. They're the effects of Deliriumine poisoning.</afflictiondescription.deliriuminepoisoning.high.self>
-    <afflictiondescription.deliriuminepoisoning.high>The patient is manic, their eyes darting around wildly. They're wondering how you can be so calm, when everything around you is on fire…</afflictiondescription.deliriuminepoisoning.high>
-    <afflictiondescription.cyanidepoisoning.medium.self>You feel very very wrong. Have you been poisoned?</afflictiondescription.cyanidepoisoning.medium.self>
-    <afflictiondescription.cyanidepoisoning.high.self>You regret not having invested in antidotes for Cyanide poisoning. Now you die.</afflictiondescription.cyanidepoisoning.high.self>
-    <afflictiondescription.cyanidepoisoning.low>Scanning the patient reveals Cyanide poisoning. Unless administered an antidote, this will be fatal.</afflictiondescription.cyanidepoisoning.low>
-    <afflictiondescription.cyanidepoisoning.high>The patient's mouth is foaming and they are rendered unable to move. You could probably steal their valuables and get away with it…</afflictiondescription.cyanidepoisoning.high>
-    <afflictiondescription.paralysis.low.self>You’re having trouble moving your limbs</afflictiondescription.paralysis.low.self>
-    <afflictiondescription.paralysis.high.self>You can’t move a muscle.</afflictiondescription.paralysis.high.self>
-    <afflictiondescription.paralysis.high>The patient is completely paralyzed and unable to move.</afflictiondescription.paralysis.high>
-    <afflictiondescription.nausea.low>Feeling queasy, but nothing a rest wouldn't fix.</afflictiondescription.nausea.low>
-    <afflictiondescription.watchersgaze.self>You can’t shake it. It will always be there, staring. Would tearing out your own eyes make it go away?</afflictiondescription.watchersgaze.self>
-    <afflictiondescription.hallucinating.low>There's something strange going on with your senses.</afflictiondescription.hallucinating.low>
-    <afflictiondescription.reaperstax.self>You’re plagued by a sense of déjà vu, and it’s too real. Maybe you should be glad you can only remember your death, and not your birth.</afflictiondescription.reaperstax.self>
+    <afflictiondescription.internaldamage.low>没有明显的外部伤痕, 但出汗和疼痛的症状表明内部肯定哪里出了问题.</afflictiondescription.internaldamage.low>
+    <afflictiondescription.blunttrauma.low>轻微的淤青表明肯定撞到了什么地方，但看起来还好，起码没有地方断掉了。</afflictiondescription.blunttrauma.low>
+    <afflictiondescription.lacerations.low>这个伤口看起来好像很严重，其实不然。</afflictiondescription.lacerations.low>
+    <afflictiondescription.bitewounds.low>有东西想要大口大口吃你，幸运的是只咬了你一小口。但还是会留下疤痕。</afflictiondescription.bitewounds.low>
+    <afflictiondescription.gunshotwound.low>子弹避开了所有重要的器官，直接穿过了身体，但痛也是真的痛，还是有可能感染。</afflictiondescription.gunshotwound.low>
+    <afflictiondescription.organdamage.self>你的腹部疼痛剧烈。外部看不到任何伤口。</afflictiondescription.organdamage.self>
+    <afflictiondescription.explosiondamage.low>皮肤轻微擦伤。</afflictiondescription.explosiondamage.low>
+    <afflictiondescription.bleeding.low>血液慢慢地从伤口滴落出来。</afflictiondescription.bleeding.low>
+    <afflictiondescription.bleeding.high>血液正以惊人的速度喷涌出来。</afflictiondescription.bleeding.high>
+    <afflictiondescription.burn.low>创伤处干燥红肿。</afflictiondescription.burn.low>
+    <afflictiondescription.burn.high>皮肤创面蜡白碳化；看起来非常严重。</afflictiondescription.burn.high>
+    <afflictionname.acidburn>酸性灼伤</afflictionname.acidburn>
+    <afflictiondescription.acidburn.low>皮肤辣辣的，伴随着刺痛。</afflictiondescription.acidburn.low>
+    <afflictiondescription.acidburn>部分皮肤被酸腐蚀脱落； 创面基底呈红白相间。</afflictiondescription.acidburn>
+    <afflictiondescription.acidburn.high>由于酸浓度过高，皮肤下组织已经变形并且被腐蚀掉。</afflictiondescription.acidburn.high>
+    <afflictiondescription.oxygenlow.low>焦虑和头痛表明了低氧状态的症状</afflictiondescription.oxygenlow.low>
+    <afflictiondescription.bloodloss.low.self>你感觉有点冷又有点累。</afflictiondescription.bloodloss.low.self>
+    <afflictiondescription.bloodloss.high.self>你感到又晕又冷，可能就要晕倒了。</afflictiondescription.bloodloss.high.self>
+    <afflictiondescription.bloodloss.low>患者皮肤摸起来冰凉湿润。</afflictiondescription.bloodloss.low>
+    <afflictiondescription.stun.self>暂时无法移动。</afflictiondescription.stun.self>
+    <afflictiondescription.concussion.low>患者看起来稍微失去了方向感。</afflictiondescription.concussion.low>
+    <afflictiondescription.concussion.low.self>你被什么东西狠狠的打中了，你的双眼颤动着。</afflictiondescription.concussion.low.self>
+    <afflictiondescription.concussion.high.self>头痛非常，耳鸣，你的双眼无法聚焦。站起来非常艰难。</afflictiondescription.concussion.high.self>
+    <afflictiondescription.huskinfection.dormant.self>你的喉咙发痒; 里面好像有什么东西在动。</afflictiondescription.huskinfection.dormant.self>
+    <afflictiondescription.huskinfection.transition.self>喉咙里的什么东西让你无法发声；你非常害怕。</afflictiondescription.huskinfection.transition.self>
+    <afflictiondescription.huskinfection.active.self>在内心深处，你知道你应该要担心你嘴里在动来动去的东西。然而，你却感到异常的平静。</afflictiondescription.huskinfection.active.self>
+    <afflictiondescription.huskinfection.dormant.other>患者体内偶尔会听到微弱的咔嗒声。</afflictiondescription.huskinfection.dormant.other>
+    <afflictiondescription.huskinfection.transition.other>除了偶尔从喉咙深处发出的咔嗒声外，患者异常安静。</afflictiondescription.huskinfection.transition.other>
+    <afflictiondescription.huskinfection.active.other>嘴里有一种黑暗的、令人不快的生物在动来动去。这导致了他们完全不能发声。</afflictiondescription.huskinfection.active.other>
+    <afflictiondescription.huskinfection.final>剧烈的癫痫发作预示着画皮生物的转变。</afflictiondescription.huskinfection.final>
+    <afflictiondescription.spaceherpes.self>你变得和他们描述的一样丑。恶有恶报？</afflictiondescription.spaceherpes.self>
+    <afflictiondescription.invertcontrols.self>你似乎有两只左脚，你的大脑控制不了任何一只。这就像在看着镜子走路。</afflictiondescription.invertcontrols.self>
+    <afflictiondescription.psychosis.low>患者一直声称他们前几天看到了一只蜘蛛，除此之外无任何异常。</afflictiondescription.psychosis.low>
+    <afflictiondescription.drunk.self>毕竟…为什么不呢？你为什么不再喝一杯？</afflictiondescription.drunk.self>
+    <afflictiondescription.drunk.lethal.self>该躺下了吗？哦，极大的快乐盖过了你的悲伤…</afflictiondescription.drunk.lethal.self>
+    <afflictiondescription.drunk.low>这艘船员情绪高涨，可能太高涨了，无法操作复杂的机械。</afflictiondescription.drunk.low>
+    <afflictiondescription.drunk.lethal>这名船员带着笑容在精神上离开了这个世界。你担心船员的基本行动能力也会很快离开。</afflictiondescription.drunk.lethal>
+    <afflictiondescription.opiatewithdrawal.low>你双眼充满泪水，身体大汗不止，心情烦躁不安，这种渴求感越来越强烈。</afflictiondescription.opiatewithdrawal.low>
+    <afflictiondescription.opiateoverdose.self>你感到迷失了方向，难以呼吸。周围很冷，甚至比平常更冷。</afflictiondescription.opiateoverdose.self>
+    <afflictiondescription.opiateaddiction.self>你感觉很好……只要下一次戒断反应不是马上来到的话。</afflictiondescription.opiateaddiction.self>
+    <afflictiondescription.radiationsickness.low.self>你感到身上很烫。甚至你的皮肤都觉得着火了。</afflictiondescription.radiationsickness.low.self>
+    <afflictiondescription.radiationsickness.high.self>你从来没有感到过这样的恶心，全身酸痛。</afflictiondescription.radiationsickness.high.self>
+    <afflictiondescription.radiationsickness.high>患者无法停止呕吐，他们表现出溃疡和各种软组织症状。</afflictiondescription.radiationsickness.high>
+    <afflictiondescription.morbusinepoisoning.low.self>你呼吸困难。</afflictiondescription.morbusinepoisoning.low.self>
+    <afflictiondescription.morbusinepoisoning.high.self>你大口喘气，但那什么用都没有。</afflictiondescription.morbusinepoisoning.high.self>
+    <afflictiondescription.morbusinepoisoning.low>病人的呼吸似乎不规律。</afflictiondescription.morbusinepoisoning.low>
+    <afflictiondescription.sufforinpoisoning.medium.self>你的视力似乎越来越模糊，健康状况也在恶化。</afflictiondescription.sufforinpoisoning.medium.self>
+    <afflictiondescription.sufforinpoisoning.high.self>你几乎什么都看不见。神经毒素达到晚期。</afflictiondescription.sufforinpoisoning.high.self>
+    <afflictiondescription.sufforinpoisoning.low>患者的症状几乎无法察觉，但可能表明中毒。</afflictiondescription.sufforinpoisoning.low>
+    <afflictiondescription.sufforinpoisoning.high>病人中毒了。除非找到解药，否则患者会产生幻觉，很快就会死亡。</afflictiondescription.sufforinpoisoning.high>
+    <afflictiondescription.deliriuminepoisoning.high.self>你可以看到和听到不存在的东西。这是中谵妄毒剂的后果。</afflictiondescription.deliriuminepoisoning.high.self>
+    <afflictiondescription.deliriuminepoisoning.high>病人非常躁动不安，他们的眼睛不停疯狂地扫来扫去。他们想知道，周围明明已成火海，你怎么能如此平静…</afflictiondescription.deliriuminepoisoning.high>
+    <afflictiondescription.cyanidepoisoning.medium.self>你感到非常非常不对劲，是中毒了吗？</afflictiondescription.cyanidepoisoning.medium.self>
+    <afflictiondescription.cyanidepoisoning.high.self>你后悔没有在解氰化物的方面投入资金。现在你只能等死了。</afflictiondescription.cyanidepoisoning.high.self>
+    <afflictiondescription.cyanidepoisoning.low>扫描患者发现氰化物中毒。除非服用解毒剂，否则这将是致命的。</afflictiondescription.cyanidepoisoning.low>
+    <afflictiondescription.cyanidepoisoning.high>患者的口吐白沫，无法移动。你现在也可以偷了他们的贵重物品然后一走了之…</afflictiondescription.cyanidepoisoning.high>
+    <afflictiondescription.paralysis.low.self>你无法移动你的四肢了</afflictiondescription.paralysis.low.self>
+    <afflictiondescription.paralysis.high.self>你无法动弹</afflictiondescription.paralysis.high.self>
+    <afflictiondescription.paralysis.high>患者完全瘫痪，无法移动。</afflictiondescription.paralysis.high>
+    <afflictiondescription.nausea.low>感觉有点反胃，但没有什么是休息一下治不好的</afflictiondescription.nausea.low>
+    <afflictiondescription.watchersgaze.self>你无法移开视线。它一直在那里，凝视着你。挖出自己的眼睛能让它消失吗？</afflictiondescription.watchersgaze.self>
+    <afflictiondescription.hallucinating.low>你的感官发生了异变。</afflictiondescription.hallucinating.low>
+    <afflictiondescription.reaperstax.self>你被似曾相识的感觉所困扰，这太真实了。也许你应该庆幸你只记得你的死亡，而不是你的出生。</afflictiondescription.reaperstax.self>
 
-    <missiontypedescription.scanalienruins>Install scanners in the alien ruins. Retrieve the data by returning the scanners to the next outpost.</missiontypedescription.scanalienruins>
+    <missiontypedescription.scanalienruins>在外星遗迹上安装扫描器，并从中收集数据。</missiontypedescription.scanalienruins>
 
-    <botspawnmode.normal.tooltip>Adds the specified amount of bots to the crew.</botspawnmode.normal.tooltip>
-    <botspawnmode.fill.tooltip>Adds enough bots to make the total size of the crew equal to the specified value.</botspawnmode.fill.tooltip>
-    <botspawn.campaignnote>In the campaign mode, the bots only spawn when you start the campaign for the first time. New bots need to be hired from the outposts.</botspawn.campaignnote>
+    <botspawnmode.normal.tooltip>给潜艇添加指定数量的机器人队友。</botspawnmode.normal.tooltip>
+    <botspawnmode.fill.tooltip>添加足够的机器人，使船员的总人数等于指定值。</botspawnmode.fill.tooltip>
+    <botspawn.campaignnote>在战役模式中，机器人船员只会在第一次开始游玩时生成。雇佣新的机器人船员请前往前哨站。</botspawn.campaignnote>
 
-    <tutorial.roles.popup.mechanic_divingmask>Equip the diving mask.</tutorial.roles.popup.mechanic_divingmask>
+    <tutorial.roles.popup.mechanic_divingmask>装备潜水面罩。</tutorial.roles.popup.mechanic_divingmask>
     <submarine.classandtier>[class] ([tier])</submarine.classandtier>
-    <ModLoadOrderExplanation>You can change the load order of the mods by rearranging the list. Mods at the top of the list have a higher priority than the ones below them, meaning that if multiple mods override the same content, the one highest on the list takes precedence over the others.</ModLoadOrderExplanation>
-    <ServerMessage.NameChangeFailedCooldownActive>You are not allowed to change your name this often. Please wait [seconds] seconds.</ServerMessage.NameChangeFailedCooldownActive>
-    <eventtext.missionevent_cargo_campaignstart.c1>“We've sold some basic construction materials to the neighbouring outpost, but delivery is on us. A simple transport job; perfect for a new crew like yourselves. What say you?”</eventtext.missionevent_cargo_campaignstart.c1>
+    <ModLoadOrderExplanation>你可以通过更改mod列表来改变mod的加载顺序。靠近列表上方的mod比靠近列表下方的mod的加载优先级要高，即如果存在多个mod覆盖了相同的游戏内容，则只有位于最上方的mod会生效。</ModLoadOrderExplanation>
+    <ServerMessage.NameChangeFailedCooldownActive>改名过于频繁。请等待[seconds]秒.</ServerMessage.NameChangeFailedCooldownActive>
+    <eventtext.missionevent_cargo_campaignstart.c1>“邻近的前哨站已经跟我们下单了一批建筑材料，但要我们送货上门。这是个很简单的运输工作；非常适合像你们这样的新人。你有兴趣吗？”</eventtext.missionevent_cargo_campaignstart.c1>
 
-    <entityname.clowncrate>Clown Crate</entityname.clowncrate>
-    <entitydescription.clowncrate>A crate large enough to fit a prankster inside.</entitydescription.clowncrate>
-    <itemmsggoinside>[[use]] Go inside</itemmsggoinside>
+    <entityname.clowncrate>小丑板条箱</entityname.clowncrate>
+    <entitydescription.clowncrate>一个大得足以装恶作剧者的板条箱。</entitydescription.clowncrate>
+    <itemmsggoinside>[[use]] 进到里面</itemmsggoinside>
 
-    <entityname.heavywrench>Heavy Wrench</entityname.heavywrench>
-    <entitydescription.heavywrench>A large and heavy titanium wrench. Can only be properly swung by very burly mechanics.</entitydescription.heavywrench>
+    <entityname.heavywrench>重型扳手</entityname.heavywrench>
+    <entitydescription.heavywrench>一把又大又重的钛质扳手。只有非常高大威猛的机修工才能随意挥动。</entitydescription.heavywrench>
 
-    <entityname.arcemitter>Arc Emitter</entityname.arcemitter>
-    <entitydescription.arcemitter>A handheld weapon based on electric discharge coil technology. Fires a high-voltage electrical arc.</entitydescription.arcemitter>
+    <entityname.arcemitter>电弧发射器</entityname.arcemitter>
+    <entitydescription.arcemitter>一种基于放电线圈技术的手持式武器。发射高压电弧。</entitydescription.arcemitter>
 
-    <entityname.makeshiftarmor>Makeshift Armor</entityname.makeshiftarmor>
-    <entitydescription.makeshiftarmor>A bulky and unwieldy set of iron plates, fashioned into something that resembles armor.</entitydescription.makeshiftarmor>
-    <entityname.ironhelmet>Iron Helmet</entityname.ironhelmet>
-    <entitydescription.ironhelmet>A very simple and very heavy helmet that covers the entire face.</entitydescription.ironhelmet>
+    <entityname.makeshiftarmor>临时装甲</entityname.makeshiftarmor>
+    <entitydescription.makeshiftarmor>一套笨重的铁板，做成类似盔甲的东西。</entitydescription.makeshiftarmor>
+    <entityname.ironhelmet>铁质头盔</entityname.ironhelmet>
+    <entitydescription.ironhelmet>一个制作非常简易且非常重的头盔，可以覆盖整个脸部。</entitydescription.ironhelmet>
 
-    <entityname.scrapcannon>Scrap Cannon</entityname.scrapcannon>
-    <entitydescription.scrapcannon>A battery-powered makeshift weapon that fires metal shrapnels. Wildly inaccurate, but not too picky when it comes to ammo – any piece of unprocessed iron or steel will do.</entitydescription.scrapcannon>
+    <entityname.scrapcannon>废料加农炮</entityname.scrapcannon>
+    <entitydescription.scrapcannon>一种由电池供电的临时武器，可发射金属弹片。 非常不准确，但在弹药方面并不太挑剔——任何一块未经加工的铁或钢都可以。</entitydescription.scrapcannon>
 
-    <entityname.defensebotspawner>Defense Bot</entityname.defensebotspawner>
-    <entitydescription.defensebotspawner>Build a deadly machine to look after you.</entitydescription.defensebotspawner>
-    <entityname.defensebotammobox>Defense Bot Ammunition Rounds</entityname.defensebotammobox>
-    <entitydescription.defensebotammobox>Ammunition rounds for Defense Bot</entitydescription.defensebotammobox>
-    <character.defensebot>Defense Bot</character.defensebot>
+    <entityname.defensebotspawner>防御机器人</entityname.defensebotspawner>
+    <entitydescription.defensebotspawner>建造一个杀戮机器来辅助你。</entitydescription.defensebotspawner>
+    <entityname.defensebotammobox>防御机器人弹药</entityname.defensebotammobox>
+    <entitydescription.defensebotammobox>防御机器人的弹药</entitydescription.defensebotammobox>
+    <character.defensebot>防御机器人</character.defensebot>
 
-    <entityname.petraptoregg>Petraptor egg</entityname.petraptoregg>
-    <entitydescription.petraptoregg>A slimy, pulsating mudraptor egg. Hard to believe that this one is friendly. Drop it on the floor and feed it with saline, maybe?</entitydescription.petraptoregg>
-    <character.mudraptor_pet>Petraptor</character.mudraptor_pet>
+    <entityname.petraptoregg>迅猛龙宠物蛋</entityname.petraptoregg>
+    <entitydescription.petraptoregg>一个黏糊糊的、跳动的泥偶迅猛龙蛋。 很难相信这个习性是温和的。 把它放在地上，注射生理盐水，希望能行？</entitydescription.petraptoregg>
+    <character.mudraptor_pet>宠物迅猛龙</character.mudraptor_pet>
 
-    <entityname.exosuit>Exosuit</entityname.exosuit>
-    <entitydescription.exosuit>A heavy battery-powered suit originally designed for underwater construction work. Heavily armored and capable of carrying heavy loads.</entitydescription.exosuit>
+    <entityname.exosuit>艇外潜水服</entityname.exosuit>
+    <entitydescription.exosuit>最初设计为在水下施工用的重型潜水服，电池供电。带有重型装甲，且能搬动很多货物。</entitydescription.exosuit>
 
-    <entityname.advancedsyringegun>Advanced Syringe Gun</entityname.advancedsyringegun>
-    <entitydescription.advancedsyringegun>Launches syrettes containing drugs or poisons. Higher capacity for syrettes.</entitydescription.advancedsyringegun>
-    <entityname.europabrew>Europabrew</entityname.europabrew>
-    <entitydescription.europabrew>A reagent that drastically increases the effect of acid burns.</entitydescription.europabrew>
-    <entityname.sulphuricacidsyringe>Sulphuric Acid Syringe</entityname.sulphuricacidsyringe>
-    <entitydescription.sulphuricacidsyringe>A strong acid that causes burns when in contact with skin. Contained in a syringe.</entitydescription.sulphuricacidsyringe>
-    <entityname.chemgrenade>Acid Grenade</entityname.chemgrenade>
-    <entitydescription.chemgrenade>A grenade filled with acid, causing acid burns when it explodes.</entitydescription.chemgrenade>
-    <entityname.40mmchemgrenade>40mm Acid Grenade</entityname.40mmchemgrenade>
-    <entitydescription.40mmchemgrenade>Ammunition for grenade launcher. Filled with acid, causing acid burns when it explodes.</entitydescription.40mmchemgrenade>
+    <entityname.advancedsyringegun>高级注射枪</entityname.advancedsyringegun>
+    <entitydescription.advancedsyringegun>发射毒物或药物。相比注射枪有更高的容量</entitydescription.advancedsyringegun>
+    <entityname.europabrew>木卫二啤酒</entityname.europabrew>
+    <entitydescription.europabrew>一种能显著增加酸灼伤效果的试剂。</entitydescription.europabrew>
+    <entityname.sulphuricacidsyringe>硫酸注射器</entityname.sulphuricacidsyringe>
+    <entitydescription.sulphuricacidsyringe>一种强酸，与皮肤接触时会引起灼伤。装在注射器中。</entitydescription.sulphuricacidsyringe>
+    <entityname.chemgrenade>酸性手榴弹</entityname.chemgrenade>
+    <entitydescription.chemgrenade>装满酸腐性物质的手榴弹，爆炸时会引起酸性灼伤。</entitydescription.chemgrenade>
+    <entityname.40mmchemgrenade>40mm酸性榴弹</entityname.40mmchemgrenade>
+    <entitydescription.40mmchemgrenade>榴弹发射器用弹药。充满酸腐性物质，爆炸时会导致酸性灼伤。</entitydescription.40mmchemgrenade>
 
-    <afflictionname.acidreaction>Acid Vulnerability</afflictionname.acidreaction>
-    <afflictiondescription.acidreaction>Reagent that drastically increases acid burn damage.</afflictiondescription.acidreaction>
+    <afflictionname.acidreaction>酸蚀易受性</afflictionname.acidreaction>
+    <afflictiondescription.acidreaction>能增加酸性灼伤损伤的试剂。</afflictiondescription.acidreaction>
 
-    <entityname.rum>Rum</entityname.rum>
-    <entitydescription.rum>A fine liquor made from raptor bane juice. Some purists insist real rum is made from sugarcane — good luck finding any of that Europa.</entitydescription.rum>
+    <entityname.rum>朗姆酒</entityname.rum>
+    <entitydescription.rum>一种由迅猛龙杀手汁液发酵而成的优质酒。一些纯粹主义者坚持说真正的朗姆酒只能是用甘蔗制成的 — 祝你能在木卫二上找到一瓶。</entitydescription.rum>
 
-    <entityname.handhelditemfinder>Handheld Itemfinder</entityname.handhelditemfinder>
-    <entitydescription.handhelditemfinder>A small handheld device with a screen, capable of easily finding items within the submarine.</entitydescription.handhelditemfinder>
-    <entityname.makeshiftshelf>Makeshift Shelves</entityname.makeshiftshelf>
-    <entitydescription.makeshiftshelf>Crate storage shelves that can be manually installed on a submarine.</entitydescription.makeshiftshelf>
-    <entityname.ceremonialsword>Ceremonial Sword</entityname.ceremonialsword>
-    <entitydescription.ceremonialsword>A sharp sword to commemorate graduating. It takes varied skills to use it to it's highest potential.</entitydescription.ceremonialsword>
+    <entityname.handhelditemfinder>手持物品查找平板</entityname.handhelditemfinder>
+    <entitydescription.handhelditemfinder>一种带屏幕的小型手持设备，能够轻松找到潜艇内的物品。</entitydescription.handhelditemfinder>
+    <entityname.makeshiftshelf>临时货架</entityname.makeshiftshelf>
+    <entitydescription.makeshiftshelf>可以手动安装在潜艇上的板条箱存储架。</entitydescription.makeshiftshelf>
+    <entityname.ceremonialsword>指挥刀</entityname.ceremonialsword>
+    <entitydescription.ceremonialsword>纪念毕业的利剑。它需要多种技能才能发挥它的最大潜力。</entitydescription.ceremonialsword>
 
-    <talenttree.frogman>Frogman</talenttree.frogman>
-    <talenttree.enforcer>Enforcer</talenttree.enforcer>
-    <talenttree.gunner>Gunner</talenttree.gunner>
-    <talenttree.scrapper>Scrapper</talenttree.scrapper>
-    <talenttree.brawler>Brawler</talenttree.brawler>
-    <talenttree.apprentice>Apprentice</talenttree.apprentice>
+    <talenttree.frogman>蛙人</talenttree.frogman>
+    <talenttree.enforcer>武装者</talenttree.enforcer>
+    <talenttree.gunner>枪手</talenttree.gunner>
+    <talenttree.scrapper>拾荒者</talenttree.scrapper>
+    <talenttree.brawler>格斗家</talenttree.brawler>
+    <talenttree.apprentice>实习生</talenttree.apprentice>
     <talenttree.primary>Primary</talenttree.primary>
-    <talenttree.scientist>Chemist</talenttree.scientist>
+    <talenttree.scientist>药剂师</talenttree.scientist>
 
-    <talentname.veteran>Veteran</talentname.veteran>
-    <talentname.inspirationalleader>Inspirational Leader</talentname.inspirationalleader>
-    <talentname.prodigy>Prodigy</talentname.prodigy>
-    <talentname.logisticsexpert>Logistics Expert</talentname.logisticsexpert>
-    <talentname.lonewolf>Lone Wolf</talentname.lonewolf>
-    <talentname.deputy>Deputy</talentname.deputy>
+    <talentname.veteran>老兵</talentname.veteran>
+    <talentname.inspirationalleader>精神领袖</talentname.inspirationalleader>
+    <talentname.prodigy>天才</talentname.prodigy>
+    <talentname.logisticsexpert>物流专家</talentname.logisticsexpert>
+    <talentname.lonewolf>独狼</talentname.lonewolf>
+    <talentname.deputy>副手</talentname.deputy>
     <talentname.bigguns>Big Guns</talentname.bigguns>
     <talentname.affiliation>Affiliation</talentname.affiliation>
-    <talentname.campaigning>Campaigning</talentname.campaigning>
-    <talentname.yourreputation>Your Reputation...</talentname.yourreputation>
-    <talentname.networking>Networking</talentname.networking>
-    <talentname.figurehead>Figurehead</talentname.figurehead>
-    <talentname.helmsman>Helmsman</talentname.helmsman>
-    <talentname.inspiringpresence>Inspiring Presence</talentname.inspiringpresence>
-    <talentname.trickledown>Trickle Down</talentname.trickledown>
-    <talentname.steadytune>Steady Tune</talentname.steadytune>
-    <talentname.family>Family</talentname.family>
-    <talentname.leadingbyexample>Leading By Example</talentname.leadingbyexample>
-    <talentname.protectandserve>Protect and Serve</talentname.protectandserve>
-    <talentname.warstories>War Stories</talentname.warstories>
-    <talentname.swole>Swole</talentname.swole>
-    <talentname.weaponsmith>Weaponsmith</talentname.weaponsmith>
-    <talentname.dontpushit>Don't Push It</talentname.dontpushit>
-    <talentname.buff>Buff</talentname.buff>
-    <talentname.boardingparty>Boarding Party</talentname.boardingparty>
-    <talentname.daringdolphin>Daring Dolphin</talentname.daringdolphin>
-    <talentname.easyturtle>Easy Turtle</talentname.easyturtle>
+    <talentname.campaigning>斗志昂扬</talentname.campaigning>
+    <talentname.yourreputation>你的声誉...</talentname.yourreputation>
+    <talentname.networking>网络</talentname.networking>
+    <talentname.figurehead>首脑</talentname.figurehead>
+    <talentname.helmsman>舵手</talentname.helmsman>
+    <talentname.inspiringpresence>鼓舞人心</talentname.inspiringpresence>
+    <talentname.trickledown>涓滴效应</talentname.trickledown>
+    <talentname.steadytune>稳定的调谐</talentname.steadytune>
+    <talentname.family>一家人</talentname.family>
+    <talentname.leadingbyexample>以身作则</talentname.leadingbyexample>
+    <talentname.protectandserve>保护服务</talentname.protectandserve>
+    <talentname.warstories>战争故事</talentname.warstories>
+    <talentname.swole>领袖课程</talentname.swole>
+    <talentname.weaponsmith>武器商</talentname.weaponsmith>
+    <talentname.dontpushit>不要逼它</talentname.dontpushit>
+    <talentname.buff>增益</talentname.buff>
+    <talentname.boardingparty>跳帮队</talentname.boardingparty>
+    <talentname.daringdolphin>无畏海豚</talentname.daringdolphin>
+    <talentname.easyturtle>简易炮塔</talentname.easyturtle>
     <talentname.pacificationkit>Pacification Kit</talentname.pacificationkit>
     <talentname.inordinateexsanguination>Inordinate Exsanguination</talentname.inordinateexsanguination>
-    <talentname.crustyseaman>Crusty Seaman</talentname.crustyseaman>
-    <talentname.rifleman>Rifleman</talentname.rifleman>
-    <talentname.extrapowder>Extra Powder</talentname.extrapowder>
+    <talentname.crustyseaman>粗鲁水手</talentname.crustyseaman>
+    <talentname.rifleman>步枪手</talentname.rifleman>
+    <talentname.extrapowder>额外火药</talentname.extrapowder>
     <talentname.gunrunner>Gun Runner</talentname.gunrunner>
-    <talentname.healthinsurance>Health Insurance</talentname.healthinsurance>
-    <talentname.nobodyimportantdies>Nobody Important Dies</talentname.nobodyimportantdies>
-    <talentname.exampleofhealth>Example of Health</talentname.exampleofhealth>
-    <talentname.laresistance>La Resistance</talentname.laresistance>
+    <talentname.healthinsurance>医疗保险</talentname.healthinsurance>
+    <talentname.nobodyimportantdies>没人会死</talentname.nobodyimportantdies>
+    <talentname.exampleofhealth>养生模范</talentname.exampleofhealth>
+    <talentname.laresistance>反抗军</talentname.laresistance>
     <talentname.selfcare>Self-care</talentname.selfcare>
     <talentname.stayinalive>Stayin' Alive</talentname.stayinalive>
     <talentname.blooddonor>Blood Donor</talentname.blooddonor>
@@ -268,7 +268,7 @@
     <talentname.macrodosing>Macrodosing</talentname.macrodosing>
     <talentname.funwithfission>Fun With Fission</talentname.funwithfission>
     <talentname.grounded>Grounded</talentname.grounded>
-    <talentname.egghead>Egghead</talentname.egghead>
+    <talentname.egghead>高材生</talentname.egghead>
     <talentname.junctionjunkie>Junction Junkie</talentname.junctionjunkie>
     <talentname.stationengineer>Station Engineer</talentname.stationengineer>
     <talentname.weaponartisan>Weapon Artisan</talentname.weaponartisan>
@@ -327,23 +327,23 @@
     <talentname.dangerzone>Danger Zone</talentname.dangerzone>
     <talentname.unstoppablecuriosity>Unstoppable Curiosity</talentname.unstoppablecuriosity>
     <talentname.modularrepairs>Modular Repairs</talentname.modularrepairs>
-    <talentname.hullfixer>Hull Fixer</talentname.hullfixer>
-    <talentname.quickfixer>Quickfixer</talentname.quickfixer>
+    <talentname.hullfixer>船体修复</talentname.hullfixer>
+    <talentname.quickfixer>快速修理</talentname.quickfixer>
     <talentname.nonthreatening>Non-threatening</talentname.nonthreatening>
     <talentname.whatastench>What a Stench!</talentname.whatastench>
     <talentname.blackmarketgenes>Blackmarket Genes</talentname.blackmarketgenes>
-    <talentname.robotics>Robotics</talentname.robotics>
+    <talentname.robotics>机器学</talentname.robotics>
 
     <talentdescription.warstories>Gain [xpbonus] bonus XP when completing a mission in which you killed at least [creatureamount] creatures.</talentdescription.warstories>
     <talentdescription.easyturtle>Take [amount]% less damage from attacks while you are in water.</talentdescription.easyturtle>
     <talentdescription.veteran>Gain a one-time bonus of [helmbonus] Helm and [otherbonus] to all other skills.</talentdescription.veteran>
-    <talentdescription.logisticsexpert>Gain [xpbonus]% bonus XP and [moneybonus]% bonus money when completing a [missiontype1] or [missiontype2] mission.</talentdescription.logisticsexpert>
+    <talentdescription.logisticsexpert>每完成一个[missiontype1]或[missiontype2]任务时，获得[xpbonus]%额外经验和[moneybonus]%的额外金钱</talentdescription.logisticsexpert>
     <talentdescription.healthinsurance>Gain [xpbonus]% bonus XP and [moneybonus]% bonus money when completing a [missiontype] mission.</talentdescription.healthinsurance>
     <talentdescription.mailman>Gain [xpbonus]% bonus XP and [moneybonus] bonus money when completing a [missiontype] mission.</talentdescription.mailman>
     <talentdescription.protectandserve>Gain [xpbonus]% bonus XP when completing a [missiontype] mission.</talentdescription.protectandserve>
     <talentdescription.nobodyimportantdies>Gain [xpbonus]% bonus XP when completing a mission, if all crewmembers survived.</talentdescription.nobodyimportantdies>
     <talentdescription.travelingtradesman>Items sold by your crew sell for [amount]% more.</talentdescription.travelingtradesman>
-    <talentdescription.appliestoallcrew>Applies to all crew:</talentdescription.appliestoallcrew>
+    <talentdescription.appliestoallcrew>所有船员生效:</talentdescription.appliestoallcrew>
     <talentdescription.camaraderienew>Whenever you finish a mission without a crewmember dying, your crew gains an additional [extraexperience]% experience.</talentdescription.camaraderienew>
     <talentdescription.downwiththeship>If you are on your submarine and it becomes at least [flooded]% flooded, you gain an additional [swimmingboost]% swimming speed and repair hulls [repairspeed]% faster for [duration] seconds.</talentdescription.downwiththeship>
     <talentdescription.emergencymaneuvers>Whenever your submarine takes damage from a monster, gain ‖color:gui.orange‖maximum Helm skill‖end‖ for [seconds] seconds.</talentdescription.emergencymaneuvers>
@@ -445,22 +445,22 @@
     <talentdescription.letitdrain>Build portable pumps and install them where you need them.</talentdescription.letitdrain>
     <talentdescription.powerarmor>Move [bonusmovement]% faster in an ‖color:gui.orange‖Exosuit‖end‖.</talentdescription.powerarmor>
 
-    <stattypenames.maxspeed>Max Speed</stattypenames.maxspeed>
-    <stattypenames.storesellmultiplier>Item Sell Value</stattypenames.storesellmultiplier>
-    <stattypenames.physicalresistance>Physical Damage Resistance</stattypenames.physicalresistance>
-    <stattypenames.stunresistance>Stun Resistance</stattypenames.stunresistance>
-    <stattypenames.meleedamagebonus>Melee Damage Dealt</stattypenames.meleedamagebonus>
-    <stattypenames.reputationgain>Bonus Reputation Gain</stattypenames.reputationgain>
-    <stattypenames.reputationloss>Bonus Reputation Loss</stattypenames.reputationloss>
-    <stattypenames.maxflow>Maximum Flow</stattypenames.maxflow>
+    <stattypenames.maxspeed>最大速率</stattypenames.maxspeed>
+    <stattypenames.storesellmultiplier>物品卖出价格</stattypenames.storesellmultiplier>
+    <stattypenames.physicalresistance>物理损伤抗性</stattypenames.physicalresistance>
+    <stattypenames.stunresistance>眩晕抗性</stattypenames.stunresistance>
+    <stattypenames.meleedamagebonus>近战伤害处理</stattypenames.meleedamagebonus>
+    <stattypenames.reputationgain>额外声誉增益</stattypenames.reputationgain>
+    <stattypenames.reputationloss>额外声誉损失</stattypenames.reputationloss>
+    <stattypenames.maxflow>最大流量</stattypenames.maxflow>
 
-    <talentname.plaguedoctor>Plague Doctor</talentname.plaguedoctor>
+    <talentname.plaguedoctor>瘟疫医生</talentname.plaguedoctor>
 
-    <clientpermission.managebottalents>Manage talents</clientpermission.managebottalents>
+    <clientpermission.managebottalents>管理天赋</clientpermission.managebottalents>
 
-    <afflictionname.lonewolf>Lone Wolf</afflictionname.lonewolf>
+    <afflictionname.lonewolf>独狼</afflictionname.lonewolf>
     <afflictiondescription.lonewolf>You thrive in isolation. Without interference of others, your capabilities are enhanced.</afflictiondescription.lonewolf>
-    <afflictionname.deputy>Deputy</afflictionname.deputy>
+    <afflictionname.deputy>副手</afflictionname.deputy>
     <afflictiondescription.deputy>Your captain trusts you to take care of the sub in case of their absence. You wouldn't let them down.</afflictiondescription.deputy>
     <afflictionname.highmorale>High Morale</afflictionname.highmorale>
     <afflictiondescription.highmorale>Your captain is leading by example. You feel confident and energetic.</afflictiondescription.highmorale>
@@ -493,7 +493,7 @@
     <afflictionname.disloyalscum>Treacherous Assistant</afflictionname.disloyalscum>
     <afflictiondescription.disloyalscum>The assistant's dedication to their apprenticeship and their master leaves a lot to be desired, but hanging out with the other crew boosts their efficiency. Repairing and skill gains are increased.</afflictiondescription.disloyalscum>
 
-    <UpgradeUI.AllSubmarinesInfo>Upgrades are automatically transferred when you switch to another submarine, provided the tier and class of the new submarine allow for it.</UpgradeUI.AllSubmarinesInfo>
+    <UpgradeUI.AllSubmarinesInfo>当你切换到另一艘新潜艇时，如果级别和等级符合，购买的所有升级选都会自动应用到新潜艇上。</UpgradeUI.AllSubmarinesInfo>
 
     <tutorial.basics.objective_screwdrivercontainer>Open the cabinet</tutorial.basics.objective_screwdrivercontainer>
     <tutorial.basics.objective_weldingfuel>Obtain welding fuel</tutorial.basics.objective_weldingfuel>
@@ -503,97 +503,97 @@
     <tutorial.basics.popup.obtainitems>Your inventory is shown at the bottom.\nTo get the screwdriver into your inventory, drag it there.\nAlternatively, double-click to obtain an item faster.</tutorial.basics.popup.obtainitems>
     <tutorial.basics.popup.deselect>Deselect opened containers by pressing [InputType.Aim]</tutorial.basics.popup.deselect>
 
-    <tutorial.basic.description>This tutorial teaches basic controls and game concepts, such as moving and interacting with the environment.</tutorial.basic.description>
-    <tutorial.basic.completed>Well done!\nYou've completed the Basics tutorial. Do you want to continue to the Roles tutorial?</tutorial.basic.completed>
-    <tutorial.roles.description>This tutorial teaches about the different jobs aboard a submarine. There's five roles to explore:\n- Captain\n- Engineer\n- Mechanic\n- Medical Doctor\n- Security Officer</tutorial.roles.description>
-    <tutorial.roles.completed>Well done!\nYou've completed the Roles tutorial. Do you want to restart and explore a different role?</tutorial.roles.completed>
+    <tutorial.basic.description>本教程介绍基本的游戏控制和游戏概念，如移动和环境交互。</tutorial.basic.description>
+    <tutorial.basic.completed>干得好！\n你已经完成了基础教程。是否要继续“职业”教程？</tutorial.basic.completed>
+    <tutorial.roles.description>本教程介绍潜艇上的不同职业的工作是什么。这里有5种职业角色供你探索:\n- 艇长\n- 工程师\n- 机修工\n- 医生\n- 安全官</tutorial.roles.description>
+    <tutorial.roles.completed>做得好！\n你已经完成了该职业角色的教程。是否要重新开始来探索其他职业角色的工作内容？</tutorial.roles.completed>
 
-    <tutorial.roles.popup.close_interface>Close the interface with [InputType.Aim].</tutorial.roles.popup.close_interface>
-    <tutorial.roles.popup.mechanic_divingmask>Equip the Diving Mask. Find one in the Supply Cabinet.</tutorial.roles.popup.mechanic_divingmask>
-    <tutorial.roles.mechanic.objective.divingmask>Equip the Diving Mask</tutorial.roles.mechanic.objective.divingmask>
-    <tutorial.roles.popup.mechanic_fabrication5>Acquire the Wrench</tutorial.roles.popup.mechanic_fabrication5>
-    <tutorial.roles.mechanic.objective.engineering4>Acquire the Wrench</tutorial.roles.mechanic.objective.engineering4>
-    <tutorial.roles.popup.medical_healthscanner>Equip the Health Scanner HUD.</tutorial.roles.popup.medical_healthscanner>
-    <tutorial.roles.medic.objective.healthscanner>Equip the Health Scanner</tutorial.roles.medic.objective.healthscanner>
+    <tutorial.roles.popup.close_interface>按下[InputType.Aim]关闭界面。</tutorial.roles.popup.close_interface>
+    <tutorial.roles.popup.mechanic_divingmask>找到潜水面罩。在柜子里找到一个</tutorial.roles.popup.mechanic_divingmask>
+    <tutorial.roles.mechanic.objective.divingmask>装备潜水面罩</tutorial.roles.mechanic.objective.divingmask>
+    <tutorial.roles.popup.mechanic_fabrication5>获得扳手</tutorial.roles.popup.mechanic_fabrication5>
+    <tutorial.roles.mechanic.objective.engineering4>获得扳手</tutorial.roles.mechanic.objective.engineering4>
+    <tutorial.roles.popup.medical_healthscanner>装备健康扫描仪</tutorial.roles.popup.medical_healthscanner>
+    <tutorial.roles.medic.objective.healthscanner>装备健康扫描仪</tutorial.roles.medic.objective.healthscanner>
 
-    <tutorial.roles.security.objective.killtarget>Kill the target</tutorial.roles.security.objective.killtarget>
-    <tutorial.roles.popup.bodyarmorequip>Equip the Body Armor. Click the bar above the Body Armor's inventory slot to equip it or press the hotkey.</tutorial.roles.popup.bodyarmorequip>
-    <tutorial.roles.popup.ammo>Obtain ammunition.</tutorial.roles.popup.ammo>
-    <tutorial.roles.popup.loadgun>Load your gun with the ammo.</tutorial.roles.popup.loadgun>
+    <tutorial.roles.security.objective.killtarget>杀死目标</tutorial.roles.security.objective.killtarget>
+    <tutorial.roles.popup.bodyarmorequip>装备防弹衣。点击防弹衣或者拖</tutorial.roles.popup.bodyarmorequip>
+    <tutorial.roles.popup.ammo>获得弹药</tutorial.roles.popup.ammo>
+    <tutorial.roles.popup.loadgun>为你的武器装载弹药。</tutorial.roles.popup.loadgun>
 
-    <tutorial.campaign.introduction.conversation_start>[speakername]: “Finally a chance to get off this station. Can you believe there's so few people willing to crew a submarine, they just sponsored us one fresh from the shipyard?”</tutorial.campaign.introduction.conversation_start>
-    <tutorial.campaign.introduction.conversation_start_reply>“I still feel like there must be some catch…”</tutorial.campaign.introduction.conversation_start_reply>
-    <tutorial.campaign.introduction.conversation_2>“None as far as I can see. Supply and demand in action: they need able-bodied sailors to keep Europan society running, and the original crew of this submarine drank themselves to death before their maiden voyage. It's ours alright.”</tutorial.campaign.introduction.conversation_2>
-    <tutorial.campaign.introduction.conversation_2_reply>“If you say so… Still seems fishy but it sure beats sitting around here. What do we still have to do before we go?”</tutorial.campaign.introduction.conversation_2_reply>
-    <tutorial.campaign.introduction.conversation_3>“We'll need some supplies for our first voyage. Fuel Rods are a must, without them I cannot keep our submarine powered. We should make sure we have some spare. Welding Fuel, too, as without it we have no way to patch hull damage. Of course, let's try to avoid hull damage, but just in case.\nI'll transfer my last savings to the shared bank account to contribute.”</tutorial.campaign.introduction.conversation_3>
-    <tutorial.campaign.introduction.conversation_3_reply>“Alright, I'll get the supplies!”</tutorial.campaign.introduction.conversation_3_reply>
-    <tutorial.campaign.introduction.conversation_4>“Great! Maybe while you're up there, you can check if anyone has some paid work for us? There's not much point in drifting around without a purpose, and keeping a submarine running is expensive.”</tutorial.campaign.introduction.conversation_4>
-    <tutorial.campaign.introduction.conversation_4_reply>“Sure, on it.”</tutorial.campaign.introduction.conversation_4_reply>
+    <tutorial.campaign.introduction.conversation_start>[speakername]: “终于有机会能出去闯一闯了。你敢信他们宁愿免费给我们一艘崭新的潜艇也不愿意出海？”</tutorial.campaign.introduction.conversation_start>
+    <tutorial.campaign.introduction.conversation_start_reply>“我还是觉得这背后一定有什么原因…”</tutorial.campaign.introduction.conversation_start_reply>
+    <tutorial.campaign.introduction.conversation_2>“别担心了，根据我所了解的情况来看，无论怎么样，物资的供给需求是不会断的：他们需要一帮强壮可靠的水手来维持木卫二社会的正常运转，而现在这艘艇原来的人员连一次水都没下过，整天在前哨站里醉生梦死。现在这艘潜艇属于我们了，不管怎样。”</tutorial.campaign.introduction.conversation_2>
+    <tutorial.campaign.introduction.conversation_2_reply>“你说什么就是什么喽……整件事看起来还是有点奇怪，但肯定比整天坐在那里要好。出发前我们还有什么事是要办的?”</tutorial.campaign.introduction.conversation_2_reply>
+    <tutorial.campaign.introduction.conversation_3>“我们第一次航行肯定少不了补给物资。 燃料棒不用说了，肯定要，没有这玩意儿我们哪都去不了，确保有几个备用的。焊接燃料也是，没有它无法修复进水的漏洞。当然，我们还是尽量避免出现这种情况，这个只是为了以防万一。\n为了出一份力，我把我最后的积蓄转入我们的共享账户了。”</tutorial.campaign.introduction.conversation_3>
+    <tutorial.campaign.introduction.conversation_3_reply>“好的，我现在就去搞这些物资！”</tutorial.campaign.introduction.conversation_3_reply>
+    <tutorial.campaign.introduction.conversation_4>“太好了！对了，你在上面的时候也许能顺便揽点活? 在海底漫无目的到处漂流在大多数情况下是没有意义的，而且潜艇的维护保养工作是很花钱的。”</tutorial.campaign.introduction.conversation_4>
+    <tutorial.campaign.introduction.conversation_4_reply>“好的，我会看看的。”</tutorial.campaign.introduction.conversation_4_reply>
 
-    <tutorial.campaign.objective_missions>Find a way to make money</tutorial.campaign.objective_missions>
-    <tutorial.campaign.objective_supplies>Get supplies for the submarine</tutorial.campaign.objective_supplies>
-    <tutorial.campaign.objective_supplies_fuelrods>Fuel Rods</tutorial.campaign.objective_supplies_fuelrods>
-    <tutorial.campaign.objective_supplies_weldingfuel>Welding Fuel</tutorial.campaign.objective_supplies_weldingfuel>
-    <tutorial.campaign.objective_leave>Leave the station</tutorial.campaign.objective_leave>
+    <tutorial.campaign.objective_missions>找到赚钱的方法</tutorial.campaign.objective_missions>
+    <tutorial.campaign.objective_supplies>为潜艇获取物资补给</tutorial.campaign.objective_supplies>
+    <tutorial.campaign.objective_supplies_fuelrods>燃料棒</tutorial.campaign.objective_supplies_fuelrods>
+    <tutorial.campaign.objective_supplies_weldingfuel>焊接燃料</tutorial.campaign.objective_supplies_weldingfuel>
+    <tutorial.campaign.objective_leave>离开前哨站</tutorial.campaign.objective_leave>
 
-    <tutorial.campaign.objective_tasks>Set orders for your crew</tutorial.campaign.objective_tasks>
-    <tutorial.campaign.message_tasks>Open the command interface by pressing [InputType.Command] to give orders to your crew.</tutorial.campaign.message_tasks>
-    <tutorial.campaign.objective_tasks_reactor>Power up the reactor</tutorial.campaign.objective_tasks_reactor>
-    <tutorial.campaign.objective_tasks_fixleaks>Fix leaks</tutorial.campaign.objective_tasks_fixleaks>
-    <tutorial.campaign.objective_tasks_repairelectrical>Repair electrical devices</tutorial.campaign.objective_tasks_repairelectrical>
-    <tutorial.campaign.objective_tasks_repairmechanical>Repair mechanical devices</tutorial.campaign.objective_tasks_repairmechanical>
-    <tutorial.campaign.objective_tasks_operateturret>Operate turret</tutorial.campaign.objective_tasks_operateturret>
-    <tutorial.campaign.objective_move>Move the submarine</tutorial.campaign.objective_move>
-    <tutorial.campaign.objective_activatesonar>Activate sonar</tutorial.campaign.objective_activatesonar>
-    <tutorial.campaign.objective_reachtarget>Dock at the next station</tutorial.campaign.objective_reachtarget>
+    <tutorial.campaign.objective_tasks>给你的船员下达指令</tutorial.campaign.objective_tasks>
+    <tutorial.campaign.message_tasks>按下[InputType.Command]打开命令界面。对你的船员下达指令。</tutorial.campaign.message_tasks>
+    <tutorial.campaign.objective_tasks_reactor>打开反应堆</tutorial.campaign.objective_tasks_reactor>
+    <tutorial.campaign.objective_tasks_fixleaks>修补漏洞</tutorial.campaign.objective_tasks_fixleaks>
+    <tutorial.campaign.objective_tasks_repairelectrical>修理电气设备</tutorial.campaign.objective_tasks_repairelectrical>
+    <tutorial.campaign.objective_tasks_repairmechanical>修理机械设备</tutorial.campaign.objective_tasks_repairmechanical>
+    <tutorial.campaign.objective_tasks_operateturret>操作炮塔</tutorial.campaign.objective_tasks_operateturret>
+    <tutorial.campaign.objective_move>移动潜艇</tutorial.campaign.objective_move>
+    <tutorial.campaign.objective_activatesonar>打开声呐</tutorial.campaign.objective_activatesonar>
+    <tutorial.campaign.objective_reachtarget>停靠至下一个前哨站</tutorial.campaign.objective_reachtarget>
 
-    <tutorial.campaign.objective_restock>Restock supplies</tutorial.campaign.objective_restock>
-    <tutorial.campaign.objective_restock_fuel>Fuel Rods</tutorial.campaign.objective_restock_fuel>
-    <tutorial.campaign.objective_restock_coilgunammo>Coilgun Ammo Box</tutorial.campaign.objective_restock_coilgunammo>
-    <tutorial.campaign.objective_restock_handheldammo>Revolver Rounds</tutorial.campaign.objective_restock_handheldammo>
-    <tutorial.campaign.objective_3missions>Obtain mission leads</tutorial.campaign.objective_3missions>
+    <tutorial.campaign.objective_restock>补给物资</tutorial.campaign.objective_restock>
+    <tutorial.campaign.objective_restock_fuel>燃料棒</tutorial.campaign.objective_restock_fuel>
+    <tutorial.campaign.objective_restock_coilgunammo>电磁枪弹药箱</tutorial.campaign.objective_restock_coilgunammo>
+    <tutorial.campaign.objective_restock_handheldammo>左轮手枪子弹</tutorial.campaign.objective_restock_handheldammo>
+    <tutorial.campaign.objective_3missions>接下任务线索</tutorial.campaign.objective_3missions>
 
-    <tutorial.campaign.outro.conversation_start>[speakername]: “Looks like you settled into the routines of submarining pretty well!”</tutorial.campaign.outro.conversation_start>
-    <tutorial.campaign.outro.conversation_start_reply>“So far it seems the risk has been exaggerated. Smooth sailing!”</tutorial.campaign.outro.conversation_start_reply>
-    <tutorial.campaign.outro.conversation_2>“From what I've heard, things get riskier the further down we go. The money's better though. No risk, no reward…”</tutorial.campaign.outro.conversation_2>
-    <tutorial.campaign.outro.conversation_2_reply>“I do have some urge to go deeper… I mean, who could say no to more money?”</tutorial.campaign.outro.conversation_2_reply>
-    <tutorial.campaign.outro.conversation_3>“Money and adventure, exploring the unknown… Sign me up cap'n!”</tutorial.campaign.outro.conversation_3>
-    <tutorial.campaign.outro.conversation_3_reply>“Down we go!”</tutorial.campaign.outro.conversation_3_reply>
+    <tutorial.campaign.outro.conversation_start>[speakername]: “看来你很好的适应了潜艇生活的日常！”</tutorial.campaign.outro.conversation_start>
+    <tutorial.campaign.outro.conversation_start_reply>“目前为止所有的风险都好像被他们夸大了。一路顺风！”</tutorial.campaign.outro.conversation_start_reply>
+    <tutorial.campaign.outro.conversation_2>“就我所知，我们潜的越深，风险就越大。不过只要有钱拿我就没问题，富在险中求……”</tutorial.campaign.outro.conversation_2>
+    <tutorial.campaign.outro.conversation_2_reply>“我确实有点想继续深入的冲动…我的意思是，谁会嫌钱多?”</tutorial.campaign.outro.conversation_2_reply>
+    <tutorial.campaign.outro.conversation_3>“冒险，暴富，探索未知…加我一个，船长!”</tutorial.campaign.outro.conversation_3>
+    <tutorial.campaign.outro.conversation_3_reply>“我们出发了！”</tutorial.campaign.outro.conversation_3_reply>
 
-    <campaignoption.enabletutorial>Enable tutorial</campaignoption.enabletutorial>
-    <campaignoption.enabletutorial.tooltip>Start the game in a tutorial outpost and learn the basics of navigating through the campaign mode!</campaignoption.enabletutorial.tooltip>
+    <campaignoption.enabletutorial>启用教程</campaignoption.enabletutorial>
+    <campaignoption.enabletutorial.tooltip>从一个教程前哨站开始出发，在战役模式中学习各种航行的基础知识！</campaignoption.enabletutorial.tooltip>
 
-    <campaignexittutorialoutpostprompt>Do you want to skip the remaining tutorial objectives and exit [locationname]?</campaignexittutorialoutpostprompt>
+    <campaignexittutorialoutpostprompt>是否要跳过剩余的教程然后离开[locationname]?</campaignexittutorialoutpostprompt>
 
-    <upgrade.requiredmaterials>Required materials</upgrade.requiredmaterials>
-    <upgrade.missingmaterials>Missing the required materials</upgrade.missingmaterials>
+    <upgrade.requiredmaterials>所需材料</upgrade.requiredmaterials>
+    <upgrade.missingmaterials>缺少所需材料</upgrade.missingmaterials>
 
-    <medicalclinic.treateveryone>Treat everyone</medicalclinic.treateveryone>
+    <medicalclinic.treateveryone>治疗所有人</medicalclinic.treateveryone>
 
-    <locationdescription.none>Uninhabited, a potential location for an outpost.</locationdescription.none>
-    <locationdescription.city>Bristling with activity and no shortage of supplies.</locationdescription.city>
-    <locationdescription.outpost>Average-sized outpost, without any specialization.</locationdescription.outpost>
-    <locationdescription.military>Offers an abundance of military hardware.</locationdescription.military>
-    <locationdescription.research>Offers rare and exotic items.</locationdescription.research>
-    <locationdescription.mine>Offers raw materials at discount prices.</locationdescription.mine>
-    <locationdescription.abandoned>Contact was lost with this outpost.\nRe-establishing contact or eliminating a threat here could net you money.</locationdescription.abandoned>
+    <locationdescription.none>无人居住，一个潜在的前哨基地。</locationdescription.none>
+    <locationdescription.city>繁荣昌盛，物资充足。</locationdescription.city>
+    <locationdescription.outpost>中等规模的前哨站，没有任何专业化用途。</locationdescription.outpost>
+    <locationdescription.military>提供丰富的军事装备。</locationdescription.military>
+    <locationdescription.research>提供稀有物品和异星物品。</locationdescription.research>
+    <locationdescription.mine>提供价格实惠的原材料。</locationdescription.mine>
+    <locationdescription.abandoned>与该前哨站的失去联系。\n与之重新建立联系或消除可能威胁可能会让你赚到钱。</locationdescription.abandoned>
 
-    <advancedsub.all>Tier [tiernumber] submarines available.</advancedsub.all>
-    <advancedsub.attack>Tier [tiernumber] Attack submarines available.</advancedsub.attack>
-    <advancedsub.scout>Tier [tiernumber] Scout submarines available.</advancedsub.scout>
-    <advancedsub.transport>Tier [tiernumber] Transport submarines available.</advancedsub.transport>
-    <advancedsub.none>No submarines available.</advancedsub.none>
+    <advancedsub.all>等级[tiernumber]的潜艇可用。</advancedsub.all>
+    <advancedsub.attack>等级[tiernumber]的攻击型潜艇可用。</advancedsub.attack>
+    <advancedsub.scout>等级[tiernumber]的护卫型潜艇可用。</advancedsub.scout>
+    <advancedsub.transport>等级[tiernumber]的运输型潜艇可用。</advancedsub.transport>
+    <advancedsub.none>无潜艇可用。</advancedsub.none>
 
     <hint.onobtaineditem.unidentifiedgeneticmaterial>You've found a mass of unidentified alien genetic material. You can use a research station to process it into something that can be inserted into a Gene Splicer – a device that can be used to augment people with non-human abilities.</hint.onobtaineditem.unidentifiedgeneticmaterial>
     <hint.onobtaineditem.geneticmaterial>You've obtained a vial of identified alien genetic material. You can use it with a Gene Splicer, combine it with genetic material of the same type in a Research Station to refine it and boost it's effectiveness, or combine it with a genetic material of different type to combine their effects.</hint.onobtaineditem.geneticmaterial>
     <hint.geneticmaterial.useinstructions>You can use the genetic material by equipping a Gene Splicer, and inserting the genetic material into it in the health interface. Once spliced onto a living subject, genetic material cannot be removed without destroying it.</hint.geneticmaterial.useinstructions>
     <hint.geneticmaterial.onrefiningorcombining>Refining and combining genetic materials has a chance of tainting them, dependent on your medical skill. Combining genetic materials of different type always taints them.\n\nTainted genes cannot be refined or combined further, and using them can have unexpected side-effects.</hint.geneticmaterial.onrefiningorcombining>
 
-    <AllLanguages>All</AllLanguages>
+    <AllLanguages>全部</AllLanguages>
 
-    <ModUpdatesAvailableLabel>Updates available! Click here for more details</ModUpdatesAvailableLabel>
+    <ModUpdatesAvailableLabel>更新可用! 点击这里查看更多详情</ModUpdatesAvailableLabel>
 
-    <ContentPackageEnableError>The content package "[packagename]" could not be enabled due to an error. Check the debug console by pressing F3 for more details.</ContentPackageEnableError>
+    <ContentPackageEnableError>发生了一个错误，内容包 "[packagename]"无法启用。 按F3调出控制台查看更多信息。</ContentPackageEnableError>
 
     <infographic.reactor.fuelslots>The reactor needs fuel to generate power. Place one in these slots.</infographic.reactor.fuelslots>
     <infographic.reactor.power>Turns the reactor on or off.</infographic.reactor.power>
@@ -602,8 +602,8 @@
     <infographic.reactor.automaticcontrol>When automatic control is on, the reactor will operate itself automatically. However, it reacts to power fluctuations slower than a human operator would be able to.</infographic.reactor.automaticcontrol>
     <infographic.reactor.temperature>The temperature of the reactor core. The temperature is optimal when the bar is between the red indicators.</infographic.reactor.temperature>
 
-    <restart>Restart</restart>
-    <entityname.huskeggsbasic>Velonaceps Calyx Eggs</entityname.huskeggsbasic>
+    <restart>重新开始</restart>
+    <entityname.huskeggsbasic>萼形体内转续拟寄生物卵</entityname.huskeggsbasic>
     <entitydescription.huskeggsbasic>Dormant eggs of the Europan lifeform colloquially referred to as 'husk parasite'.</entitydescription.huskeggsbasic>
     <entityname.aliencircuitry>Alien Circuitry</entityname.aliencircuitry>
     <entitydescription.aliencircuitry>Advanced looking circuitry, typically found within the non-organical guardians of the alien ruins.</entitydescription.aliencircuitry>
@@ -638,22 +638,22 @@
     <eventtext.huskextremists1.o1.c1>"Oh, so you're one of the cowards who pretend to be on the way to Ascension, but are too afraid to take a proper dive to the deep end? Perhaps we need to silence those weak little human thoughts and give you a little push over the edge?"</eventtext.huskextremists1.o1.c1>
     <eventtext.huskextremists1.o3>"The kind that has a post-shotgun to the face experiment prepared for you."</eventtext.huskextremists1.o3>
 
-    <entityname.rifle>Rifle</entityname.rifle>
-    <entitydescription.rifle>A .30 caliber rifle with a manual reload mechanism. Slow rate of fire for unskilled users.</entitydescription.rifle>
-    <entityname.riflebullet>Rifle Bullet</entityname.riflebullet>
-    <entitydescription.riflebullet>A .30 rifle bullet.</entitydescription.riflebullet>
+    <entityname.rifle>步枪</entityname.rifle>
+    <entitydescription.rifle>.30口径步枪，可手动装填弹药。 对于不熟练的使用者来说，射击速度会变慢。</entitydescription.rifle>
+    <entityname.riflebullet>步枪子弹</entityname.riflebullet>
+    <entitydescription.riflebullet>一个.30口径步枪弹药</entitydescription.riflebullet>
     <entityname.hmg>HMG</entityname.hmg>
-    <entitydescription.hmg>Heavy Machine Gun, capable of dealing a lot of damage, provided the user is skilled enough to handle the recoil.</entitydescription.hmg>
-    <entityname.hmgmagazine>HMG Magazine</entityname.hmgmagazine>
-    <entitydescription.hmgmagazine>A magazine of 5.56mm rounds for the HMG</entitydescription.hmgmagazine>
-    <entityname.hmground>HMG Round</entityname.hmground>
+    <entitydescription.hmg>重型机枪, 能够造成大量伤害, 前提是使用者有足够的技能来处理后坐力。</entitydescription.hmg>
+    <entityname.hmgmagazine>HMG弹匣</entityname.hmgmagazine>
+    <entitydescription.hmgmagazine>适用于HMG的5.56mm弹匣 </entitydescription.hmgmagazine>
+    <entityname.hmground>HMG弹鼓</entityname.hmground>
     <entitydescription.hmground>Round of a Heavy Machine Gun</entitydescription.hmground>
-    <entityname.harpooncoilrifle>Harpoon Coil-Rifle</entityname.harpooncoilrifle>
-    <entitydescription.harpooncoilrifle>An advanced harpoon gun, powered by an energy source to launch harpoons at high velocities.</entitydescription.harpooncoilrifle>
+    <entityname.harpooncoilrifle>电磁鱼叉枪</entityname.harpooncoilrifle>
+    <entitydescription.harpooncoilrifle>高级版本的鱼叉枪，由电力驱动以高速发射鱼叉.</entitydescription.harpooncoilrifle>
 
-    <entityname.machinepistol>Machine Pistol</entityname.machinepistol>
-    <entitydescription.machinepistol>A high rate of fire automatic weapon, using .45 (SMG) caliber magazines. Hard to aim.</entitydescription.machinepistol>
+    <entityname.machinepistol>机械手枪</entityname.machinepistol>
+    <entitydescription.machinepistol>一个高射速自动武器，使用.45(SMG)口径弹药。后坐力有点大。</entitydescription.machinepistol>
 
-    <outpostmissions>Outpost missions</outpostmissions>
+    <outpostmissions>前哨站任务</outpostmissions>
 
 </infotexts>

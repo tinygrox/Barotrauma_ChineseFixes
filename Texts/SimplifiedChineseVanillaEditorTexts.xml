@@ -260,10 +260,10 @@
     <charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
 
     <!-- Entity properties -->
-    <sp.scale.name>Scale</sp.scale.name>
-    <sp.spritedepth.name>Sprite Depth</sp.spritedepth.name>
-    <sp.disallowedupgrades.name>Disallowed Upgrades</sp.disallowedupgrades.name>
-    <sp.hiddeningame.name>Hidden In Game</sp.hiddeningame.name>
+    <sp.scale.name>大小</sp.scale.name>
+    <sp.spritedepth.name>物件层次</sp.spritedepth.name>
+    <sp.disallowedupgrades.name>禁用升级</sp.disallowedupgrades.name>
+    <sp.hiddeningame.name>游玩时隐藏</sp.hiddeningame.name>
 
     <sp.item.hiddeningame.name>游戏中隐藏</sp.item.hiddeningame.name>
     <sp.item.noninteractable.name>不可交互</sp.item.noninteractable.name>
@@ -383,12 +383,12 @@
     <sp.holdable.swingwhenaiming.description>物品在瞄准时是否摆动</sp.holdable.swingwhenaiming.description>
     <sp.holdable.swingwhenusing.name>使用时摆动</sp.holdable.swingwhenusing.name>
     <sp.holdable.swingwhenusing.description>物品在被使用时是否摆动 (例如, 武器开火或焊枪使用).</sp.holdable.swingwhenusing.description>
-    <sp.holdable.disableheadrotation.name>Disable Head Rotation</sp.holdable.disableheadrotation.name>
+    <sp.holdable.disableheadrotation.name>禁用头部旋转</sp.holdable.disableheadrotation.name>
     <sp.holdable.spritedepthwhendropped.name>Sprite Depth When Dropped</sp.holdable.spritedepthwhendropped.name>
     <sp.holdable.spritedepthwhendropped.description>Sprite depth that's used when the item is NOT attached to a wall.</sp.holdable.spritedepthwhendropped.description>
     <sp.itemcontainer.containablerestrictions.name>Containable Restrictions</sp.itemcontainer.containablerestrictions.name>
     <sp.itemcontainer.containablerestrictions.description>Define items (by identifiers or tags) that bots should place inside this container. If empty, no restrictions are applied.</sp.itemcontainer.containablerestrictions.description>
-    <sp.itemcontainer.autofill.name>Auto Fill</sp.itemcontainer.autofill.name>
+    <sp.itemcontainer.autofill.name>自动补满</sp.itemcontainer.autofill.name>
     <sp.itemcontainer.autofill.description>Should this container be automatically filled with items?</sp.itemcontainer.autofill.description>
     <sp.itemlabel.text.name>Text</sp.itemlabel.text.name>
     <sp.itemlabel.text.description>The text displayed in the label.</sp.itemlabel.text.description>
@@ -500,7 +500,7 @@
     <sp.memorycomponent.maxvaluelength.description>The maximum length of the stored value. Warning: Large values can lead to large memory usage or networking issues.</sp.memorycomponent.maxvaluelength.description>
     <sp.memorycomponent.writeable.name>Writeable</sp.memorycomponent.writeable.name>
     <sp.memorycomponent.writeable.description>Can the value stored in the memory component be changed via signals.</sp.memorycomponent.writeable.description>
-    <sp.motionsensor.ignoredead.name>Ignore Dead</sp.motionsensor.ignoredead.name>
+    <sp.motionsensor.ignoredead.name>忽略尸体</sp.motionsensor.ignoredead.name>
     <sp.motionsensor.ignoredead.description>Should the sensor ignore the bodies of dead characters?</sp.motionsensor.ignoredead.description>
     <sp.motionsensor.rangex.description>Horizontal detection range.</sp.motionsensor.rangex.description>
     <sp.motionsensor.rangey.description>Vertical movement detection range.</sp.motionsensor.rangey.description>
@@ -528,20 +528,20 @@
     <sp.wificomponent.minchatmessageinterval.description>How many seconds have to pass between signals for a message to be displayed in the chatbox. Setting this to a very low value is not recommended, because it may cause an excessive amount of chat messages to be created if there are chat-linked wifi components that transmit a continuous signal.</sp.wificomponent.minchatmessageinterval.description>
     <sp.wificomponent.discardduplicatechatmessages.name>Discard Duplicate Chat Messages</sp.wificomponent.discardduplicatechatmessages.name>
     <sp.wificomponent.discardduplicatechatmessages.description>If set to true, the component will only create chat messages when the received signal changes.</sp.wificomponent.discardduplicatechatmessages.description>
-    <sp.wire.noautolock.name>No Auto Lock</sp.wire.noautolock.name>
+    <sp.wire.noautolock.name>无自动锁定</sp.wire.noautolock.name>
     <sp.wire.noautolock.description>If enabled, this wire will be ignored by the "Lock all default wires" setting.</sp.wire.noautolock.description>
-    <sp.wire.usespritedepth.name>Use Sprite Depth</sp.wire.usespritedepth.name>
+    <sp.wire.usespritedepth.name>使用物件层级</sp.wire.usespritedepth.name>
     <sp.wire.usespritedepth.description>If enabled, this wire will use the sprite depth instead of a constant depth.</sp.wire.usespritedepth.description>
     <sp.triggercomponent.force.description>The maximum amount of force applied to the triggering entitites.</sp.triggercomponent.force.description>
     <sp.triggercomponent.distancebasedforce.name>Distance Based Force</sp.triggercomponent.distancebasedforce.name>
     <sp.triggercomponent.distancebasedforce.description>Determines if the force gets higher the closer the triggerer is to the center of the trigger.</sp.triggercomponent.distancebasedforce.description>
     <sp.triggercomponent.forcefluctuation.name>Force Fluctuation</sp.triggercomponent.forcefluctuation.name>
     <sp.triggercomponent.forcefluctuation.description>Determines if the force fluctuates over time or if it stays constant.</sp.triggercomponent.forcefluctuation.description>
-    <sp.turret.hudtint.name>Hud Tint</sp.turret.hudtint.name>
+    <sp.turret.hudtint.name>头显提示</sp.turret.hudtint.name>
     <sp.turret.hudtint.description>Optional screen tint color when the item is being operated (R,G,B,A).</sp.turret.hudtint.description>
     <sp.turret.reload.name>重新装填</sp.turret.reload.name>
     <sp.turret.reload.description>The period of time the user has to wait between shots.</sp.turret.reload.description>
-    <sp.turret.shotsperburst.name>Shots Per Burst</sp.turret.shotsperburst.name>
+    <sp.turret.shotsperburst.name>每次连发次数</sp.turret.shotsperburst.name>
     <sp.turret.shotsperburst.description>How many projectiles needs to be shot before we add an extra break? Think of the double coilgun.</sp.turret.shotsperburst.description>
     <sp.turret.delaybetweenbursts.name>Delay Between Bursts</sp.turret.delaybetweenbursts.name>
     <sp.turret.delaybetweenbursts.description>An extra delay between the bursts. Added to the reload.</sp.turret.delaybetweenbursts.description>
@@ -551,7 +551,7 @@
     <sp.turret.recoiltime.description>How quickly the recoil moves the barrel after launching.</sp.turret.recoiltime.description>
     <sp.turret.retractiondelay.name>Retraction Delay</sp.turret.retractiondelay.name>
     <sp.turret.retractiondelay.description>How long the barrell stays in place after the recoil and before retracting back to the original position.</sp.turret.retractiondelay.description>
-    <sp.turret.rotationlimits.name>Rotation Limits</sp.turret.rotationlimits.name>
+    <sp.turret.rotationlimits.name>旋转限制</sp.turret.rotationlimits.name>
     <sp.turret.rotationlimits.description>The range at which the barrel can rotate.</sp.turret.rotationlimits.description>
     <sp.turret.springstiffnesslowskill.name>Spring Stiffness Low Skill</sp.turret.springstiffnesslowskill.name>
     <sp.turret.springstiffnesslowskill.description>How much torque is applied to rotate the barrel when the item is used by a character with insufficient skills to operate it. Higher values make the barrel rotate faster.</sp.turret.springstiffnesslowskill.description>

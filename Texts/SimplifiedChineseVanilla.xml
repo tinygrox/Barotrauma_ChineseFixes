@@ -889,7 +889,7 @@
     <savenameinusetext>请重命名存档</savenameinusetext>
     <savename>存档名称</savename>
     <savefile.defaultname>默认存档</savefile.defaultname>
-    <lastsaved>最近保存</lastsaved>
+    <lastsaved>最后保存</lastsaved>
     <mapseed>地图种子</mapseed>
     <startcampaignbutton>潜入</startcampaignbutton>
     <campaignenteroutpostprompt>你想进入[locationname]吗？</campaignenteroutpostprompt>
@@ -1991,7 +1991,7 @@
     <entityname.handcuffs>手铐</entityname.handcuffs>
     <entitydescription.handcuffs>可用于限制问题玩家。</entitydescription.handcuffs>
     <entityname.riotshield>防爆盾牌</entityname.riotshield>
-    <entitydescription.riotshield>抵御伤害。</entitydescription.riotshield>
+    <entitydescription.riotshield>抵御投掷抛射伤害或阻碍生物或人通过。</entitydescription.riotshield>
     <entityname.divingmask>潜水面罩</entityname.divingmask>
     <entitydescription.divingmask>小巧轻便，可随身携带以防万一。但当船体完全破裂时，面罩可无法阻碍深海水压的“拥抱”。</entitydescription.divingmask>
     <entityname.divingsuit>潜水服</entityname.divingsuit>
@@ -2463,8 +2463,8 @@
     <!-- Material -->
     <entityname.alienblood>异星血浆</entityname.alienblood>
     <entitydescription.alienblood>从某种木卫二原生种身体中提取的血浆，可以进一步加工成血浆制品，用以治疗失血。</entitydescription.alienblood>
-    <entityname.huskeggs>萼形体内转续拟寄生物卵</entityname.huskeggs>
-    <entitydescription.huskeggs>木卫二某种寄生虫处于休眠状态的卵，一般人们称其为“画皮寄生虫”。</entitydescription.huskeggs>
+    <entityname.huskeggs>萼虫提取物</entityname.huskeggs>
+    <entitydescription.huskeggs>“萼形体内转续拟寄生物”或者“画皮寄生虫”喜欢附在钙元素上面，不管是在人体骨骼内还是在整齐的注射器里。</entitydescription.huskeggs>
     <entityname.carbon>碳</entityname.carbon>
     <entitydescription.carbon>可用于制作钢材与塑料。</entitydescription.carbon>
     <entityname.iron>铁</entityname.iron>
@@ -3811,7 +3811,7 @@
     <ordername.reportbrokendevices>上报受损设备</ordername.reportbrokendevices>
     <ordername.requestfirstaid>申请急救</ordername.requestfirstaid>
     <ordername.repairmechanical>修复机械系统</ordername.repairmechanical>
-    <ordername.repairelectrical>修复电力系统</ordername.repairelectrical>
+    <ordername.repairelectrical>修复电气系统</ordername.repairelectrical>
     <ordername.use>使用</ordername.use>
     <ordername.detach>分离</ordername.detach>
     <ordername.weldshut>焊死</ordername.weldshut>
@@ -6360,7 +6360,7 @@
     <talentdescription.simultaneousskillgain>获得[skillname1]经验的同时，也会获得[skillname2]的经验。</talentdescription.simultaneousskillgain>
     <talentdescription.increasereputationgains>船员的声望获取量提升 [value]%。</talentdescription.increasereputationgains>
     <talentdescription.chanceofextraweapondamage>使用武器攻击时，[probability]%概率造成双倍伤害。</talentdescription.chanceofextraweapondamage>
-    <talentdescription.extrapowertoharpoonsinopensea>在开阔海域使用鱼叉时，攻击力提升[value]%。</talentdescription.extrapowertoharpoonsinopensea>
+    <talentdescription.extrapowertoharpoonsinopensea>‖color:gui.orange‖鱼叉枪‖end‖攻击力提升[value]%。</talentdescription.extrapowertoharpoonsinopensea>
     <talentdescription.dropalienmaterialonkill>当你在潜艇外杀死怪物时，有[probability]%的几率掉落额外的外星材料。</talentdescription.dropalienmaterialonkill>
     <talentdescription.warriorpoet>你可以写一本书。\n若想如此，操纵你的角色进入布娃娃状态。[seconds]秒后，你将获得[itemname]，并且自你上次出书以来击杀的所有敌人都会让你获得[moneyamount]马克(作为版税)。</talentdescription.warriorpoet>
     <talentdescription.dualspecops>当你操纵角色在水中进入布娃娃状态时，会推动自己向自己当前朝向前进。</talentdescription.dualspecops>
