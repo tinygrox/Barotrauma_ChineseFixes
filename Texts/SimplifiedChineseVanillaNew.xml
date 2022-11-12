@@ -214,7 +214,7 @@
     <talenttree.scrapper>拾荒者</talenttree.scrapper>
     <talenttree.brawler>格斗家</talenttree.brawler>
     <talenttree.apprentice>实习生</talenttree.apprentice>
-    <talenttree.primary>Primary</talenttree.primary>
+    <talenttree.primary>主要</talenttree.primary>
     <talenttree.scientist>药剂师</talenttree.scientist>
 
     <talentname.veteran>老兵</talentname.veteran>
@@ -244,67 +244,67 @@
     <talentname.boardingparty>跳帮队</talentname.boardingparty>
     <talentname.daringdolphin>无畏海豚</talentname.daringdolphin>
     <talentname.easyturtle>简易炮塔</talentname.easyturtle>
-    <talentname.pacificationkit>Pacification Kit</talentname.pacificationkit>
+    <talentname.pacificationkit>维和装备</talentname.pacificationkit>
     <talentname.inordinateexsanguination>Inordinate Exsanguination</talentname.inordinateexsanguination>
     <talentname.crustyseaman>粗鲁水手</talentname.crustyseaman>
     <talentname.rifleman>步枪手</talentname.rifleman>
     <talentname.extrapowder>额外火药</talentname.extrapowder>
-    <talentname.gunrunner>Gun Runner</talentname.gunrunner>
+    <talentname.gunrunner>军火贩子</talentname.gunrunner>
     <talentname.healthinsurance>医疗保险</talentname.healthinsurance>
     <talentname.nobodyimportantdies>没人会死</talentname.nobodyimportantdies>
     <talentname.exampleofhealth>养生模范</talentname.exampleofhealth>
     <talentname.laresistance>反抗军</talentname.laresistance>
-    <talentname.selfcare>Self-care</talentname.selfcare>
-    <talentname.stayinalive>Stayin' Alive</talentname.stayinalive>
-    <talentname.blooddonor>Blood Donor</talentname.blooddonor>
-    <talentname.bloodybusiness>Bloody Business</talentname.bloodybusiness>
-    <talentname.genetampering>Gene Tampering</talentname.genetampering>
-    <talentname.emergencyresponse>Emergency Response</talentname.emergencyresponse>
-    <talentname.medicalexpertise>Medical Expertise</talentname.medicalexpertise>
-    <talentname.medicalassistance>Medical Assistance</talentname.medicalassistance>
-    <talentname.miracleworker>Miracle Worker</talentname.miracleworker>
-    <talentname.deliverysystem>Delivery System</talentname.deliverysystem>
-    <talentname.labcontacts>Lab Contacts</talentname.labcontacts>
-    <talentname.macrodosing>Macrodosing</talentname.macrodosing>
-    <talentname.funwithfission>Fun With Fission</talentname.funwithfission>
-    <talentname.grounded>Grounded</talentname.grounded>
+    <talentname.selfcare>自我护理</talentname.selfcare>
+    <talentname.stayinalive>活下去</talentname.stayinalive>
+    <talentname.blooddonor>献血者</talentname.blooddonor>
+    <talentname.bloodybusiness>血腥勾当</talentname.bloodybusiness>
+    <talentname.genetampering>基因修改</talentname.genetampering>
+    <talentname.emergencyresponse>应急响应</talentname.emergencyresponse>
+    <talentname.medicalexpertise>医学鉴定</talentname.medicalexpertise>
+    <talentname.medicalassistance>医疗救助</talentname.medicalassistance>
+    <talentname.miracleworker>幸运员工</talentname.miracleworker>
+    <talentname.deliverysystem>输送系统</talentname.deliverysystem>
+    <talentname.labcontacts>实验室联系人</talentname.labcontacts>
+    <talentname.macrodosing>大剂量</talentname.macrodosing>
+    <talentname.funwithfission>裂变乐趣</talentname.funwithfission>
+    <talentname.grounded>接地</talentname.grounded>
     <talentname.egghead>高材生</talentname.egghead>
-    <talentname.junctionjunkie>Junction Junkie</talentname.junctionjunkie>
-    <talentname.stationengineer>Station Engineer</talentname.stationengineer>
-    <talentname.weaponartisan>Weapon Artisan</talentname.weaponartisan>
-    <talentname.submarineofthings>Submarine Of Things</talentname.submarineofthings>
-    <talentname.lightningwizard>Lightning Wizard</talentname.lightningwizard>
-    <talentname.buzzing>Buzzin'</talentname.buzzing>
-    <talentname.cruising>Cruisin'</talentname.cruising>
-    <talentname.betterthannew>Better Than New</talentname.betterthannew>
-    <talentname.machinemaniac>Machine Maniac</talentname.machinemaniac>
-    <talentname.salvagecrew>Salvage Crew</talentname.salvagecrew>
-    <talentname.multifunctional>Multifunctional</talentname.multifunctional>
-    <talentname.engineengineer>Engine Engineer</talentname.engineengineer>
-    <talentname.ballastdenizen>Ballast Denizen</talentname.ballastdenizen>
-    <talentname.pumpndump>Pump N Dump</talentname.pumpndump>
-    <talentname.ironman>Ironman</talentname.ironman>
-    <talentname.oiledmachinery>Oiled Machinery</talentname.oiledmachinery>
-    <talentname.retrofit>Retrofit</talentname.retrofit>
-    <talentname.toolmaintenance>Tool Maintenance</talentname.toolmaintenance>
-    <talentname.residualwaste>Residual Waste</talentname.residualwaste>
-    <talentname.ironstorm>Iron Storm</talentname.ironstorm>
-    <talentname.iamthatguy>I Am That Guy</talentname.iamthatguy>
-    <talentname.heavylifting>Heavy Lifting</talentname.heavylifting>
-    <talentname.mudraptorwrestler>Mudraptor Wrestler</talentname.mudraptorwrestler>
-    <talentname.foolhardy>Foolhardy</talentname.foolhardy>
-    <talentname.berserker>Berserker</talentname.berserker>
+    <talentname.junctionjunkie>接线上瘾</talentname.junctionjunkie>
+    <talentname.stationengineer>哨站工程师</talentname.stationengineer>
+    <talentname.weaponartisan>武器艺人</talentname.weaponartisan>
+    <talentname.submarineofthings>潜艇清点</talentname.submarineofthings>
+    <talentname.lightningwizard>闪电巫师</talentname.lightningwizard>
+    <talentname.buzzing>嗡嗡</talentname.buzzing>
+    <talentname.cruising>巡行</talentname.cruising>
+    <talentname.betterthannew>完好如初</talentname.betterthannew>
+    <talentname.machinemaniac>机械狂热</talentname.machinemaniac>
+    <talentname.salvagecrew>清道船员</talentname.salvagecrew>
+    <talentname.multifunctional>能者多劳</talentname.multifunctional>
+    <talentname.engineengineer>发动机工程师</talentname.engineengineer>
+    <talentname.ballastdenizen>压载舱植物</talentname.ballastdenizen>
+    <talentname.pumpndump>抽水和排水</talentname.pumpndump>
+    <talentname.ironman>铁人</talentname.ironman>
+    <talentname.oiledmachinery>机械润滑</talentname.oiledmachinery>
+    <talentname.retrofit>改装</talentname.retrofit>
+    <talentname.toolmaintenance>工具维护</talentname.toolmaintenance>
+    <talentname.residualwaste>垃圾残渣</talentname.residualwaste>
+    <talentname.ironstorm>钢甲洪流</talentname.ironstorm>
+    <talentname.iamthatguy>这就是我</talentname.iamthatguy>
+    <talentname.heavylifting>重型搬运</talentname.heavylifting>
+    <talentname.mudraptorwrestler>迅猛龙运动员</talentname.mudraptorwrestler>
+    <talentname.foolhardy>有勇无谋</talentname.foolhardy>
+    <talentname.berserker>狂战士</talentname.berserker>
     <talentname.powerarmor>MECHanic</talentname.powerarmor>
-    <talentname.revengesquad>Revenge Squad</talentname.revengesquad>
-    <talentname.jackinthebox>Jack-In-The-Box</talentname.jackinthebox>
-    <talentname.peerlearning>Peer Learning</talentname.peerlearning>
+    <talentname.revengesquad>复仇小队</talentname.revengesquad>
+    <talentname.jackinthebox>玩偶匣</talentname.jackinthebox>
+    <talentname.peerlearning>共同学习</talentname.peerlearning>
     <talentname.thearrival>The Arrival</talentname.thearrival>
-    <talentname.mailman>Mailman</talentname.mailman>
-    <talentname.anappleaday>An Apple A Day</talentname.anappleaday>
-    <talentname.thewaitinglist>The Waiting List</talentname.thewaitinglist>
-    <talentname.thefriendswemade>The Friends We Made</talentname.thefriendswemade>
+    <talentname.mailman>快递员</talentname.mailman>
+    <talentname.anappleaday>一天一苹果</talentname.anappleaday>
+    <talentname.thewaitinglist>候补名单</talentname.thewaitinglist>
+    <talentname.thefriendswemade>我们的朋友</talentname.thefriendswemade>
     <talentname.chonkyhonks>Chonky Honks</talentname.chonkyhonks>
-    <talentname.logisticssystems>Logistics Systems</talentname.logisticssystems>
+    <talentname.logisticssystems>物流系统</talentname.logisticssystems>
     <talentname.journeyman>Journeyman</talentname.journeyman>
     <talentname.loyalassistant>Loyal Assistant</talentname.loyalassistant>
     <talentname.disloyalscum>Treacherous Scum</talentname.disloyalscum>
@@ -312,7 +312,7 @@
     <talentname.emergencymaneuvers>Emergency Maneuvers</talentname.emergencymaneuvers>
     <talentname.commando>Commando</talentname.commando>
     <talentname.slayer>Slayer</talentname.slayer>
-    <talentname.specops>Spec-Ops</talentname.specops>
+    <talentname.specops>两栖特种兵</talentname.specops>
     <talentname.medicalcompanion>Medical Companion</talentname.medicalcompanion>
     <talentname.nopressure>No Pressure</talentname.nopressure>
     <talentname.genesplicer>Gene Splicer</talentname.genesplicer>
@@ -334,26 +334,26 @@
     <talentname.blackmarketgenes>Blackmarket Genes</talentname.blackmarketgenes>
     <talentname.robotics>机器学</talentname.robotics>
 
-    <talentdescription.warstories>Gain [xpbonus] bonus XP when completing a mission in which you killed at least [creatureamount] creatures.</talentdescription.warstories>
-    <talentdescription.easyturtle>Take [amount]% less damage from attacks while you are in water.</talentdescription.easyturtle>
-    <talentdescription.veteran>Gain a one-time bonus of [helmbonus] Helm and [otherbonus] to all other skills.</talentdescription.veteran>
-    <talentdescription.logisticsexpert>每完成一个[missiontype1]或[missiontype2]任务时，获得[xpbonus]%额外经验和[moneybonus]%的额外金钱</talentdescription.logisticsexpert>
-    <talentdescription.healthinsurance>Gain [xpbonus]% bonus XP and [moneybonus]% bonus money when completing a [missiontype] mission.</talentdescription.healthinsurance>
-    <talentdescription.mailman>Gain [xpbonus]% bonus XP and [moneybonus] bonus money when completing a [missiontype] mission.</talentdescription.mailman>
-    <talentdescription.protectandserve>Gain [xpbonus]% bonus XP when completing a [missiontype] mission.</talentdescription.protectandserve>
-    <talentdescription.nobodyimportantdies>Gain [xpbonus]% bonus XP when completing a mission, if all crewmembers survived.</talentdescription.nobodyimportantdies>
-    <talentdescription.travelingtradesman>Items sold by your crew sell for [amount]% more.</talentdescription.travelingtradesman>
+    <talentdescription.warstories>当完成一个任务，你在任务期间杀死的怪物数量大于[creatureamount]时，获得[xpbonus]的额外经验。</talentdescription.warstories>
+    <talentdescription.easyturtle>当你在水中时，受到的攻击伤害减少[amount]%</talentdescription.easyturtle>
+    <talentdescription.veteran>获得一次[helmbonus]驾驶技能加成，且所有技能获得[otherbonus]加成。</talentdescription.veteran>
+    <talentdescription.logisticsexpert>每完成一个[missiontype1]或[missiontype2]任务时，获得[xpbonus]%额外经验和[moneybonus]%的额外金钱。</talentdescription.logisticsexpert>
+    <talentdescription.healthinsurance>当完成[missiontype]任务时，获得[xpbonus]%的额外经验和[moneybonus]%的额外金钱。</talentdescription.healthinsurance>
+    <talentdescription.mailman>当完成[missiontype]任务时，获得[xpbonus]%额外经验和额外的[moneybonus]金钱。</talentdescription.mailman>
+    <talentdescription.protectandserve>当完成[missiontype]任务时，获得[xpbonus]%额外经验。</talentdescription.protectandserve>
+    <talentdescription.nobodyimportantdies>当完成一个任务且全体船员存活，获得[xpbonus]%的额外经验。</talentdescription.nobodyimportantdies>
+    <talentdescription.travelingtradesman>船员卖出物品获得的金钱增加[amount]%。</talentdescription.travelingtradesman>
     <talentdescription.appliestoallcrew>所有船员生效:</talentdescription.appliestoallcrew>
-    <talentdescription.camaraderienew>Whenever you finish a mission without a crewmember dying, your crew gains an additional [extraexperience]% experience.</talentdescription.camaraderienew>
-    <talentdescription.downwiththeship>If you are on your submarine and it becomes at least [flooded]% flooded, you gain an additional [swimmingboost]% swimming speed and repair hulls [repairspeed]% faster for [duration] seconds.</talentdescription.downwiththeship>
-    <talentdescription.emergencymaneuvers>Whenever your submarine takes damage from a monster, gain ‖color:gui.orange‖maximum Helm skill‖end‖ for [seconds] seconds.</talentdescription.emergencymaneuvers>
-    <talentdescription.lonewolf>If there's no crew members nearby, gain the following:</talentdescription.lonewolf>
-    <talentdescription.deputy>‖color:gui.orange‖Assistants‖end‖ nearby get [skillbonus1] ‖color:gui.orange‖Helm‖end‖ and [skillbonus2] ‖color:gui.orange‖Weapons‖end‖ skill and gain these skills twice as fast.</talentdescription.deputy>
-    <talentdescription.bigguns>Deal [amount]% more damage with ‖color:gui.orange‖Revolvers‖end‖ and ‖color:gui.orange‖Handcannons‖end‖ to monsters.</talentdescription.bigguns>
-    <talentdescription.commendations>Whenever you finish at least one mission, gain a ‖color:gui.orange‖Commendation‖end‖.\nWhen you apply a ‖color:gui.orange‖Commendation‖end‖ on another character, give them [selfxpgain] experience.</talentdescription.commendations>
-    <talentdescription.yourreputation>When entering a new outpost you have positive faction reputation with, gain [amount] mk.\nDoubled for cities.</talentdescription.yourreputation>
-    <talentdescription.affiliation>Choose a faction to side with, in order to gain affiliation bonuses for that faction.</talentdescription.affiliation>
-    <talentdescription.affiliationfaction>Choose to side with [faction] and gain the following:</talentdescription.affiliationfaction>
+    <talentdescription.camaraderienew>当保证全员存活完成任务时，全员获得[extraexperience]%额外经验。</talentdescription.camaraderienew>
+    <talentdescription.downwiththeship>当潜艇进水量达到[flooded]%时，你获得[swimmingboost]%的游泳速度加成，获得[repairspeed]%的修理速度增强，持续[duration]秒。</talentdescription.downwiththeship>
+    <talentdescription.emergencymaneuvers>当你的潜艇收到怪物攻击，获得‖color:gui.orange‖最大驾驶技能‖end‖加成，持续[seconds]秒。</talentdescription.emergencymaneuvers>
+    <talentdescription.lonewolf>如果附近没有其他船员，获得下列增益：</talentdescription.lonewolf>
+    <talentdescription.deputy>附近的‖color:gui.orange‖助手‖end‖获得[skillbonus1]‖color:gui.orange‖驾驶技能‖end‖和[skillbonus2]‖color:gui.orange‖武器‖end‖技能，且这两个技能学习速度加倍。</talentdescription.deputy>
+    <talentdescription.bigguns>‖color:gui.orange‖左轮手枪‖end‖和‖color:gui.orange‖手炮‖end‖对怪物造成额外[amount]%的伤害。</talentdescription.bigguns>
+    <talentdescription.commendations>每完成至少一个任务时，获得一个‖color:gui.orange‖联盟奖章‖end‖.\n当你对其他角色使用‖color:gui.orange‖联盟奖章‖end‖时，对方获得[selfxpgain] 经验。</talentdescription.commendations>
+    <talentdescription.yourreputation>当进入新前哨站时, 如果你的当前声誉对于他们而言是正面的评价，获得[amount]马克.\n进入城市效果加倍。</talentdescription.yourreputation>
+    <talentdescription.affiliation>选择一个派系，以获得该派系的金钱奖励。</talentdescription.affiliation>
+    <talentdescription.affiliationfaction>选择要站队的[faction]获得以下奖励：</talentdescription.affiliationfaction>
     <talentdescription.affiliationbenefit1>Reputation with [faction] increases [reputationincrease]% faster, but reputation with other factions decreases [reputationloss]% faster.</talentdescription.affiliationbenefit1>
     <talentdescription.affiliationbenefit2>Earn [amount]% more marks when completing a mission for [faction].</talentdescription.affiliationbenefit2>
     <talentdescription.affiliationfactionreminder>‖color:gui.red‖Warning:‖end‖ Choosing a faction to side with is permanent and locks this choice for other captains as well.</talentdescription.affiliationfactionreminder>
