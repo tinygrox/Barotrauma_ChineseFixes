@@ -245,7 +245,7 @@
     <talentname.daringdolphin>无畏海豚</talentname.daringdolphin>
     <talentname.easyturtle>简易炮塔</talentname.easyturtle>
     <talentname.pacificationkit>维和装备</talentname.pacificationkit>
-    <talentname.inordinateexsanguination>Inordinate Exsanguination</talentname.inordinateexsanguination>
+    <talentname.inordinateexsanguination>大放血</talentname.inordinateexsanguination>
     <talentname.crustyseaman>粗鲁水手</talentname.crustyseaman>
     <talentname.rifleman>步枪手</talentname.rifleman>
     <talentname.extrapowder>额外火药</talentname.extrapowder>
@@ -298,7 +298,7 @@
     <talentname.revengesquad>复仇小队</talentname.revengesquad>
     <talentname.jackinthebox>玩偶匣</talentname.jackinthebox>
     <talentname.peerlearning>共同学习</talentname.peerlearning>
-    <talentname.thearrival>The Arrival</talentname.thearrival>
+    <talentname.thearrival>来者</talentname.thearrival>
     <talentname.mailman>快递员</talentname.mailman>
     <talentname.anappleaday>一天一苹果</talentname.anappleaday>
     <talentname.thewaitinglist>候补名单</talentname.thewaitinglist>
@@ -306,32 +306,32 @@
     <talentname.chonkyhonks>Chonky Honks</talentname.chonkyhonks>
     <talentname.logisticssystems>物流系统</talentname.logisticssystems>
     <talentname.journeyman>Journeyman</talentname.journeyman>
-    <talentname.loyalassistant>Loyal Assistant</talentname.loyalassistant>
+    <talentname.loyalassistant>忠实助理</talentname.loyalassistant>
     <talentname.disloyalscum>Treacherous Scum</talentname.disloyalscum>
     <talentname.commendations>Commendations</talentname.commendations>
-    <talentname.emergencymaneuvers>Emergency Maneuvers</talentname.emergencymaneuvers>
+    <talentname.emergencymaneuvers>紧急避险</talentname.emergencymaneuvers>
     <talentname.commando>Commando</talentname.commando>
-    <talentname.slayer>Slayer</talentname.slayer>
+    <talentname.slayer>杀手</talentname.slayer>
     <talentname.specops>两栖特种兵</talentname.specops>
-    <talentname.medicalcompanion>Medical Companion</talentname.medicalcompanion>
-    <talentname.nopressure>No Pressure</talentname.nopressure>
-    <talentname.genesplicer>Gene Splicer</talentname.genesplicer>
-    <talentname.geneticgenious>Genetic Genious</talentname.geneticgenious>
-    <talentname.supersoldiers>Super Soldiers</talentname.supersoldiers>
-    <talentname.vitaminsupplements>Vitamin Supplements</talentname.vitaminsupplements>
-    <talentname.samplecollection>Sample Collection</talentname.samplecollection>
+    <talentname.medicalcompanion>医疗伴侣</talentname.medicalcompanion>
+    <talentname.nopressure>零压力</talentname.nopressure>
+    <talentname.genesplicer>基因拼接器</talentname.genesplicer>
+    <talentname.geneticgenious>基因天才</talentname.geneticgenious>
+    <talentname.supersoldiers>超级战士</talentname.supersoldiers>
+    <talentname.vitaminsupplements>维生素补充剂</talentname.vitaminsupplements>
+    <talentname.samplecollection>样本收集</talentname.samplecollection>
     <talentname.armsrace>Arms Race</talentname.armsrace>
     <talentname.heavyhitter>Heavy Hitter</talentname.heavyhitter>
     <talentname.gridmaintainer>Grid Maintainer</talentname.gridmaintainer>
     <talentname.unlimitedpower>Unlimited Power</talentname.unlimitedpower>
-    <talentname.dangerzone>Danger Zone</talentname.dangerzone>
-    <talentname.unstoppablecuriosity>Unstoppable Curiosity</talentname.unstoppablecuriosity>
-    <talentname.modularrepairs>Modular Repairs</talentname.modularrepairs>
+    <talentname.dangerzone>危险区</talentname.dangerzone>
+    <talentname.unstoppablecuriosity>好奇心旺盛</talentname.unstoppablecuriosity>
+    <talentname.modularrepairs>模块化修理</talentname.modularrepairs>
     <talentname.hullfixer>船体修复</talentname.hullfixer>
     <talentname.quickfixer>快速修理</talentname.quickfixer>
-    <talentname.nonthreatening>Non-threatening</talentname.nonthreatening>
+    <talentname.nonthreatening>无害化处理</talentname.nonthreatening>
     <talentname.whatastench>What a Stench!</talentname.whatastench>
-    <talentname.blackmarketgenes>Blackmarket Genes</talentname.blackmarketgenes>
+    <talentname.blackmarketgenes>黑市基因</talentname.blackmarketgenes>
     <talentname.robotics>机器学</talentname.robotics>
 
     <talentdescription.warstories>当完成一个任务，你在任务期间杀死的怪物数量大于[creatureamount]时，获得[xpbonus]的额外经验。</talentdescription.warstories>
@@ -351,24 +351,24 @@
     <talentdescription.deputy>附近的‖color:gui.orange‖助手‖end‖获得[skillbonus1]‖color:gui.orange‖驾驶技能‖end‖和[skillbonus2]‖color:gui.orange‖武器‖end‖技能，且这两个技能学习速度加倍。</talentdescription.deputy>
     <talentdescription.bigguns>‖color:gui.orange‖左轮手枪‖end‖和‖color:gui.orange‖手炮‖end‖对怪物造成额外[amount]%的伤害。</talentdescription.bigguns>
     <talentdescription.commendations>每完成至少一个任务时，获得一个‖color:gui.orange‖联盟奖章‖end‖.\n当你对其他角色使用‖color:gui.orange‖联盟奖章‖end‖时，对方获得[selfxpgain] 经验。</talentdescription.commendations>
-    <talentdescription.yourreputation>当进入新前哨站时, 如果你的当前声誉对于他们而言是正面的评价，获得[amount]马克.\n进入城市效果加倍。</talentdescription.yourreputation>
-    <talentdescription.affiliation>选择一个派系，以获得该派系的金钱奖励。</talentdescription.affiliation>
-    <talentdescription.affiliationfaction>选择要站队的[faction]获得以下奖励：</talentdescription.affiliationfaction>
-    <talentdescription.affiliationbenefit1>Reputation with [faction] increases [reputationincrease]% faster, but reputation with other factions decreases [reputationloss]% faster.</talentdescription.affiliationbenefit1>
-    <talentdescription.affiliationbenefit2>Earn [amount]% more marks when completing a mission for [faction].</talentdescription.affiliationbenefit2>
-    <talentdescription.affiliationfactionreminder>‖color:gui.red‖Warning:‖end‖ Choosing a faction to side with is permanent and locks this choice for other captains as well.</talentdescription.affiliationfactionreminder>
-    <talentdescription.campaigning>Affiliated faction shipyards offer [amount]% discount for upgrades and buying submarines.</talentdescription.campaigning>
-    <talentdescription.networking>Affiliated faction shops offer [amount]% lower prices. Doubled for faction-unique items.</talentdescription.networking>
-    <talentdescription.figurehead>Replaces ‖color:gui.orange‖Commendations‖end‖ with ‖color:gui.orange‖Medals‖end‖ that give [selfxpgain] XP. If the character is then below level [level], give them XP to reach level [level].</talentdescription.figurehead>
-    <talentdescription.factiondiscount>All services on affiliated outposts give [discount]% discount.</talentdescription.factiondiscount>
-    <talentdescription.leadingbyexample>As long as you're alive, all crew members receive ‖color:gui.orange‖High Morale‖end‖ granting the following:</talentdescription.leadingbyexample>
-    <talentdescription.helmsman>Boosts your ‖color:gui.orange‖Helm‖end‖ skill by [amount].</talentdescription.helmsman>
-    <talentdescription.increaseeffectiveness>Increases ‖color:gui.orange‖Engines‖end‖ and ‖color:gui.orange‖Pumps‖end‖ effectiveness by [amount]%.</talentdescription.increaseeffectiveness>
-    <talentdescription.inspiringpresence>Crew members in the same room that gain a skill point, instead get [amount]. Crewmembers walk [movespeed]% faster.</talentdescription.inspiringpresence>
-    <talentdescription.trickledown>If you gain a skill, so does every other crewmember everywhere. Crewmembers swim [amount]% faster.</talentdescription.trickledown>
-    <talentdescription.steadytune>After playing a ‖color:gui.orange‖Harmonica‖end‖ for [duration] seconds or longer, you and nearby allies gain +[buffamount]% [buffname] for [buffduration] seconds.</talentdescription.steadytune>
-    <talentdescription.melodicrespite2>After playing a ‖color:gui.orange‖Guitar‖end‖ for [duration] seconds or longer, you and nearby allies gain +[buffamount]% [buffname] for [buffduration] seconds.</talentdescription.melodicrespite2>
-    <talentdescription.family>‖color:gui.green‖On unlock:‖end‖ Every crewmember gains one level.</talentdescription.family>
+    <talentdescription.yourreputation>当进入新前哨站时, 如果你的当前声望对于他们而言是正面的评价，获得[amount]马克.\n进入城市效果加倍。</talentdescription.yourreputation>
+    <talentdescription.affiliation>选择一个派系并站队，以获得该派系的金钱奖励。</talentdescription.affiliation>
+    <talentdescription.affiliationfaction>选择站在[faction]并获得以下奖励：</talentdescription.affiliationfaction>
+    <talentdescription.affiliationbenefit1>和[faction]的声望增长速度提升[reputationincrease]%，但与其他派系的声望下降速度提升[reputationloss]%。</talentdescription.affiliationbenefit1>
+    <talentdescription.affiliationbenefit2>完成[faction]的任务时，获得[amount]%的额外马克 </talentdescription.affiliationbenefit2>
+    <talentdescription.affiliationfactionreminder>‖color:gui.red‖警告：‖end‖选择站队派系操作是永久性的，其他船长的相同操作会被锁定。</talentdescription.affiliationfactionreminder>
+    <talentdescription.campaigning>在派系所属的造船厂升级和购买潜艇时，提供[amount]%的折扣。</talentdescription.campaigning>
+    <talentdescription.networking>派系所属的商店提供[amount]%的折扣。派系独特物品双倍效果。</talentdescription.networking>
+    <talentdescription.figurehead>替换‖color:gui.orange‖联盟奖章‖end‖为‖color:gui.orange‖联盟勋章‖end‖，联盟勋章提供[selfxpgain]经验。如果角色等级低于[level]，升级至[level]。</talentdescription.figurehead>
+    <talentdescription.factiondiscount>派系所属的前哨站的服务点提供[discount]%的折扣。</talentdescription.factiondiscount>
+    <talentdescription.leadingbyexample>只要你存活，所有的船员都会获得‖color:gui.orange‖士气高涨‖end‖并获得以下效果：</talentdescription.leadingbyexample>
+    <talentdescription.helmsman>你的‖color:gui.orange‖驾驶‖end‖技能提升[amount]。</talentdescription.helmsman>
+    <talentdescription.increaseeffectiveness>‖color:gui.orange‖引擎‖end‖和‖color:gui.orange‖水泵‖end‖的效率提升[amount]%。</talentdescription.increaseeffectiveness>
+    <talentdescription.inspiringpresence>与你在同一房间的船员每当获得1个技能点，变为获得[amount]。船员移动速度增加[movespeed]%。</talentdescription.inspiringpresence>
+    <talentdescription.trickledown>当你获得技能，其他船员也会获得技能。船员游泳速度增加[amount]%。</talentdescription.trickledown>
+    <talentdescription.steadytune>弹奏‖color:gui.orange‖口琴‖end‖达到[duration]秒或以上时，你和附近的队友 +[buffamount]% [buffname]，持续[buffduration]秒。</talentdescription.steadytune>
+    <talentdescription.melodicrespite2>弹奏‖color:gui.orange‖吉他‖end‖达到[duration]秒或以上时，你和附近的队友 +[buffamount]% [buffname]，持续[buffduration]秒。</talentdescription.melodicrespite2>
+    <talentdescription.family>‖color:gui.green‖解锁时:‖end‖ 所有船员升一级。</talentdescription.family>
     <talentdescription.family2>During missions, if no crewmember has died, upgrades ‖color:gui.orange‖High Morale‖end‖ to ‖color:gui.orange‖Excellent Morale‖end‖, doubling the bonuses.</talentdescription.family2>
     <talentdescription.extrableedingdamage>Inflict [amount]% more ‖color:gui.orange‖Bleeding‖end‖ damage.</talentdescription.extrableedingdamage>
     <talentdescription.crustyseaman>Recover from bleeding much more quickly.</talentdescription.crustyseaman>
@@ -459,18 +459,18 @@
     <clientpermission.managebottalents>管理天赋</clientpermission.managebottalents>
 
     <afflictionname.lonewolf>独狼</afflictionname.lonewolf>
-    <afflictiondescription.lonewolf>You thrive in isolation. Without interference of others, your capabilities are enhanced.</afflictiondescription.lonewolf>
+    <afflictiondescription.lonewolf>你经常独来独往。在没有其他人在场的情况下，你的能力将会增强。</afflictiondescription.lonewolf>
     <afflictionname.deputy>副手</afflictionname.deputy>
-    <afflictiondescription.deputy>Your captain trusts you to take care of the sub in case of their absence. You wouldn't let them down.</afflictiondescription.deputy>
-    <afflictionname.highmorale>High Morale</afflictionname.highmorale>
-    <afflictiondescription.highmorale>Your captain is leading by example. You feel confident and energetic.</afflictiondescription.highmorale>
-    <afflictionname.excellentmorale>Excellent Morale</afflictionname.excellentmorale>
-    <afflictiondescription.excellentmorale>This crew is like a family to you. Nobody messes with your little submarine family.</afflictiondescription.excellentmorale>
-    <afflictionname.inspirationalleader>Inspirational Leader</afflictionname.inspirationalleader>
-    <afflictiondescription.inspirationalleader>Your captain inspires and encourages you to learn.</afflictiondescription.inspirationalleader>
-    <afflictionname.inspiringpresence>Notice me</afflictionname.inspiringpresence>
-    <afflictiondescription.inspiringpresence>The presence of your captain makes you eager to impress.</afflictiondescription.inspiringpresence>
-    <afflictionname.genetampering>Gene Tampering</afflictionname.genetampering>
+    <afflictiondescription.deputy>你的船长相信你会在他们不在的情况下照顾好潜艇。你不会辜负他们的期望。</afflictiondescription.deputy>
+    <afflictionname.highmorale>士气高涨</afflictionname.highmorale>
+    <afflictiondescription.highmorale>你的船长身体力行，以身作则。你感到自信和充满活力。</afflictiondescription.highmorale>
+    <afflictionname.excellentmorale>士气高涨</afflictionname.excellentmorale>
+    <afflictiondescription.excellentmorale>这个船员对你来说就像家人一样。任何人都别想打扰你的这个小家庭。</afflictiondescription.excellentmorale>
+    <afflictionname.inspirationalleader>精神领袖</afflictionname.inspirationalleader>
+    <afflictiondescription.inspirationalleader>你的船长启发和鼓舞了你。</afflictiondescription.inspirationalleader>
+    <afflictionname.inspiringpresence>注意我</afflictionname.inspiringpresence>
+    <afflictiondescription.inspiringpresence>船长的出现让你渴望能在他心中留下深刻印象。</afflictiondescription.inspiringpresence>
+    <afflictionname.genetampering>基因修改</afflictionname.genetampering>
     <afflictiondescription.genetampering>Your medical doctor has tampered with your genes, eliminating minor health issues.</afflictiondescription.genetampering>
     <afflictionname.emergencyresponse>Emergency Response</afflictionname.emergencyresponse>
     <afflictiondescription.emergencyresponse>It's fortunate food is scarce. It makes crewmmates that much easier to carry to safety.</afflictiondescription.emergencyresponse>
@@ -495,10 +495,10 @@
 
     <UpgradeUI.AllSubmarinesInfo>当你切换到另一艘新潜艇时，如果级别和等级符合，购买的所有升级选都会自动应用到新潜艇上。</UpgradeUI.AllSubmarinesInfo>
 
-    <tutorial.basics.objective_screwdrivercontainer>Open the cabinet</tutorial.basics.objective_screwdrivercontainer>
-    <tutorial.basics.objective_weldingfuel>Obtain welding fuel</tutorial.basics.objective_weldingfuel>
-    <tutorial.basics.objective_weldingtoolequip>Equip the welding tool</tutorial.basics.objective_weldingtoolequip>
-    <tutorial.basics.objective_weldingtoolfill>Fill the welding tool</tutorial.basics.objective_weldingtoolfill>
+    <tutorial.basics.objective_screwdrivercontainer>打开柜子</tutorial.basics.objective_screwdrivercontainer>
+    <tutorial.basics.objective_weldingfuel>获得焊接燃料罐</tutorial.basics.objective_weldingfuel>
+    <tutorial.basics.objective_weldingtoolequip>装备焊枪</tutorial.basics.objective_weldingtoolequip>
+    <tutorial.basics.objective_weldingtoolfill>补充焊接燃料</tutorial.basics.objective_weldingtoolfill>
 
     <tutorial.basics.popup.obtainitems>Your inventory is shown at the bottom.\nTo get the screwdriver into your inventory, drag it there.\nAlternatively, double-click to obtain an item faster.</tutorial.basics.popup.obtainitems>
     <tutorial.basics.popup.deselect>Deselect opened containers by pressing [InputType.Aim]</tutorial.basics.popup.deselect>

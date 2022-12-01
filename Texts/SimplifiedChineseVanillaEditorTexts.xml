@@ -218,46 +218,46 @@
     <charactereditor.missinglimbtype>你需要将一个且只有一个肢体的类型定义为[limbtype]!</charactereditor.missinglimbtype>
     <charactereditor.charactercreated>角色[name]已创建</charactereditor.charactercreated>
     <charactereditor.limbtype>肢体类型</charactereditor.limbtype>
-    <charactereditor.sourcerectangle>Source Rectangle</charactereditor.sourcerectangle>
+    <charactereditor.sourcerectangle>「机翻」源矩形</charactereditor.sourcerectangle>
     <charactereditor.id>Identifier（标识符）</charactereditor.id>
-    <charactereditor.limbwithindex>Limb [index]</charactereditor.limbwithindex>
-    <charactereditor.limbwithindexanchor>Limb [index] Anchor</charactereditor.limbwithindexanchor>
+    <charactereditor.limbwithindex>肢体[index]</charactereditor.limbwithindex>
+    <charactereditor.limbwithindexanchor>肢体[index]锚点</charactereditor.limbwithindexanchor>
     <charactereditor.failedtoreadhtml>角色编辑器信息: 无法从[path]读取HTML</charactereditor.failedtoreadhtml>
-    <charactereditor.multipleitemswithsamehierarchy>Multiple items with the same hierarchy [hierarchy] found ([name]). 无法继续。</charactereditor.multipleitemswithsamehierarchy>
-    <charactereditor.cannoteditvanillacharacters>Cannot edit the characters defined in the 'Vanilla' content package! You can create a copy of the character (in another content package) should you want to edit it.</charactereditor.cannoteditvanillacharacters>
-    <charactereditor.existingcharacterfoundreplaceverification>An existing character with the same name was found in the same content package. Do you want to replace it (the original files will be lost)?</charactereditor.existingcharacterfoundreplaceverification>
-    <charactereditor.existingcharacterfoundoverrideverification>An existing character with the same name was found in another content package. Do you want to create an override of it (the original files will stay intact)?</charactereditor.existingcharacterfoundoverrideverification>
-    <charactereditor.existingcharacterfound>An existing character with the same name was found.</charactereditor.existingcharacterfound>
+    <charactereditor.multipleitemswithsamehierarchy>多个物品有相同的层级[hierarchy]，找到名称([name])。无法继续。</charactereditor.multipleitemswithsamehierarchy>
+    <charactereditor.cannoteditvanillacharacters>「机翻」无法编辑“Vanilla”内容包中定义的字符！如果要编辑角色，可以创建该角色的副本（在另一个内容包中）。</charactereditor.cannoteditvanillacharacters>
+    <charactereditor.existingcharacterfoundreplaceverification>「机翻」在同一内容包中发现了同名的现有字符。是否要替换它（原始文件将丢失）？</charactereditor.existingcharacterfoundreplaceverification>
+    <charactereditor.existingcharacterfoundoverrideverification>「机翻」在另一个内容包中发现了同名的现有字符。是否要创建它的覆盖（原始文件将保持不变）？</charactereditor.existingcharacterfoundoverrideverification>
+    <charactereditor.existingcharacterfound>「机翻」发现一个同名的现有角色。</charactereditor.existingcharacterfound>
     <charactereditor.modespanel>编辑</charactereditor.modespanel>
     <charactereditor.fileeditpanel>文件</charactereditor.fileeditpanel>
     <charactereditor.optionspanel>选项</charactereditor.optionspanel>
     <charactereditor.characterpanel>角色</charactereditor.characterpanel>
     <charactereditor.toolspanel>工具</charactereditor.toolspanel>
     <charactereditor.minormodestitle>显示</charactereditor.minormodestitle>
-    <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-    <charactereditor.addaitarget>Add Target</charactereditor.addaitarget>
-    <charactereditor.addbloodemitter>Add Blood Emitter</charactereditor.addbloodemitter>
-    <charactereditor.addgibemitter>Add Gib Emitter</charactereditor.addgibemitter>
-    <charactereditor.adddamageemitter>Add Damage Emitter</charactereditor.adddamageemitter>
+    <charactereditor.addmultiplelimbsbutton>「机翻」添加多个</charactereditor.addmultiplelimbsbutton>
+    <charactereditor.addaitarget>「机翻」添加目标</charactereditor.addaitarget>
+    <charactereditor.addbloodemitter>「机翻」添加血液发射器</charactereditor.addbloodemitter>
+    <charactereditor.addgibemitter>「机翻」添加 Gib 发射器</charactereditor.addgibemitter>
+    <charactereditor.adddamageemitter>「机翻」添加伤害发射器</charactereditor.adddamageemitter>
     <charactereditor.addsound>添加音效</charactereditor.addsound>
     <charactereditor.addlightsource>添加光源</charactereditor.addlightsource>
-    <charactereditor.addattack>Add Attack</charactereditor.addattack>
-    <charactereditor.addaffliction>添加苦痛</charactereditor.addaffliction>
-    <charactereditor.adddamagemodifier>Add Damage Modifier</charactereditor.adddamagemodifier>
-    <charactereditor.addinventory>Add Inventory</charactereditor.addinventory>
-    <charactereditor.addinventoryitem>Add Inventory Item</charactereditor.addinventoryitem>
+    <charactereditor.addattack>「机翻」添加攻击</charactereditor.addattack>
+    <charactereditor.addaffliction>「机翻」添加苦痛</charactereditor.addaffliction>
+    <charactereditor.adddamagemodifier>「机翻」添加伤害修正</charactereditor.adddamagemodifier>
+    <charactereditor.addinventory>「机翻」添加库存</charactereditor.addinventory>
+    <charactereditor.addinventoryitem>「机翻」添加库存项目</charactereditor.addinventoryitem>
     <charactereditor.selected>已选定</charactereditor.selected>
     <charactereditor.duplicatelimb>冗余肢体</charactereditor.duplicatelimb>
     <charactereditor.deleteselected>移除所选</charactereditor.deleteselected>
     <charactereditor.createjoint>创建关节</charactereditor.createjoint>
     <charactereditor.createlimb>创建肢体</charactereditor.createlimb>
-    <charactereditor.drawlimbonspritesheet>Draw the limb on the spritesheet</charactereditor.drawlimbonspritesheet>
-    <charactereditor.onlyshowselectedlimbs>Show Only Selected Limbs</charactereditor.onlyshowselectedlimbs>
-    <charactereditor.newcontentpackage>New Content Package</charactereditor.newcontentpackage>
-    <charactereditor.existingjointfound>A joint between limb [limbid1] and [limbid2] already found!</charactereditor.existingjointfound>
-    <charactereditor.unrestrict>Unrestrict</charactereditor.unrestrict>
-    <charactereditor.addmultiplelimbsbutton>Add Multiple</charactereditor.addmultiplelimbsbutton>
-    <charactereditor.contentpackagenameinuse>A content package with the same name already exists. Please choose another name or select the existing content package from the dropdown if you want to add the character to it.</charactereditor.contentpackagenameinuse>
+    <charactereditor.drawlimbonspritesheet>「机翻」在 spritesheet 上绘制肢体</charactereditor.drawlimbonspritesheet>
+    <charactereditor.onlyshowselectedlimbs>「机翻」仅显示选定的肢体</charactereditor.onlyshowselectedlimbs>
+    <charactereditor.newcontentpackage>「机翻」新内容包</charactereditor.newcontentpackage>
+    <charactereditor.existingjointfound>「机翻」已经找到肢体 [limbid1] 和 [limbid2] 之间的关节！</charactereditor.existingjointfound>
+    <charactereditor.unrestrict>「机翻」无限制</charactereditor.unrestrict>
+    <charactereditor.addmultiplelimbsbutton>「机翻」添加多个</charactereditor.addmultiplelimbsbutton>
+    <charactereditor.contentpackagenameinuse>「机翻」已存在同名内容包。如果要向其中添加角色，请选择其他名称或从下拉列表中选择现有内容包。</charactereditor.contentpackagenameinuse>
 
     <!-- Entity properties -->
     <sp.scale.name>大小</sp.scale.name>
@@ -276,61 +276,61 @@
     <sp.item.displaysidebysidewhenlinked.name>连接时在旁显示</sp.item.displaysidebysidewhenlinked.name>
     <sp.item.displaysidebysidewhenlinked.description>连接在一起时，如果要与其他物品的标签并排显示咋一起，请启用此选项。免责声明：如果未设计成并排显示，则可能会相互阻挡显示。</sp.item.displaysidebysidewhenlinked.description>
     <sp.item.spritedepth.name>物件层级</sp.item.spritedepth.name>
-    <sp.item.nonplayerteaminteractable.name>Non Player Team Interactable</sp.item.nonplayerteaminteractable.name>
-    <sp.item.nonplayerteaminteractable.description>When enabled, item is interactable only for characters on non-player teams.</sp.item.nonplayerteaminteractable.description>
-    <sp.item.allowswapping.name>Allow Swapping</sp.item.allowswapping.name>
-    <sp.item.allowswapping.description>Can the item be swapped with other items in outposts? Only relevant on swappable items such as turrets.</sp.item.allowswapping.description>
-    <sp.item.invulnerabletodamage.name>Invulnerable To Damage</sp.item.invulnerabletodamage.name>
-    <sp.item.invulnerabletodamage.description>When enabled, will prevent the item from taking damage from any source.</sp.item.invulnerabletodamage.description>
+    <sp.item.nonplayerteaminteractable.name>「机翻」非玩家团队可交互</sp.item.nonplayerteaminteractable.name>
+    <sp.item.nonplayerteaminteractable.description>「机翻」启用后，项目仅可与非玩家团队中的角色交互。</sp.item.nonplayerteaminteractable.description>
+    <sp.item.allowswapping.name>允许更换</sp.item.allowswapping.name>
+    <sp.item.allowswapping.description>该物品可以在前哨站更换为其他物品吗？仅与炮台等可更换项目相关。</sp.item.allowswapping.description>
+    <sp.item.invulnerabletodamage.name>坚不可摧</sp.item.invulnerabletodamage.name>
+    <sp.item.invulnerabletodamage.description>启用后，将防止该物品受到任何来源的伤害。</sp.item.invulnerabletodamage.description>
 
-    <sp.structure.indestructible.name>Indestructible</sp.structure.indestructible.name>
-    <sp.structure.specialtag.name>Special Tag</sp.structure.specialtag.name>
-    <sp.structure.spritecolor.name>Sprite Color</sp.structure.spritecolor.name>
-    <sp.structure.usedropshadow.name>Use Drop Shadow</sp.structure.usedropshadow.name>
-    <sp.structure.dropshadowoffset.name>Drop Shadow Offset</sp.structure.dropshadowoffset.name>
-    <sp.structure.dropshadowoffset.description>The position of the drop shadow relative to the structure. If set to zero, the shadow is positioned automatically so that it points towards the sub's center of mass.</sp.structure.dropshadowoffset.description>
-    <sp.structure.texturescale.name>Texture Scale</sp.structure.texturescale.name>
-    <sp.structure.textureoffset.name>Texture Offset</sp.structure.textureoffset.name>
-    <sp.structure.removeiflinkedoutpostdoorinuse.name>Remove if linked outpost door is in use</sp.structure.removeiflinkedoutpostdoorinuse.name>
-    <sp.structure.removeiflinkedoutpostdoorinuse.description>If the structure is linked to a door at the edge of an outpost module, this setting will cause the structure to be removed if the door gets used in the outpost. Otherwise the structure is removed if the door is NOT used.</sp.structure.removeiflinkedoutpostdoorinuse.description>
-    <sp.structure.noaitarget.name>No AI Target</sp.structure.noaitarget.name>
-    <sp.structure.noaitarget.description>If enabled, monsters won't try to target this structure.</sp.structure.noaitarget.description>
-    <sp.structure.maxhealth.name>Max Health</sp.structure.maxhealth.name>
+    <sp.structure.indestructible.name>「机翻」不可分解</sp.structure.indestructible.name>
+    <sp.structure.specialtag.name>「机翻」特殊标签</sp.structure.specialtag.name>
+    <sp.structure.spritecolor.name>「机翻」精灵颜色</sp.structure.spritecolor.name>
+    <sp.structure.usedropshadow.name>「机翻」使用投影</sp.structure.usedropshadow.name>
+    <sp.structure.dropshadowoffset.name>「机翻」投影偏移</sp.structure.dropshadowoffset.name>
+    <sp.structure.dropshadowoffset.description>「机翻」投影相对于结构的位置。如果设置为零，阴影将自动定位，使其指向潜艇的质心。</sp.structure.dropshadowoffset.description>
+    <sp.structure.texturescale.name>「机翻」纹理比例</sp.structure.texturescale.name>
+    <sp.structure.textureoffset.name>「机翻」纹理偏移</sp.structure.textureoffset.name>
+    <sp.structure.removeiflinkedoutpostdoorinuse.name>「机翻」如果链接的前哨门正在使用中，请移除</sp.structure.removeiflinkedoutpostdoorinuse.name>
+    <sp.structure.removeiflinkedoutpostdoorinuse.description>「机翻」如果结构连接到前哨模块边缘的门，如果门在前哨中使用，此设置将导致结构被移除。否则，如果不使用门，结构将被移除。</sp.structure.removeiflinkedoutpostdoorinuse.description>
+    <sp.structure.noaitarget.name>「机翻」没有人工智能目标</sp.structure.noaitarget.name>
+    <sp.structure.noaitarget.description>「机翻」如果启用，怪物将不会尝试以此结构为目标。</sp.structure.noaitarget.description>
+    <sp.structure.maxhealth.name>最大耐久值</sp.structure.maxhealth.name>
 
-    <sp.hull.ambientlight.name>Ambient Light</sp.hull.ambientlight.name>
-    <sp.hull.roomname.name>Room Name</sp.hull.roomname.name>
-    <sp.hull.iswetroom.name>Is Wet Room</sp.hull.iswetroom.name>
-    <sp.hull.iswetroom.description>Is it normal for this hull to be filled with water? If the room name contains 'ballast', 'bilge', or 'airlock', you can't disable this setting.</sp.hull.iswetroom.description>
-    <sp.hull.avoidstaying.name>Avoid Staying</sp.hull.avoidstaying.name>
-    <sp.hull.avoidstaying.description>Bots avoid staying here, but they are still allowed to access the room when needed and go through it. Forced true for wet rooms.</sp.hull.avoidstaying.description>
+    <sp.hull.ambientlight.name>环境光</sp.hull.ambientlight.name>
+    <sp.hull.roomname.name>房间名称</sp.hull.roomname.name>
+    <sp.hull.iswetroom.name>「机翻」是湿的房间</sp.hull.iswetroom.name>
+    <sp.hull.iswetroom.description>「机翻」这个船体装满水正常吗？如果房间名称包含“ballast”、“bilge”或“airlock”，则无法禁用此设置。</sp.hull.iswetroom.description>
+    <sp.hull.avoidstaying.name>「机翻」避免留下</sp.hull.avoidstaying.name>
+    <sp.hull.avoidstaying.description>「机翻」机器人避免呆在这里，但他们仍然可以在需要时进入房间并通过它。对于潮湿的房间强制为真。</sp.hull.avoidstaying.description>
 
-    <sp.door.openingspeed.name>Opening Speed</sp.door.openingspeed.name>
-    <sp.door.openingspeed.description>How quickly the door opens.</sp.door.openingspeed.description>
-    <sp.door.closingspeed.name>Closing Speed</sp.door.closingspeed.name>
-    <sp.door.closingspeed.description>How quickly the door closes.</sp.door.closingspeed.description>
-    <sp.door.togglecooldown.name>Toggle Cool Down</sp.door.togglecooldown.name>
-    <sp.door.togglecooldown.description>The door cannot be opened/closed during this time after it has been opened/closed by another character.</sp.door.togglecooldown.description>
-    <sp.door.isopen.name>Is Open</sp.door.isopen.name>
-    <sp.door.isopen.description>Is the door currently open.</sp.door.isopen.description>
-    <sp.door.usebetweenoutpostmodules.name>Use Between Outpost Modules</sp.door.usebetweenoutpostmodules.name>
-    <sp.door.usebetweenoutpostmodules.description>Is this a door that should lead to another outpost module? Only relevant for outpost modules.</sp.door.usebetweenoutpostmodules.description>
-    <sp.door.botsshouldkeepopen.name>Bots Should Keep Open</sp.door.botsshouldkeepopen.name>
-    <sp.door.botsshouldkeepopen.description>If true, bots won't try to close this door behind them.</sp.door.botsshouldkeepopen.description>
-    <sp.itemcomponent.pickingtime.name>Picking Time</sp.itemcomponent.pickingtime.name>
-    <sp.itemcomponent.pickingtime.description>How long it takes to pick up the item (in seconds).</sp.itemcomponent.pickingtime.description>
-    <sp.itemcomponent.canbepicked.name>Can Be Picked</sp.itemcomponent.canbepicked.name>
-    <sp.itemcomponent.canbepicked.description>Can the item be picked up (or interacted with, if the pick action does something else than picking up the item).</sp.itemcomponent.canbepicked.description>
-    <sp.itemcomponent.allowingameediting.name>Allow In Game Editing</sp.itemcomponent.allowingameediting.name>
-    <sp.itemcomponent.allowingameediting.description>Can the properties of the component be edited in-game (only applicable if the component has in-game editable properties).</sp.itemcomponent.allowingameediting.description>
-    <sp.itemcomponent.msg.name>Msg</sp.itemcomponent.msg.name>
-    <sp.itemcomponent.msg.description>A text displayed next to the item when it's highlighted (generally instructs how to interact with the item, e.g. "[Mouse1] Pick up").</sp.itemcomponent.msg.description>
-    <sp.electricaldischarger.range.description>How far the discharge can travel from the item.</sp.electricaldischarger.range.description>
-    <sp.electricaldischarger.rangemultiplierinwalls.name>Range Multiplier In Walls</sp.electricaldischarger.rangemultiplierinwalls.name>
-    <sp.electricaldischarger.rangemultiplierinwalls.description>How much further can the discharge be carried when moving across walls.</sp.electricaldischarger.rangemultiplierinwalls.description>
-    <sp.electricaldischarger.duration.name>Duration</sp.electricaldischarger.duration.name>
-    <sp.electricaldischarger.duration.description>The duration of an individual discharge (in seconds).</sp.electricaldischarger.duration.description>
-    <sp.electricaldischarger.outdoorsonly.name>Outdoors Only</sp.electricaldischarger.outdoorsonly.name>
-    <sp.electricaldischarger.outdoorsonly.description>If set to true, the discharge cannot travel inside the submarine nor shock anyone inside.</sp.electricaldischarger.outdoorsonly.description>
+    <sp.door.openingspeed.name>开门速度</sp.door.openingspeed.name>
+    <sp.door.openingspeed.description>门打开的速度。</sp.door.openingspeed.description>
+    <sp.door.closingspeed.name>关门速度</sp.door.closingspeed.name>
+    <sp.door.closingspeed.description>门关得有多快。</sp.door.closingspeed.description>
+    <sp.door.togglecooldown.name>「机翻」切换冷却</sp.door.togglecooldown.name>
+    <sp.door.togglecooldown.description>「机翻」在被其他角色打开/关闭后，在此期间无法打开/关闭门。</sp.door.togglecooldown.description>
+    <sp.door.isopen.name>是否开启</sp.door.isopen.name>
+    <sp.door.isopen.description>门当前是否打开。</sp.door.isopen.description>
+    <sp.door.usebetweenoutpostmodules.name>「机翻」在 Outpost 模块之间使用</sp.door.usebetweenoutpostmodules.name>
+    <sp.door.usebetweenoutpostmodules.description>「机翻」这是一扇应该通向另一个前哨模块的门吗？仅与前哨模块相关。</sp.door.usebetweenoutpostmodules.description>
+    <sp.door.botsshouldkeepopen.name>「机翻」机器人应该保持开启</sp.door.botsshouldkeepopen.name>
+    <sp.door.botsshouldkeepopen.description>「机翻」如果为真，机器人将不会尝试关闭它们身后的这扇门。</sp.door.botsshouldkeepopen.description>
+    <sp.itemcomponent.pickingtime.name>拾起时间</sp.itemcomponent.pickingtime.name>
+    <sp.itemcomponent.pickingtime.description>拿起物品需要多长时间（以秒为单位）。</sp.itemcomponent.pickingtime.description>
+    <sp.itemcomponent.canbepicked.name>可以拾起</sp.itemcomponent.canbepicked.name>
+    <sp.itemcomponent.canbepicked.description>「机翻」是否可以拾取该项目（或与之交互，如果拾取操作执行的不是拾取该项目）。</sp.itemcomponent.canbepicked.description>
+    <sp.itemcomponent.allowingameediting.name>「机翻」允许在游戏中编辑</sp.itemcomponent.allowingameediting.name>
+    <sp.itemcomponent.allowingameediting.description>「机翻」部件的属性是否可以在游戏中编辑（仅适用于部件具有游戏内可编辑属性的情况）。</sp.itemcomponent.allowingameediting.description>
+    <sp.itemcomponent.msg.name>信息</sp.itemcomponent.msg.name>
+    <sp.itemcomponent.msg.description>移到物品身上时显示在物品旁边的文本（通常作为如何与物品交互的提示，例如“按[Mouse1]拾起”）。</sp.itemcomponent.msg.description>
+    <sp.electricaldischarger.range.description>「机翻」放电可以从物品传播多远。</sp.electricaldischarger.range.description>
+    <sp.electricaldischarger.rangemultiplierinwalls.name>「机翻」墙壁中的范围乘数</sp.electricaldischarger.rangemultiplierinwalls.name>
+    <sp.electricaldischarger.rangemultiplierinwalls.description>「机翻」穿过墙壁时，放电可以走多远。</sp.electricaldischarger.rangemultiplierinwalls.description>
+    <sp.electricaldischarger.duration.name>持续时间</sp.electricaldischarger.duration.name>
+    <sp.electricaldischarger.duration.description>「机翻」单个放电的持续时间（以秒为单位）。</sp.electricaldischarger.duration.description>
+    <sp.electricaldischarger.outdoorsonly.name>「机翻」仅限户外</sp.electricaldischarger.outdoorsonly.name>
+    <sp.electricaldischarger.outdoorsonly.description>「机翻」如果设置为 true，则放电不会在潜艇内传播，也不会电击里面的任何人。</sp.electricaldischarger.outdoorsonly.description>
     <sp.powered.minvoltage.name>Min Voltage</sp.powered.minvoltage.name>
     <sp.powered.minvoltage.description>The minimum voltage required for the device to function. The voltage is calculated as power / powerconsumption, meaning that a device with a power consumption of 1000 kW would need at least 500 kW of power to work if the minimum voltage is set to 0.5.</sp.powered.minvoltage.description>
     <sp.powered.powerconsumption.name>Power Consumption</sp.powered.powerconsumption.name>
